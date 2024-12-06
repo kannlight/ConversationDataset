@@ -4,15 +4,19 @@ tokenizer = AutoTokenizer.from_pretrained("Mizuiro-sakura/luke-japanese-large-se
 config = LukeConfig.from_pretrained('Mizuiro-sakura/luke-japanese-large-sentiment-analysis-wrime', output_hidden_states=True)    
 model = AutoModelForSequenceClassification.from_pretrained('Mizuiro-sakura/luke-japanese-large-sentiment-analysis-wrime', config=config)
 
-text='すごく楽しかった。また行きたい。'
+# print(config)
+
+text='😆'
 
 max_seq_length=512
 token=tokenizer(text,
         truncation=True,
         max_length=max_seq_length,
-        padding="max_length")
-output=model(torch.tensor(token['input_ids']).unsqueeze(0), torch.tensor(token['attention_mask']).unsqueeze(0))
+        padding="max_length",
+        return_tensors="pt")
+output=model(token['input_ids'], token['attention_mask'])
 max_index=torch.argmax(torch.tensor(output.logits))
+print(torch.tensor(output.logits))
 
 if max_index==0:
     print('joy、うれしい')
