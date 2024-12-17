@@ -11,7 +11,7 @@ model = AutoModelForSequenceClassification.from_pretrained('Mizuiro-sakura/luke-
 def annotate(filename):
     # アノテーション対象のデータを読み込む
     data = {}
-    with open('data_to_annotate/'+filename, 'r') as f:
+    with open('data_to_annotate/'+filename, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     # 各対話から最終発話をtextに追加（最終発話が複数続いたら改行で繋げる）
@@ -42,7 +42,7 @@ def annotate(filename):
             talk['label'] = labels[i].tolist()
 
     # 保存
-    with open('dataset/'+filename, 'w') as f:
+    with open('dataset/'+filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
     os.remove('data_to_annotate/'+filename)
 
