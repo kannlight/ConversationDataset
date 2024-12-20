@@ -14,7 +14,7 @@ def create_set(num_talk):
                 all_talk.append(talk)
     random.shuffle(all_talk)
     set = all_talk[:num_talk]
-    with open('set_to_validate', 'w') as f:
+    with open('set_to_validate', 'w', encoding='utf-8') as f:
         json.dump({'data':set}, f, indent=4,ensure_ascii=False)
 
 if __name__ == "__main__":
