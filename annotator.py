@@ -34,6 +34,7 @@ def annotate(filename):
     
     # モデルに推定させる
     output=model(token['input_ids'], token['attention_mask'])
+    # 確率分布をラベルとする
     labels = output.logits.clone().detach().softmax(dim=1)
 
     # ラベルを付与
