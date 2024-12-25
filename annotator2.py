@@ -35,7 +35,7 @@ def annotate(filename):
     # モデルに推定させる
     output=model(token['input_ids'], token['attention_mask'])
     # マルチラベル分類用
-    # ソフトマックス関数で確率に変換し、50%以上を1にする
+    # シグモイド関数で確率に変換
     labels = output.logits.clone().detach().sigmoid()
 
     # ラベルを付与
