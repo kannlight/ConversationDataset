@@ -1,0 +1,514 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 1,
+                    "utter": "画像提供させて頂けたら嬉しいなぁ…と思いながらも、私の描く🦌さんは公式から物凄く乖離してるので、イメージに合うかどうか…🫠"
+                },
+                {
+                    "author": "did:plc:7rxe5mjepq3gtmqf4yff4y4z",
+                    "type": 2,
+                    "utter": "ええっ！？いいんですか？！🥹✨✨\nクロスカさんのアラスターも提供させていただけるなんて嬉しいです！！✨✨"
+                },
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 3,
+                    "utter": "こちらこそ、良いんですか！？w😳\nよろしければ使ってやって下さい❤️\nメディア欄から引っこ抜いても、新規絵描かせて頂いても良いので、よろしくお願いします！🥰"
+                }
+            ],
+            "uri": "at://did:plc:m57mjh5nt7tkxnskjxeevhih/app.bsky.feed.post/3lbww6frx222i",
+            "label": [
+                0.6391288042068481,
+                0.505980908870697,
+                0.9055905938148499,
+                0.4976489841938019,
+                0.49610435962677,
+                0.515198826789856,
+                0.524720311164856,
+                0.5241222381591797
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 1,
+                    "utter": "こちらこそ、良いんですか！？w😳\nよろしければ使ってやって下さい❤️\nメディア欄から引っこ抜いても、新規絵描かせて頂いても良いので、よろしくお願いします！🥰"
+                },
+                {
+                    "author": "did:plc:7rxe5mjepq3gtmqf4yff4y4z",
+                    "type": 2,
+                    "utter": "ありがとうございます✨✨でも新規に書いていただくのは大変だと思いますし、すでにあるもので……🥹\n\n📺️「バニアを持ったアラスターが見てみたい」\n\n📺️さん調子に乗るな！！😡💦💦"
+                },
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 3,
+                    "utter": "バニアを持った🦌さんですね？ww\n承りました～！www\nなるべく急ぎますので、少々お待ち下さいませ💦💦"
+                }
+            ],
+            "uri": "at://did:plc:m57mjh5nt7tkxnskjxeevhih/app.bsky.feed.post/3lbxpt653gc26",
+            "label": [
+                0.7947636842727661,
+                0.5121588706970215,
+                0.780146062374115,
+                0.5615665912628174,
+                0.4962639808654785,
+                0.528342604637146,
+                0.5171288847923279,
+                0.5220701694488525
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 1,
+                    "utter": "バニアを持った🦌さんですね？ww\n承りました～！www\nなるべく急ぎますので、少々お待ち下さいませ💦💦"
+                },
+                {
+                    "author": "did:plc:7rxe5mjepq3gtmqf4yff4y4z",
+                    "type": 2,
+                    "utter": "えっいいんですか？🥹💦我儘言ってすみません💦ありがとうございます💦\n全然急がなくていいので😭💦💦"
+                },
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 3,
+                    "utter": "いえいえ、ぜんぜん大丈夫ですよ～！☺️✨ちょっとお時間を頂いてしまうかもですが、お待ち頂ければ嬉しいです❤️"
+                }
+            ],
+            "uri": "at://did:plc:m57mjh5nt7tkxnskjxeevhih/app.bsky.feed.post/3lbxqqy5im226",
+            "label": [
+                0.7653790712356567,
+                0.530384361743927,
+                0.7425817847251892,
+                0.4922618269920349,
+                0.4851285517215729,
+                0.5490537285804749,
+                0.5185534358024597,
+                0.5455476641654968
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 1,
+                    "utter": "いえいえ、ぜんぜん大丈夫ですよ～！☺️✨ちょっとお時間を頂いてしまうかもですが、お待ち頂ければ嬉しいです❤️"
+                },
+                {
+                    "author": "did:plc:7rxe5mjepq3gtmqf4yff4y4z",
+                    "type": 2,
+                    "utter": "わがままを聞いてくださりありがとうございます😭✨✨時間なんて全然気にしません！何日でも何ヶ月でも待ちます！！✨✨"
+                },
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 3,
+                    "utter": "流石に何ヶ月もお待たせはしませんが…www😂💦\n描かせて頂きます～！❤️"
+                }
+            ],
+            "uri": "at://did:plc:m57mjh5nt7tkxnskjxeevhih/app.bsky.feed.post/3lbyalq4c4c2h",
+            "label": [
+                0.698937714099884,
+                0.5255946516990662,
+                0.7496044039726257,
+                0.5195072293281555,
+                0.47262394428253174,
+                0.5388250946998596,
+                0.514674961566925,
+                0.5137885212898254
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 1,
+                    "utter": "分かりみが強いｯｽ😂"
+                },
+                {
+                    "author": "did:plc:x7gmlnkvxhfijg7yqdvlxgr5",
+                    "type": 2,
+                    "utter": "なんか自分の描く🦌は🦌じゃねぇし📺も違う…んすよ😭\n他の方のはちゃんと🦌だし📺なんだ…なぜなんや😭って感じです…😭"
+                },
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 3,
+                    "utter": "れもさんの🦌や📺はれもさん家の🦌と📺なんですよ😘\nちゃんと🦌と📺してると思いますよ🥰自信を持って下さいな❤️\n私も公式との離れ方半端ないので、もう自分家の🦌さんだと思ってますww😂"
+                }
+            ],
+            "uri": "at://did:plc:m57mjh5nt7tkxnskjxeevhih/app.bsky.feed.post/3lbc2mqquvs2p",
+            "label": [
+                0.5574740767478943,
+                0.551548957824707,
+                0.6746420860290527,
+                0.5101689100265503,
+                0.477879136800766,
+                0.5526403784751892,
+                0.5549187064170837,
+                0.5320253968238831
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 1,
+                    "utter": "れもさんの🦌や📺はれもさん家の🦌と📺なんですよ😘\nちゃんと🦌と📺してると思いますよ🥰自信を持って下さいな❤️\n私も公式との離れ方半端ないので、もう自分家の🦌さんだと思ってますww😂"
+                },
+                {
+                    "author": "did:plc:x7gmlnkvxhfijg7yqdvlxgr5",
+                    "type": 2,
+                    "utter": "ありがとうございます😭ぼくのかんがえたさいきようのあらすたーとかわちいゔおっくすと言う感じに捉えた方が良いですね…😂💦\nクロスカさんちの🦌もクロスカさんにしか出せない🦌ですからね‼️"
+                },
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 3,
+                    "utter": "私は結局自分絵でしか🦌さんを描けないので、最早開き直ってますww😂\nそれぞれの家のそれぞれの🦌と📺で、みんなちゃんと🦌と📺してるって思ってます🥰💕"
+                }
+            ],
+            "uri": "at://did:plc:m57mjh5nt7tkxnskjxeevhih/app.bsky.feed.post/3lbc62mfclc2p",
+            "label": [
+                0.6123072504997253,
+                0.5865905284881592,
+                0.5483320355415344,
+                0.5669485330581665,
+                0.478684663772583,
+                0.5647131204605103,
+                0.5183103084564209,
+                0.5308651328086853
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 1,
+                    "utter": "私は結局自分絵でしか🦌さんを描けないので、最早開き直ってますww😂\nそれぞれの家のそれぞれの🦌と📺で、みんなちゃんと🦌と📺してるって思ってます🥰💕"
+                },
+                {
+                    "author": "did:plc:x7gmlnkvxhfijg7yqdvlxgr5",
+                    "type": 2,
+                    "utter": "ですねですね✨✨\n個性を大事にしたいなぁと思いました😚✨"
+                },
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 3,
+                    "utter": "それぞれの特徴が有るのは悪い事じゃないですもんね！🥰❤️"
+                }
+            ],
+            "uri": "at://did:plc:m57mjh5nt7tkxnskjxeevhih/app.bsky.feed.post/3lbc742cdk22p",
+            "label": [
+                0.610607385635376,
+                0.5099164247512817,
+                0.6433659791946411,
+                0.5242782235145569,
+                0.4943770170211792,
+                0.5156174898147583,
+                0.5310917496681213,
+                0.5262567400932312
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 1,
+                    "utter": "それぞれの特徴が有るのは悪い事じゃないですもんね！🥰❤️"
+                },
+                {
+                    "author": "did:plc:x7gmlnkvxhfijg7yqdvlxgr5",
+                    "type": 2,
+                    "utter": "絵柄でその人がなんとなく分かりますからねぇ✌︎('ω')✌︎"
+                },
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 3,
+                    "utter": "あ！それありますよね～！特徴的な絵柄だと特に！d('∀'*)"
+                }
+            ],
+            "uri": "at://did:plc:m57mjh5nt7tkxnskjxeevhih/app.bsky.feed.post/3lbcc34zens2p",
+            "label": [
+                0.7304317355155945,
+                0.5248558521270752,
+                0.5990073680877686,
+                0.6235536932945251,
+                0.5267310738563538,
+                0.5450075268745422,
+                0.5123518705368042,
+                0.5454902648925781
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 1,
+                    "utter": "イイコイイコしてあげたい🥺💕"
+                },
+                {
+                    "author": "did:plc:x7gmlnkvxhfijg7yqdvlxgr5",
+                    "type": 2,
+                    "utter": "してあげると喜びます…🥺❤️"
+                },
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 3,
+                    "utter": "ｲｲｺｲｲｺ( ´・ω・)ﾉ(´ﾉД；｀)❤️"
+                }
+            ],
+            "uri": "at://did:plc:m57mjh5nt7tkxnskjxeevhih/app.bsky.feed.post/3lapo2tzuks2v",
+            "label": [
+                0.571025550365448,
+                0.5909975171089172,
+                0.5334464311599731,
+                0.5159780979156494,
+                0.48287683725357056,
+                0.555289089679718,
+                0.5629176497459412,
+                0.5014813542366028
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 1,
+                    "utter": "ｲｲｺｲｲｺ( ´・ω・)ﾉ(´ﾉД；｀)❤️"
+                },
+                {
+                    "author": "did:plc:x7gmlnkvxhfijg7yqdvlxgr5",
+                    "type": 2,
+                    "utter": "ありがとう😭\n📺はCEOだからね…\n部下の汚職やら横領やらセクハラモラハラ賃金上げだの大変ですからね…\n（急に現実的になる話やめぇ）"
+                },
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 3,
+                    "utter": "下からの突き上げがね…経営者は大変だ…😢\nれもさんも愚痴りたい時は愚痴って下さいね☺️💕"
+                }
+            ],
+            "uri": "at://did:plc:m57mjh5nt7tkxnskjxeevhih/app.bsky.feed.post/3laptulpkqc2w",
+            "label": [
+                0.4987948536872864,
+                0.6623398065567017,
+                0.5387992262840271,
+                0.5155004858970642,
+                0.6126971244812012,
+                0.7048667669296265,
+                0.7590621113777161,
+                0.491435706615448
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 1,
+                    "utter": "下からの突き上げがね…経営者は大変だ…😢\nれもさんも愚痴りたい時は愚痴って下さいね☺️💕"
+                },
+                {
+                    "author": "did:plc:x7gmlnkvxhfijg7yqdvlxgr5",
+                    "type": 2,
+                    "utter": "ありがとうございます💦😭\n出ちゃう時はゲボするかもしれませんが暖かく見守っててください😭"
+                },
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 3,
+                    "utter": "そんな時は手で優しく受け止めますから、ご安心を☺️❤️❤️👍"
+                }
+            ],
+            "uri": "at://did:plc:m57mjh5nt7tkxnskjxeevhih/app.bsky.feed.post/3lapugzndm22w",
+            "label": [
+                0.7466155290603638,
+                0.5118337273597717,
+                0.7188579440116882,
+                0.4751226603984833,
+                0.4806409776210785,
+                0.5789011716842651,
+                0.4938991367816925,
+                0.5483841300010681
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 1,
+                    "utter": "そんな時は手で優しく受け止めますから、ご安心を☺️❤️❤️👍"
+                },
+                {
+                    "author": "did:plc:x7gmlnkvxhfijg7yqdvlxgr5",
+                    "type": 2,
+                    "utter": "ふええありがとうございます😭♡\n優しいなぁほんと😭"
+                },
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 3,
+                    "utter": "いえいえ、きっと皆も同じ様に思ってますよ❤️"
+                }
+            ],
+            "uri": "at://did:plc:m57mjh5nt7tkxnskjxeevhih/app.bsky.feed.post/3lapvccoiuc2w",
+            "label": [
+                0.5308172106742859,
+                0.564466118812561,
+                0.5349150896072388,
+                0.5440495014190674,
+                0.544505774974823,
+                0.5428841710090637,
+                0.6788241863250732,
+                0.5118298530578613
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 1,
+                    "utter": "ウォーターマーク入れるの止めようか悩む…。皆さんの様に絵に溶け込む感じに上手く出来ない…。絵の雰囲気損なっちゃうなら止めた方が良いのかなぁ？"
+                },
+                {
+                    "author": "did:plc:x7gmlnkvxhfijg7yqdvlxgr5",
+                    "type": 2,
+                    "utter": "かなり細めの線のウォーターマークでしたらいい感じになりますよ！暗めのとこに重なる様に入れるとか…"
+                },
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 3,
+                    "utter": "なるほど、細めの線で暗めの所に目立ち過ぎない様に…🤔\nやっぱりウォーターマーク自作しようかな？\nありがとうございます！🍋さん！(この呼び方不思議な感じがしますw)"
+                }
+            ],
+            "uri": "at://did:plc:m57mjh5nt7tkxnskjxeevhih/app.bsky.feed.post/3lao7sah6a22a",
+            "label": [
+                0.6267304420471191,
+                0.5312024354934692,
+                0.8557916879653931,
+                0.53712397813797,
+                0.4994751513004303,
+                0.5144218802452087,
+                0.5191563963890076,
+                0.5283719897270203
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 1,
+                    "utter": "なるほど、細めの線で暗めの所に目立ち過ぎない様に…🤔\nやっぱりウォーターマーク自作しようかな？\nありがとうございます！🍋さん！(この呼び方不思議な感じがしますw)"
+                },
+                {
+                    "author": "did:plc:x7gmlnkvxhfijg7yqdvlxgr5",
+                    "type": 2,
+                    "utter": "自作した方がオリジナル感あっていいと思います✨私めんどくさくって配布のやつ使ったらかなり人と被ってますのでwwww\n名前慣れませんよね💦私もまだ慣れなくて😭\nれもさんでも🆗ですよ✨呼びやすい感じでお願いします😭"
+                },
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 3,
+                    "utter": "私も有志の方の無料配布のマークを使っているので結構被ってますww😂\n頑張ってオリジナル作って見ようと思います💪✨\nじゃあ、れもさんでw🤭❤️"
+                }
+            ],
+            "uri": "at://did:plc:m57mjh5nt7tkxnskjxeevhih/app.bsky.feed.post/3laobgnfvb22a",
+            "label": [
+                0.683560848236084,
+                0.5097270607948303,
+                0.8257927298545837,
+                0.5338035225868225,
+                0.4767187833786011,
+                0.5373310446739197,
+                0.5127612948417664,
+                0.5134222507476807
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 1,
+                    "utter": "私も有志の方の無料配布のマークを使っているので結構被ってますww😂\n頑張ってオリジナル作って見ようと思います💪✨\nじゃあ、れもさんでw🤭❤️"
+                },
+                {
+                    "author": "did:plc:x7gmlnkvxhfijg7yqdvlxgr5",
+                    "type": 2,
+                    "utter": "自分で作った方が納得できますし、カスタマイズ自由ですからね✨\n楽しみにしています😊\nあと、Xのあの📺のtkb💡のイラスト超よかったです✨腹筋逞しくてエチでこんなことにならなければ全力RTでしたwww"
+                },
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 3,
+                    "utter": "納得の行く物を頑張って作ります！💪✨✨\nあぁ！tkb💡絵、許してくれますか！？ww😂いいおπの日と聞いて頭に浮かんだのが📺のおπでしたwww🤭れもさんの虹色tkbを思い出して思わず光らせちゃいました💦"
+                }
+            ],
+            "uri": "at://did:plc:m57mjh5nt7tkxnskjxeevhih/app.bsky.feed.post/3laoe2im7yc2a",
+            "label": [
+                0.8392152190208435,
+                0.5312023162841797,
+                0.7293753027915955,
+                0.6391363143920898,
+                0.5013773441314697,
+                0.5378390550613403,
+                0.519373893737793,
+                0.5613519549369812
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 1,
+                    "utter": "納得の行く物を頑張って作ります！💪✨✨\nあぁ！tkb💡絵、許してくれますか！？ww😂いいおπの日と聞いて頭に浮かんだのが📺のおπでしたwww🤭れもさんの虹色tkbを思い出して思わず光らせちゃいました💦"
+                },
+                {
+                    "author": "did:plc:x7gmlnkvxhfijg7yqdvlxgr5",
+                    "type": 2,
+                    "utter": "許すも何も…あんな神々しいUSBーチクを前にしたら、私は拝むしかないんですよねコレがww\n虹色tkbは深夜テンションの闇が深いんだなぁ笑"
+                },
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 3,
+                    "utter": "ふはぁ…れもさん、ありがたや〜🙏💕\n虹色tkbめちゃくちゃ笑いましたもんwww🤣🤣🤣\n私の深夜テンションはええ身体の📺でしたwww🤣"
+                }
+            ],
+            "uri": "at://did:plc:m57mjh5nt7tkxnskjxeevhih/app.bsky.feed.post/3laofanmjhk2a",
+            "label": [
+                0.8980322480201721,
+                0.5381647348403931,
+                0.557027280330658,
+                0.6159071326255798,
+                0.5096936225891113,
+                0.5258920788764954,
+                0.5182934999465942,
+                0.5689041614532471
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 1,
+                    "utter": "ふはぁ…れもさん、ありがたや〜🙏💕\n虹色tkbめちゃくちゃ笑いましたもんwww🤣🤣🤣\n私の深夜テンションはええ身体の📺でしたwww🤣"
+                },
+                {
+                    "author": "did:plc:x7gmlnkvxhfijg7yqdvlxgr5",
+                    "type": 2,
+                    "utter": "あの腹筋は深夜ならではですよ…www地味にクロスカさんの📺大好きなんでまた見たいです✨"
+                },
+                {
+                    "author": "did:plc:m57mjh5nt7tkxnskjxeevhih",
+                    "type": 3,
+                    "utter": "深夜テンション恐ろしいですね…www🤣\nえ！？嬉しい…！❤️あんまり描いてないですが、最近📺描くのが楽しくなってますwww😂😂"
+                }
+            ],
+            "uri": "at://did:plc:m57mjh5nt7tkxnskjxeevhih/app.bsky.feed.post/3laoilkned22a",
+            "label": [
+                0.914940357208252,
+                0.5035778284072876,
+                0.550250768661499,
+                0.6414064764976501,
+                0.4991360306739807,
+                0.5143957734107971,
+                0.507232129573822,
+                0.5611271262168884
+            ]
+        }
+    ]
+}

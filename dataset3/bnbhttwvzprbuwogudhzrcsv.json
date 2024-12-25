@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 1,
+                    "utter": "こんばんは！お迎えありがとうございます！\n是非仲良くしていただきたいです✨\nこちらからフォロー失礼致しますね"
+                },
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 2,
+                    "utter": "こんばんは！\n返信＆フォローありがとうございます☺\nフォロバしたので宜しくお願いします✨"
+                },
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 3,
+                    "utter": "フォローありがとうございます😊♥\n改めましてセベクくん推しのくま子と申します💚\nボドゲ部推しなんですね！クラブウェア楽しみですね((o(´∀｀)o))ﾜｸﾜｸ"
+                }
+            ],
+            "uri": "at://did:plc:bnbhttwvzprbuwogudhzrcsv/app.bsky.feed.post/3lbwlfqf2nc2g",
+            "label": [
+                0.8864425420761108,
+                0.5126388072967529,
+                0.9328314661979675,
+                0.50285804271698,
+                0.4826020300388336,
+                0.5302091240882874,
+                0.5051377415657043,
+                0.5497998595237732
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 1,
+                    "utter": "フォローありがとうございます😊♥\n改めましてセベクくん推しのくま子と申します💚\nボドゲ部推しなんですね！クラブウェア楽しみですね((o(´∀｀)o))ﾜｸﾜｸ"
+                },
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 2,
+                    "utter": "くま子さんはセベクくん推しですか💚☺\n馬術部のクラブウェア早く見たいですね✨\nボドゲ部推しなのでどちらもクラブウェア来て欲しいです💕"
+                },
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 3,
+                    "utter": "馬術部めちゃくちゃ楽しみです……！３月のセベクくんお誕生日も……！😭💚"
+                }
+            ],
+            "uri": "at://did:plc:bnbhttwvzprbuwogudhzrcsv/app.bsky.feed.post/3lbwn7txwek2g",
+            "label": [
+                0.9045379161834717,
+                0.5247407555580139,
+                0.9233538508415222,
+                0.5264525413513184,
+                0.4850984215736389,
+                0.5251954793930054,
+                0.4972976744174957,
+                0.5164368748664856
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 1,
+                    "utter": "馬術部めちゃくちゃ楽しみです……！３月のセベクくんお誕生日も……！😭💚"
+                },
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 2,
+                    "utter": "来月辺り？に来ると良いですね🫶\nくつろぎマイルームのセベクくん見てみたいですね🤭\nとても興味あります💚"
+                },
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 3,
+                    "utter": "くつろぎマイルームのセベクくんめちゃくちゃ楽しみです〜！💚\n髪下ろしてますかね((o(´∀｀)o))ﾜｸﾜｸ"
+                }
+            ],
+            "uri": "at://did:plc:bnbhttwvzprbuwogudhzrcsv/app.bsky.feed.post/3lbxidbfpqk2h",
+            "label": [
+                0.8632858991622925,
+                0.5066083669662476,
+                0.9369404911994934,
+                0.4986942708492279,
+                0.4900827407836914,
+                0.5117053985595703,
+                0.4946337044239044,
+                0.521327555179596
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 1,
+                    "utter": "くつろぎマイルームのセベクくんめちゃくちゃ楽しみです〜！💚\n髪下ろしてますかね((o(´∀｀)o))ﾜｸﾜｸ"
+                },
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 2,
+                    "utter": "髪下ろしてそうですよね！😊\n朝起きた時にどうセットしているのか見られると良いですね💚"
+                },
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 3,
+                    "utter": "それ絶対みたいやつです！😭💚\n何時間かかってるのか気になる〜！"
+                }
+            ],
+            "uri": "at://did:plc:bnbhttwvzprbuwogudhzrcsv/app.bsky.feed.post/3lbxnawfymc2c",
+            "label": [
+                0.5197849869728088,
+                0.515647828578949,
+                0.5913952589035034,
+                0.6197742223739624,
+                0.503731906414032,
+                0.592162549495697,
+                0.5257155895233154,
+                0.5006073713302612
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 1,
+                    "utter": "お迎えありがとうございます✨\n是非仲良くしていただきたいです！\nお先にフォロー失礼致しますね"
+                },
+                {
+                    "author": "did:plc:azqteeihrpqs7ia22lpggifo",
+                    "type": 2,
+                    "utter": "フォローありがとうございます！\nフォロバ失礼いたします🙇\nこちら呼びタメ大歓迎ですのでお気軽に絡んでいただければ幸いです☺\nよければXのアカウントも繋がりませんか…？"
+                },
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 3,
+                    "utter": "フォローありがとうございます😊♥\n文章で話しかける際丁寧語がクセになっておりまして私からは丁寧語で失礼しますね\nニルカさんからの呼びタメは全然気にしないのでお気軽に話しかけてください！\n\n夢妄想垂れ流すこともあるアカウントなんですが……大丈夫ですか……？"
+                }
+            ],
+            "uri": "at://did:plc:bnbhttwvzprbuwogudhzrcsv/app.bsky.feed.post/3lbypktma7k24",
+            "label": [
+                0.607505202293396,
+                0.5357258319854736,
+                0.6723623871803284,
+                0.4988167881965637,
+                0.5300068259239197,
+                0.5840569734573364,
+                0.5621416568756104,
+                0.5315459966659546
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 1,
+                    "utter": "フォローありがとうございます😊♥\n文章で話しかける際丁寧語がクセになっておりまして私からは丁寧語で失礼しますね\nニルカさんからの呼びタメは全然気にしないのでお気軽に話しかけてください！\n\n夢妄想垂れ流すこともあるアカウントなんですが……大丈夫ですか……？"
+                },
+                {
+                    "author": "did:plc:azqteeihrpqs7ia22lpggifo",
+                    "type": 2,
+                    "utter": "ではこちらからはタメ口で失礼いたします🙏\nこれからくま子ちゃんって呼んでもいいかな？\n\n全然！\nうちもすごい夢垂れ流してるからこちらこそ大丈夫かなって感じ😂\nらぎぶちに超夢見てるよーw"
+                },
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 3,
+                    "utter": "くま子ちゃん呼びもちろんOKです〜🫶\nラギー先輩！！！\n７章の眼鏡ラギー先輩やばかったですね😭♥️"
+                }
+            ],
+            "uri": "at://did:plc:bnbhttwvzprbuwogudhzrcsv/app.bsky.feed.post/3lbyvqai5qs24",
+            "label": [
+                0.8650095462799072,
+                0.5180051326751709,
+                0.5979951620101929,
+                0.6402174830436707,
+                0.502436101436615,
+                0.5441480278968811,
+                0.5099889636039734,
+                0.5676630735397339
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 1,
+                    "utter": "くま子ちゃん呼びもちろんOKです〜🫶\nラギー先輩！！！\n７章の眼鏡ラギー先輩やばかったですね😭♥️"
+                },
+                {
+                    "author": "did:plc:azqteeihrpqs7ia22lpggifo",
+                    "type": 2,
+                    "utter": "ありがとうー！！！\n\nほんとに！！！やばかった！！！\n例のセリフうちに言ってーー！！！💍\n\nもしよければだけどXのアカウントでも繋がってくれないかな…？\nまだこっち浮上率低いんだよね😂\n限界オタクでよければ繋がってほしい🙏"
+                },
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 3,
+                    "utter": "もちろんいいですよ〜！\n先ほどメッセージ送りました🫶\nうまく共有できてなければIDも名前もブルスカと同じなので検索してもらえれば出てくると思います！(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)"
+                }
+            ],
+            "uri": "at://did:plc:bnbhttwvzprbuwogudhzrcsv/app.bsky.feed.post/3lbywc6bztc24",
+            "label": [
+                0.6190137267112732,
+                0.5018608570098877,
+                0.8648285865783691,
+                0.48073992133140564,
+                0.48962166905403137,
+                0.5062905550003052,
+                0.5226207375526428,
+                0.5271839499473572
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 1,
+                    "utter": "もちろんいいですよ〜！\n先ほどメッセージ送りました🫶\nうまく共有できてなければIDも名前もブルスカと同じなので検索してもらえれば出てくると思います！(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)"
+                },
+                {
+                    "author": "did:plc:azqteeihrpqs7ia22lpggifo",
+                    "type": 2,
+                    "utter": "そうだよね！さっき気づいた！\n気づかずにごめんね💦\nさっきフォローさせてもらいました🙏"
+                },
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 3,
+                    "utter": "こちらもフォロー申請送りました🫶\nXでもお願いします！\nブルスカはイラストあげメイン\nXは夢妄想メインにする予定です〜！"
+                }
+            ],
+            "uri": "at://did:plc:bnbhttwvzprbuwogudhzrcsv/app.bsky.feed.post/3lbywgd3wvk24",
+            "label": [
+                0.6953468918800354,
+                0.5129535794258118,
+                0.8966640830039978,
+                0.49270695447921753,
+                0.506089985370636,
+                0.5048583745956421,
+                0.5088461637496948,
+                0.5235170722007751
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 1,
+                    "utter": "フォローありがとうございます。分かりました😊\nツイステとあんスタが好きなんですね。私も同じものが好きなので嬉しいです🥰💙"
+                },
+                {
+                    "author": "did:plc:ncqixqpwhdvdatlldlpkotyw",
+                    "type": 2,
+                    "utter": "そうですよね！そのうえ、あんスタのユニットなら私もswitch推しで、ツイステの寮ならスカラビアが好きです💖"
+                },
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 3,
+                    "utter": "一緒ですね！\nツイステで好きなキャラはセベクくんなんですが寮なら私もスカラビアが大好きです！❤️\nすごい偶然！🥰🫶"
+                }
+            ],
+            "uri": "at://did:plc:bnbhttwvzprbuwogudhzrcsv/app.bsky.feed.post/3l6xztz5oti2e",
+            "label": [
+                0.8940908312797546,
+                0.523323118686676,
+                0.5979691743850708,
+                0.6383073925971985,
+                0.5098027586936951,
+                0.5369904637336731,
+                0.5072363615036011,
+                0.5723274350166321
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 1,
+                    "utter": "一緒ですね！\nツイステで好きなキャラはセベクくんなんですが寮なら私もスカラビアが大好きです！❤️\nすごい偶然！🥰🫶"
+                },
+                {
+                    "author": "did:plc:ncqixqpwhdvdatlldlpkotyw",
+                    "type": 2,
+                    "utter": "私もツイステの好きなキャラはスカラビアじゃなくてエースとデュースなんですけど、スカラビアの話やキャラの生活と関係は良すぎて寮として一番好きになってしまいました🥹❤️"
+                },
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 3,
+                    "utter": "分かります！🥰スカラビア寮のわちゃわちゃ感いいですよね〜〜！！"
+                }
+            ],
+            "uri": "at://did:plc:bnbhttwvzprbuwogudhzrcsv/app.bsky.feed.post/3l6zfkkrmpj2e",
+            "label": [
+                0.8761652112007141,
+                0.5258471369743347,
+                0.6093517541885376,
+                0.600104033946991,
+                0.4926629662513733,
+                0.4991050362586975,
+                0.5153384804725647,
+                0.5622442960739136
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 1,
+                    "utter": "分かります！🥰スカラビア寮のわちゃわちゃ感いいですよね〜〜！！"
+                },
+                {
+                    "author": "did:plc:ncqixqpwhdvdatlldlpkotyw",
+                    "type": 2,
+                    "utter": "そうそう、最近7章にジャミルとカリムが出た時、めちゃくちゃ笑えさせて感動してしまったから、懐かしくなってもう一回4章を読もうとしましたwww…"
+                },
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 3,
+                    "utter": "スカラビア編めっちゃ面白かったですよね😂\nジャミルを振り回すカリムくん最高🫶🫶\n７章の更新楽しみです❤️❤️"
+                }
+            ],
+            "uri": "at://did:plc:bnbhttwvzprbuwogudhzrcsv/app.bsky.feed.post/3l74zhoy34q2q",
+            "label": [
+                0.9044440388679504,
+                0.5302692651748657,
+                0.7302717566490173,
+                0.4928632378578186,
+                0.4817013740539551,
+                0.5187262892723083,
+                0.5220974683761597,
+                0.5628390908241272
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 1,
+                    "utter": "スカラビア編めっちゃ面白かったですよね😂\nジャミルを振り回すカリムくん最高🫶🫶\n７章の更新楽しみです❤️❤️"
+                },
+                {
+                    "author": "did:plc:ncqixqpwhdvdatlldlpkotyw",
+                    "type": 2,
+                    "utter": "楽しみ楽しみ！でもどう終わるか想像出来なくてちょっと怖いです😳みんな大丈夫かな"
+                },
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 3,
+                    "utter": "想像できないですよね😭\n次のサバナクロー編で皆が見てる夢もいったいどんなだろう……🤔"
+                }
+            ],
+            "uri": "at://did:plc:bnbhttwvzprbuwogudhzrcsv/app.bsky.feed.post/3l7c6htbf3f22",
+            "label": [
+                0.5140931606292725,
+                0.5462231040000916,
+                0.5854744911193848,
+                0.5558418035507202,
+                0.47524768114089966,
+                0.6673562526702881,
+                0.5513734221458435,
+                0.5087524056434631
+            ]
+        }
+    ]
+}

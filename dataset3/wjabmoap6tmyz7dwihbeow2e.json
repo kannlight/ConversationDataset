@@ -1,0 +1,574 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "会うか会わないかでいえば会おうとは思ってないけど､会いたいと思えば会うに決まってるよね､そんな会う前提でこの垢作ってないけど会ってしまいたくなる魅力的な人は居るから仕方ない"
+                },
+                {
+                    "author": "did:plc:p5ea54ujx3flajoya2yjjehl",
+                    "type": 2,
+                    "utter": "ええやんどんどんあったら！"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "軽くは合わないから"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3lay77ddgvc2p",
+            "label": [
+                0.4995900094509125,
+                0.6444489359855652,
+                0.5493570566177368,
+                0.5089632868766785,
+                0.48780959844589233,
+                0.5533985495567322,
+                0.5687549710273743,
+                0.5090041160583496
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "軽くは合わないから"
+                },
+                {
+                    "author": "did:plc:p5ea54ujx3flajoya2yjjehl",
+                    "type": 2,
+                    "utter": "たしかに怖いよねぼくはネットの人あったことない全く"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "病気持ってたりしたら嫌だし中身も分からないと楽しめないよね"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3lay7gx5eys2p",
+            "label": [
+                0.5244520306587219,
+                0.7012606859207153,
+                0.5593917965888977,
+                0.4983695447444916,
+                0.5001646876335144,
+                0.5980718731880188,
+                0.6349345445632935,
+                0.4940473735332489
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "病気持ってたりしたら嫌だし中身も分からないと楽しめないよね"
+                },
+                {
+                    "author": "did:plc:p5ea54ujx3flajoya2yjjehl",
+                    "type": 2,
+                    "utter": "まぁとらぶるのもとだし\n男子からしたら、親父刈りとか美人局とかがちこわいし、録画とかされて訴えられてもいやだし…コロナも完全におわったわけではないですし"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "男子は大変ね💦"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3lay7qts7y22p",
+            "label": [
+                0.547177791595459,
+                0.5586439967155457,
+                0.5205260515213013,
+                0.6416217684745789,
+                0.48415014147758484,
+                0.6041949987411499,
+                0.5590282678604126,
+                0.5055403113365173
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "男子は大変ね💦"
+                },
+                {
+                    "author": "did:plc:p5ea54ujx3flajoya2yjjehl",
+                    "type": 2,
+                    "utter": "うん、ほんとにsexてそんなに簡単ではないですし、子供できたら養わないとですし楽ではないです…"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "先のこと考えるとそう簡単にはね"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3lay7unlnqs2p",
+            "label": [
+                0.5311894416809082,
+                0.5269278287887573,
+                0.5788223743438721,
+                0.5303034782409668,
+                0.5008658766746521,
+                0.5699273347854614,
+                0.5235354900360107,
+                0.5253080129623413
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "先のこと考えるとそう簡単にはね"
+                },
+                {
+                    "author": "did:plc:p5ea54ujx3flajoya2yjjehl",
+                    "type": 2,
+                    "utter": "まぁしたいのはわかりますけどね。最近の子はネットが発達したせいで小4でもsexしてるらしいですねこわすぎてすよがち"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "恐ろしい"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3lay7yqozpc2p",
+            "label": [
+                0.5067168474197388,
+                0.5474717617034912,
+                0.5038540363311768,
+                0.5839942097663879,
+                0.5006653070449829,
+                0.8726738691329956,
+                0.575980544090271,
+                0.4980561435222626
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "ポヨポヨのお腹触りたい"
+                },
+                {
+                    "author": "did:plc:blz6slnzxhf2ayjq5gk3qbvr",
+                    "type": 2,
+                    "utter": "食後ならポヨポヨなので存分に触ってください"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "揉みしだきます！"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3laglin4qfg22",
+            "label": [
+                0.6143686175346375,
+                0.5038954615592957,
+                0.7201143503189087,
+                0.5299602746963501,
+                0.5060300230979919,
+                0.5155085921287537,
+                0.48928892612457275,
+                0.5032790303230286
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "揉みしだきます！"
+                },
+                {
+                    "author": "did:plc:blz6slnzxhf2ayjq5gk3qbvr",
+                    "type": 2,
+                    "utter": "揉みしだかれたら勃起しちゃうかもしれません😳"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "勃起大歓迎✨"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3lagplkdo2j2w",
+            "label": [
+                0.8442842960357666,
+                0.4868874251842499,
+                0.6380837559700012,
+                0.5118569731712341,
+                0.4788399934768677,
+                0.49921250343322754,
+                0.5087008476257324,
+                0.5214768052101135
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "勃起大歓迎✨"
+                },
+                {
+                    "author": "did:plc:blz6slnzxhf2ayjq5gk3qbvr",
+                    "type": 2,
+                    "utter": "見られると恥ずかしい🫣"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "可愛い"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3lagutr4fxj2i",
+            "label": [
+                0.8430924415588379,
+                0.48045873641967773,
+                0.48588621616363525,
+                0.5327962040901184,
+                0.5117318034172058,
+                0.4891575574874878,
+                0.4842316210269928,
+                0.53742516040802
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "可愛い"
+                },
+                {
+                    "author": "did:plc:blz6slnzxhf2ayjq5gk3qbvr",
+                    "type": 2,
+                    "utter": "ビクビクしちゃう"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "私でビクビクするちんこは大好き"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3lagvm2c7oc2h",
+            "label": [
+                0.8715168237686157,
+                0.501730740070343,
+                0.5195404887199402,
+                0.4962613880634308,
+                0.5098935961723328,
+                0.502363920211792,
+                0.48874783515930176,
+                0.5962458848953247
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "私でビクビクするちんこは大好き"
+                },
+                {
+                    "author": "did:plc:blz6slnzxhf2ayjq5gk3qbvr",
+                    "type": 2,
+                    "utter": "パブロフの犬だからぱおんさんで勃起するしビクビクするし、優しく刺激されたら興奮してイク"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "イカせたい"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3lagxanev7k2h",
+            "label": [
+                0.502169668674469,
+                0.559596836566925,
+                0.730431854724884,
+                0.5092188119888306,
+                0.5196565389633179,
+                0.533987820148468,
+                0.5893274545669556,
+                0.493246465921402
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "サクッとセックスもいいけどやっぱりドロドロセックスがしたい"
+                },
+                {
+                    "author": "did:plc:ylnia4lu43adr5rvdjfnobnw",
+                    "type": 2,
+                    "utter": "終った後のまったりが、す・き"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "まったり中に乳首弄り出すけど"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3l6t72trkql2m",
+            "label": [
+                0.5560206770896912,
+                0.5151959657669067,
+                0.6339287757873535,
+                0.5387313961982727,
+                0.5188348889350891,
+                0.548067033290863,
+                0.5307319760322571,
+                0.5021410584449768
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "まったり中に乳首弄り出すけど"
+                },
+                {
+                    "author": "did:plc:ylnia4lu43adr5rvdjfnobnw",
+                    "type": 2,
+                    "utter": "そうしたら、オレも"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "それは好き"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3l6teemhgru2m",
+            "label": [
+                0.84831303358078,
+                0.48064088821411133,
+                0.5384431481361389,
+                0.452131450176239,
+                0.5161749124526978,
+                0.49195775389671326,
+                0.5078564882278442,
+                0.5807406306266785
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "それは好き"
+                },
+                {
+                    "author": "did:plc:ylnia4lu43adr5rvdjfnobnw",
+                    "type": 2,
+                    "utter": "合いそうですね"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "ソンナコトナイヨ"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3l6u4g5niyd2e",
+            "label": [
+                0.6124020218849182,
+                0.5575060844421387,
+                0.5551285147666931,
+                0.5245925188064575,
+                0.49309390783309937,
+                0.49981486797332764,
+                0.5485579371452332,
+                0.5293768048286438
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "ソンナコトナイヨ"
+                },
+                {
+                    "author": "did:plc:ylnia4lu43adr5rvdjfnobnw",
+                    "type": 2,
+                    "utter": "ガーン\nハ・キ・ョ・ク"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "そんな気ないクセにwww"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3l6uofic76y2s",
+            "label": [
+                0.6540871858596802,
+                0.532292902469635,
+                0.5087130665779114,
+                0.6555859446525574,
+                0.527113139629364,
+                0.5355691313743591,
+                0.5810900330543518,
+                0.5196166634559631
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "そんな気ないクセにwww"
+                },
+                {
+                    "author": "did:plc:ylnia4lu43adr5rvdjfnobnw",
+                    "type": 2,
+                    "utter": "あったらどうします？"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "ないから…"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3l6vma26xbu2h",
+            "label": [
+                0.49842569231987,
+                0.7200071811676025,
+                0.5493196845054626,
+                0.5060699582099915,
+                0.4965170621871948,
+                0.5716428756713867,
+                0.5683779120445251,
+                0.49395114183425903
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "流石に1時間は嘘松だと思いますがありがとうございます"
+                },
+                {
+                    "author": "did:plc:ylnia4lu43adr5rvdjfnobnw",
+                    "type": 2,
+                    "utter": "嘘です\n2時間でした"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "( ˙꒳​˙  )ﾏｧｼﾞｶﾖｫ"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3l6p23sait72p",
+            "label": [
+                0.6098731160163879,
+                0.5354446768760681,
+                0.536033034324646,
+                0.5118269920349121,
+                0.46264004707336426,
+                0.5181172490119934,
+                0.5267977118492126,
+                0.49509018659591675
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "( ˙꒳​˙  )ﾏｧｼﾞｶﾖｫ"
+                },
+                {
+                    "author": "did:plc:ylnia4lu43adr5rvdjfnobnw",
+                    "type": 2,
+                    "utter": "累計すると・・・"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "長すぎ問題"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3l6pmt5e5vk2f",
+            "label": [
+                0.4930803179740906,
+                0.6093969345092773,
+                0.5105330944061279,
+                0.5721157193183899,
+                0.5439015030860901,
+                0.5682960748672485,
+                0.653483510017395,
+                0.49390536546707153
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "長すぎ問題"
+                },
+                {
+                    "author": "did:plc:ylnia4lu43adr5rvdjfnobnw",
+                    "type": 2,
+                    "utter": "気がつくと見ちゃうんだもん"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "それは大好きじゃないかｯ！"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3l6qipacdps2m",
+            "label": [
+                0.8001958131790161,
+                0.5106083750724792,
+                0.7254896759986877,
+                0.5243918895721436,
+                0.4989856779575348,
+                0.5037579536437988,
+                0.4923117458820343,
+                0.5662994980812073
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 1,
+                    "utter": "それは大好きじゃないかｯ！"
+                },
+                {
+                    "author": "did:plc:ylnia4lu43adr5rvdjfnobnw",
+                    "type": 2,
+                    "utter": "バレた\n告白です"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 3,
+                    "utter": "ありがとうございます"
+                }
+            ],
+            "uri": "at://did:plc:wjabmoap6tmyz7dwihbeow2e/app.bsky.feed.post/3l6re6kotg42h",
+            "label": [
+                0.7495284676551819,
+                0.5129138827323914,
+                0.4760380983352661,
+                0.5062808990478516,
+                0.5091508626937866,
+                0.48607879877090454,
+                0.48941919207572937,
+                0.5559636354446411
+            ]
+        }
+    ]
+}

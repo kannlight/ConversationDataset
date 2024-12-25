@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 1,
+                    "utter": "お姉さんフレンドなろ！！"
+                },
+                {
+                    "author": "did:plc:skmghwc6uakevrim2uf72jnl",
+                    "type": 2,
+                    "utter": "私、たぶんポケカ集めるしかやらんと思うよ"
+                },
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 3,
+                    "utter": "対戦はレート戦的なの出るまであんまりやる気ないから別に(?)\n自分も御三家のARカード欲しいなーの感覚"
+                }
+            ],
+            "uri": "at://did:plc:b4mh355s7oirb2bweffkoocd/app.bsky.feed.post/3l7sikkfhes2r",
+            "label": [
+                0.5193929076194763,
+                0.5364530682563782,
+                0.8437562584877014,
+                0.5078158974647522,
+                0.4952540993690491,
+                0.4998236298561096,
+                0.5185642242431641,
+                0.5078362822532654
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 1,
+                    "utter": "そー！"
+                },
+                {
+                    "author": "did:plc:skmghwc6uakevrim2uf72jnl",
+                    "type": 2,
+                    "utter": "サカキ様じゃん！！！"
+                },
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 3,
+                    "utter": "そりゃいたら選ぶよね…"
+                }
+            ],
+            "uri": "at://did:plc:b4mh355s7oirb2bweffkoocd/app.bsky.feed.post/3l7sjbup54h22",
+            "label": [
+                0.5088798403739929,
+                0.530732274055481,
+                0.7507252097129822,
+                0.5069161057472229,
+                0.511741578578949,
+                0.5195327997207642,
+                0.4862425625324249,
+                0.5129903554916382
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 1,
+                    "utter": "船持ってるから…"
+                },
+                {
+                    "author": "did:plc:skmghwc6uakevrim2uf72jnl",
+                    "type": 2,
+                    "utter": "やはり金\n金なのか"
+                },
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 3,
+                    "utter": "そりゃ世の中ねぇ…？"
+                }
+            ],
+            "uri": "at://did:plc:b4mh355s7oirb2bweffkoocd/app.bsky.feed.post/3l7ncvirymd2g",
+            "label": [
+                0.5046492218971252,
+                0.6197440028190613,
+                0.5308539867401123,
+                0.7114866375923157,
+                0.5481763482093811,
+                0.5979388952255249,
+                0.6066955327987671,
+                0.4981943368911743
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 1,
+                    "utter": "そりゃ世の中ねぇ…？"
+                },
+                {
+                    "author": "did:plc:skmghwc6uakevrim2uf72jnl",
+                    "type": 2,
+                    "utter": "おのれ金…！"
+                },
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 3,
+                    "utter": "致し方ない"
+                }
+            ],
+            "uri": "at://did:plc:b4mh355s7oirb2bweffkoocd/app.bsky.feed.post/3l7roywdl4y2d",
+            "label": [
+                0.5247384905815125,
+                0.6807893514633179,
+                0.5147810578346252,
+                0.49697911739349365,
+                0.5152433514595032,
+                0.5710768103599548,
+                0.5939982533454895,
+                0.49754559993743896
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 1,
+                    "utter": "致し方ない"
+                },
+                {
+                    "author": "did:plc:skmghwc6uakevrim2uf72jnl",
+                    "type": 2,
+                    "utter": "ベロニカはそれでいいのか…"
+                },
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 3,
+                    "utter": "楽しんでるなら…(?)"
+                }
+            ],
+            "uri": "at://did:plc:b4mh355s7oirb2bweffkoocd/app.bsky.feed.post/3l7shojytyz27",
+            "label": [
+                0.5126339793205261,
+                0.5272903442382812,
+                0.8191593885421753,
+                0.4909955561161041,
+                0.5137102007865906,
+                0.49429142475128174,
+                0.5069620013237,
+                0.5192364454269409
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 1,
+                    "utter": "楽しんでるなら…(?)"
+                },
+                {
+                    "author": "did:plc:skmghwc6uakevrim2uf72jnl",
+                    "type": 2,
+                    "utter": "楽しいの！？？"
+                },
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 3,
+                    "utter": "人生楽しそうだから(多分)"
+                }
+            ],
+            "uri": "at://did:plc:b4mh355s7oirb2bweffkoocd/app.bsky.feed.post/3l7sil4jazo2t",
+            "label": [
+                0.6979120373725891,
+                0.5115579962730408,
+                0.7193357944488525,
+                0.4788926839828491,
+                0.4822312891483307,
+                0.5059370994567871,
+                0.50838702917099,
+                0.5371968150138855
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 1,
+                    "utter": "お姉さんセーニャです\nといれといて\nやっぱカミュに恋してるんですか(?)"
+                },
+                {
+                    "author": "did:plc:skmghwc6uakevrim2uf72jnl",
+                    "type": 2,
+                    "utter": "あああ、ごめんセーニャぁぁぁぁ\n恋してるのかもしれない（？）"
+                },
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 3,
+                    "utter": "浄化されてきて🫶\n恋バナ聞かせて(???)"
+                }
+            ],
+            "uri": "at://did:plc:b4mh355s7oirb2bweffkoocd/app.bsky.feed.post/3l6ybic2a7z2r",
+            "label": [
+                0.6260563731193542,
+                0.49794355034828186,
+                0.8324322700500488,
+                0.49801668524742126,
+                0.49048346281051636,
+                0.5029398202896118,
+                0.4749438762664795,
+                0.48995786905288696
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 1,
+                    "utter": "浄化されてきて🫶\n恋バナ聞かせて(???)"
+                },
+                {
+                    "author": "did:plc:skmghwc6uakevrim2uf72jnl",
+                    "type": 2,
+                    "utter": "セーニャかわいいので、割とショック\nちらっちらっしてる"
+                },
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 3,
+                    "utter": "ショック)あっ、ﾁｰｽ😎"
+                }
+            ],
+            "uri": "at://did:plc:b4mh355s7oirb2bweffkoocd/app.bsky.feed.post/3l6ycex73d52b",
+            "label": [
+                0.5278177261352539,
+                0.8134683966636658,
+                0.4831472933292389,
+                0.6182510256767273,
+                0.5038782358169556,
+                0.5756369829177856,
+                0.5580825209617615,
+                0.5210057497024536
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 1,
+                    "utter": "ショック)あっ、ﾁｰｽ😎"
+                },
+                {
+                    "author": "did:plc:skmghwc6uakevrim2uf72jnl",
+                    "type": 2,
+                    "utter": "ちーっす"
+                },
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 3,
+                    "utter": "招きいれるんかいっ"
+                }
+            ],
+            "uri": "at://did:plc:b4mh355s7oirb2bweffkoocd/app.bsky.feed.post/3l6ycjth6bu2r",
+            "label": [
+                0.575075089931488,
+                0.4975748360157013,
+                0.6511334180831909,
+                0.6184250712394714,
+                0.5020570158958435,
+                0.521651566028595,
+                0.5155885815620422,
+                0.5108109712600708
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 1,
+                    "utter": "招きいれるんかいっ"
+                },
+                {
+                    "author": "did:plc:skmghwc6uakevrim2uf72jnl",
+                    "type": 2,
+                    "utter": "へへっ😉"
+                },
+                {
+                    "author": "did:plc:b4mh355s7oirb2bweffkoocd",
+                    "type": 3,
+                    "utter": "その来客いらんでしょ(?)"
+                }
+            ],
+            "uri": "at://did:plc:b4mh355s7oirb2bweffkoocd/app.bsky.feed.post/3l6ztadzk2r2z",
+            "label": [
+                0.5062311291694641,
+                0.6356334090232849,
+                0.5423490405082703,
+                0.5762194395065308,
+                0.529632031917572,
+                0.5847306847572327,
+                0.5661026835441589,
+                0.4857352674007416
+            ]
+        }
+    ]
+}

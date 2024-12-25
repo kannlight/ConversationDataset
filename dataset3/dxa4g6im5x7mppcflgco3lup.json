@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 1,
+                    "utter": "☀️🐾：ﾃｼ、ﾃｼﾃｼ🐾͟͟͞͞= ฅ͟͟͞͞ =( •ω•´ ฅ )\n(急な猫化🐈)"
+                },
+                {
+                    "author": "did:plc:tj7bxujln3gmrni3gadaas75",
+                    "type": 2,
+                    "utter": "ひーにゃん…"
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 3,
+                    "utter": "な、なんのことかな( ;ﾟ³ﾟ)~♪"
+                }
+            ],
+            "uri": "at://did:plc:dxa4g6im5x7mppcflgco3lup/app.bsky.feed.post/3lc2atvehr22i",
+            "label": [
+                0.5973933935165405,
+                0.5586584210395813,
+                0.5731117129325867,
+                0.600230872631073,
+                0.512290358543396,
+                0.5447326302528381,
+                0.5209301710128784,
+                0.4973241984844208
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 1,
+                    "utter": "な、なんのことかな( ;ﾟ³ﾟ)~♪"
+                },
+                {
+                    "author": "did:plc:tj7bxujln3gmrni3gadaas75",
+                    "type": 2,
+                    "utter": "あらあら～"
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 3,
+                    "utter": "な、なんだよぉ～？w"
+                }
+            ],
+            "uri": "at://did:plc:dxa4g6im5x7mppcflgco3lup/app.bsky.feed.post/3lc2b3rvuas2i",
+            "label": [
+                0.5273833274841309,
+                0.5892583131790161,
+                0.505075216293335,
+                0.6467790603637695,
+                0.5269199013710022,
+                0.5639926791191101,
+                0.6263993382453918,
+                0.48802313208580017
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 1,
+                    "utter": "な、なんだよぉ～？w"
+                },
+                {
+                    "author": "did:plc:tj7bxujln3gmrni3gadaas75",
+                    "type": 2,
+                    "utter": "次、ひーにゃんが現れたらたくさん構っちゃおっと🌟"
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 3,
+                    "utter": "(。=｀ω´=)！？"
+                }
+            ],
+            "uri": "at://did:plc:dxa4g6im5x7mppcflgco3lup/app.bsky.feed.post/3lc2llfofqc2l",
+            "label": [
+                0.5654940009117126,
+                0.5431145429611206,
+                0.532930850982666,
+                0.6257091760635376,
+                0.5011719465255737,
+                0.5239645838737488,
+                0.4900358319282532,
+                0.4895867705345154
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 1,
+                    "utter": "(。=｀ω´=)！？"
+                },
+                {
+                    "author": "did:plc:tj7bxujln3gmrni3gadaas75",
+                    "type": 2,
+                    "utter": "ひーにゃんだ！！！"
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 3,
+                    "utter": "んみゃぁぁ～！！！(飛びつくw)"
+                }
+            ],
+            "uri": "at://did:plc:dxa4g6im5x7mppcflgco3lup/app.bsky.feed.post/3lc362hu4us2s",
+            "label": [
+                0.7146934270858765,
+                0.5118909478187561,
+                0.5434517860412598,
+                0.7147481441497803,
+                0.49476197361946106,
+                0.5154693722724915,
+                0.4961636960506439,
+                0.5070268511772156
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 1,
+                    "utter": "んみゃぁぁ～！！！(飛びつくw)"
+                },
+                {
+                    "author": "did:plc:tj7bxujln3gmrni3gadaas75",
+                    "type": 2,
+                    "utter": "よーしよしよしよし\nガサガサする袋とチュールでおもてなしだあ！"
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 3,
+                    "utter": "ガサガサする袋！？w"
+                }
+            ],
+            "uri": "at://did:plc:dxa4g6im5x7mppcflgco3lup/app.bsky.feed.post/3lc3nqtmntk2i",
+            "label": [
+                0.5471730828285217,
+                0.5161787271499634,
+                0.5390077829360962,
+                0.8062819242477417,
+                0.5016062259674072,
+                0.5438582301139832,
+                0.529660165309906,
+                0.48146581649780273
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 1,
+                    "utter": "わぉーん_(:3」∠)_"
+                },
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 2,
+                    "utter": "ｶﾞｵｰ"
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 3,
+                    "utter": "わぁぁーー！！(往復ビンタw)"
+                }
+            ],
+            "uri": "at://did:plc:dxa4g6im5x7mppcflgco3lup/app.bsky.feed.post/3lbnsbxv3l22z",
+            "label": [
+                0.7797593474388123,
+                0.5532411336898804,
+                0.5128570199012756,
+                0.7310717105865479,
+                0.5098498463630676,
+                0.5301225185394287,
+                0.5301643013954163,
+                0.5318489670753479
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 1,
+                    "utter": "わぁぁーー！！(往復ビンタw)"
+                },
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 2,
+                    "utter": "ﾌﾍﾞｯ\nひどくないかい!!!??ホントに噛んじゃうぞ"
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 3,
+                    "utter": "あ...()\nテヘペロ(´>ω∂`)w"
+                }
+            ],
+            "uri": "at://did:plc:dxa4g6im5x7mppcflgco3lup/app.bsky.feed.post/3lborau5s3c2z",
+            "label": [
+                0.5206763744354248,
+                0.666151225566864,
+                0.5051875114440918,
+                0.5509053468704224,
+                0.49757876992225647,
+                0.6069701313972473,
+                0.5715479254722595,
+                0.49293047189712524
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 1,
+                    "utter": "あ...()\nテヘペロ(´>ω∂`)w"
+                },
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 2,
+                    "utter": "……………………\nｶﾞﾌﾞｧ!!!!!"
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 3,
+                    "utter": "ふんっ！！！\nｶｷｰﾝ！(パリィ音w)"
+                }
+            ],
+            "uri": "at://did:plc:dxa4g6im5x7mppcflgco3lup/app.bsky.feed.post/3lborggzibs2z",
+            "label": [
+                0.7579775452613831,
+                0.5124027132987976,
+                0.5346463322639465,
+                0.6497306823730469,
+                0.5016601085662842,
+                0.5016513466835022,
+                0.5078568458557129,
+                0.5168027877807617
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 1,
+                    "utter": "ふんっ！！！\nｶｷｰﾝ！(パリィ音w)"
+                },
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 2,
+                    "utter": "牙はなぁ!\n上下に1列ずつあるんだよ!!!!!(下顎吹き飛んだまま上顎の牙を突き刺しにかかる)"
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 3,
+                    "utter": "こっちには足だってあるんだよぉ！！\n(刺さってだばぁーってなりながら蹴りあげるww)"
+                }
+            ],
+            "uri": "at://did:plc:dxa4g6im5x7mppcflgco3lup/app.bsky.feed.post/3lborpdzzpc2z",
+            "label": [
+                0.5341107845306396,
+                0.573894739151001,
+                0.552988588809967,
+                0.7395849823951721,
+                0.5021840333938599,
+                0.588407576084137,
+                0.5565046072006226,
+                0.5012399554252625
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 1,
+                    "utter": "こっちには足だってあるんだよぉ！！\n(刺さってだばぁーってなりながら蹴りあげるww)"
+                },
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 2,
+                    "utter": "ぐえっ\n普通の相手なら両顎なくなっとるぞ全くもう(生えてくる顎)"
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 3,
+                    "utter": "自分だって立ってるのが不思議だぁ...(片足だばぁーw)"
+                }
+            ],
+            "uri": "at://did:plc:dxa4g6im5x7mppcflgco3lup/app.bsky.feed.post/3lborwtiwls2a",
+            "label": [
+                0.5630791783332825,
+                0.5125320553779602,
+                0.5280071496963501,
+                0.7292912006378174,
+                0.5106823444366455,
+                0.585945188999176,
+                0.5393855571746826,
+                0.5080429911613464
+            ]
+        }
+    ]
+}

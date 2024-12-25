@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 1,
+                    "utter": "いかーん、またブルーノさんが好きになってしまうwww"
+                },
+                {
+                    "author": "did:plc:jkd4lv4bbqyw5wa3uwj4eubh",
+                    "type": 2,
+                    "utter": "これ、好きになる要素なんだ……。\nまあ気持ちはわかるが。"
+                },
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 3,
+                    "utter": "レヴィとスイーツ食べ放題行きましょう。性転換の薬の作り方教えてあげてください😊"
+                }
+            ],
+            "uri": "at://did:plc:72b7ipswh37vfjjtvw5b4sqf/app.bsky.feed.post/3lbzzqlb27k2k",
+            "label": [
+                0.6221179366111755,
+                0.5113839507102966,
+                0.8833099007606506,
+                0.4629592001438141,
+                0.4989964962005615,
+                0.49332699179649353,
+                0.5023795962333679,
+                0.5198829770088196
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 1,
+                    "utter": "レヴィとスイーツ食べ放題行きましょう。性転換の薬の作り方教えてあげてください😊"
+                },
+                {
+                    "author": "did:plc:jkd4lv4bbqyw5wa3uwj4eubh",
+                    "type": 2,
+                    "utter": "散髪と合わせて序盤からキャラクリの幅が広がりますね！\n(王様ゲームで「o番がx番に性転換の秘術使え」やるのもあり。)"
+                },
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 3,
+                    "utter": "気づいたら全員女子になってそう🤣"
+                }
+            ],
+            "uri": "at://did:plc:72b7ipswh37vfjjtvw5b4sqf/app.bsky.feed.post/3lc2lknwnac2d",
+            "label": [
+                0.5074019432067871,
+                0.5268232822418213,
+                0.528270959854126,
+                0.7186046242713928,
+                0.48783138394355774,
+                0.6528884172439575,
+                0.505328893661499,
+                0.49396008253097534
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 1,
+                    "utter": "気づいたら全員女子になってそう🤣"
+                },
+                {
+                    "author": "did:plc:jkd4lv4bbqyw5wa3uwj4eubh",
+                    "type": 2,
+                    "utter": "転性奥さんが女子になるという新しいワード。"
+                },
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 3,
+                    "utter": "職場で吹き出してしまった😂"
+                }
+            ],
+            "uri": "at://did:plc:72b7ipswh37vfjjtvw5b4sqf/app.bsky.feed.post/3lc2lxe2hh22d",
+            "label": [
+                0.5008755326271057,
+                0.6805115342140198,
+                0.5254521369934082,
+                0.6041858196258545,
+                0.49258139729499817,
+                0.5880324840545654,
+                0.5641396045684814,
+                0.4919290840625763
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 1,
+                    "utter": "職場で吹き出してしまった😂"
+                },
+                {
+                    "author": "did:plc:jkd4lv4bbqyw5wa3uwj4eubh",
+                    "type": 2,
+                    "utter": "すまんw"
+                },
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 3,
+                    "utter": "最近家でニヤニヤしてるとつっこまれることが増えましたが、そのうち職場でも言われそうです😆"
+                }
+            ],
+            "uri": "at://did:plc:72b7ipswh37vfjjtvw5b4sqf/app.bsky.feed.post/3lc2mb5kqnk2d",
+            "label": [
+                0.5057923197746277,
+                0.5680285096168518,
+                0.5349321961402893,
+                0.5668910145759583,
+                0.48712554574012756,
+                0.7302017211914062,
+                0.6005807518959045,
+                0.4957222640514374
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 1,
+                    "utter": "ラインハルトさんガチャに目覚めてるの何故ｗ"
+                },
+                {
+                    "author": "did:plc:jkd4lv4bbqyw5wa3uwj4eubh",
+                    "type": 2,
+                    "utter": "わからんw\nブルーノさんとラインハルトさんのキャラが突如崩壊を始めましたw"
+                },
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 3,
+                    "utter": "ブルーノさんは何故か何も不思議に思わなかったなあw"
+                }
+            ],
+            "uri": "at://did:plc:72b7ipswh37vfjjtvw5b4sqf/app.bsky.feed.post/3lc64c57uc22i",
+            "label": [
+                0.5910669565200806,
+                0.4998130202293396,
+                0.5033813118934631,
+                0.6946291923522949,
+                0.4983641505241394,
+                0.5257259607315063,
+                0.5042495131492615,
+                0.5301614999771118
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 1,
+                    "utter": "ブルーノさんは何故か何も不思議に思わなかったなあw"
+                },
+                {
+                    "author": "did:plc:jkd4lv4bbqyw5wa3uwj4eubh",
+                    "type": 2,
+                    "utter": "ブルーノさん = 何が起こっても不思議ではない、あいつはそういう奴だから……みたいなのが定着してしまったのかもしれません。"
+                },
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 3,
+                    "utter": "ぬい撮りしっくりくるのすごすぎますがｗ"
+                }
+            ],
+            "uri": "at://did:plc:72b7ipswh37vfjjtvw5b4sqf/app.bsky.feed.post/3lc6kma76ac2q",
+            "label": [
+                0.7756547927856445,
+                0.5188076496124268,
+                0.4981633126735687,
+                0.8129518032073975,
+                0.498902827501297,
+                0.5155982971191406,
+                0.5155105590820312,
+                0.5266590714454651
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 1,
+                    "utter": "ぬい撮りしっくりくるのすごすぎますがｗ"
+                },
+                {
+                    "author": "did:plc:jkd4lv4bbqyw5wa3uwj4eubh",
+                    "type": 2,
+                    "utter": "別に奇をてらおうとしたわけでもなく、ブルーノさんって可愛いパステルカラーのスイーツ食べ放題の店好きだろうな、だったらぬい撮りでもさせるかとふと思いましたw"
+                },
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 3,
+                    "utter": "何の違和感もないですよｗ\nサン〇オなところがまたたまらんです😆"
+                }
+            ],
+            "uri": "at://did:plc:72b7ipswh37vfjjtvw5b4sqf/app.bsky.feed.post/3lc7renmewc25",
+            "label": [
+                0.694225549697876,
+                0.5291553735733032,
+                0.5621833205223083,
+                0.5686853528022766,
+                0.49192705750465393,
+                0.5472133755683899,
+                0.5609953999519348,
+                0.5349324345588684
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 1,
+                    "utter": "揺るぎない友情関係のはずだったのに、突然のBL展開に持ち込まれてショックを受けたあと、仲直りのために温泉に行ったのに懲りずにまたかましてくる覚者様に対してキレてるところなので、このあと家出したかもしれませんｗ"
+                },
+                {
+                    "author": "did:plc:jkd4lv4bbqyw5wa3uwj4eubh",
+                    "type": 2,
+                    "utter": "温泉でぶん投げたんでしたっけ。"
+                },
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 3,
+                    "utter": "それよりだいぶ前ですねw"
+                }
+            ],
+            "uri": "at://did:plc:72b7ipswh37vfjjtvw5b4sqf/app.bsky.feed.post/3lca56spfgk2r",
+            "label": [
+                0.5259592533111572,
+                0.5182005167007446,
+                0.5358968377113342,
+                0.6649783849716187,
+                0.4894346296787262,
+                0.5433819890022278,
+                0.5116351842880249,
+                0.49146145582199097
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 1,
+                    "utter": "どうなんでしょうねえ、ジルは常に奇行なので何が仕様なのかわかりません。"
+                },
+                {
+                    "author": "did:plc:jkd4lv4bbqyw5wa3uwj4eubh",
+                    "type": 2,
+                    "utter": "ゲーム上の仕様ではなく、ジルさんがそういう人だから壁際を走り、引っかかるのかもしれません。(褒めてます。)"
+                },
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 3,
+                    "utter": "壁にズリズリしたり、地面ズリズリしたり、唯一の取り柄である顔面が削れないか心配です😏"
+                }
+            ],
+            "uri": "at://did:plc:72b7ipswh37vfjjtvw5b4sqf/app.bsky.feed.post/3lca5aqfo6s2r",
+            "label": [
+                0.5212239027023315,
+                0.6147998571395874,
+                0.5417931079864502,
+                0.5297819972038269,
+                0.48494893312454224,
+                0.8636588454246521,
+                0.580765962600708,
+                0.4810141623020172
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 1,
+                    "utter": "壁にズリズリしたり、地面ズリズリしたり、唯一の取り柄である顔面が削れないか心配です😏"
+                },
+                {
+                    "author": "did:plc:jkd4lv4bbqyw5wa3uwj4eubh",
+                    "type": 2,
+                    "utter": "唯一の取り柄とか酷すぎる！😂\n他にもいいとこあるでしょうに。"
+                },
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 3,
+                    "utter": "なんかあったかな、素直さとかですかねｗ"
+                }
+            ],
+            "uri": "at://did:plc:72b7ipswh37vfjjtvw5b4sqf/app.bsky.feed.post/3lcajj3c67225",
+            "label": [
+                0.7113866806030273,
+                0.5311605930328369,
+                0.5409238934516907,
+                0.59893798828125,
+                0.4998025596141815,
+                0.5021718740463257,
+                0.5057936906814575,
+                0.5345447063446045
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 1,
+                    "utter": "なんかあったかな、素直さとかですかねｗ"
+                },
+                {
+                    "author": "did:plc:jkd4lv4bbqyw5wa3uwj4eubh",
+                    "type": 2,
+                    "utter": "あ、脚！美脚ですよ！\n(顔といい脚といい、全部外見やん。)"
+                },
+                {
+                    "author": "did:plc:72b7ipswh37vfjjtvw5b4sqf",
+                    "type": 3,
+                    "utter": "それなら手指もなかなかですよ😊"
+                }
+            ],
+            "uri": "at://did:plc:72b7ipswh37vfjjtvw5b4sqf/app.bsky.feed.post/3lcaqwslx2k25",
+            "label": [
+                0.49478304386138916,
+                0.6252095103263855,
+                0.5718200206756592,
+                0.5005531907081604,
+                0.49782639741897583,
+                0.6166812181472778,
+                0.5864363312721252,
+                0.49922052025794983
+            ]
+        }
+    ]
+}

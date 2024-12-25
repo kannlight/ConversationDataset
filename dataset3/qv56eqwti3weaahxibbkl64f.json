@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 1,
+                    "utter": "そうなんす"
+                },
+                {
+                    "author": "did:plc:n43fpfa5e5mqje6gqd5oiszr",
+                    "type": 2,
+                    "utter": "たるちゃは悪の一部と化してる"
+                },
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 3,
+                    "utter": "たるちゃは簡単に寝返らないよ。一緒腰巾着"
+                }
+            ],
+            "uri": "at://did:plc:qv56eqwti3weaahxibbkl64f/app.bsky.feed.post/3lbzfizhk3s2k",
+            "label": [
+                0.5708586573600769,
+                0.5355541110038757,
+                0.5658416152000427,
+                0.5173736810684204,
+                0.5014172792434692,
+                0.5317559242248535,
+                0.5402684807777405,
+                0.5111700296401978
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 1,
+                    "utter": "たるちゃは簡単に寝返らないよ。一緒腰巾着"
+                },
+                {
+                    "author": "did:plc:n43fpfa5e5mqje6gqd5oiszr",
+                    "type": 2,
+                    "utter": "みんなで女帝を倒そうでは無いか🤝🏻"
+                },
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 3,
+                    "utter": "まくちゃもフュージョンしよう、なろう、しゅ姉の腰巾着"
+                }
+            ],
+            "uri": "at://did:plc:qv56eqwti3weaahxibbkl64f/app.bsky.feed.post/3lbzfnsbgns2k",
+            "label": [
+                0.5880488157272339,
+                0.5318942070007324,
+                0.822683572769165,
+                0.5131308436393738,
+                0.49990084767341614,
+                0.4978071451187134,
+                0.49958929419517517,
+                0.5240471959114075
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 1,
+                    "utter": "まくちゃもフュージョンしよう、なろう、しゅ姉の腰巾着"
+                },
+                {
+                    "author": "did:plc:4ik4kplcpwm3etqqagh7dapb",
+                    "type": 2,
+                    "utter": "私もフュージョンするね！"
+                },
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 3,
+                    "utter": "何かノイズが聞こえる"
+                }
+            ],
+            "uri": "at://did:plc:qv56eqwti3weaahxibbkl64f/app.bsky.feed.post/3lbzfqm4rfk2k",
+            "label": [
+                0.4980032742023468,
+                0.4910370707511902,
+                0.5158195495605469,
+                0.6276132464408875,
+                0.5321375727653503,
+                0.6315937042236328,
+                0.5760506987571716,
+                0.5015210509300232
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 1,
+                    "utter": "何かノイズが聞こえる"
+                },
+                {
+                    "author": "did:plc:n43fpfa5e5mqje6gqd5oiszr",
+                    "type": 2,
+                    "utter": "あの二重人格ネキを倒そう...😠"
+                },
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 3,
+                    "utter": "二重人格ネキ厄介過ぎる。"
+                }
+            ],
+            "uri": "at://did:plc:qv56eqwti3weaahxibbkl64f/app.bsky.feed.post/3lbzfyvgicc2k",
+            "label": [
+                0.5206682085990906,
+                0.6339414119720459,
+                0.46685460209846497,
+                0.501660943031311,
+                0.6419074535369873,
+                0.6136026382446289,
+                0.830748975276947,
+                0.49722862243652344
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 1,
+                    "utter": "1粒も残しません"
+                },
+                {
+                    "author": "did:plc:4ik4kplcpwm3etqqagh7dapb",
+                    "type": 2,
+                    "utter": "えらい！みんなお手本にすべき"
+                },
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 3,
+                    "utter": "当たり前〜🤞🏻🤞🏻🤞🏻髪の毛1本も残さない"
+                }
+            ],
+            "uri": "at://did:plc:qv56eqwti3weaahxibbkl64f/app.bsky.feed.post/3lbzbdyfqj22k",
+            "label": [
+                0.6991497278213501,
+                0.5417802333831787,
+                0.6323887705802917,
+                0.539980411529541,
+                0.5264472961425781,
+                0.5347391963005066,
+                0.5685212016105652,
+                0.5233583450317383
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 1,
+                    "utter": "当たり前〜🤞🏻🤞🏻🤞🏻髪の毛1本も残さない"
+                },
+                {
+                    "author": "did:plc:4ik4kplcpwm3etqqagh7dapb",
+                    "type": 2,
+                    "utter": "そんなに美味いなら私もあく寿司食べたい"
+                },
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 3,
+                    "utter": "半分こしよわたし頭"
+                }
+            ],
+            "uri": "at://did:plc:qv56eqwti3weaahxibbkl64f/app.bsky.feed.post/3lbzbu2m7i22k",
+            "label": [
+                0.5086947679519653,
+                0.6052548289299011,
+                0.5414586663246155,
+                0.5439193248748779,
+                0.5518724322319031,
+                0.5411166548728943,
+                0.6703639030456543,
+                0.5061867237091064
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 1,
+                    "utter": "半分こしよわたし頭"
+                },
+                {
+                    "author": "did:plc:4ik4kplcpwm3etqqagh7dapb",
+                    "type": 2,
+                    "utter": "じゃあ私はくるぶしでいいや"
+                },
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 3,
+                    "utter": "くるぶし狂にいつ取り込まれたの？戻っておいで😭"
+                }
+            ],
+            "uri": "at://did:plc:qv56eqwti3weaahxibbkl64f/app.bsky.feed.post/3lbzbzcj34k2k",
+            "label": [
+                0.544514000415802,
+                0.5593922138214111,
+                0.5738858580589294,
+                0.5394827127456665,
+                0.522872269153595,
+                0.6066793203353882,
+                0.5694497227668762,
+                0.49175912141799927
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 1,
+                    "utter": "そこには、うちの7️⃣も、含まれるのですか？"
+                },
+                {
+                    "author": "did:plc:ntlync6gw2hhxbjizwat746h",
+                    "type": 2,
+                    "utter": "7️⃣はフリー素材"
+                },
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 3,
+                    "utter": "こいつ、7️⃣が虐めがいのある顔してるからって、こいつ"
+                }
+            ],
+            "uri": "at://did:plc:qv56eqwti3weaahxibbkl64f/app.bsky.feed.post/3lbypcehyks2k",
+            "label": [
+                0.520366907119751,
+                0.5902004241943359,
+                0.520088791847229,
+                0.6013652086257935,
+                0.64408278465271,
+                0.581457793712616,
+                0.792768657207489,
+                0.4983830451965332
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 1,
+                    "utter": "その綺麗なおてでコラ量産してると思うといつも脳がバグる"
+                },
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 2,
+                    "utter": "指長いね！ピアノやってる？って聞かれるけど全くやってないよね"
+                },
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 3,
+                    "utter": "へ〜じゃあ天然の美おててなんだ、。寄越しな"
+                }
+            ],
+            "uri": "at://did:plc:qv56eqwti3weaahxibbkl64f/app.bsky.feed.post/3lbykqqkisc24",
+            "label": [
+                0.6917685270309448,
+                0.5448073148727417,
+                0.6325100660324097,
+                0.5492239594459534,
+                0.5032421350479126,
+                0.5167568922042847,
+                0.5315570831298828,
+                0.5109659433364868
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 1,
+                    "utter": "様子おかしくなったのからあげが小さなハートを送ってからぢゃん"
+                },
+                {
+                    "author": "did:plc:4ik4kplcpwm3etqqagh7dapb",
+                    "type": 2,
+                    "utter": "もしかして:コーチのせい？"
+                },
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 3,
+                    "utter": "かもしれないよ(*˙ﾉ(˙꒫˙*)ｺｿｺｿ"
+                }
+            ],
+            "uri": "at://did:plc:qv56eqwti3weaahxibbkl64f/app.bsky.feed.post/3lbwrsvgsu22u",
+            "label": [
+                0.540982723236084,
+                0.5595438480377197,
+                0.573072075843811,
+                0.5162254571914673,
+                0.49828362464904785,
+                0.5813032388687134,
+                0.5430388450622559,
+                0.5017551779747009
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 1,
+                    "utter": "ガキはみちゃいけません！"
+                },
+                {
+                    "author": "did:plc:n43fpfa5e5mqje6gqd5oiszr",
+                    "type": 2,
+                    "utter": "分かったよ...🫣🫣🫣"
+                },
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 3,
+                    "utter": "素直で可愛いねうちの子になる？"
+                }
+            ],
+            "uri": "at://did:plc:qv56eqwti3weaahxibbkl64f/app.bsky.feed.post/3lbz2z437y22k",
+            "label": [
+                0.821822464466095,
+                0.4835840165615082,
+                0.6770299673080444,
+                0.5805885195732117,
+                0.49885594844818115,
+                0.5131940245628357,
+                0.4986841678619385,
+                0.5366308093070984
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 1,
+                    "utter": "素直で可愛いねうちの子になる？"
+                },
+                {
+                    "author": "did:plc:n43fpfa5e5mqje6gqd5oiszr",
+                    "type": 2,
+                    "utter": "ダリママより優雅に暮らせたら移動しよっかなあ〜🥹"
+                },
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 3,
+                    "utter": "将来の旦那が割と稼げる職業だと思うよ"
+                }
+            ],
+            "uri": "at://did:plc:qv56eqwti3weaahxibbkl64f/app.bsky.feed.post/3lbz3dtjdl22k",
+            "label": [
+                0.542895495891571,
+                0.4929942190647125,
+                0.713432788848877,
+                0.5214367508888245,
+                0.512229323387146,
+                0.4790036082267761,
+                0.5244789719581604,
+                0.5286049842834473
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 1,
+                    "utter": "将来の旦那が割と稼げる職業だと思うよ"
+                },
+                {
+                    "author": "did:plc:n43fpfa5e5mqje6gqd5oiszr",
+                    "type": 2,
+                    "utter": "予言ママおった...🙄"
+                },
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 3,
+                    "utter": "7️⃣の嫁におれはなる。てことでいらっしゃい🥹ᩚ"
+                }
+            ],
+            "uri": "at://did:plc:qv56eqwti3weaahxibbkl64f/app.bsky.feed.post/3lbz3yykiq22k",
+            "label": [
+                0.6933836340904236,
+                0.5142011642456055,
+                0.791843593120575,
+                0.5147790908813477,
+                0.49182820320129395,
+                0.5137491226196289,
+                0.49751320481300354,
+                0.5119413137435913
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 1,
+                    "utter": "7️⃣の嫁におれはなる。てことでいらっしゃい🥹ᩚ"
+                },
+                {
+                    "author": "did:plc:n43fpfa5e5mqje6gqd5oiszr",
+                    "type": 2,
+                    "utter": "てことは、たるママまだ独身だったんだ、、"
+                },
+                {
+                    "author": "did:plc:qv56eqwti3weaahxibbkl64f",
+                    "type": 3,
+                    "utter": "まだ相手成人してないからね....."
+                }
+            ],
+            "uri": "at://did:plc:qv56eqwti3weaahxibbkl64f/app.bsky.feed.post/3lbz4laugpk2k",
+            "label": [
+                0.504219114780426,
+                0.6822125315666199,
+                0.5346041321754456,
+                0.5419195294380188,
+                0.5080884099006653,
+                0.5718895196914673,
+                0.5404564738273621,
+                0.4996289312839508
+            ]
+        }
+    ]
+}

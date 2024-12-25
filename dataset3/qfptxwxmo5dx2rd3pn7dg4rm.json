@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 1,
+                    "utter": "私は地元福井の鱒寿司の方が馴染みがありますが、富山のも美味しいですね😋"
+                },
+                {
+                    "author": "did:plc:wmei7oodflli5ipe3ny5rfxj",
+                    "type": 2,
+                    "utter": "私は逆に福井県の方は縁がなく、そちらの鱒寿司を頂いたことがないですが、きっと美味しいんでしょうね……(∩˘ω˘∩ )♡"
+                },
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 3,
+                    "utter": "福井の場合は各家庭で作る趣が強いですからねぇ\n製品もあるにはありますが…酢の加減とか鱒を入れる枚数とかご飯の炊き具合とかがやはり違って物足りなく感じます🙄"
+                }
+            ],
+            "uri": "at://did:plc:qfptxwxmo5dx2rd3pn7dg4rm/app.bsky.feed.post/3lc4n5cdoek2m",
+            "label": [
+                0.5216898918151855,
+                0.6750621199607849,
+                0.5305408835411072,
+                0.5507445931434631,
+                0.4946645200252533,
+                0.5886566042900085,
+                0.5672688484191895,
+                0.5089944005012512
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 1,
+                    "utter": "福井の場合は各家庭で作る趣が強いですからねぇ\n製品もあるにはありますが…酢の加減とか鱒を入れる枚数とかご飯の炊き具合とかがやはり違って物足りなく感じます🙄"
+                },
+                {
+                    "author": "did:plc:wmei7oodflli5ipe3ny5rfxj",
+                    "type": 2,
+                    "utter": "お土産としてだけではなく、日常で慣れ親しまれてるんですね\nなんだかいいですねぇ(*´ω`*)"
+                },
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 3,
+                    "utter": "日常というか、お祭り時期や報恩講の定番というかですね\n郷土料理と浄土真宗の宗教色が濃く残ってる地域でやっているので、核家族の新しい世代が多いようなお家ではやらないだろうなとは思います"
+                }
+            ],
+            "uri": "at://did:plc:qfptxwxmo5dx2rd3pn7dg4rm/app.bsky.feed.post/3lc4qpc6usk2m",
+            "label": [
+                0.5736871361732483,
+                0.5052509307861328,
+                0.7530008554458618,
+                0.5248574018478394,
+                0.5112122893333435,
+                0.5352378487586975,
+                0.5049652457237244,
+                0.543270468711853
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 1,
+                    "utter": "日常というか、お祭り時期や報恩講の定番というかですね\n郷土料理と浄土真宗の宗教色が濃く残ってる地域でやっているので、核家族の新しい世代が多いようなお家ではやらないだろうなとは思います"
+                },
+                {
+                    "author": "did:plc:wmei7oodflli5ipe3ny5rfxj",
+                    "type": 2,
+                    "utter": "ハレの日の特別な手料理なのですね……なかなか手間をかけることが難しくなってる昨今なので、新しい世代が知らなかったり無理に続けるのも難しいのも分かります"
+                },
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 3,
+                    "utter": "鱒一本買うと結構なお値段しますしね😂\n一つ一つ拭いて汚れを落としたアブラギリの葉で包む手間もありますし\nその葉も最近は良い葉が採れなくなりつつありますし\n母は作れますが、母がいなくなると実家でも作れなくなるでしょうね"
+                }
+            ],
+            "uri": "at://did:plc:qfptxwxmo5dx2rd3pn7dg4rm/app.bsky.feed.post/3lc4se44ecc2m",
+            "label": [
+                0.5611381530761719,
+                0.6088603734970093,
+                0.6025637984275818,
+                0.5464206337928772,
+                0.5114415884017944,
+                0.5949586629867554,
+                0.505770206451416,
+                0.5242037773132324
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 1,
+                    "utter": "鱒一本買うと結構なお値段しますしね😂\n一つ一つ拭いて汚れを落としたアブラギリの葉で包む手間もありますし\nその葉も最近は良い葉が採れなくなりつつありますし\n母は作れますが、母がいなくなると実家でも作れなくなるでしょうね"
+                },
+                {
+                    "author": "did:plc:wmei7oodflli5ipe3ny5rfxj",
+                    "type": 2,
+                    "utter": "自分や自分の親が最後の世代、というとなんとも切ない感傷がありますが、大事なのは恙無く日々を過ごすことですからねぇ\nお手製の鱒寿司は、大切な思い出ですね"
+                },
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 3,
+                    "utter": "味わえるうちは有り難く味わっておきます😋✨"
+                }
+            ],
+            "uri": "at://did:plc:qfptxwxmo5dx2rd3pn7dg4rm/app.bsky.feed.post/3lc5azbf6zk2o",
+            "label": [
+                0.5911645889282227,
+                0.5371395349502563,
+                0.7672547698020935,
+                0.47274357080459595,
+                0.48468056321144104,
+                0.52433180809021,
+                0.5108071565628052,
+                0.5142982602119446
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 1,
+                    "utter": "お昼ご飯にこれが食べたい………🤤"
+                },
+                {
+                    "author": "did:plc:edqphdihc4lu5ah3bevzijfi",
+                    "type": 2,
+                    "utter": "良いですね～💕\n家でゴロゴロしてて、何もせずこれが出てきたら最高ー😆"
+                },
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 3,
+                    "utter": "まさにそれですね😂\n今日は念の為発熱後二日目も休んだ次男にも昼メシ食べさせにゃ………"
+                }
+            ],
+            "uri": "at://did:plc:qfptxwxmo5dx2rd3pn7dg4rm/app.bsky.feed.post/3lbvmpgx7ok2c",
+            "label": [
+                0.5313955545425415,
+                0.624472439289093,
+                0.6729978919029236,
+                0.5245614647865295,
+                0.5663208365440369,
+                0.5936192870140076,
+                0.6390396952629089,
+                0.5217462182044983
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 1,
+                    "utter": "まさにそれですね😂\n今日は念の為発熱後二日目も休んだ次男にも昼メシ食べさせにゃ………"
+                },
+                {
+                    "author": "did:plc:edqphdihc4lu5ah3bevzijfi",
+                    "type": 2,
+                    "utter": "(ゴロゴロ→甘うま～💕で肥えそうだけど😂そんな日もあって欲しい…🤭)\nインフルも流行ってるようだし、次男くんもTUKAさんもお大事に😌💗🍀"
+                },
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 3,
+                    "utter": "次男医者には行ったものの詳しい検査はなくとりあえず可能性はあるからマイコプラズマの抗生剤も出しとくねとなったので暫定ただの風邪です😂物凄く元気だし（笑）"
+                }
+            ],
+            "uri": "at://did:plc:qfptxwxmo5dx2rd3pn7dg4rm/app.bsky.feed.post/3lbw5lsjkxs2r",
+            "label": [
+                0.5798918604850769,
+                0.6695441007614136,
+                0.5326918363571167,
+                0.584166944026947,
+                0.4988860785961151,
+                0.6384116411209106,
+                0.5752599835395813,
+                0.5168231129646301
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 1,
+                    "utter": "次男医者には行ったものの詳しい検査はなくとりあえず可能性はあるからマイコプラズマの抗生剤も出しとくねとなったので暫定ただの風邪です😂物凄く元気だし（笑）"
+                },
+                {
+                    "author": "did:plc:edqphdihc4lu5ah3bevzijfi",
+                    "type": 2,
+                    "utter": "検査なし…？😅\nとりあえず元気そうでなにより～︎︎👍🏻😆\n大人の私達こそ気をつけませうw"
+                },
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 3,
+                    "utter": "今明らかに重篤そうならしてくれるんですが明らかに元気そうだったのでしてくれないのです\n薬も検査薬も足りないから💦"
+                }
+            ],
+            "uri": "at://did:plc:qfptxwxmo5dx2rd3pn7dg4rm/app.bsky.feed.post/3lbwkwmw4dc2l",
+            "label": [
+                0.5047479271888733,
+                0.7171063423156738,
+                0.5665721893310547,
+                0.518735408782959,
+                0.5338051915168762,
+                0.7301256656646729,
+                0.6363606452941895,
+                0.5123021006584167
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 1,
+                    "utter": "今明らかに重篤そうならしてくれるんですが明らかに元気そうだったのでしてくれないのです\n薬も検査薬も足りないから💦"
+                },
+                {
+                    "author": "did:plc:edqphdihc4lu5ah3bevzijfi",
+                    "type": 2,
+                    "utter": "あらら…🥺\n医療の現場は大変そうね💦"
+                },
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 3,
+                    "utter": "以前頂いてた咳止めの薬も不足で別のものに代替になってましたね💦"
+                }
+            ],
+            "uri": "at://did:plc:qfptxwxmo5dx2rd3pn7dg4rm/app.bsky.feed.post/3lbxrjsflzs2v",
+            "label": [
+                0.50433349609375,
+                0.6942048668861389,
+                0.5478101372718811,
+                0.5726531147956848,
+                0.49059194326400757,
+                0.5539090037345886,
+                0.5227289199829102,
+                0.49527257680892944
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 1,
+                    "utter": "横入りしてスミマセン\n\nその時は（尚陽でも驍李でも）1枚イラスト描かせてくれると嬉しいです…🥰🥰🥰"
+                },
+                {
+                    "author": "did:plc:ybyxfstvechhvpo3jgiltbue",
+                    "type": 2,
+                    "utter": "え？天使なんですか？？？\n絶対、本出さないと✊✨"
+                },
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 3,
+                    "utter": "🤣\nいや、私欲の塊ですが…"
+                }
+            ],
+            "uri": "at://did:plc:qfptxwxmo5dx2rd3pn7dg4rm/app.bsky.feed.post/3lbwnlm74bk2l",
+            "label": [
+                0.5113298892974854,
+                0.6690775752067566,
+                0.5526620149612427,
+                0.536688506603241,
+                0.4996884763240814,
+                0.6221504807472229,
+                0.6604964137077332,
+                0.4857853651046753
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 1,
+                    "utter": "横入りしてスミマセン\n\nその時は（尚陽でも驍李でも）1枚イラスト描かせてくれると嬉しいです…🥰🥰🥰"
+                },
+                {
+                    "author": "did:plc:wvrxcowsq3z4aunijjtcc7hr",
+                    "type": 2,
+                    "utter": "わ〜！！ありがとうございます😭"
+                },
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 3,
+                    "utter": "是非呼んで下さい…！"
+                }
+            ],
+            "uri": "at://did:plc:qfptxwxmo5dx2rd3pn7dg4rm/app.bsky.feed.post/3lbwnml3twc2l",
+            "label": [
+                0.5937214493751526,
+                0.5410854816436768,
+                0.856829047203064,
+                0.5156383514404297,
+                0.5069553256034851,
+                0.5208725333213806,
+                0.4915052056312561,
+                0.5030308961868286
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 1,
+                    "utter": "わぁめっちゃ嬉しいです🥰✨ありがとうございます！\nスランプだからか線を整える気力が湧かず…😂"
+                },
+                {
+                    "author": "did:plc:iiqcngbk5ocvhvgypotmnsfw",
+                    "type": 2,
+                    "utter": "そういうときありますよね😵\n私もワンドロやっても1時間かけて糸くずしか出来上がらなかったことあります💣"
+                },
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 3,
+                    "utter": "おおう………\n\nこのまま意欲が消え入ってしまったらどうしようと思いつつこれくらいの落描きをちらほら上げる垢になってしまいそうです😂"
+                }
+            ],
+            "uri": "at://did:plc:qfptxwxmo5dx2rd3pn7dg4rm/app.bsky.feed.post/3lbvdup5x5s2l",
+            "label": [
+                0.5165210366249084,
+                0.6654013395309448,
+                0.5602079629898071,
+                0.5205121636390686,
+                0.48014017939567566,
+                0.7462393641471863,
+                0.5575851798057556,
+                0.49055591225624084
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 1,
+                    "utter": "おおう………\n\nこのまま意欲が消え入ってしまったらどうしようと思いつつこれくらいの落描きをちらほら上げる垢になってしまいそうです😂"
+                },
+                {
+                    "author": "did:plc:iiqcngbk5ocvhvgypotmnsfw",
+                    "type": 2,
+                    "utter": "私普段あげてるの、カラーでもこのくらいですがな・・・😂"
+                },
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 3,
+                    "utter": "何言うてはりますのん😳"
+                }
+            ],
+            "uri": "at://did:plc:qfptxwxmo5dx2rd3pn7dg4rm/app.bsky.feed.post/3lbve2hhitk2l",
+            "label": [
+                0.5466858148574829,
+                0.5495854020118713,
+                0.6001870036125183,
+                0.5300742983818054,
+                0.5122959017753601,
+                0.52789705991745,
+                0.5438238978385925,
+                0.5162486433982849
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 1,
+                    "utter": "何言うてはりますのん😳"
+                },
+                {
+                    "author": "did:plc:iiqcngbk5ocvhvgypotmnsfw",
+                    "type": 2,
+                    "utter": "結構荒いしね😂\n線つながってないとかよくありますわ"
+                },
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 3,
+                    "utter": "んむむ…確かにクロネジさんの絵にはあるような気はしますが、あまり気にならないですね😁"
+                }
+            ],
+            "uri": "at://did:plc:qfptxwxmo5dx2rd3pn7dg4rm/app.bsky.feed.post/3lbvjh6h7j22c",
+            "label": [
+                0.5455663204193115,
+                0.5106787085533142,
+                0.5982160568237305,
+                0.5434861779212952,
+                0.49265214800834656,
+                0.5664542317390442,
+                0.5316591262817383,
+                0.5014087557792664
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 1,
+                    "utter": "んむむ…確かにクロネジさんの絵にはあるような気はしますが、あまり気にならないですね😁"
+                },
+                {
+                    "author": "did:plc:iiqcngbk5ocvhvgypotmnsfw",
+                    "type": 2,
+                    "utter": "それがレギュラースタイル（それもどうだ？？）💣"
+                },
+                {
+                    "author": "did:plc:qfptxwxmo5dx2rd3pn7dg4rm",
+                    "type": 3,
+                    "utter": "私もこのくらいのラフさが私の絵と浸透させれば毎回これで…！"
+                }
+            ],
+            "uri": "at://did:plc:qfptxwxmo5dx2rd3pn7dg4rm/app.bsky.feed.post/3lbvqtp3ir22k",
+            "label": [
+                0.569962203502655,
+                0.5104267001152039,
+                0.8258891105651855,
+                0.528724730014801,
+                0.5101089477539062,
+                0.5461068153381348,
+                0.5046205520629883,
+                0.5315721035003662
+            ]
+        }
+    ]
+}

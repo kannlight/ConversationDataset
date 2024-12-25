@@ -1,0 +1,454 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 1,
+                    "utter": "(n╹ω╹)喉やられ侍"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "|ｮω･`)っﾘｭｳｶｸｻﾝﾀﾞｲﾚｸﾄ"
+                },
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 3,
+                    "utter": "(n╹ω╹)ダイレクトって粒っていうか粉っていうかやつだっけ？\nアレ割トスキーゴルバチョフ"
+                }
+            ],
+            "uri": "at://did:plc:hitymkiyanfhevv57rlje6gh/app.bsky.feed.post/3lbzakifol22p",
+            "label": [
+                0.5107067227363586,
+                0.5437050461769104,
+                0.5735263228416443,
+                0.6082451343536377,
+                0.5142001509666443,
+                0.5646198391914368,
+                0.5653021335601807,
+                0.5110965371131897
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 1,
+                    "utter": "(n╹ω╹)ダイレクトって粒っていうか粉っていうかやつだっけ？\nアレ割トスキーゴルバチョフ"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "なんかそんな感じ！\n味とかもあった？"
+                },
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 3,
+                    "utter": "(n╹ω╹)味は覚えてないなー\nサラーっと入っていくから\n(コレほんとに効くんか？)\n感はあるる"
+                }
+            ],
+            "uri": "at://did:plc:hitymkiyanfhevv57rlje6gh/app.bsky.feed.post/3lbzanqy5ic2p",
+            "label": [
+                0.6110802888870239,
+                0.5214572548866272,
+                0.6999712586402893,
+                0.5170212388038635,
+                0.49967846274375916,
+                0.5316140651702881,
+                0.5056300759315491,
+                0.5239217877388
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 1,
+                    "utter": "(n╹ω╹)やっぱヴィックスよね〜\n溶けるの他のより早い気がする(多分それくらいレロレロしてる)"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "味も美味しいしね(*´⚰︎`*﻿)"
+                },
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 3,
+                    "utter": "(n╹ω╹)明日仕事中にひと袋舐めきってきます"
+                }
+            ],
+            "uri": "at://did:plc:hitymkiyanfhevv57rlje6gh/app.bsky.feed.post/3lbzbe6crdk2p",
+            "label": [
+                0.5293846726417542,
+                0.5728136897087097,
+                0.6244471073150635,
+                0.5214920043945312,
+                0.5079904794692993,
+                0.5672410726547241,
+                0.5163092017173767,
+                0.488743394613266
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 1,
+                    "utter": "(n╹ω╹)またウィンドウショッピング病が…\n無限にヘッドホン見てまう"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "なんかいいヘッドセットほすぃ"
+                },
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 3,
+                    "utter": "(n╹ω╹)使ってないやつ10個近くあるわ…\n最近はヘッドホンばっかりでヘッドセットは買わなくなっちゃったからなぁ\n値段無視でマイク音質も最強なのはやっぱA50Xなのかなー"
+                }
+            ],
+            "uri": "at://did:plc:hitymkiyanfhevv57rlje6gh/app.bsky.feed.post/3lapgitpf5s27",
+            "label": [
+                0.5258092880249023,
+                0.5584267377853394,
+                0.647810161113739,
+                0.5737743973731995,
+                0.5160854458808899,
+                0.5682370662689209,
+                0.4958735704421997,
+                0.5232678055763245
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 1,
+                    "utter": "(n╹ω╹)使ってないやつ10個近くあるわ…\n最近はヘッドホンばっかりでヘッドセットは買わなくなっちゃったからなぁ\n値段無視でマイク音質も最強なのはやっぱA50Xなのかなー"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "式さんおはよー(⁎⁍̴̛ᴗ⁍̴̛⁎)\nマイク別にした方がいいかしらねぇ？\nPS5なんだけど。\nPCと併用してるからイカれたのかしら？"
+                },
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 3,
+                    "utter": "(n╹ω╹)おはおは\n質にこだわるなら別の方が良いし便利かなとは思うなー\nその分高くつくケド…\n併用で壊れるって事は無いと思うけど、頻繁な抜き差しは劣化の一助になるからねぇ"
+                }
+            ],
+            "uri": "at://did:plc:hitymkiyanfhevv57rlje6gh/app.bsky.feed.post/3lapgx5rgrk27",
+            "label": [
+                0.5387365221977234,
+                0.5539361238479614,
+                0.612139880657196,
+                0.5111576914787292,
+                0.5057077407836914,
+                0.5945059061050415,
+                0.5461748242378235,
+                0.5176737904548645
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 1,
+                    "utter": "(n╹ω╹)おはおは\n質にこだわるなら別の方が良いし便利かなとは思うなー\nその分高くつくケド…\n併用で壊れるって事は無いと思うけど、頻繁な抜き差しは劣化の一助になるからねぇ"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "頻繁に抜いたり入れたりしてた！\n入れたり抜いたりもしてた！\n配信する訳じゃないから質はこだわらないけど、でも来年からライブ垂れ流しでやろうかなとは思ってた。"
+                },
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 3,
+                    "utter": "(n╹ω╹)なるほど\nかなり卑猥な使い方をしていた…と\nでもVCするならマイクの音質は良い方が相手も嬉しいのでは？\n配信機材は拘るとマジで散財するのでお気をつけあさーせ…"
+                }
+            ],
+            "uri": "at://did:plc:hitymkiyanfhevv57rlje6gh/app.bsky.feed.post/3laphiua3j227",
+            "label": [
+                0.5227105021476746,
+                0.5915260314941406,
+                0.5966866612434387,
+                0.5504649877548218,
+                0.5322492122650146,
+                0.6364337801933289,
+                0.6253694295883179,
+                0.497060626745224
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 1,
+                    "utter": "(n╹ω╹)なるほど\nかなり卑猥な使い方をしていた…と\nでもVCするならマイクの音質は良い方が相手も嬉しいのでは？\n配信機材は拘るとマジで散財するのでお気をつけあさーせ…"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "ありがと式さん✨\nこだわれるほど机上が広くないけど、こだわりそうな予感…"
+                },
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 3,
+                    "utter": "(n╹ω╹)私も超狭い空間にPC2台置いてモニター4枚設置して他にもごちゃごちゃ色々ある中でやってるのでへーきへーき！"
+                }
+            ],
+            "uri": "at://did:plc:hitymkiyanfhevv57rlje6gh/app.bsky.feed.post/3laphtsckys27",
+            "label": [
+                0.7584511041641235,
+                0.5172793865203857,
+                0.7959959506988525,
+                0.5614249110221863,
+                0.502778947353363,
+                0.531941294670105,
+                0.5126291513442993,
+                0.5316188335418701
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 1,
+                    "utter": "(n╹ω╹)私も超狭い空間にPC2台置いてモニター4枚設置して他にもごちゃごちゃ色々ある中でやってるのでへーきへーき！"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "PC2台いいなぁ(´・ω・｀)\nモニター4枚もいいなぁ(´・ω・｀)"
+                },
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 3,
+                    "utter": "(n╹ω╹)ヘッドセット然り、近場だったら買い換えた時お下がり譲渡するのだけどねぇ"
+                }
+            ],
+            "uri": "at://did:plc:hitymkiyanfhevv57rlje6gh/app.bsky.feed.post/3lapt3rgtrk27",
+            "label": [
+                0.535344123840332,
+                0.5331300497055054,
+                0.6988472938537598,
+                0.5368954539299011,
+                0.49556535482406616,
+                0.541506290435791,
+                0.5115892291069031,
+                0.5084930658340454
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 1,
+                    "utter": "(n╹ω╹)お昼どーしよ\n自分の食べたいものがわからない…"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "ラーヌン"
+                },
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 3,
+                    "utter": "(n╹ω╹)安定のマックにしましたわー\n外出たくないなのー"
+                }
+            ],
+            "uri": "at://did:plc:hitymkiyanfhevv57rlje6gh/app.bsky.feed.post/3lakwtemvmc2r",
+            "label": [
+                0.550898015499115,
+                0.5780781507492065,
+                0.6343598961830139,
+                0.5058289766311646,
+                0.5046825408935547,
+                0.5548647046089172,
+                0.5311776995658875,
+                0.4919424057006836
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 1,
+                    "utter": "(n╹ω╹)安定のマックにしましたわー\n外出たくないなのー"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "うちは田舎だから外でないとマック食べらんないんだからねっ( ˘•ω•˘ )"
+                },
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 3,
+                    "utter": "(n╹ω╹)デリバリー無いのか…!!\n割高だけれどデリバリー楽過ぎてのぅ"
+                }
+            ],
+            "uri": "at://did:plc:hitymkiyanfhevv57rlje6gh/app.bsky.feed.post/3lakww37onk2r",
+            "label": [
+                0.605197012424469,
+                0.5911046862602234,
+                0.5613068342208862,
+                0.6585370302200317,
+                0.5149312615394592,
+                0.5574067234992981,
+                0.5176426768302917,
+                0.5012162923812866
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 1,
+                    "utter": "(n╹ω╹)デリバリー無いのか…!!\n割高だけれどデリバリー楽過ぎてのぅ"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "ないよぉ(⚭-⚭ )\n唯一ピザだけ来る"
+                },
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 3,
+                    "utter": "(n╹ω╹)あー、さすがにピザはあるのかー\nでもピザも持ち帰りの方がお得だったりするからな〜\nちょ、ささみんこっちまでうどん届けて〜"
+                }
+            ],
+            "uri": "at://did:plc:hitymkiyanfhevv57rlje6gh/app.bsky.feed.post/3lakxczch2s2r",
+            "label": [
+                0.5836788415908813,
+                0.5772311687469482,
+                0.812350869178772,
+                0.5161632895469666,
+                0.4935114085674286,
+                0.5244326591491699,
+                0.4925726652145386,
+                0.5215286612510681
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 1,
+                    "utter": "(n╹ω╹)あー、さすがにピザはあるのかー\nでもピザも持ち帰りの方がお得だったりするからな〜\nちょ、ささみんこっちまでうどん届けて〜"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "そなのよー取りに行った方がお得だから取りに行くのよー\nうどんは時間経つと美味くねぇから、式さんが来いください"
+                },
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 3,
+                    "utter": "(n╹ω╹)遠いな〜\nうどん食べてささみん気絶させて日帰りか〜"
+                }
+            ],
+            "uri": "at://did:plc:hitymkiyanfhevv57rlje6gh/app.bsky.feed.post/3lakxi4x7ac2r",
+            "label": [
+                0.5531044602394104,
+                0.6211634278297424,
+                0.6050100326538086,
+                0.5520265698432922,
+                0.49634629487991333,
+                0.5410850644111633,
+                0.5287264585494995,
+                0.48788365721702576
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 1,
+                    "utter": "(n╹ω╹)遠いな〜\nうどん食べてささみん気絶させて日帰りか〜"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "飛行機なら早いよ"
+                },
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 3,
+                    "utter": "(n╹ω╹)空か\n20年くらい乗ってないし確かに乗ってみたさはある…"
+                }
+            ],
+            "uri": "at://did:plc:hitymkiyanfhevv57rlje6gh/app.bsky.feed.post/3lakxz5j45c2q",
+            "label": [
+                0.5414822697639465,
+                0.5309887528419495,
+                0.5937902331352234,
+                0.5993096828460693,
+                0.5079953670501709,
+                0.5709702372550964,
+                0.5160167217254639,
+                0.5074561834335327
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 1,
+                    "utter": "(n╹ω╹)おう旅費はキッチリ頂くでぇ"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "式さん家に行くから気絶したら泊めてくださいwwww"
+                },
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 3,
+                    "utter": "(n╹ω╹)拙者、お片付けできない侍と申す\n家きったねぇから却下！"
+                }
+            ],
+            "uri": "at://did:plc:hitymkiyanfhevv57rlje6gh/app.bsky.feed.post/3laeauxtwrb24",
+            "label": [
+                0.5296276807785034,
+                0.6827093958854675,
+                0.47730687260627747,
+                0.5710881352424622,
+                0.6350753903388977,
+                0.6103039979934692,
+                0.7106246948242188,
+                0.484188973903656
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 1,
+                    "utter": "(n╹ω╹)人間関係に関しては私もかなりドライな方で、過去2回くらい自分のコミュニティとそれに携わる人達全員切ってるのでねぇ\n部品変えるどころか歯車捨ててる感じかなァ"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "だよねぇ？\n1度歪んだ歯車って二度と噛み合わないよね。\nでも相手はそのうち直るから、噛み合うまで時間あるし気長に待とうって言うのさ。"
+                },
+                {
+                    "author": "did:plc:hitymkiyanfhevv57rlje6gh",
+                    "type": 3,
+                    "utter": "(n╹ω╹)あーもー面倒くさいわーもうええわーじゃあのー\nって感じで捨ててきたからなぁ〜\n特に相手の言い分とか聞く余地も無くサヨナラするのがホント楽ですわオホホ"
+                }
+            ],
+            "uri": "at://did:plc:hitymkiyanfhevv57rlje6gh/app.bsky.feed.post/3laecgbdsxr2n",
+            "label": [
+                0.647213876247406,
+                0.6166811585426331,
+                0.6424157023429871,
+                0.4688078761100769,
+                0.5251378417015076,
+                0.5440000295639038,
+                0.6074659824371338,
+                0.5228055715560913
+            ]
+        }
+    ]
+}

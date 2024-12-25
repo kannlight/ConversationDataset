@@ -1,0 +1,484 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 1,
+                    "utter": "100万"
+                },
+                {
+                    "author": "did:plc:5efcg2xuf3cyyxxccspmkp5w",
+                    "type": 2,
+                    "utter": "高いな"
+                },
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 3,
+                    "utter": "(・⊿・)ｹｯ"
+                }
+            ],
+            "uri": "at://did:plc:3onqklzx5qsbmzsyi6d7hvfg/app.bsky.feed.post/3lbmejpzeds2c",
+            "label": [
+                0.5590465068817139,
+                0.5412517189979553,
+                0.5233381986618042,
+                0.5454111099243164,
+                0.49650418758392334,
+                0.504096508026123,
+                0.5204189419746399,
+                0.5019493699073792
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 1,
+                    "utter": "(・⊿・)ｹｯ"
+                },
+                {
+                    "author": "did:plc:5efcg2xuf3cyyxxccspmkp5w",
+                    "type": 2,
+                    "utter": "性格が黒だな"
+                },
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 3,
+                    "utter": "クス 君、違うキャラの方合いそう"
+                }
+            ],
+            "uri": "at://did:plc:3onqklzx5qsbmzsyi6d7hvfg/app.bsky.feed.post/3lbwork4iz22f",
+            "label": [
+                0.5177042484283447,
+                0.5031427145004272,
+                0.7009555697441101,
+                0.569122850894928,
+                0.49296483397483826,
+                0.510035514831543,
+                0.513529360294342,
+                0.5162442326545715
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 1,
+                    "utter": "クス 君、違うキャラの方合いそう"
+                },
+                {
+                    "author": "did:plc:5efcg2xuf3cyyxxccspmkp5w",
+                    "type": 2,
+                    "utter": "例えば？"
+                },
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 3,
+                    "utter": "んー、先生とかいんじゃね？"
+                }
+            ],
+            "uri": "at://did:plc:3onqklzx5qsbmzsyi6d7hvfg/app.bsky.feed.post/3lbwr4ysqhs24",
+            "label": [
+                0.5229937434196472,
+                0.5378429889678955,
+                0.5630707740783691,
+                0.6484327912330627,
+                0.53293776512146,
+                0.5249013304710388,
+                0.5920083522796631,
+                0.5133780241012573
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 1,
+                    "utter": "んー、先生とかいんじゃね？"
+                },
+                {
+                    "author": "did:plc:5efcg2xuf3cyyxxccspmkp5w",
+                    "type": 2,
+                    "utter": "何の先生だ？"
+                },
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 3,
+                    "utter": "それはわかんない"
+                }
+            ],
+            "uri": "at://did:plc:3onqklzx5qsbmzsyi6d7hvfg/app.bsky.feed.post/3lbwrve7ylk2i",
+            "label": [
+                0.5004592537879944,
+                0.6263124346733093,
+                0.5128567814826965,
+                0.5268241763114929,
+                0.49433383345603943,
+                0.6053250432014465,
+                0.6041394472122192,
+                0.5118753910064697
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 1,
+                    "utter": "ふーん"
+                },
+                {
+                    "author": "did:plc:5efcg2xuf3cyyxxccspmkp5w",
+                    "type": 2,
+                    "utter": "おはよう鈴谷"
+                },
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 3,
+                    "utter": "ちっすー"
+                }
+            ],
+            "uri": "at://did:plc:3onqklzx5qsbmzsyi6d7hvfg/app.bsky.feed.post/3laidah3tsd25",
+            "label": [
+                0.6287387013435364,
+                0.531420886516571,
+                0.5129834413528442,
+                0.5394076108932495,
+                0.5003910064697266,
+                0.48859697580337524,
+                0.5106568336486816,
+                0.5104089379310608
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 1,
+                    "utter": "ちっすー"
+                },
+                {
+                    "author": "did:plc:5efcg2xuf3cyyxxccspmkp5w",
+                    "type": 2,
+                    "utter": "元気だな(頭撫で"
+                },
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 3,
+                    "utter": "ふふーん"
+                }
+            ],
+            "uri": "at://did:plc:3onqklzx5qsbmzsyi6d7hvfg/app.bsky.feed.post/3laidtcdlen2c",
+            "label": [
+                0.5608547925949097,
+                0.5694139003753662,
+                0.5405410528182983,
+                0.5217181444168091,
+                0.4942401051521301,
+                0.5005288124084473,
+                0.5420712828636169,
+                0.49087029695510864
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 1,
+                    "utter": "ふふーん"
+                },
+                {
+                    "author": "did:plc:5efcg2xuf3cyyxxccspmkp5w",
+                    "type": 2,
+                    "utter": "暇なのか？"
+                },
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 3,
+                    "utter": "そーだよ"
+                }
+            ],
+            "uri": "at://did:plc:3onqklzx5qsbmzsyi6d7hvfg/app.bsky.feed.post/3laie6ju6cr2h",
+            "label": [
+                0.47778505086898804,
+                0.6613841652870178,
+                0.5148964524269104,
+                0.5639805197715759,
+                0.5409735441207886,
+                0.5541110634803772,
+                0.7000173926353455,
+                0.49185436964035034
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 1,
+                    "utter": "そーだよ"
+                },
+                {
+                    "author": "did:plc:5efcg2xuf3cyyxxccspmkp5w",
+                    "type": 2,
+                    "utter": "遊ぶか？"
+                },
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 3,
+                    "utter": "いいけど"
+                }
+            ],
+            "uri": "at://did:plc:3onqklzx5qsbmzsyi6d7hvfg/app.bsky.feed.post/3laiebhhmey2b",
+            "label": [
+                0.5500486493110657,
+                0.5907225012779236,
+                0.5819829702377319,
+                0.517732560634613,
+                0.5036134719848633,
+                0.5172008275985718,
+                0.5863646864891052,
+                0.49858322739601135
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 1,
+                    "utter": "イクイク～♡"
+                },
+                {
+                    "author": "did:plc:5efcg2xuf3cyyxxccspmkp5w",
+                    "type": 2,
+                    "utter": "なら行くぞ。近場だから歩きでな(歩き始め"
+                },
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 3,
+                    "utter": "いえーい！"
+                }
+            ],
+            "uri": "at://did:plc:3onqklzx5qsbmzsyi6d7hvfg/app.bsky.feed.post/3l6x75gxzgn2g",
+            "label": [
+                0.8124192953109741,
+                0.516559898853302,
+                0.5206944346427917,
+                0.7860447764396667,
+                0.5059962272644043,
+                0.513452410697937,
+                0.5179616808891296,
+                0.5223605632781982
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 1,
+                    "utter": "いえーい！"
+                },
+                {
+                    "author": "did:plc:5efcg2xuf3cyyxxccspmkp5w",
+                    "type": 2,
+                    "utter": "ここの焼き肉だ(叙々苑に着いて)"
+                },
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 3,
+                    "utter": "わーい！"
+                }
+            ],
+            "uri": "at://did:plc:3onqklzx5qsbmzsyi6d7hvfg/app.bsky.feed.post/3l73yqsqsga2m",
+            "label": [
+                0.7367385029792786,
+                0.537738561630249,
+                0.4836084246635437,
+                0.6959630250930786,
+                0.5109228491783142,
+                0.5295239686965942,
+                0.5664210319519043,
+                0.49954527616500854
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 1,
+                    "utter": "わーい！"
+                },
+                {
+                    "author": "did:plc:5efcg2xuf3cyyxxccspmkp5w",
+                    "type": 2,
+                    "utter": "席に座り)好きなだけ食え、まずはカルビにするか？"
+                },
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 3,
+                    "utter": "うんうん！そうしよー？"
+                }
+            ],
+            "uri": "at://did:plc:3onqklzx5qsbmzsyi6d7hvfg/app.bsky.feed.post/3l743n436i42a",
+            "label": [
+                0.5493101477622986,
+                0.5232120752334595,
+                0.6684396862983704,
+                0.5564848184585571,
+                0.5118013024330139,
+                0.5266875624656677,
+                0.5007386207580566,
+                0.4983375668525696
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 1,
+                    "utter": "うんうん！そうしよー？"
+                },
+                {
+                    "author": "did:plc:5efcg2xuf3cyyxxccspmkp5w",
+                    "type": 2,
+                    "utter": "じゃあ適当に頼むか(カルビ2人前と牛タンと塩ホルモンを注文)\n後で追加していいからな？"
+                },
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 3,
+                    "utter": "うえーい♪♡"
+                }
+            ],
+            "uri": "at://did:plc:3onqklzx5qsbmzsyi6d7hvfg/app.bsky.feed.post/3l743ujnu5u2m",
+            "label": [
+                0.8518783450126648,
+                0.5270025134086609,
+                0.4674892723560333,
+                0.6429557800292969,
+                0.4994928538799286,
+                0.47338956594467163,
+                0.5096560716629028,
+                0.5117798447608948
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 1,
+                    "utter": "よかったじゃん？"
+                },
+                {
+                    "author": "did:plc:hm7gfpky44fck4bkdisqbtrd",
+                    "type": 2,
+                    "utter": "たまにはこうしたのも楽しむのだ←"
+                },
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 3,
+                    "utter": "ふふん、いいじゃん？"
+                }
+            ],
+            "uri": "at://did:plc:3onqklzx5qsbmzsyi6d7hvfg/app.bsky.feed.post/3l6pnqirofo2q",
+            "label": [
+                0.7426901459693909,
+                0.4944077134132385,
+                0.5959947109222412,
+                0.5715810060501099,
+                0.49018383026123047,
+                0.49811604619026184,
+                0.5312924385070801,
+                0.5412672758102417
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 1,
+                    "utter": "ふふん、いいじゃん？"
+                },
+                {
+                    "author": "did:plc:hm7gfpky44fck4bkdisqbtrd",
+                    "type": 2,
+                    "utter": "鈴谷ちゃんも一緒に←"
+                },
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 3,
+                    "utter": "いーよ？"
+                }
+            ],
+            "uri": "at://did:plc:3onqklzx5qsbmzsyi6d7hvfg/app.bsky.feed.post/3l6qji4mtma2m",
+            "label": [
+                0.5192350745201111,
+                0.6655682325363159,
+                0.5158029198646545,
+                0.5539223551750183,
+                0.5111364722251892,
+                0.5531995892524719,
+                0.6573673486709595,
+                0.487606018781662
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 1,
+                    "utter": "いーよ？"
+                },
+                {
+                    "author": "did:plc:hm7gfpky44fck4bkdisqbtrd",
+                    "type": 2,
+                    "utter": "やったー！"
+                },
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 3,
+                    "utter": "( ﹡ˆᵕˆ﹡ )"
+                }
+            ],
+            "uri": "at://did:plc:3onqklzx5qsbmzsyi6d7hvfg/app.bsky.feed.post/3l6w3pfqszk2s",
+            "label": [
+                0.5615857243537903,
+                0.5546836853027344,
+                0.574221134185791,
+                0.5138883590698242,
+                0.4796622693538666,
+                0.5191135406494141,
+                0.48552945256233215,
+                0.5061836242675781
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 1,
+                    "utter": "( ﹡ˆᵕˆ﹡ )"
+                },
+                {
+                    "author": "did:plc:hm7gfpky44fck4bkdisqbtrd",
+                    "type": 2,
+                    "utter": "そして一緒にもふもふ←"
+                },
+                {
+                    "author": "did:plc:3onqklzx5qsbmzsyi6d7hvfg",
+                    "type": 3,
+                    "utter": "いいよ？"
+                }
+            ],
+            "uri": "at://did:plc:3onqklzx5qsbmzsyi6d7hvfg/app.bsky.feed.post/3l7azfmmikr2e",
+            "label": [
+                0.7278527021408081,
+                0.5133124589920044,
+                0.5943318009376526,
+                0.563652753829956,
+                0.503125786781311,
+                0.49159207940101624,
+                0.5391995906829834,
+                0.5275465250015259
+            ]
+        }
+    ]
+}

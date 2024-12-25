@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 1,
+                    "utter": "あそびーましょ！"
+                },
+                {
+                    "author": "did:plc:tpgn53sjrndiiuv5vgtwcdle",
+                    "type": 2,
+                    "utter": "PSでできるやつもってたっけ？"
+                },
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 3,
+                    "utter": "あかん持ってないわ😇オワタごめんね"
+                }
+            ],
+            "uri": "at://did:plc:p724mb4g7azy6tarbhj7qw33/app.bsky.feed.post/3lbk3ppxlbk2o",
+            "label": [
+                0.5265897512435913,
+                0.7340591549873352,
+                0.5051886439323425,
+                0.5291480422019958,
+                0.5021378397941589,
+                0.5191250443458557,
+                0.5917502045631409,
+                0.5094099640846252
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 1,
+                    "utter": "あかん持ってないわ😇オワタごめんね"
+                },
+                {
+                    "author": "did:plc:tpgn53sjrndiiuv5vgtwcdle",
+                    "type": 2,
+                    "utter": "🥲"
+                },
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 3,
+                    "utter": "すまねぇ🥲何する予定ー？"
+                }
+            ],
+            "uri": "at://did:plc:p724mb4g7azy6tarbhj7qw33/app.bsky.feed.post/3lbk3xoji7s2o",
+            "label": [
+                0.5040008425712585,
+                0.5283105969429016,
+                0.7006546854972839,
+                0.5504082441329956,
+                0.5115230679512024,
+                0.5601564049720764,
+                0.522248387336731,
+                0.4911070764064789
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 1,
+                    "utter": "すまねぇ🥲何する予定ー？"
+                },
+                {
+                    "author": "did:plc:tpgn53sjrndiiuv5vgtwcdle",
+                    "type": 2,
+                    "utter": "なんでも！"
+                },
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 3,
+                    "utter": "今後に備えて買うかー"
+                }
+            ],
+            "uri": "at://did:plc:p724mb4g7azy6tarbhj7qw33/app.bsky.feed.post/3lbk4apbms22o",
+            "label": [
+                0.546919047832489,
+                0.4951890707015991,
+                0.7696081399917603,
+                0.4908270835876465,
+                0.48822370171546936,
+                0.526152491569519,
+                0.4792395830154419,
+                0.498714417219162
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 1,
+                    "utter": "今後に備えて買うかー"
+                },
+                {
+                    "author": "did:plc:tpgn53sjrndiiuv5vgtwcdle",
+                    "type": 2,
+                    "utter": "普段ゲームやらないならもったいないよー"
+                },
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 3,
+                    "utter": "ゲーム下手なんだよねーおじいちゃん👴"
+                }
+            ],
+            "uri": "at://did:plc:p724mb4g7azy6tarbhj7qw33/app.bsky.feed.post/3lbk4fus5322o",
+            "label": [
+                0.49114781618118286,
+                0.7576403617858887,
+                0.5036129355430603,
+                0.5275514125823975,
+                0.5394940972328186,
+                0.6131005883216858,
+                0.6962834000587463,
+                0.5087808966636658
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 1,
+                    "utter": "そのまま再戦ですね？"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 2,
+                    "utter": "ベッドに戻りますね"
+                },
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 3,
+                    "utter": "相手もその気になりますね！"
+                }
+            ],
+            "uri": "at://did:plc:p724mb4g7azy6tarbhj7qw33/app.bsky.feed.post/3lb5jfbtmws2s",
+            "label": [
+                0.5650441646575928,
+                0.4670231342315674,
+                0.8001671433448792,
+                0.49808332324028015,
+                0.5069893002510071,
+                0.5008553862571716,
+                0.48700377345085144,
+                0.5106411576271057
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 1,
+                    "utter": "相手もその気になりますね！"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 2,
+                    "utter": "しめしめです"
+                },
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 3,
+                    "utter": "いーなー甘々いやエロエロな性活"
+                }
+            ],
+            "uri": "at://did:plc:p724mb4g7azy6tarbhj7qw33/app.bsky.feed.post/3lb6ko7ruek2x",
+            "label": [
+                0.7851120233535767,
+                0.5128743052482605,
+                0.6132858395576477,
+                0.4893116354942322,
+                0.49676963686943054,
+                0.5047803521156311,
+                0.5288820266723633,
+                0.5080941319465637
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 1,
+                    "utter": "いーなー甘々いやエロエロな性活"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 2,
+                    "utter": "いいよね〜\n毎日欲しいもんね"
+                },
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 3,
+                    "utter": "毎日したいですほんと🤤"
+                }
+            ],
+            "uri": "at://did:plc:p724mb4g7azy6tarbhj7qw33/app.bsky.feed.post/3lb6lavivsc2x",
+            "label": [
+                0.5103515982627869,
+                0.5517861247062683,
+                0.7597789764404297,
+                0.4995311200618744,
+                0.49531808495521545,
+                0.5135210156440735,
+                0.5594200491905212,
+                0.4980487823486328
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 1,
+                    "utter": "毎日したいですほんと🤤"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 2,
+                    "utter": "わかるー"
+                },
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 3,
+                    "utter": "お相手がいれば😭"
+                }
+            ],
+            "uri": "at://did:plc:p724mb4g7azy6tarbhj7qw33/app.bsky.feed.post/3lb6mjphnj22x",
+            "label": [
+                0.5545633435249329,
+                0.4846833050251007,
+                0.7326692342758179,
+                0.4896022081375122,
+                0.4953863024711609,
+                0.5248693823814392,
+                0.4884378910064697,
+                0.5043027400970459
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 1,
+                    "utter": "どこが？"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 2,
+                    "utter": "まんこ"
+                },
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 3,
+                    "utter": "にゅるにゅるにするあそびしたいわ"
+                }
+            ],
+            "uri": "at://did:plc:p724mb4g7azy6tarbhj7qw33/app.bsky.feed.post/3lb27ndxxe22e",
+            "label": [
+                0.5174803137779236,
+                0.6018946170806885,
+                0.6700965762138367,
+                0.5364992618560791,
+                0.6019620895385742,
+                0.545971691608429,
+                0.7138563990592957,
+                0.48900267481803894
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 1,
+                    "utter": "にゅるにゅるにするあそびしたいわ"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 2,
+                    "utter": "アタシもそれ大好き"
+                },
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 3,
+                    "utter": "最高の遊びよね👍"
+                }
+            ],
+            "uri": "at://did:plc:p724mb4g7azy6tarbhj7qw33/app.bsky.feed.post/3lb2cyux5x22j",
+            "label": [
+                0.8859615325927734,
+                0.5005424618721008,
+                0.6113697290420532,
+                0.49521368741989136,
+                0.49348926544189453,
+                0.49684029817581177,
+                0.5033889412879944,
+                0.5686866641044617
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 1,
+                    "utter": "最高の遊びよね👍"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 2,
+                    "utter": "最高すぎてヤミツキ"
+                },
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 3,
+                    "utter": "したくなる"
+                }
+            ],
+            "uri": "at://did:plc:p724mb4g7azy6tarbhj7qw33/app.bsky.feed.post/3lb2fc4cauc2c",
+            "label": [
+                0.5050716996192932,
+                0.5629175305366516,
+                0.6886026263237,
+                0.5118796825408936,
+                0.5038256049156189,
+                0.5620686411857605,
+                0.5471794605255127,
+                0.5062429904937744
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 1,
+                    "utter": "したくなる"
+                },
+                {
+                    "author": "did:plc:wjabmoap6tmyz7dwihbeow2e",
+                    "type": 2,
+                    "utter": "わかる"
+                },
+                {
+                    "author": "did:plc:p724mb4g7azy6tarbhj7qw33",
+                    "type": 3,
+                    "utter": "したいですよねー😚"
+                }
+            ],
+            "uri": "at://did:plc:p724mb4g7azy6tarbhj7qw33/app.bsky.feed.post/3lb2s5efyt222",
+            "label": [
+                0.5078698396682739,
+                0.5508458614349365,
+                0.7513487935066223,
+                0.4985578656196594,
+                0.499971866607666,
+                0.519271731376648,
+                0.5304037928581238,
+                0.49550819396972656
+            ]
+        }
+    ]
+}

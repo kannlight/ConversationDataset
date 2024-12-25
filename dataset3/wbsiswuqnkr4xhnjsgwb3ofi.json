@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 1,
+                    "utter": "地雷しかないんで暫くログアウト"
+                },
+                {
+                    "author": "did:plc:3bbt7kn3huwub57yqj345dvv",
+                    "type": 2,
+                    "utter": "( 'ω')ﾌｧｯ!?"
+                },
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 3,
+                    "utter": "ごめんね😭\n自衛とかしても湧き出てくるから今の間こうするしかなかった…🥲"
+                }
+            ],
+            "uri": "at://did:plc:wbsiswuqnkr4xhnjsgwb3ofi/app.bsky.feed.post/3lbny4trbz22s",
+            "label": [
+                0.5176501274108887,
+                0.7424877882003784,
+                0.5129809975624084,
+                0.511992335319519,
+                0.4982074499130249,
+                0.6237189173698425,
+                0.5788151621818542,
+                0.5027533173561096
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 1,
+                    "utter": "ごめんね😭\n自衛とかしても湧き出てくるから今の間こうするしかなかった…🥲"
+                },
+                {
+                    "author": "did:plc:3bbt7kn3huwub57yqj345dvv",
+                    "type": 2,
+                    "utter": "はちにゃん…( ⋰꒳​⋱ )ﾌﾞﾜｯ\nいっぱいよしよしするぅぅぅ!!!!!!!!\nﾖｼﾖｼ(｡´･ω･)ﾉﾞ"
+                },
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 3,
+                    "utter": "ありがと😭😭😭\nまた回復したら戻ってくるね🥲🥲🫰"
+                }
+            ],
+            "uri": "at://did:plc:wbsiswuqnkr4xhnjsgwb3ofi/app.bsky.feed.post/3lbnyvqowqk2h",
+            "label": [
+                0.8181183934211731,
+                0.5142894983291626,
+                0.6174697875976562,
+                0.5126462578773499,
+                0.4946080446243286,
+                0.5111908912658691,
+                0.502905011177063,
+                0.5643016695976257
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 1,
+                    "utter": "ありがと😭😭😭\nまた回復したら戻ってくるね🥲🥲🫰"
+                },
+                {
+                    "author": "did:plc:3bbt7kn3huwub57yqj345dvv",
+                    "type": 2,
+                    "utter": "待ってる‪(っ ॑꒳ ॑c)✨"
+                },
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 3,
+                    "utter": "復活したよー！！👊"
+                }
+            ],
+            "uri": "at://did:plc:wbsiswuqnkr4xhnjsgwb3ofi/app.bsky.feed.post/3lc2tm5h2xc2d",
+            "label": [
+                0.8991955518722534,
+                0.5083842277526855,
+                0.6155003905296326,
+                0.5690142512321472,
+                0.4954358637332916,
+                0.5201961994171143,
+                0.4944874048233032,
+                0.5194317698478699
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 1,
+                    "utter": "復活したよー！！👊"
+                },
+                {
+                    "author": "did:plc:3bbt7kn3huwub57yqj345dvv",
+                    "type": 2,
+                    "utter": "┣¨┣¨┣¨┣¨┣¨┣¨┣¨ ┣¨\n(〃･ω･)ﾉﾉ ｵｶｴﾘｰ♪♪"
+                },
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 3,
+                    "utter": "意外と早かったかも🤔"
+                }
+            ],
+            "uri": "at://did:plc:wbsiswuqnkr4xhnjsgwb3ofi/app.bsky.feed.post/3lc2xw5eaj22j",
+            "label": [
+                0.5650317072868347,
+                0.5173742771148682,
+                0.5515590310096741,
+                0.69185870885849,
+                0.5064423680305481,
+                0.5187004208564758,
+                0.5051932334899902,
+                0.5074467062950134
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 1,
+                    "utter": "意外と早かったかも🤔"
+                },
+                {
+                    "author": "did:plc:3bbt7kn3huwub57yqj345dvv",
+                    "type": 2,
+                    "utter": "燐音ガチャ来たからかな？🤔"
+                },
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 3,
+                    "utter": "そうかもしれない…\nガチャ禁なのにしてしまった、出から無問題︎︎👍"
+                }
+            ],
+            "uri": "at://did:plc:wbsiswuqnkr4xhnjsgwb3ofi/app.bsky.feed.post/3lc2z5drvpk27",
+            "label": [
+                0.552501916885376,
+                0.6366956233978271,
+                0.5829774141311646,
+                0.5233070850372314,
+                0.5023096799850464,
+                0.6528438329696655,
+                0.5302882194519043,
+                0.49417051672935486
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 1,
+                    "utter": "おめでと〜！！"
+                },
+                {
+                    "author": "did:plc:3bbt7kn3huwub57yqj345dvv",
+                    "type": 2,
+                    "utter": "ありがとう(*⃙⃘ˊ꒳​ˋ*⃙⃘)*ᵗᑋᵃᐢᵏ ᵞᵒᵘ ¨̮\n49回目でクリアだったww"
+                },
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 3,
+                    "utter": "結構やったね笑笑"
+                }
+            ],
+            "uri": "at://did:plc:wbsiswuqnkr4xhnjsgwb3ofi/app.bsky.feed.post/3lb4oenuyns2r",
+            "label": [
+                0.769141674041748,
+                0.4886701703071594,
+                0.47937873005867004,
+                0.6176250576972961,
+                0.48558178544044495,
+                0.5182875394821167,
+                0.4921855628490448,
+                0.5252586007118225
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 1,
+                    "utter": "結構やったね笑笑"
+                },
+                {
+                    "author": "did:plc:3bbt7kn3huwub57yqj345dvv",
+                    "type": 2,
+                    "utter": "んあああああ〜ってやってた笑"
+                },
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 3,
+                    "utter": "影片君化してる(？)"
+                }
+            ],
+            "uri": "at://did:plc:wbsiswuqnkr4xhnjsgwb3ofi/app.bsky.feed.post/3lb4t5nyzhs2k",
+            "label": [
+                0.5566390752792358,
+                0.48579370975494385,
+                0.5364125370979309,
+                0.6814280152320862,
+                0.4829765856266022,
+                0.5764386057853699,
+                0.5127187967300415,
+                0.4850190281867981
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 1,
+                    "utter": "影片君化してる(？)"
+                },
+                {
+                    "author": "did:plc:3bbt7kn3huwub57yqj345dvv",
+                    "type": 2,
+                    "utter": "え、いや気の所為さ┗=͟͟͞͞( ˙∀˙)=͟͟͞͞┛ﾜﾊﾊﾊ"
+                },
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 3,
+                    "utter": "妙だな…🤔"
+                }
+            ],
+            "uri": "at://did:plc:wbsiswuqnkr4xhnjsgwb3ofi/app.bsky.feed.post/3lb4ynzm6fc2l",
+            "label": [
+                0.5814957022666931,
+                0.545149564743042,
+                0.5221157670021057,
+                0.5956875085830688,
+                0.4924713969230652,
+                0.5628101825714111,
+                0.5535337328910828,
+                0.5086674094200134
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 1,
+                    "utter": "妙だな…🤔"
+                },
+                {
+                    "author": "did:plc:3bbt7kn3huwub57yqj345dvv",
+                    "type": 2,
+                    "utter": "(°_°;)ﾊﾗﾊﾗ(; °_°)"
+                },
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 3,
+                    "utter": "もしかして、ショコちゃんは影片くん…？😳"
+                }
+            ],
+            "uri": "at://did:plc:wbsiswuqnkr4xhnjsgwb3ofi/app.bsky.feed.post/3lb6xywxomk25",
+            "label": [
+                0.5140945911407471,
+                0.5146389007568359,
+                0.6352959871292114,
+                0.6834321618080139,
+                0.4967601001262665,
+                0.5519866347312927,
+                0.4920111894607544,
+                0.513226330280304
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 1,
+                    "utter": "めちゃ、羨ましい…🥲︎\n10連で星4全部いぶきの時もあったし、M・B合わせて8人いるからこれは、運交換するしかない😼"
+                },
+                {
+                    "author": "did:plc:3bbt7kn3huwub57yqj345dvv",
+                    "type": 2,
+                    "utter": "そんなに⁉️\nよし、交渉成立やな✌️"
+                },
+                {
+                    "author": "did:plc:wbsiswuqnkr4xhnjsgwb3ofi",
+                    "type": 3,
+                    "utter": "新手のいじめかと思った\nいぶき嫌いじゃないけどちょっと、トラウマ気味()\nやったぜ＼(^_^)／"
+                }
+            ],
+            "uri": "at://did:plc:wbsiswuqnkr4xhnjsgwb3ofi/app.bsky.feed.post/3lagmvjiwkv27",
+            "label": [
+                0.5629332661628723,
+                0.709784984588623,
+                0.5025851130485535,
+                0.5145418643951416,
+                0.46906623244285583,
+                0.6990535855293274,
+                0.6280136108398438,
+                0.5041481256484985
+            ]
+        }
+    ]
+}

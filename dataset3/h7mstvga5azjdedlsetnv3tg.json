@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 1,
+                    "utter": "長すぎるwwwwwww"
+                },
+                {
+                    "author": "did:plc:4ik4kplcpwm3etqqagh7dapb",
+                    "type": 2,
+                    "utter": "IAちゃん豆粒に見えるwww"
+                },
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 3,
+                    "utter": "IAちゃんを見下ろすなんぞ不敬だぞ！(ヒエラルキー)"
+                }
+            ],
+            "uri": "at://did:plc:h7mstvga5azjdedlsetnv3tg/app.bsky.feed.post/3lbzbm3afgk2p",
+            "label": [
+                0.5287815928459167,
+                0.5132627487182617,
+                0.4811863303184509,
+                0.6154829263687134,
+                0.6915256977081299,
+                0.5343291163444519,
+                0.7947189211845398,
+                0.5244532227516174
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 1,
+                    "utter": "IAちゃんを見下ろすなんぞ不敬だぞ！(ヒエラルキー)"
+                },
+                {
+                    "author": "did:plc:4ik4kplcpwm3etqqagh7dapb",
+                    "type": 2,
+                    "utter": "生意気な高校生だよ😠"
+                },
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 3,
+                    "utter": "IAちゃん、そいつの片側の長いとこ引っこ抜いていいぞ"
+                }
+            ],
+            "uri": "at://did:plc:h7mstvga5azjdedlsetnv3tg/app.bsky.feed.post/3lbzbxoo7522p",
+            "label": [
+                0.6413713693618774,
+                0.4969640374183655,
+                0.750498354434967,
+                0.5291044116020203,
+                0.5072406530380249,
+                0.5240558981895447,
+                0.5220123529434204,
+                0.536548912525177
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 1,
+                    "utter": "IAちゃん、そいつの片側の長いとこ引っこ抜いていいぞ"
+                },
+                {
+                    "author": "did:plc:4ik4kplcpwm3etqqagh7dapb",
+                    "type": 2,
+                    "utter": "髪の毛ビョンビョンしちゃろ"
+                },
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 3,
+                    "utter": "採用する👍"
+                }
+            ],
+            "uri": "at://did:plc:h7mstvga5azjdedlsetnv3tg/app.bsky.feed.post/3lbzc4ur77k2p",
+            "label": [
+                0.5443348288536072,
+                0.5054884552955627,
+                0.7162792086601257,
+                0.47713035345077515,
+                0.48709636926651,
+                0.49096325039863586,
+                0.4867378771305084,
+                0.5048960447311401
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 1,
+                    "utter": "採用する👍"
+                },
+                {
+                    "author": "did:plc:4ik4kplcpwm3etqqagh7dapb",
+                    "type": 2,
+                    "utter": "スパルタコーチに捕まって可哀想"
+                },
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 3,
+                    "utter": "勝たせてやりたい一心なんです……！"
+                }
+            ],
+            "uri": "at://did:plc:h7mstvga5azjdedlsetnv3tg/app.bsky.feed.post/3lbzcdf3els2p",
+            "label": [
+                0.5686702132225037,
+                0.5350762605667114,
+                0.8861990571022034,
+                0.5330715775489807,
+                0.5127352476119995,
+                0.5062032341957092,
+                0.5068431496620178,
+                0.5097984671592712
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 1,
+                    "utter": "ヤバすぎるこんな妖怪は嫌だ大賞1位"
+                },
+                {
+                    "author": "did:plc:4ik4kplcpwm3etqqagh7dapb",
+                    "type": 2,
+                    "utter": "コーチの色んなおててを集めたい✋✋✋✋✋"
+                },
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 3,
+                    "utter": "えーーと…………必要なら…………まぁ…………"
+                }
+            ],
+            "uri": "at://did:plc:h7mstvga5azjdedlsetnv3tg/app.bsky.feed.post/3lbyl7v3uoc2l",
+            "label": [
+                0.5551578402519226,
+                0.6047579050064087,
+                0.7094230651855469,
+                0.5675641298294067,
+                0.5485597252845764,
+                0.5717527866363525,
+                0.5722084045410156,
+                0.5443429350852966
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 1,
+                    "utter": "パワハラではありません、教育です"
+                },
+                {
+                    "author": "did:plc:4ik4kplcpwm3etqqagh7dapb",
+                    "type": 2,
+                    "utter": "教育教育教育教育教育教育教育教育教育教育教育教育教育教育教育教育教育教育死刑死刑死刑死刑死刑死刑死刑死刑死刑教育教育教育教育教育教育教育教育教育教育教育教育教育教育教育教育教育教育"
+                },
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 3,
+                    "utter": "からあげが小さなハートを送りましたよりも怖くね？"
+                }
+            ],
+            "uri": "at://did:plc:h7mstvga5azjdedlsetnv3tg/app.bsky.feed.post/3lbwse7k5722u",
+            "label": [
+                0.5034990310668945,
+                0.48766496777534485,
+                0.5390816926956177,
+                0.6436108946800232,
+                0.4762605130672455,
+                0.8744348883628845,
+                0.5307791233062744,
+                0.49363425374031067
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 1,
+                    "utter": "からあげが小さなハートを送りましたよりも怖くね？"
+                },
+                {
+                    "author": "did:plc:4ik4kplcpwm3etqqagh7dapb",
+                    "type": 2,
+                    "utter": "そうかな？"
+                },
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 3,
+                    "utter": "そうだよ？知らなかった？"
+                }
+            ],
+            "uri": "at://did:plc:h7mstvga5azjdedlsetnv3tg/app.bsky.feed.post/3lbwsl5uies2u",
+            "label": [
+                0.4844096899032593,
+                0.5137385725975037,
+                0.5204828381538391,
+                0.7699041962623596,
+                0.5210697650909424,
+                0.5529479384422302,
+                0.5354631543159485,
+                0.5086736083030701
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 1,
+                    "utter": "あーもしかして隣にいたのあやねぇ様だったのか……？(幻覚)"
+                },
+                {
+                    "author": "did:plc:4ik4kplcpwm3etqqagh7dapb",
+                    "type": 2,
+                    "utter": "そうだよ…！腕組んで隣で見てたのに忘れちゃったんだね😢"
+                },
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 3,
+                    "utter": "あーー確かにイルミネーションきれいすぎて忘れちゃったかもー！ー！"
+                }
+            ],
+            "uri": "at://did:plc:h7mstvga5azjdedlsetnv3tg/app.bsky.feed.post/3lbwd5cqrqs2w",
+            "label": [
+                0.6627429723739624,
+                0.7060210108757019,
+                0.5218935012817383,
+                0.7681342959403992,
+                0.4930533766746521,
+                0.538633406162262,
+                0.5349014401435852,
+                0.50673907995224
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 1,
+                    "utter": "あーー確かにイルミネーションきれいすぎて忘れちゃったかもー！ー！"
+                },
+                {
+                    "author": "did:plc:4ik4kplcpwm3etqqagh7dapb",
+                    "type": 2,
+                    "utter": "薄情なやつだな😡😡😡"
+                },
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 3,
+                    "utter": "ごめんごめん、七基と一緒に見れたんだから許して♡"
+                }
+            ],
+            "uri": "at://did:plc:h7mstvga5azjdedlsetnv3tg/app.bsky.feed.post/3lbwdoakpa22w",
+            "label": [
+                0.7675725221633911,
+                0.5578421354293823,
+                0.6341854333877563,
+                0.4623468816280365,
+                0.4965117573738098,
+                0.4864340126514435,
+                0.49508386850357056,
+                0.5640102624893188
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 1,
+                    "utter": "ごめんごめん、七基と一緒に見れたんだから許して♡"
+                },
+                {
+                    "author": "did:plc:4ik4kplcpwm3etqqagh7dapb",
+                    "type": 2,
+                    "utter": "初回限定特別サービスで許す"
+                },
+                {
+                    "author": "did:plc:h7mstvga5azjdedlsetnv3tg",
+                    "type": 3,
+                    "utter": "ෆ ෆ ෆ⸒⸒⸜( ˶'ᵕ'˶)⸝"
+                }
+            ],
+            "uri": "at://did:plc:h7mstvga5azjdedlsetnv3tg/app.bsky.feed.post/3lbwe47pstc2w",
+            "label": [
+                0.5673385858535767,
+                0.5615288615226746,
+                0.560286283493042,
+                0.49683618545532227,
+                0.46312063932418823,
+                0.5448973774909973,
+                0.5282968878746033,
+                0.4777713418006897
+            ]
+        }
+    ]
+}

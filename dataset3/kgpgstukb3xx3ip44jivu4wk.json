@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 1,
+                    "utter": "いつ私の原稿監視してくれるんですか？？？？？🥺"
+                },
+                {
+                    "author": "did:plc:hyk7y44vtdg3d4su34whbxlz",
+                    "type": 2,
+                    "utter": "えっ、空いてる土日監視カモンカモンよ🥹\nなんなら、今週は水曜も仕事休みとるから出来るんやけど、ご都合いかがっすか！！！！！"
+                },
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 3,
+                    "utter": "水曜元々休みのつもりだったのに気づいたときにはバイト入ってた😭😭😭😭土日今週はスプラ大会あっておわってます😭😭😭😭😭😭😭"
+                }
+            ],
+            "uri": "at://did:plc:kgpgstukb3xx3ip44jivu4wk/app.bsky.feed.post/3lb6lnhwsl22x",
+            "label": [
+                0.7124627232551575,
+                0.505952000617981,
+                0.7592779994010925,
+                0.5172914266586304,
+                0.4952288269996643,
+                0.5376214981079102,
+                0.5065688490867615,
+                0.49084973335266113
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 1,
+                    "utter": "水曜元々休みのつもりだったのに気づいたときにはバイト入ってた😭😭😭😭土日今週はスプラ大会あっておわってます😭😭😭😭😭😭😭"
+                },
+                {
+                    "author": "did:plc:hyk7y44vtdg3d4su34whbxlz",
+                    "type": 2,
+                    "utter": "えーーーーーーーーん😭😭😭😭😭😭\nじゃあ、来週末は😭😭😭😭😭"
+                },
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 3,
+                    "utter": "来週末は！いける！！てか水曜日も昼からちょいーっだから前日夜とか……バイトの前後とかなら……わんちゃん"
+                }
+            ],
+            "uri": "at://did:plc:kgpgstukb3xx3ip44jivu4wk/app.bsky.feed.post/3lb6xtnkwqs2z",
+            "label": [
+                0.7354133129119873,
+                0.5433427691459656,
+                0.8689157366752625,
+                0.5147409439086914,
+                0.5200862884521484,
+                0.5381711721420288,
+                0.5308313965797424,
+                0.5182549357414246
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 1,
+                    "utter": "来週末は！いける！！てか水曜日も昼からちょいーっだから前日夜とか……バイトの前後とかなら……わんちゃん"
+                },
+                {
+                    "author": "did:plc:hyk7y44vtdg3d4su34whbxlz",
+                    "type": 2,
+                    "utter": "なるほど🤔\n明日の夜はご飯食べに行ってるから難しいかも…。水曜は午前中病院に行ってるけど、午後からならいつでも空いてる！"
+                },
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 3,
+                    "utter": "ほむほむ ５時までで帰ってきていろいろなんやかんやしたあとなら行けるかな パパンが休みだったらおわりです🥺"
+                }
+            ],
+            "uri": "at://did:plc:kgpgstukb3xx3ip44jivu4wk/app.bsky.feed.post/3lb7jeck5ds2z",
+            "label": [
+                0.5529704093933105,
+                0.5498902797698975,
+                0.8000438213348389,
+                0.49898937344551086,
+                0.503281831741333,
+                0.5294368863105774,
+                0.5119556784629822,
+                0.502042293548584
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 1,
+                    "utter": "ほむほむ ５時までで帰ってきていろいろなんやかんやしたあとなら行けるかな パパンが休みだったらおわりです🥺"
+                },
+                {
+                    "author": "did:plc:hyk7y44vtdg3d4su34whbxlz",
+                    "type": 2,
+                    "utter": "パパンが休みじゃないことを祈る🥹🙏💭\nじゃあ、明後日水曜日の20時くらいからとかどう？🤔"
+                },
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 3,
+                    "utter": "今日休みだったから多分セーフなはず！！！りょかでし🫶🏻"
+                }
+            ],
+            "uri": "at://did:plc:kgpgstukb3xx3ip44jivu4wk/app.bsky.feed.post/3lb7lxwflhs2z",
+            "label": [
+                0.6952683925628662,
+                0.509991466999054,
+                0.5919758677482605,
+                0.5186797976493835,
+                0.4987401068210602,
+                0.5617760419845581,
+                0.5145354866981506,
+                0.5146855115890503
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 1,
+                    "utter": "キンブレ手元にないんだよなそういや どうすっか"
+                },
+                {
+                    "author": "did:plc:nmbvus6tw7sjbp4xabnmsaen",
+                    "type": 2,
+                    "utter": "何本いる？"
+                },
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 3,
+                    "utter": "むしろ何本持ちますか？？？"
+                }
+            ],
+            "uri": "at://did:plc:kgpgstukb3xx3ip44jivu4wk/app.bsky.feed.post/3lbh463rows2s",
+            "label": [
+                0.510452151298523,
+                0.5174015760421753,
+                0.685932457447052,
+                0.5447363257408142,
+                0.5066519975662231,
+                0.5238534212112427,
+                0.4988333582878113,
+                0.5019297003746033
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 1,
+                    "utter": "むしろ何本持ちますか？？？"
+                },
+                {
+                    "author": "did:plc:nmbvus6tw7sjbp4xabnmsaen",
+                    "type": 2,
+                    "utter": "公式の2本！\n\nいつも4くらい持つんだけど、今回のペンラの光量よっわいからキンブレはお留守番でもいいかなって…"
+                },
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 3,
+                    "utter": "は～～～なるほど ほな私もそうしよかな😘おそろっち～～～"
+                }
+            ],
+            "uri": "at://did:plc:kgpgstukb3xx3ip44jivu4wk/app.bsky.feed.post/3lbh4b6pqg22s",
+            "label": [
+                0.6343873739242554,
+                0.5377606153488159,
+                0.7863437533378601,
+                0.48884159326553345,
+                0.4887793958187103,
+                0.5026251077651978,
+                0.4930168688297272,
+                0.5153456926345825
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 1,
+                    "utter": "は～～～なるほど ほな私もそうしよかな😘おそろっち～～～"
+                },
+                {
+                    "author": "did:plc:nmbvus6tw7sjbp4xabnmsaen",
+                    "type": 2,
+                    "utter": "rfのもそうだけどキンブレ持つと負けるよね…\nせっかくの淡い光が〜！！になりそうでww\n\nちょっと話逸れるけどペンラのバランス悪すぎてやばくないですか"
+                },
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 3,
+                    "utter": "やっぱそれ用に作られてるやつが強いか、さすがに…ｗｗ\n\nまだ遊んでないんですわよね、実は 台座必要そうだなとは思う てかあれ振れるの？いや触れるけどなんか振るの怖い！！"
+                }
+            ],
+            "uri": "at://did:plc:kgpgstukb3xx3ip44jivu4wk/app.bsky.feed.post/3lbh4inwre22s",
+            "label": [
+                0.5026971101760864,
+                0.5050855875015259,
+                0.5257483720779419,
+                0.7714888453483582,
+                0.49635452032089233,
+                0.8523576855659485,
+                0.6096335649490356,
+                0.502174437046051
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 1,
+                    "utter": "やっぱそれ用に作られてるやつが強いか、さすがに…ｗｗ\n\nまだ遊んでないんですわよね、実は 台座必要そうだなとは思う てかあれ振れるの？いや触れるけどなんか振るの怖い！！"
+                },
+                {
+                    "author": "did:plc:nmbvus6tw7sjbp4xabnmsaen",
+                    "type": 2,
+                    "utter": "なんとストラップすら付いていません。\n持ち手も細いしなんか、心許ない"
+                },
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 3,
+                    "utter": "ストラップね！！さささんの呟きみてビビった記憶ある どうやってつけりゃええんですか🤯\n可愛いんだけどやっぱ実用というよりはインテリアとかそういうの向きな感じか"
+                }
+            ],
+            "uri": "at://did:plc:kgpgstukb3xx3ip44jivu4wk/app.bsky.feed.post/3lbh4qyxymk2s",
+            "label": [
+                0.7071900367736816,
+                0.5215243697166443,
+                0.6821165680885315,
+                0.6256025433540344,
+                0.5045890212059021,
+                0.5406662225723267,
+                0.5321305394172668,
+                0.5393339991569519
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 1,
+                    "utter": "ストラップね！！さささんの呟きみてビビった記憶ある どうやってつけりゃええんですか🤯\n可愛いんだけどやっぱ実用というよりはインテリアとかそういうの向きな感じか"
+                },
+                {
+                    "author": "did:plc:nmbvus6tw7sjbp4xabnmsaen",
+                    "type": 2,
+                    "utter": "つけないなら物販で売れば良いのに…それこそガチャとかで…と思いました（燃えそう）（わたしら手持ちのキンブレからむしり取ってきた）\n\n見た目特化だよね〜！ストラップつけないオタクが何かの拍子に吹っ飛ばすんじゃないかなっておもてる"
+                },
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 3,
+                    "utter": "ガチャのあのリボンどうにかして付けるオタクとかいるのかな…（現地で？猛者？？）（手持ちのキンブレつおい）\n\n特化だね～～～可愛いけどね！！こわすぎる、あれ普通に何かの拍子にかち割れてもおかしくないよぉ…"
+                }
+            ],
+            "uri": "at://did:plc:kgpgstukb3xx3ip44jivu4wk/app.bsky.feed.post/3lbh5max4z22s",
+            "label": [
+                0.6277636289596558,
+                0.5752152800559998,
+                0.5747160315513611,
+                0.6760569214820862,
+                0.5212738513946533,
+                0.6090729832649231,
+                0.5760753750801086,
+                0.5209062695503235
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 1,
+                    "utter": "いてる 桜門？でた？"
+                },
+                {
+                    "author": "did:plc:hyk7y44vtdg3d4su34whbxlz",
+                    "type": 2,
+                    "utter": "マジか😭😭😭\n言うてくれたら会いに行った😭😭😭😭"
+                },
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 3,
+                    "utter": "ヒント：同伴者（父）"
+                }
+            ],
+            "uri": "at://did:plc:kgpgstukb3xx3ip44jivu4wk/app.bsky.feed.post/3l4djwjeq3s24",
+            "label": [
+                0.5780091285705566,
+                0.499267041683197,
+                0.5860275626182556,
+                0.5871480703353882,
+                0.502457320690155,
+                0.513853132724762,
+                0.46252501010894775,
+                0.5258663296699524
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 1,
+                    "utter": "ヒント：同伴者（父）"
+                },
+                {
+                    "author": "did:plc:hyk7y44vtdg3d4su34whbxlz",
+                    "type": 2,
+                    "utter": "なるほど、楽しんで✌️✌️✌️✌️✌️✌️✌️"
+                },
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 3,
+                    "utter": "たこやきたべた！！！！！！！"
+                }
+            ],
+            "uri": "at://did:plc:kgpgstukb3xx3ip44jivu4wk/app.bsky.feed.post/3l4dk2jclgn2a",
+            "label": [
+                0.9193091988563538,
+                0.5325325131416321,
+                0.547539234161377,
+                0.7291895151138306,
+                0.49140307307243347,
+                0.525381326675415,
+                0.5001477003097534,
+                0.5267711877822876
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 1,
+                    "utter": "たこやきたべた！！！！！！！"
+                },
+                {
+                    "author": "did:plc:hyk7y44vtdg3d4su34whbxlz",
+                    "type": 2,
+                    "utter": "串カツも食べて！！！！！！！！！"
+                },
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 3,
+                    "utter": "どうしようもう帰りそうだよ！！！！！！"
+                }
+            ],
+            "uri": "at://did:plc:kgpgstukb3xx3ip44jivu4wk/app.bsky.feed.post/3l4dkhlokqk24",
+            "label": [
+                0.5264976024627686,
+                0.7348901033401489,
+                0.5609506964683533,
+                0.5590723156929016,
+                0.5138533711433411,
+                0.658207893371582,
+                0.5775924921035767,
+                0.5014342665672302
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 1,
+                    "utter": "どうしようもう帰りそうだよ！！！！！！"
+                },
+                {
+                    "author": "did:plc:hyk7y44vtdg3d4su34whbxlz",
+                    "type": 2,
+                    "utter": "ヴァーーーーーーーー！！！！😭😭😭😭😭😭😭😭\nじゃあ、次きた時に私と食べに行こう！！！！！！！"
+                },
+                {
+                    "author": "did:plc:kgpgstukb3xx3ip44jivu4wk",
+                    "type": 3,
+                    "utter": "行くう！！！！！！！"
+                }
+            ],
+            "uri": "at://did:plc:kgpgstukb3xx3ip44jivu4wk/app.bsky.feed.post/3l4dkoupdvx2g",
+            "label": [
+                0.7473581433296204,
+                0.49104073643684387,
+                0.8567128777503967,
+                0.5578534007072449,
+                0.5176250338554382,
+                0.46191534399986267,
+                0.49256935715675354,
+                0.4993492364883423
+            ]
+        }
+    ]
+}

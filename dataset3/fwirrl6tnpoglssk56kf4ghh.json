@@ -1,0 +1,484 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 1,
+                    "utter": "何事!?!?"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 2,
+                    "utter": "さあ……数値が高かったらしい"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 3,
+                    "utter": "安心したようなそう出ないような…\nさあって言うところは僕も思うから人のこと言えないけど、運動しよう？(苦笑)"
+                }
+            ],
+            "uri": "at://did:plc:fwirrl6tnpoglssk56kf4ghh/app.bsky.feed.post/3lc2wu6llby2l",
+            "label": [
+                0.49969542026519775,
+                0.5776283144950867,
+                0.6793550848960876,
+                0.5154579281806946,
+                0.5182741284370422,
+                0.5729506015777588,
+                0.6079925298690796,
+                0.5020876526832581
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 1,
+                    "utter": "安心したようなそう出ないような…\nさあって言うところは僕も思うから人のこと言えないけど、運動しよう？(苦笑)"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 2,
+                    "utter": "運動はリハビリ程度に一年してるからなあ"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 3,
+                    "utter": "もうちょっと日常的に必要って事なんだろね…(・ε・｀ )"
+                }
+            ],
+            "uri": "at://did:plc:fwirrl6tnpoglssk56kf4ghh/app.bsky.feed.post/3lc2xkwn2ne2u",
+            "label": [
+                0.5128353834152222,
+                0.6354793906211853,
+                0.5440562963485718,
+                0.5211210250854492,
+                0.4912564158439636,
+                0.6050837635993958,
+                0.5807873010635376,
+                0.507551908493042
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 1,
+                    "utter": "もうちょっと日常的に必要って事なんだろね…(・ε・｀ )"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 2,
+                    "utter": "それは無理な話さ……腰痛めたり手首痛めたりしてるから……\n今日、家出た時に歩きはじめも微妙に腰庇って変な歩き方しちゃったし\n歩き方下手になったかと思ってびっくりしたけど体が無意識に庇ってただけで駅着く頃には直ったけども"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 3,
+                    "utter": "水中ウォーキング案件やん…(›´ω`‹ )"
+                }
+            ],
+            "uri": "at://did:plc:fwirrl6tnpoglssk56kf4ghh/app.bsky.feed.post/3lc2xw7wjcy2k",
+            "label": [
+                0.5791679620742798,
+                0.5569934248924255,
+                0.5883655548095703,
+                0.583445131778717,
+                0.49560463428497314,
+                0.5726130604743958,
+                0.5286809802055359,
+                0.48601505160331726
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 1,
+                    "utter": "水中ウォーキング案件やん…(›´ω`‹ )"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 2,
+                    "utter": "水中はちょっと諦めて欲しい"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 3,
+                    "utter": "苦手？"
+                }
+            ],
+            "uri": "at://did:plc:fwirrl6tnpoglssk56kf4ghh/app.bsky.feed.post/3lc2yhb7cnk26",
+            "label": [
+                0.5174797773361206,
+                0.6177029609680176,
+                0.4771324098110199,
+                0.5454361438751221,
+                0.5540650486946106,
+                0.5892813205718994,
+                0.7446881532669067,
+                0.49119457602500916
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 1,
+                    "utter": "ちんちん"
+                },
+                {
+                    "author": "did:plc:g2hlyepcy6iigxxrczgmdy7e",
+                    "type": 2,
+                    "utter": "スパム垢だ！！"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 3,
+                    "utter": "ﾎﾞﾙﾝﾎﾞﾙﾝ悪いアカウントじゃないよ｡ﾟ(ﾟ∩´﹏`∩ﾟ)ﾟ｡"
+                }
+            ],
+            "uri": "at://did:plc:fwirrl6tnpoglssk56kf4ghh/app.bsky.feed.post/3kztjlcold72m",
+            "label": [
+                0.5131756663322449,
+                0.5757601857185364,
+                0.533976137638092,
+                0.5356256365776062,
+                0.50447016954422,
+                0.5643859505653381,
+                0.5658265352249146,
+                0.50972580909729
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 1,
+                    "utter": "ﾎﾞﾙﾝﾎﾞﾙﾝ悪いアカウントじゃないよ｡ﾟ(ﾟ∩´﹏`∩ﾟ)ﾟ｡"
+                },
+                {
+                    "author": "did:plc:g2hlyepcy6iigxxrczgmdy7e",
+                    "type": 2,
+                    "utter": "ぼるんぼるん…？"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 3,
+                    "utter": "ぶるんばるん？"
+                }
+            ],
+            "uri": "at://did:plc:fwirrl6tnpoglssk56kf4ghh/app.bsky.feed.post/3kztjteqeja2g",
+            "label": [
+                0.4945772588253021,
+                0.5594875812530518,
+                0.5224622488021851,
+                0.6467213034629822,
+                0.5190833806991577,
+                0.561693012714386,
+                0.605708658695221,
+                0.5039107203483582
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 1,
+                    "utter": "ぶるんばるん？"
+                },
+                {
+                    "author": "did:plc:g2hlyepcy6iigxxrczgmdy7e",
+                    "type": 2,
+                    "utter": "ぶりんばるん？"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 3,
+                    "utter": "ぶゅるんばゃるん？"
+                }
+            ],
+            "uri": "at://did:plc:fwirrl6tnpoglssk56kf4ghh/app.bsky.feed.post/3kztmcw75b72g",
+            "label": [
+                0.5501464605331421,
+                0.5173735618591309,
+                0.547315776348114,
+                0.635101318359375,
+                0.5002648830413818,
+                0.5043389797210693,
+                0.5070521235466003,
+                0.5005852580070496
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 1,
+                    "utter": "ぶゅるんばゃるん？"
+                },
+                {
+                    "author": "did:plc:g2hlyepcy6iigxxrczgmdy7e",
+                    "type": 2,
+                    "utter": "でゅんびゅるるるん？"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 3,
+                    "utter": "濃ゆそう(*˘ω˘*)"
+                }
+            ],
+            "uri": "at://did:plc:fwirrl6tnpoglssk56kf4ghh/app.bsky.feed.post/3kztmg6nr4x2g",
+            "label": [
+                0.6061665415763855,
+                0.5210148692131042,
+                0.7313379049301147,
+                0.4803794026374817,
+                0.5023122429847717,
+                0.531803548336029,
+                0.5217989087104797,
+                0.5012525916099548
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 1,
+                    "utter": "サークル募集中600に対して900応募だってね(´・ω・｀)"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 2,
+                    "utter": "もう作り手過剰やね"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 3,
+                    "utter": "次代がちゃんと育ってるって有り難さでもあるんだろうけどね…\n規模を分けて欲しいっ思うけど新春抜いても年2回オンリーやるくらいにはもう規模でかいのも中々よね(苦笑)"
+                }
+            ],
+            "uri": "at://did:plc:fwirrl6tnpoglssk56kf4ghh/app.bsky.feed.post/3kyibfgehsk2m",
+            "label": [
+                0.5072695016860962,
+                0.6685336232185364,
+                0.573960542678833,
+                0.564021646976471,
+                0.5234042406082153,
+                0.5847919583320618,
+                0.5594790577888489,
+                0.5204529166221619
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 1,
+                    "utter": "次代がちゃんと育ってるって有り難さでもあるんだろうけどね…\n規模を分けて欲しいっ思うけど新春抜いても年2回オンリーやるくらいにはもう規模でかいのも中々よね(苦笑)"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 2,
+                    "utter": "もうオスケモオンリーイベくらいの規模感でやってもらわないと人口がえぐい"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 3,
+                    "utter": "オス・メス・グッズに分けても良いよね。\nただ主催主はTRCに思い入れがあるみたいだから大きな縮小しちゃうとそこを使う意義が薄くなるって二律背反もあるのかもね…"
+                }
+            ],
+            "uri": "at://did:plc:fwirrl6tnpoglssk56kf4ghh/app.bsky.feed.post/3kyibzk64k62e",
+            "label": [
+                0.5050690174102783,
+                0.6081925630569458,
+                0.571772038936615,
+                0.5240657925605774,
+                0.5059179067611694,
+                0.616539478302002,
+                0.5356722474098206,
+                0.5243722200393677
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 1,
+                    "utter": "オス・メス・グッズに分けても良いよね。\nただ主催主はTRCに思い入れがあるみたいだから大きな縮小しちゃうとそこを使う意義が薄くなるって二律背反もあるのかもね…"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 2,
+                    "utter": "グッズは流石に分けたらきついと思うけどオスメスだけでも楽にはなる\n人口が一番ヤバい"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 3,
+                    "utter": "グッズはきぐ勢も含めれば良さげじゃない？\n性欲系にきぐ勢混ぜるの色々あるだろうし…"
+                }
+            ],
+            "uri": "at://did:plc:fwirrl6tnpoglssk56kf4ghh/app.bsky.feed.post/3kyicuhijmz24",
+            "label": [
+                0.5543807744979858,
+                0.5219656229019165,
+                0.7234897613525391,
+                0.5195100903511047,
+                0.5039079189300537,
+                0.5361682772636414,
+                0.5154135823249817,
+                0.5233387351036072
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 1,
+                    "utter": "グッズはきぐ勢も含めれば良さげじゃない？\n性欲系にきぐ勢混ぜるの色々あるだろうし…"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 2,
+                    "utter": "まキグは分けてほしいがあっち側からすると複雑なんじゃねえかな\nオンリーイベあるしあえて同人即売会と同時開催せんでもええのではと思うけど"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 3,
+                    "utter": "きぐ勢のちょっときな臭い噂は色々耳にするけど、本より公的な場所で活動する機会は少ないなは間違いないだろうしグッズ系がやる時期次第かなぁって。\n前回の関ケモときぐイベの同日近隣開催も賑わっていた印象だけどね。"
+                }
+            ],
+            "uri": "at://did:plc:fwirrl6tnpoglssk56kf4ghh/app.bsky.feed.post/3kyiegalin22s",
+            "label": [
+                0.5596623420715332,
+                0.5187073945999146,
+                0.6249496936798096,
+                0.5782145857810974,
+                0.5006632804870605,
+                0.5689423084259033,
+                0.5141157507896423,
+                0.5056618452072144
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 1,
+                    "utter": "フィード管理からの一括ブロックないしミュートとかは？"
+                },
+                {
+                    "author": "did:plc:g2hlyepcy6iigxxrczgmdy7e",
+                    "type": 2,
+                    "utter": "なんそれ（なんそれ）\nスクショと共にkwsk教えてクレメンス7世。"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 3,
+                    "utter": "Twitterでいう、リスト機能って言うのかな？\nそれらにまとめられたグループをTLとは別のTLを作って見るかミュート・ブロックするかって事ができるんだけど、フィードも確か検索したり色んな人が公開してて自分もそれをどうするか取捨選択できたはず？"
+                }
+            ],
+            "uri": "at://did:plc:fwirrl6tnpoglssk56kf4ghh/app.bsky.feed.post/3kuv26yocgc2s",
+            "label": [
+                0.5005542039871216,
+                0.5058106184005737,
+                0.6083950996398926,
+                0.6408513188362122,
+                0.5062133073806763,
+                0.5417842864990234,
+                0.5418468117713928,
+                0.5173357725143433
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 1,
+                    "utter": "Twitterでいう、リスト機能って言うのかな？\nそれらにまとめられたグループをTLとは別のTLを作って見るかミュート・ブロックするかって事ができるんだけど、フィードも確か検索したり色んな人が公開してて自分もそれをどうするか取捨選択できたはず？"
+                },
+                {
+                    "author": "did:plc:g2hlyepcy6iigxxrczgmdy7e",
+                    "type": 2,
+                    "utter": "もしかして：ブルスカの話してる…？"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 3,
+                    "utter": "ブルスカの話じゃないの...？:( ;´꒳`;):"
+                }
+            ],
+            "uri": "at://did:plc:fwirrl6tnpoglssk56kf4ghh/app.bsky.feed.post/3kuv4qtwgn22c",
+            "label": [
+                0.5207184553146362,
+                0.605602502822876,
+                0.5256836414337158,
+                0.6271296739578247,
+                0.4904780685901642,
+                0.5843700766563416,
+                0.5296446084976196,
+                0.5048873424530029
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 1,
+                    "utter": "ブルスカの話じゃないの...？:( ;´꒳`;):"
+                },
+                {
+                    "author": "did:plc:g2hlyepcy6iigxxrczgmdy7e",
+                    "type": 2,
+                    "utter": "ツイッツァの話…"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 3,
+                    "utter": "え？\n出来ないの...？"
+                }
+            ],
+            "uri": "at://did:plc:fwirrl6tnpoglssk56kf4ghh/app.bsky.feed.post/3kuvbilg6322m",
+            "label": [
+                0.4880366325378418,
+                0.6039977073669434,
+                0.5077865719795227,
+                0.7894147038459778,
+                0.5381549000740051,
+                0.6465238928794861,
+                0.5819778442382812,
+                0.49011892080307007
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 1,
+                    "utter": "え？\n出来ないの...？"
+                },
+                {
+                    "author": "did:plc:g2hlyepcy6iigxxrczgmdy7e",
+                    "type": 2,
+                    "utter": "わかんなぁい(´；ω；｀)"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 3,
+                    "utter": "とりあえず僕はいつも通りできるけども..."
+                }
+            ],
+            "uri": "at://did:plc:fwirrl6tnpoglssk56kf4ghh/app.bsky.feed.post/3kuvqfiydrk2x",
+            "label": [
+                0.5062212347984314,
+                0.7320371270179749,
+                0.5442526936531067,
+                0.49873629212379456,
+                0.4936133921146393,
+                0.5666725039482117,
+                0.5652891993522644,
+                0.5007143020629883
+            ]
+        }
+    ]
+}

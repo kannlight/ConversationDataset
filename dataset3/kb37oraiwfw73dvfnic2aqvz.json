@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 1,
+                    "utter": "He, even though he likes to be mean to others, I think it's not good that he gets a bit shocked when someone does the same to him. It's cute though."
+                },
+                {
+                    "author": "did:plc:3vnrf37sliys757pxas3fxto",
+                    "type": 2,
+                    "utter": "Yes, I just think Claude would be extremely cute when he pouts or laughs 💕"
+                },
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 3,
+                    "utter": "I think it's good to fight and sometimes get nasty with each other."
+                }
+            ],
+            "uri": "at://did:plc:kb37oraiwfw73dvfnic2aqvz/app.bsky.feed.post/3lc3y53x2ss2j",
+            "label": [
+                0.7136261463165283,
+                0.5183020830154419,
+                0.6600781083106995,
+                0.5018298029899597,
+                0.47966402769088745,
+                0.5397310256958008,
+                0.5233173966407776,
+                0.5300837159156799
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 1,
+                    "utter": "I think it's good to fight and sometimes get nasty with each other."
+                },
+                {
+                    "author": "did:plc:3vnrf37sliys757pxas3fxto",
+                    "type": 2,
+                    "utter": "That's also true!! It'd be funny. I wonder what their arguments are like xDdd"
+                },
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 3,
+                    "utter": "Joseph does mean things to Claude. So Claude cries, but he's Joseph's younger brother, so I don't think he'll just let him cry quietly. So I think he'll get revenge in some way, like eating the pudding without permission. Then they start fighting, which is cute."
+                }
+            ],
+            "uri": "at://did:plc:kb37oraiwfw73dvfnic2aqvz/app.bsky.feed.post/3lc3yfwtcos2j",
+            "label": [
+                0.7194318771362305,
+                0.5086730718612671,
+                0.6267509460449219,
+                0.6105117797851562,
+                0.4992593824863434,
+                0.5499730706214905,
+                0.5526519417762756,
+                0.5688623189926147
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 1,
+                    "utter": "Joseph does mean things to Claude. So Claude cries, but he's Joseph's younger brother, so I don't think he'll just let him cry quietly. So I think he'll get revenge in some way, like eating the pudding without permission. Then they start fighting, which is cute."
+                },
+                {
+                    "author": "did:plc:3vnrf37sliys757pxas3fxto",
+                    "type": 2,
+                    "utter": "THAT IS CUTE 🥰 I don't think they can be too mean too each other though. In the end they will reconcile... I'm sure Joseph misses Claude if he doesn't talk to him for even a few hours xddd"
+                },
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 3,
+                    "utter": "They declared that they would never speak to each other again, but half a day later they were talking together with their shoulders touching, leaving people watching to think, \"This is just business as usual\""
+                }
+            ],
+            "uri": "at://did:plc:kb37oraiwfw73dvfnic2aqvz/app.bsky.feed.post/3lc3yow5ubk2j",
+            "label": [
+                0.7311820387840271,
+                0.5496236681938171,
+                0.6293071508407593,
+                0.5562591552734375,
+                0.4870559871196747,
+                0.5530992150306702,
+                0.5446128845214844,
+                0.5469841957092285
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 1,
+                    "utter": "They declared that they would never speak to each other again, but half a day later they were talking together with their shoulders touching, leaving people watching to think, \"This is just business as usual\""
+                },
+                {
+                    "author": "did:plc:3vnrf37sliys757pxas3fxto",
+                    "type": 2,
+                    "utter": "Inseparable.. it makes me sad to think about 🥲 AHH but they really were best friends 😭"
+                },
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 3,
+                    "utter": "After all, the biggest tragedy is that they were forced to end their relationship without the natural separation that normally comes with becoming adults...\nThere was no time to come to terms with it."
+                }
+            ],
+            "uri": "at://did:plc:kb37oraiwfw73dvfnic2aqvz/app.bsky.feed.post/3lc3ywei3dk2k",
+            "label": [
+                0.6488187909126282,
+                0.5231702327728271,
+                0.6339259147644043,
+                0.5709360241889954,
+                0.49123615026474,
+                0.555421769618988,
+                0.5481177568435669,
+                0.5351889729499817
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 1,
+                    "utter": "そこで処刑したと見せかけてからのルートを取る選択肢ってありますか？"
+                },
+                {
+                    "author": "did:plc:e2iowkwzklqv7d3kp7eb6dez",
+                    "type": 2,
+                    "utter": "ほんへにルイちゃんと結婚する別ルートあるので真ルートの話する時はルイちゃんの身体を破壊したい時なのでないです！"
+                },
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 3,
+                    "utter": "理解した。重々しく。"
+                }
+            ],
+            "uri": "at://did:plc:kb37oraiwfw73dvfnic2aqvz/app.bsky.feed.post/3lbrojnsknc2j",
+            "label": [
+                0.7282695770263672,
+                0.4954775869846344,
+                0.5525010228157043,
+                0.575546145439148,
+                0.49332407116889954,
+                0.48781436681747437,
+                0.4888632595539093,
+                0.5753642916679382
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 1,
+                    "utter": "理解した。重々しく。"
+                },
+                {
+                    "author": "did:plc:e2iowkwzklqv7d3kp7eb6dez",
+                    "type": 2,
+                    "utter": "止まらないんですよね、破壊衝動が"
+                },
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 3,
+                    "utter": "本人に誘惑する気があったのかなかったのかももうわからんが，少なくとも看守とそういうことをした形跡が発見されて看守変わるやつ"
+                }
+            ],
+            "uri": "at://did:plc:kb37oraiwfw73dvfnic2aqvz/app.bsky.feed.post/3lbrpmplixj2n",
+            "label": [
+                0.5853605270385742,
+                0.4992706775665283,
+                0.5376172065734863,
+                0.6424806714057922,
+                0.5245792269706726,
+                0.5841136574745178,
+                0.5886449217796326,
+                0.502407968044281
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 1,
+                    "utter": "本人に誘惑する気があったのかなかったのかももうわからんが，少なくとも看守とそういうことをした形跡が発見されて看守変わるやつ"
+                },
+                {
+                    "author": "did:plc:e2iowkwzklqv7d3kp7eb6dez",
+                    "type": 2,
+                    "utter": "冷静に考えたら俺より先にルイちゃんの処女奪ってる看守がいるの許せなくなってきた。ルイちゃんは白百合の乙女なのでここは勝手に看守が惚れて勝手に入れ込んで自滅してるだけとさせて頂きたいです。"
+                },
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 3,
+                    "utter": "了解した。すまなかった。じゃあ手出ししちゃいけない世界規模の重罪人の魅力にあてられた職務に忠実な看守が3人たてつづけに自殺したことにしよ"
+                }
+            ],
+            "uri": "at://did:plc:kb37oraiwfw73dvfnic2aqvz/app.bsky.feed.post/3lbrq4exupk2j",
+            "label": [
+                0.5035425424575806,
+                0.6014736890792847,
+                0.522862434387207,
+                0.5808935761451721,
+                0.6966882944107056,
+                0.6617392897605896,
+                0.8022841811180115,
+                0.5157888531684875
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 1,
+                    "utter": "了解した。すまなかった。じゃあ手出ししちゃいけない世界規模の重罪人の魅力にあてられた職務に忠実な看守が3人たてつづけに自殺したことにしよ"
+                },
+                {
+                    "author": "did:plc:e2iowkwzklqv7d3kp7eb6dez",
+                    "type": 2,
+                    "utter": "丁度いいライン〜😃ちなみにルイちゃんの罪状はネタバレのない範囲だと国王暗殺と国軍の私物化とあとなんかついでに要職の暗殺やったり村とか街とか何個か破壊したぐらいです。魅力的な女にぴったりの重さだな〜。"
+                },
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 3,
+                    "utter": "あ〜〜、処刑までにもろもろの事務処理とかいろんなことが必要である程度の長さ監禁されてる時間がとれるいいラインですね。"
+                }
+            ],
+            "uri": "at://did:plc:kb37oraiwfw73dvfnic2aqvz/app.bsky.feed.post/3lbrqk2xvfs2j",
+            "label": [
+                0.7332283854484558,
+                0.5274814367294312,
+                0.6708475947380066,
+                0.51838618516922,
+                0.4948835074901581,
+                0.5272735953330994,
+                0.5190573334693909,
+                0.5612002611160278
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 1,
+                    "utter": "あまりにも嬉しすぎることを言ってもらっているのに次回更新最悪の展開"
+                },
+                {
+                    "author": "did:plc:jclc77awvvy5yfwqtkcd73ky",
+                    "type": 2,
+                    "utter": "最悪でも読みたい！\nゆっくり待ってる！"
+                },
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 3,
+                    "utter": "でています、じつは"
+                }
+            ],
+            "uri": "at://did:plc:kb37oraiwfw73dvfnic2aqvz/app.bsky.feed.post/3lb6gsivzhe2z",
+            "label": [
+                0.5005612373352051,
+                0.5956999659538269,
+                0.5642834305763245,
+                0.5315386056900024,
+                0.4973854124546051,
+                0.5612687468528748,
+                0.5066854357719421,
+                0.5084025263786316
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 1,
+                    "utter": "でています、じつは"
+                },
+                {
+                    "author": "did:plc:jclc77awvvy5yfwqtkcd73ky",
+                    "type": 2,
+                    "utter": "思いあって喧嘩してる！\n\n頑なな心のリチャ\n脇目触れなくなるタイプか！？\n\nマティさん大人だな〜\n\n最後のシーンは一体…\n\n切ない……"
+                },
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 3,
+                    "utter": "マティアスの方が小学生になれてるだけ大人だけどかわいいリシャネクようちえんせいだからなー……"
+                }
+            ],
+            "uri": "at://did:plc:kb37oraiwfw73dvfnic2aqvz/app.bsky.feed.post/3lb6ip4quxj24",
+            "label": [
+                0.5878546237945557,
+                0.6293125748634338,
+                0.5612378120422363,
+                0.5943183302879333,
+                0.5032439231872559,
+                0.5257644653320312,
+                0.5256080627441406,
+                0.5074547529220581
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 1,
+                    "utter": "マティアスの方が小学生になれてるだけ大人だけどかわいいリシャネクようちえんせいだからなー……"
+                },
+                {
+                    "author": "did:plc:jclc77awvvy5yfwqtkcd73ky",
+                    "type": 2,
+                    "utter": "ようちえんせいなのか〜\n\nよんだ！\nあれです、私2人のことをよく知らないのもあって、考察とかままならないのだけど\nもつさんの考察を手掛かりに読み解いてます。楽しいです。\n\n今日のシーンはあれ、大事なシーンだね\n2人がなかなかもどかしい理由の壁というか\nお互いにお互いを思ってすれ違って、いる？のかな？？\nもどかしいね！！"
+                },
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 3,
+                    "utter": "じつはね、俺もふくめてまだ誰も二人のことをよく知らないんだよ。こわいね。（10月末にゲームに実装されたばかりだから）"
+                }
+            ],
+            "uri": "at://did:plc:kb37oraiwfw73dvfnic2aqvz/app.bsky.feed.post/3lb7wjw27722x",
+            "label": [
+                0.5088503360748291,
+                0.528385579586029,
+                0.5373960137367249,
+                0.6756198406219482,
+                0.4927227199077606,
+                0.9003355503082275,
+                0.6150031089782715,
+                0.5201870799064636
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 1,
+                    "utter": "じつはね、俺もふくめてまだ誰も二人のことをよく知らないんだよ。こわいね。（10月末にゲームに実装されたばかりだから）"
+                },
+                {
+                    "author": "did:plc:jclc77awvvy5yfwqtkcd73ky",
+                    "type": 2,
+                    "utter": "そうか、みんなそれぞれ考察だけで……\nみんなの洞察力、考察力\nす、すごすぎるぜ！！！！！！！"
+                },
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 3,
+                    "utter": "なので完全に俺とみんなの集団幻覚です"
+                }
+            ],
+            "uri": "at://did:plc:kb37oraiwfw73dvfnic2aqvz/app.bsky.feed.post/3lb7x33ydt22x",
+            "label": [
+                0.5168717503547668,
+                0.5717633962631226,
+                0.5055329203605652,
+                0.5493150949478149,
+                0.4859254062175751,
+                0.7407748699188232,
+                0.5810984373092651,
+                0.5025907158851624
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 1,
+                    "utter": "なので完全に俺とみんなの集団幻覚です"
+                },
+                {
+                    "author": "did:plc:jclc77awvvy5yfwqtkcd73ky",
+                    "type": 2,
+                    "utter": "やばい(最高という意味で)"
+                },
+                {
+                    "author": "did:plc:kb37oraiwfw73dvfnic2aqvz",
+                    "type": 3,
+                    "utter": "恐ろしい話よ（いつもありがとうございます）"
+                }
+            ],
+            "uri": "at://did:plc:kb37oraiwfw73dvfnic2aqvz/app.bsky.feed.post/3lb7xvwiddk22",
+            "label": [
+                0.5578018426895142,
+                0.5407997369766235,
+                0.5072145462036133,
+                0.6163341403007507,
+                0.4905805289745331,
+                0.7986006140708923,
+                0.5611169934272766,
+                0.5249036550521851
+            ]
+        }
+    ]
+}

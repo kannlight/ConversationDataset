@@ -1,0 +1,814 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "空っちおはよ〜🥱\nこっちは今のところ平気だよ！\n昨日のドロップキックがもしかしたら…\n出かける時は気をつけてね(＞＜)"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "ののたん♪ おはよう(៸៸᳐>𖥦<៸៸᳐ )੭ﾞ\n私の…ドロップキックで 土砂降り☔\nまさか～♪ マジなのΣ(･ω･ﾉ)ﾉ\n今日は 早めに出勤します(｀･ω･´)ゞ"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "空っちおはよ〜(๑>◡<๑)\nドロップ(雫だけに)の強さで雨の強さがきっと…‎( ܸ ⩌⩊⩌ ܸ )ﾌﾌﾌ\nほんとうに気をつけて出掛けてね💦"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbxj3alijc25",
+            "label": [
+                0.7400229573249817,
+                0.5402578115463257,
+                0.6671278476715088,
+                0.5720816254615784,
+                0.4976969361305237,
+                0.536339282989502,
+                0.5208816528320312,
+                0.5506887435913086
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "空っちおはよ〜(๑>◡<๑)\nドロップ(雫だけに)の強さで雨の強さがきっと…‎( ܸ ⩌⩊⩌ ܸ )ﾌﾌﾌ\nほんとうに気をつけて出掛けてね💦"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "ののたん♪  おはよう(៸៸᳐>𖥦<៸៸᳐ )੭ﾞ\n上手い!! 座布団2枚︎︎👍\nやっと 職場に着いたらよ♪\nワイパーでも前が 見ずらかったよ💦"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "空っちお疲れ様〜✨\n座布団は返さないよ‎( ܸ ⩌⩊⩌ ܸ )\nまだ雨降ってる〜？"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lby6lxrdks26",
+            "label": [
+                0.529299795627594,
+                0.6775281429290771,
+                0.5566917657852173,
+                0.576245903968811,
+                0.5072202086448669,
+                0.6152089238166809,
+                0.6021681427955627,
+                0.5002729892730713
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "空っちお疲れ様〜✨\n座布団は返さないよ‎( ܸ ⩌⩊⩌ ܸ )\nまだ雨降ってる〜？"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "ののたん♪ \nお疲れ様( *ˊ꒳ˋ*)っ🍵\n座布団は 私の私物だょ💦\n返して.˚‧º·(´ฅдฅ｀)‧º·˚.\n今日は 1日中 雨かな☔"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "空っちお疲れ様っ！\n座布団は重ねて枕にしたよ‎( ܸ ⩌⩊⩌ ܸ )✨\n帰りも気をつけて帰ってね💦"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbyo62uibs2w",
+            "label": [
+                0.6185645461082458,
+                0.5791028141975403,
+                0.7109230756759644,
+                0.5105705261230469,
+                0.5187228918075562,
+                0.5350043773651123,
+                0.581218957901001,
+                0.49763527512550354
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "空っちお疲れ様っ！\n座布団は重ねて枕にしたよ‎( ܸ ⩌⩊⩌ ܸ )✨\n帰りも気をつけて帰ってね💦"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "ののたん♪ お疲れ様( *ˊ꒳ˋ*)っ🍵\n\n私の…座布団に 何て事を💦\n折り目が 着いちゃうょ۹(◦`H´◦)۶\n\nゴメンよ…私は帰宅したのだ🏠\nののたん♪も 帰りは 気を付けてね♪"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "空っちおかえりおかえり✨\n\nののも帰宅したよ٩( 'ω' )و"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbyzss5am22o",
+            "label": [
+                0.7745962738990784,
+                0.5479481816291809,
+                0.5705669522285461,
+                0.4919266104698181,
+                0.4953075647354126,
+                0.49483954906463623,
+                0.5193532705307007,
+                0.5123929381370544
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "空っちお疲れ様🍵✨\nバッチも付いてるのに理不尽すぎるよね…\n投稿だって問題ないように気をつけてるのに（ ;  ; ）\n空ったの方がもっと被害多いから余計に許せないっ！！\n対応も絶対おかしいよね？\nその返信だって自動なんじゃ…\n\nお約束？？\n空っちもブルスカに来てくれるなら安心だよ(＞＜)"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "何だかね…\nXさん 疲れてきたのよ💧‬\n\n挨拶文の時に フリーズを 繰り返し\n皆さま♪に 挨拶するだけで…\n1時間位 かかって居るの(>︿<｡)\n\nブルスカさん♪ではフリーズしないのにね✨\n\nDMは… 怖くて 見れなくなって居るの💦"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "ここ最近特にだよね…\nもうダメダメだよ💦\n\nこっちで楽しく活動しよ٩( 'ω' )و✨"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbotkk7sdc22",
+            "label": [
+                0.5065624117851257,
+                0.6685559153556824,
+                0.7047656774520874,
+                0.4822246730327606,
+                0.5001407265663147,
+                0.5786996483802795,
+                0.6003091931343079,
+                0.49352556467056274
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "ここ最近特にだよね…\nもうダメダメだよ💦\n\nこっちで楽しく活動しよ٩( 'ω' )و✨"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "私も… もうそろそろ見切りを 付けないとね💧‬  \nフォローさま♪に 面目無いです💦\n挨拶が 間ともに 返せないのは…\n凄く辛いの…"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "挨拶返せないのは辛いよね💦\nのの的には空っちがそれで辛い思いするのも嫌だな…"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbou2n2wgk22",
+            "label": [
+                0.5109866261482239,
+                0.8246158361434937,
+                0.498734712600708,
+                0.48509475588798523,
+                0.48308151960372925,
+                0.6689811944961548,
+                0.7127776145935059,
+                0.4924079179763794
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "挨拶返せないのは辛いよね💦\nのの的には空っちがそれで辛い思いするのも嫌だな…"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "Xさん…の 制限も 怖くてね💦\nリプも いいね♪ も押しづらいの…\n私が 凍結🧊するだけなら良いけど\n\nフォローさま♪が 凍結🧊したら\nイヤだから…押せないし💧‬\n困ったな(ーωー；).｡oஇ"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "そこなんだよね！\n自分が原因でってなったら余計に（ ;  ; ）"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbouoro6p222",
+            "label": [
+                0.5053332448005676,
+                0.6608469486236572,
+                0.5721880793571472,
+                0.5391417145729065,
+                0.5887693762779236,
+                0.6492659449577332,
+                0.7272894978523254,
+                0.48176640272140503
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "そこなんだよね！\n自分が原因でってなったら余計に（ ;  ; ）"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "そうなの💧‬\nそれで Xさん で 挨拶するのが\n段々と怖くなって来てね…\n\n挨拶をくれる人だけに返すように\nしてるの…\n前は 普通に 挨拶とか いいね♪\nしてたのにね(>︿<｡)"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "皆同じ気持ちだよね💦\nだからいいねもリプも減ったんだと思う…\n交流するのにもビクビクしながらって全然楽しくない(＞＜)"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbowdnaqgk27",
+            "label": [
+                0.5266175270080566,
+                0.8179515600204468,
+                0.516205906867981,
+                0.51536625623703,
+                0.48672544956207275,
+                0.5514889359474182,
+                0.6022962331771851,
+                0.5087669491767883
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "空っち鼻にコショウとかレトロ漫才のネタだよ‎( ܸ ⩌⩊⩌ ܸ )✨"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "じ・じゃあ ハバネロを…\n(´・ω・)つ🧂･∵  \nどうなるかな❓"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "ハバネロとか目が見えなくなるから(● ˃̶͈̀ロ˂̶͈́)੭ꠥ⁾⁾"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lboppbknd22l",
+            "label": [
+                0.5325331687927246,
+                0.5983669757843018,
+                0.5416563153266907,
+                0.5604206919670105,
+                0.5015004873275757,
+                0.57213294506073,
+                0.5571541786193848,
+                0.4908560514450073
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "ハバネロとか目が見えなくなるから(● ˃̶͈̀ロ˂̶͈́)੭ꠥ⁾⁾"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "大丈夫だょ(｡ ̀• ∀ •́ ｡)ｴﾍﾝ\nゴーグル付けてあげるから︎︎👍"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "ハバネロって知ってる？\n皮膚につくだけでも痛いんだよ‎( ܸ ⩌⩊⩌ ܸ )"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbotiphu4s22",
+            "label": [
+                0.5126135945320129,
+                0.5328395366668701,
+                0.5574898719787598,
+                0.6719075441360474,
+                0.5075846910476685,
+                0.597817599773407,
+                0.5869780778884888,
+                0.5129202008247375
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "ハバネロって知ってる？\n皮膚につくだけでも痛いんだよ‎( ܸ ⩌⩊⩌ ܸ )"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "え!!!Σ(ﾟﾛﾟ!(ﾟﾍﾟ?)???\nアレって 皮膚に付くと痛いの❓\nじゃ… 普通に 起こすね(ΦωΦ)ﾌﾌﾌ…"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "前に皮膚に唐辛子がついた時にヒリヒリしたのね？\nだからハバネロはもっと…(｡í _ ì｡)"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbotxfawps22",
+            "label": [
+                0.5098188519477844,
+                0.5895404815673828,
+                0.5405759215354919,
+                0.6326212882995605,
+                0.5058265924453735,
+                0.6898614764213562,
+                0.5865232348442078,
+                0.5058513879776001
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "前に皮膚に唐辛子がついた時にヒリヒリしたのね？\nだからハバネロはもっと…(｡í _ ì｡)"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "ハバネロは 無し❌\n危険⚠️だね💦\nテレビで たまに見てるけど…\nよく食べられるよね( >﹏< *)💧‬"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "空っち実はのの結構辛いの食べれるんだよ‎( ܸ ⩌⩊⩌ ܸ )ﾌﾌﾌ\nハバネロって乾燥するとすごく辛いけど、生はそこまで辛くないんだよ！⬅️"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbounei77k22",
+            "label": [
+                0.7900813221931458,
+                0.5467643737792969,
+                0.6244409084320068,
+                0.6198505163192749,
+                0.4956980049610138,
+                0.5692235231399536,
+                0.533244252204895,
+                0.5634813904762268
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "つねちゃんこんにちは〜✨\n\nお昼でも寒くて外に出たくないよ💦"
+                },
+                {
+                    "author": "did:plc:o6q73nwczlhpyj7m4nbvw6me",
+                    "type": 2,
+                    "utter": "ののちゃん\n こんにちは🍵🌿.•*\nほんと寒いと外出るの \nおっくうになる💦"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "つねちゃんこんばんは〜♬\nお買い物とか🛒どうしてもお外に出ないといけないからこの時期は(＞＜)"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbopkkvoss2l",
+            "label": [
+                0.658889651298523,
+                0.5760032534599304,
+                0.673412561416626,
+                0.5247076749801636,
+                0.5141375660896301,
+                0.5513420701026917,
+                0.512054443359375,
+                0.5218724012374878
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "つねちゃんこんばんは〜♬\nお買い物とか🛒どうしてもお外に出ないといけないからこの時期は(＞＜)"
+                },
+                {
+                    "author": "did:plc:o6q73nwczlhpyj7m4nbvw6me",
+                    "type": 2,
+                    "utter": "ののちゃん\nわかる \n買い物行くのにも\n躊躇するからね😥"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "つねちゃんも一緒だね〜\n玄関に向かうだけで冷え冷えと(＞＜)"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbow74775227",
+            "label": [
+                0.7393417358398438,
+                0.533694863319397,
+                0.6070120930671692,
+                0.5284376740455627,
+                0.49389517307281494,
+                0.5311642289161682,
+                0.5212124586105347,
+                0.5337944626808167
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "つねちゃんも一緒だね〜\n玄関に向かうだけで冷え冷えと(＞＜)"
+                },
+                {
+                    "author": "did:plc:o6q73nwczlhpyj7m4nbvw6me",
+                    "type": 2,
+                    "utter": "玄関がまた寒い🥶"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "のの冬生まれなんだけど寒さに弱いんだよね(｡í _ ì｡)"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbowpomho227",
+            "label": [
+                0.5224907398223877,
+                0.6330860257148743,
+                0.5088797807693481,
+                0.6070788502693176,
+                0.49570006132125854,
+                0.5963556170463562,
+                0.5607626438140869,
+                0.49522650241851807
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "のの冬生まれなんだけど寒さに弱いんだよね(｡í _ ì｡)"
+                },
+                {
+                    "author": "did:plc:o6q73nwczlhpyj7m4nbvw6me",
+                    "type": 2,
+                    "utter": "生まれた季節関係ないからね\nこれこらもっと寒くなると\n思うから風邪など\n引かないように\n暖かくして過ごしてね☺️"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "そっか！\nそれなら寒いのに弱くても‎( ܸ ⩌⩊⩌ ܸ )\nお互いに風邪ひかないようにしよーね✨"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbowu4zzhk27",
+            "label": [
+                0.5385887622833252,
+                0.532678484916687,
+                0.7849327325820923,
+                0.5183771848678589,
+                0.5351787209510803,
+                0.5493131875991821,
+                0.5776665806770325,
+                0.5192767977714539
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "ぼーぼ〜ぼっ♬\n燃やされちゃうね🤣\n\nおねたん✨\nそのなまりなら可愛い(๑>◡<๑)"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "(   ¯−¯ ) ﾎﾞｰｰ  (。ﾟωﾟ) ﾊｯ!\nぼ～ぼ～ し過ぎてもうた‼️\n\nあかん‼️ 寝てしまう💦\n\nおねたん♪は  寝落ちすんぜんや…\n\n※この なまり で合ってる(´･ω･`)？"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "ぼーぼ〜しよってからに❗️\nあかんよお布団かけな❗️\n\nおねたん♬ののも寝落ちしてﾊｯとしとったん‎( ܸ ⩌⩊⩌ ܸ )\n\n合ってるかわからないけど乗ってみた✨"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbjyyvd44s22",
+            "label": [
+                0.5920858383178711,
+                0.5796351432800293,
+                0.6123861074447632,
+                0.5740422606468201,
+                0.5043762922286987,
+                0.5570758581161499,
+                0.552155613899231,
+                0.49976444244384766
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "ぼーぼ〜しよってからに❗️\nあかんよお布団かけな❗️\n\nおねたん♬ののも寝落ちしてﾊｯとしとったん‎( ܸ ⩌⩊⩌ ܸ )\n\n合ってるかわからないけど乗ってみた✨"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "ナイスなまり︎︎👍\nほんなら～ わては もう そろそろ\n寝るさかい\n良い夢 見いや？\nほな～ 今日もおおきに(*´∀人)ｵｵｷﾆ\n\nこれて…合ってるの？"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "空っちもナイスなまり👍\nウチ寝落ちしたさかい〜\n記憶が曖昧や〜‎( ܸ ⩌⩊⩌ ܸ )\n\nたぶん色々混ざってるとか言われそう？"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbkw3a7tk22f",
+            "label": [
+                0.5883339047431946,
+                0.600105881690979,
+                0.5547321438789368,
+                0.5755046010017395,
+                0.4946325421333313,
+                0.6266171932220459,
+                0.5701589584350586,
+                0.522336483001709
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "空っちもナイスなまり👍\nウチ寝落ちしたさかい〜\n記憶が曖昧や〜‎( ܸ ⩌⩊⩌ ܸ )\n\nたぶん色々混ざってるとか言われそう？"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "ののたん♪ おはよ(＊ˊ艸ˋ)♬*\n2回目✨\n\n今日は お仕事なん？\n今朝は 雨が降って居るさかい☂️\nお仕事だったら気いつけや(*ˊ꒳ˋ*)\n\nほな～ 今日も よろしゅう お願い\nしましす(៸៸᳐>𖥦<៸៸᳐ )੭ﾞ\n\n※この…なまり は何時まで続く❓"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "空っちこんこん♬\n\n今日は用事でお出かけだたよ！\n風が強くて寒さがヤバヤバだったよ😅\n\nこの辺りで打ち止め?笑"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbm64m2lbk2i",
+            "label": [
+                0.6089734435081482,
+                0.6164680123329163,
+                0.5629233717918396,
+                0.6291561126708984,
+                0.5036976933479309,
+                0.6242078542709351,
+                0.5622132420539856,
+                0.5067226886749268
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "空っちこんこん♬\n\n今日は用事でお出かけだたよ！\n風が強くて寒さがヤバヤバだったよ😅\n\nこの辺りで打ち止め?笑"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "ののたん♪  おつおつ(o^－^o)♪\n\n今日は お出かけだったん？\n風が ぴ～ぷ🍃だったんな？\n風邪には 気を付けるのん♪\n\n※なまり を使うと のんのんびより♪\nが 見たくなってきた(*´艸`)✨\n\nなまり は…たま～に使おうね︎︎👍"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "空っちおはののー✨\n\n風が強くて風邪をひきそうで困ったものだよ(  ･᷄-･᷅ )\nのんのんびよりは今日あたりまた見ようか🤣"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbngkxgdvc2w",
+            "label": [
+                0.5518078804016113,
+                0.589232861995697,
+                0.7295559048652649,
+                0.5216233730316162,
+                0.4932910203933716,
+                0.6308647990226746,
+                0.549847424030304,
+                0.5048720240592957
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "空っちきたよ‎( ܸ ⩌⩊⩌ ܸ )"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "ののたん♪\nいらっしゃい໒꒰ྀི∩˃ ᵕ ˂∩꒱ྀི১"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "空っちみーつけ✨"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbgxfz5jas27",
+            "label": [
+                0.6287707686424255,
+                0.5371208190917969,
+                0.598768413066864,
+                0.5303913950920105,
+                0.4985537827014923,
+                0.5135616660118103,
+                0.5195068120956421,
+                0.5111700296401978
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "空っちみーつけ✨"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "見つかった(៸៸᳐>𖥦<៸៸᳐ )੭ﾞ♪\nののたん♪ \nよろよろ でする(˶ᐢᗜᐢ˶)♬.*ﾟ"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "空っちを見逃す訳ないじゃん‎( ܸ ⩌⩊⩌ ܸ )✨"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbhjbamxok2f",
+            "label": [
+                0.6208698749542236,
+                0.5496523380279541,
+                0.593815803527832,
+                0.5218515992164612,
+                0.4959442913532257,
+                0.5507264137268066,
+                0.5551754832267761,
+                0.5265370607376099
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "空っちを見逃す訳ないじゃん‎( ܸ ⩌⩊⩌ ܸ )✨"
+                },
+                {
+                    "author": "did:plc:rglg6qqeh6cuxzjck7huqkwz",
+                    "type": 2,
+                    "utter": "ののたん♪  お疲れ様🌟⸝⸝\nもしかして…私にGPS着いてるの\n∑(ºωº｀*)"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "わたしののちゃん\nいま空っちのお部屋の前にいるの…‎( ܸ ⩌⩊⩌ ܸ )"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbhjyp5wnk2f",
+            "label": [
+                0.5618289709091187,
+                0.5535034537315369,
+                0.5139676928520203,
+                0.6366439461708069,
+                0.471489280462265,
+                0.5765200257301331,
+                0.5331085920333862,
+                0.48372381925582886
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "雫さんこっちでもよろしくね✨😆"
+                },
+                {
+                    "author": "did:plc:244zidqoh5ytxldg2quytslc",
+                    "type": 2,
+                    "utter": "あっち垢ロックと🍞で全く身動き取れないからこっちでののちゃんとまた繋がれて嬉しいっ🥰💕"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "そうだったんですね💦\nだから見かけなかったんだ…\n見つけられてよかった(＞＜)"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbhjaci3pc2f",
+            "label": [
+                0.6961973309516907,
+                0.5796589255332947,
+                0.5409272313117981,
+                0.5576359033584595,
+                0.5016816854476929,
+                0.5114188194274902,
+                0.5086086988449097,
+                0.5265015959739685
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "そうだったんですね💦\nだから見かけなかったんだ…\n見つけられてよかった(＞＜)"
+                },
+                {
+                    "author": "did:plc:244zidqoh5ytxldg2quytslc",
+                    "type": 2,
+                    "utter": "そうなんですよーいいねとかコメントしたくてもできなくて🥹\nそろそろサブ垢の🍞が終わるはずなの( ´•̥̥̥ω•̥̥̥`)"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "今回は特に多くの人がなったみたいですよね💦\n原因わからないのも多いって…\nブルスカに来た人の大半もそうなのかも(＞＜)"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbhjxvr3vs2f",
+            "label": [
+                0.4975649118423462,
+                0.544581413269043,
+                0.5445533990859985,
+                0.6521525979042053,
+                0.48044079542160034,
+                0.6603496670722961,
+                0.5508548617362976,
+                0.5012767314910889
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "今回は特に多くの人がなったみたいですよね💦\n原因わからないのも多いって…\nブルスカに来た人の大半もそうなのかも(＞＜)"
+                },
+                {
+                    "author": "did:plc:244zidqoh5ytxldg2quytslc",
+                    "type": 2,
+                    "utter": "私のメインの垢ロックもそんな感じです🥹"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "今回のアプデほんとひどいですよね（ ;  ; ）"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbhkblx6oc2f",
+            "label": [
+                0.5356126427650452,
+                0.7723265886306763,
+                0.5199232697486877,
+                0.545906126499176,
+                0.5028271079063416,
+                0.7396319508552551,
+                0.7479662299156189,
+                0.4969150722026825
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 1,
+                    "utter": "今回のアプデほんとひどいですよね（ ;  ; ）"
+                },
+                {
+                    "author": "did:plc:244zidqoh5ytxldg2quytslc",
+                    "type": 2,
+                    "utter": "ほんとそれです！青バッチつけて１ヶ月経ってないのに垢ロックって🤣"
+                },
+                {
+                    "author": "did:plc:ezcp7hd4zxo7vtxifstl3img",
+                    "type": 3,
+                    "utter": "バッチとか関係ない感じですもんね💦"
+                }
+            ],
+            "uri": "at://did:plc:ezcp7hd4zxo7vtxifstl3img/app.bsky.feed.post/3lbhlrulpks2z",
+            "label": [
+                0.5140970945358276,
+                0.5545432567596436,
+                0.5328420400619507,
+                0.5732871294021606,
+                0.510805606842041,
+                0.5413529276847839,
+                0.5982344150543213,
+                0.5095822215080261
+            ]
+        }
+    ]
+}

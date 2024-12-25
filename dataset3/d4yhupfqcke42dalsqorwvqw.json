@@ -1,0 +1,544 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "ばあちゃんきちゃああああああああああああああ！！！！"
+                },
+                {
+                    "author": "did:plc:di7gfeqg3bsnnvfaeuudocp2",
+                    "type": 2,
+                    "utter": "ばあちゃんかわいいでしょ！！！"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "惚れた"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lbzcyg6z5k2n",
+            "label": [
+                0.7128447890281677,
+                0.511040449142456,
+                0.5410987138748169,
+                0.5731160044670105,
+                0.49273982644081116,
+                0.5039740800857544,
+                0.49686843156814575,
+                0.5168259739875793
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "惚れた"
+                },
+                {
+                    "author": "did:plc:di7gfeqg3bsnnvfaeuudocp2",
+                    "type": 2,
+                    "utter": "引くしかないね"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "脳内会議で閣議決定しました"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lc263tl5s226",
+            "label": [
+                0.5655129551887512,
+                0.49900123476982117,
+                0.5902422070503235,
+                0.5353382229804993,
+                0.5021020174026489,
+                0.5457623600959778,
+                0.4965590834617615,
+                0.5186778903007507
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "脳内会議で閣議決定しました"
+                },
+                {
+                    "author": "did:plc:di7gfeqg3bsnnvfaeuudocp2",
+                    "type": 2,
+                    "utter": "完凸ですね"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "そこまでの金はない🤣"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lc2qwlxbls27",
+            "label": [
+                0.48993614315986633,
+                0.7634431719779968,
+                0.5314458608627319,
+                0.5298680663108826,
+                0.4820415675640106,
+                0.5794388651847839,
+                0.5549876093864441,
+                0.4986642003059387
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "そこまでの金はない🤣"
+                },
+                {
+                    "author": "did:plc:di7gfeqg3bsnnvfaeuudocp2",
+                    "type": 2,
+                    "utter": "かー！！クレカっていうもの使って来年の自分に頑張ってもらう"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "りたにだわたしに厳しいにだ🤣"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lc3bftekp225",
+            "label": [
+                0.4934176206588745,
+                0.6683034300804138,
+                0.5457285046577454,
+                0.520418107509613,
+                0.5555298328399658,
+                0.5725405216217041,
+                0.7188154458999634,
+                0.4971001148223877
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "未来のレモンサワー現在ストック６本\n年末に向けてもっとガン積みするか🍋"
+                },
+                {
+                    "author": "did:plc:di7gfeqg3bsnnvfaeuudocp2",
+                    "type": 2,
+                    "utter": "りたにもかってー！"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "たっけえんだぞこれーw"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lbu7rpapyc2v",
+            "label": [
+                0.7205069661140442,
+                0.5310919284820557,
+                0.5252739191055298,
+                0.6977143287658691,
+                0.5050060749053955,
+                0.508232057094574,
+                0.5214264392852783,
+                0.5243374705314636
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "たっけえんだぞこれーw"
+                },
+                {
+                    "author": "did:plc:di7gfeqg3bsnnvfaeuudocp2",
+                    "type": 2,
+                    "utter": "高いの？！なおさらおねがい"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "なんでそうなる🤣"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lbvabc63a22g",
+            "label": [
+                0.5083721876144409,
+                0.5908493399620056,
+                0.5361243486404419,
+                0.5620748400688171,
+                0.4966752231121063,
+                0.6878765821456909,
+                0.6006601452827454,
+                0.5066853761672974
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "なんでそうなる🤣"
+                },
+                {
+                    "author": "did:plc:di7gfeqg3bsnnvfaeuudocp2",
+                    "type": 2,
+                    "utter": "お金ないんだもん💸"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "物価高いもんな〜🥺"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lbvybwgkgc23",
+            "label": [
+                0.5236667394638062,
+                0.566627562046051,
+                0.5664656758308411,
+                0.6193082928657532,
+                0.5049933791160583,
+                0.5574178695678711,
+                0.5587465763092041,
+                0.4937349557876587
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "物価高いもんな〜🥺"
+                },
+                {
+                    "author": "did:plc:di7gfeqg3bsnnvfaeuudocp2",
+                    "type": 2,
+                    "utter": "そーーーーーふざけないで欲しいにぇ"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "強く生きよう😌"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lbxpqnqwtc2a",
+            "label": [
+                0.5046908855438232,
+                0.5175817012786865,
+                0.8099746704101562,
+                0.5154241323471069,
+                0.4836486876010895,
+                0.5088289380073547,
+                0.5233095288276672,
+                0.5129455327987671
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "強く生きよう😌"
+                },
+                {
+                    "author": "did:plc:di7gfeqg3bsnnvfaeuudocp2",
+                    "type": 2,
+                    "utter": "筋トレ頑張る(物理)"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "筋肉はすべてを解決する(脳筋)"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lbywar2aq22i",
+            "label": [
+                0.5404321551322937,
+                0.4642573297023773,
+                0.6083613038063049,
+                0.4982009530067444,
+                0.506526529788971,
+                0.5392521619796753,
+                0.4722200632095337,
+                0.5435932874679565
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "だいじょぶかー？そういうときってあるよね"
+                },
+                {
+                    "author": "did:plc:di7gfeqg3bsnnvfaeuudocp2",
+                    "type": 2,
+                    "utter": "人と付き合って行くって大変だよね"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "だね。無理しすぎない程度にね"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lbdzq3m23c2v",
+            "label": [
+                0.5110589265823364,
+                0.5372145175933838,
+                0.6368837952613831,
+                0.5271987318992615,
+                0.5172070860862732,
+                0.5586200952529907,
+                0.5933647751808167,
+                0.5116841197013855
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "だね。無理しすぎない程度にね"
+                },
+                {
+                    "author": "did:plc:di7gfeqg3bsnnvfaeuudocp2",
+                    "type": 2,
+                    "utter": "恋人相手には多少は無理はしないとだから"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "色恋の話であったか…🤔"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lbechtgkwk2w",
+            "label": [
+                0.5253431797027588,
+                0.631545901298523,
+                0.5147933959960938,
+                0.6073979735374451,
+                0.4884340167045593,
+                0.58128821849823,
+                0.5425450205802917,
+                0.49621453881263733
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "色恋の話であったか…🤔"
+                },
+                {
+                    "author": "did:plc:di7gfeqg3bsnnvfaeuudocp2",
+                    "type": 2,
+                    "utter": "そうでござるよーーー"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "お互い無理のない自然な関係を作りたいね\nでないとふとしたときに爆発しちゃうから"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lbeqgj4kbs2n",
+            "label": [
+                0.5185868144035339,
+                0.6465771794319153,
+                0.5767346024513245,
+                0.5462944507598877,
+                0.4884897470474243,
+                0.6891024112701416,
+                0.5468916893005371,
+                0.5081440806388855
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "お互い無理のない自然な関係を作りたいね\nでないとふとしたときに爆発しちゃうから"
+                },
+                {
+                    "author": "did:plc:di7gfeqg3bsnnvfaeuudocp2",
+                    "type": 2,
+                    "utter": "そうなんだよねー話し合い結構してるはずなのにはぁってなってる"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "わりと長いん？"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lbewh646jk2z",
+            "label": [
+                0.49736541509628296,
+                0.5361357927322388,
+                0.5468977093696594,
+                0.8054084777832031,
+                0.5158423185348511,
+                0.5500412583351135,
+                0.545056164264679,
+                0.4963780343532562
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "バハラタ到着で本日終了"
+                },
+                {
+                    "author": "did:plc:vzlffmaffwhuanxsinihbigu",
+                    "type": 2,
+                    "utter": "進行早いよね😏\nワイちょっと先におる"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "やるわね\n街間が旧作と比べてボリューミー過ぎて時間かかる()"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lb7u32syxs2k",
+            "label": [
+                0.5827297568321228,
+                0.6048638224601746,
+                0.5405407547950745,
+                0.6030827760696411,
+                0.49163663387298584,
+                0.5617681741714478,
+                0.5643205642700195,
+                0.4966719150543213
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "やるわね\n街間が旧作と比べてボリューミー過ぎて時間かかる()"
+                },
+                {
+                    "author": "did:plc:vzlffmaffwhuanxsinihbigu",
+                    "type": 2,
+                    "utter": "あれ、こんなに遠かったっけってなる"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "アッサラームもイシスもめっちゃ遠くて泣いちゃった"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lb7uwoxu2s2k",
+            "label": [
+                0.5383869409561157,
+                0.778242826461792,
+                0.48631349205970764,
+                0.6391336917877197,
+                0.49845629930496216,
+                0.5296456217765808,
+                0.5005750060081482,
+                0.5168324708938599
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "アッサラームもイシスもめっちゃ遠くて泣いちゃった"
+                },
+                {
+                    "author": "did:plc:vzlffmaffwhuanxsinihbigu",
+                    "type": 2,
+                    "utter": "町につく手前が満身創痍ヒヤヒヤでめっちゃスリルあるゲーム🤣"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "かえんムカデx3とだいおうガマx3コンビに無事殺害されました🥹"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lb7we66hvk2p",
+            "label": [
+                0.5693058371543884,
+                0.7075871229171753,
+                0.4880461096763611,
+                0.5814194083213806,
+                0.5042563080787659,
+                0.608775794506073,
+                0.5528437495231628,
+                0.4811215400695801
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "かえんムカデx3とだいおうガマx3コンビに無事殺害されました🥹"
+                },
+                {
+                    "author": "did:plc:vzlffmaffwhuanxsinihbigu",
+                    "type": 2,
+                    "utter": "序盤で6体は相手が悪い😇"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "火の息6回は激しい炎なんよ🤣なんで2回吹くかなあｗ"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lb7ylfm5os2p",
+            "label": [
+                0.5019453763961792,
+                0.5436827540397644,
+                0.5872647762298584,
+                0.5748513340950012,
+                0.5155357122421265,
+                0.7253854870796204,
+                0.5841947197914124,
+                0.4970235228538513
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 1,
+                    "utter": "火の息6回は激しい炎なんよ🤣なんで2回吹くかなあｗ"
+                },
+                {
+                    "author": "did:plc:vzlffmaffwhuanxsinihbigu",
+                    "type": 2,
+                    "utter": "消し炭になってて草"
+                },
+                {
+                    "author": "did:plc:d4yhupfqcke42dalsqorwvqw",
+                    "type": 3,
+                    "utter": "燃え尽きたぜ…🥊"
+                }
+            ],
+            "uri": "at://did:plc:d4yhupfqcke42dalsqorwvqw/app.bsky.feed.post/3lba7eeeq7s2o",
+            "label": [
+                0.593852162361145,
+                0.6979849338531494,
+                0.4872714579105377,
+                0.5525751709938049,
+                0.5097702741622925,
+                0.5841555595397949,
+                0.517538845539093,
+                0.516635537147522
+            ]
+        }
+    ]
+}

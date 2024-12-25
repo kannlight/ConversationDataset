@@ -1,0 +1,604 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "鬼畜絶倫ドSジンオウガのジンガさんには敵いませんよ"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "お前もだろうが…アンタルクメス堕ちさせてアへ顔ダブルピースさせてたの聞いたぞ"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "はて…？\nなんの事やら"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lc32txk3uc2f",
+            "label": [
+                0.4963410198688507,
+                0.5630984306335449,
+                0.524063766002655,
+                0.6513398885726929,
+                0.5298802852630615,
+                0.6104039549827576,
+                0.5729250907897949,
+                0.5042694211006165
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "はて…？\nなんの事やら"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "絶倫極悪チンポで啼かせてたと聞いたけどな"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "それ…シノビさんじゃないです？"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lc33cxo5bk2f",
+            "label": [
+                0.4745778739452362,
+                0.5985076427459717,
+                0.5533254742622375,
+                0.625257670879364,
+                0.5024667978286743,
+                0.5722470879554749,
+                0.5239236354827881,
+                0.5131322145462036
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "それ…シノビさんじゃないです？"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "お前だってよ嫁もお前の事をど鬼畜だと思ってるぜ"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "…いや、マジで違うと思いますが…\n僕、ジンガさんやシノビさんみたく化物のような物は持ってませんよ…？？"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lc33n55vxk2f",
+            "label": [
+                0.5231347680091858,
+                0.5310851335525513,
+                0.5763323307037354,
+                0.6610193848609924,
+                0.5042688250541687,
+                0.5832470059394836,
+                0.5649508237838745,
+                0.5266633033752441
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "…いや、マジで違うと思いますが…\n僕、ジンガさんやシノビさんみたく化物のような物は持ってませんよ…？？"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "そうかぁ？カルロもどっちもどっちとか言ってたぞ？"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "んん…？？\n確かに人としては大きい方だと自覚はしてますが…"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lc33v5lca22f",
+            "label": [
+                0.48186108469963074,
+                0.6222882270812988,
+                0.5256204605102539,
+                0.7272046208381653,
+                0.512552797794342,
+                0.5705643892288208,
+                0.5517598986625671,
+                0.4856470227241516
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "なんでしょうか、喧嘩売ってるんでしょうか？？"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "ん？本当だろう？"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "それならジンガさんはドS暴君絶倫雷狼竜ですね"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lbwlky2up22k",
+            "label": [
+                0.5713746547698975,
+                0.48548758029937744,
+                0.7201789021492004,
+                0.5202953219413757,
+                0.5016688704490662,
+                0.5031933784484863,
+                0.49768298864364624,
+                0.5561627745628357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "それならジンガさんはドS暴君絶倫雷狼竜ですね"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "ほぉ？"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "てか何ですかいきなり脈略もなしに人の事エロスガルだなんて"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lbwlptxbm22k",
+            "label": [
+                0.5229494571685791,
+                0.530069887638092,
+                0.5187681913375854,
+                0.7452796697616577,
+                0.5564016699790955,
+                0.5758016109466553,
+                0.6579981446266174,
+                0.49658554792404175
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "てか何ですかいきなり脈略もなしに人の事エロスガルだなんて"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "お前の事を言ってた古龍をシノビが抱き潰してたからな"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "あー…だからって唐突ですね…"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lbwm6n77322k",
+            "label": [
+                0.508969783782959,
+                0.6014683842658997,
+                0.5218906402587891,
+                0.6809813976287842,
+                0.5069717764854431,
+                0.6522852182388306,
+                0.5710115432739258,
+                0.4987429976463318
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "あー…だからって唐突ですね…"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "まぁ、元々お前の事はど淫乱エロスガル個体だと思ってたからな"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "いやージンガさんやシノビさんほどじゃないですよー"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lbwmiewaak2k",
+            "label": [
+                0.5289725065231323,
+                0.5678183436393738,
+                0.5158051252365112,
+                0.5933188796043396,
+                0.4925824999809265,
+                0.5494704842567444,
+                0.5516112446784973,
+                0.5143133401870728
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "あらまー"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 2,
+                    "utter": "……なんだ"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "いえ、なんでも？"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lbuylknd6k2k",
+            "label": [
+                0.488197922706604,
+                0.5611836314201355,
+                0.5393013954162598,
+                0.5846809148788452,
+                0.5492281913757324,
+                0.5203942656517029,
+                0.6301625370979309,
+                0.49351754784584045
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "いえ、なんでも？"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 2,
+                    "utter": "ならいいが…"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "…\n（無言でアンタルクの頭を撫でる）"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lbv3bqqxrk2k",
+            "label": [
+                0.5539896488189697,
+                0.6061267852783203,
+                0.529625415802002,
+                0.5513694286346436,
+                0.4958931505680084,
+                0.5498253703117371,
+                0.5297405123710632,
+                0.49729225039482117
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "…\n（無言でアンタルクの頭を撫でる）"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 2,
+                    "utter": "ん…\n\n（無意識に頭を擦り付ける）"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "ふふふ…"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lbw3qcagos2k",
+            "label": [
+                0.49914541840553284,
+                0.6183614134788513,
+                0.5308667421340942,
+                0.5352715849876404,
+                0.4962748885154724,
+                0.5218461751937866,
+                0.5433210730552673,
+                0.49538174271583557
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "ふふふ…"
+                },
+                {
+                    "author": "did:plc:mbcok26w2qrf7k6mmmaailzn",
+                    "type": 2,
+                    "utter": "…っ!!い…今のは忘れろ…"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "えー？\n可愛かったよ？"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lbw3xrf4gk2k",
+            "label": [
+                0.8646987080574036,
+                0.4898674488067627,
+                0.4661875069141388,
+                0.6542435884475708,
+                0.5124245285987854,
+                0.4876096248626709,
+                0.5079880356788635,
+                0.5721713304519653
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "…\n（ハリセンで頭を叩く）"
+                },
+                {
+                    "author": "did:plc:epq2a4hkpvrqx7etwccqxc3o",
+                    "type": 2,
+                    "utter": "いでっ!?\n\nズィーガー:自業自得だなァ…"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "後で覚えとけよ…"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lboopv62cc2j",
+            "label": [
+                0.5021304488182068,
+                0.6003381609916687,
+                0.5847731232643127,
+                0.5172533392906189,
+                0.5012804865837097,
+                0.5602936148643494,
+                0.5520508289337158,
+                0.4988534450531006
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "後で覚えとけよ…"
+                },
+                {
+                    "author": "did:plc:epq2a4hkpvrqx7etwccqxc3o",
+                    "type": 2,
+                    "utter": "グゥ…\n\nズィーガー:…ﾌｯ"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "そして誰が鬼畜絶倫だって？"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lbop6n76kk2j",
+            "label": [
+                0.46537789702415466,
+                0.5057995319366455,
+                0.553607702255249,
+                0.707917332649231,
+                0.5581653118133545,
+                0.572901725769043,
+                0.6320032477378845,
+                0.5195432901382446
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "そして誰が鬼畜絶倫だって？"
+                },
+                {
+                    "author": "did:plc:epq2a4hkpvrqx7etwccqxc3o",
+                    "type": 2,
+                    "utter": "んなこと言ってねえぞ!?"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "ジンガさん喋ってたけど？？"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lbopgqy3as2j",
+            "label": [
+                0.5418134927749634,
+                0.49831080436706543,
+                0.5254331231117249,
+                0.6922355890274048,
+                0.4896821677684784,
+                0.5222333669662476,
+                0.5042815208435059,
+                0.4891822040081024
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "ジンガさん喋ってたけど？？"
+                },
+                {
+                    "author": "did:plc:epq2a4hkpvrqx7etwccqxc3o",
+                    "type": 2,
+                    "utter": "…でまかせじゃねえかぁ?"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "…\n（ジト目）"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lbopslpmh22j",
+            "label": [
+                0.4814870059490204,
+                0.7167788743972778,
+                0.5116172432899475,
+                0.47763076424598694,
+                0.5057119131088257,
+                0.6342588067054749,
+                0.6517897248268127,
+                0.5002126097679138
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "なーに笑ってるんですが、そちらも同じな癖に"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "さぁな？淫乱の嫁さん？"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "……性欲が古龍並なお方に言われたくないですねー"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lbooqyrxtk2j",
+            "label": [
+                0.502403974533081,
+                0.6624618172645569,
+                0.5541130900382996,
+                0.5075585246086121,
+                0.5218458771705627,
+                0.6197762489318848,
+                0.6561857461929321,
+                0.4980616271495819
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "……性欲が古龍並なお方に言われたくないですねー"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "お前も絶倫の鬼畜だって言われてんだろ？お前の嫁が言ってたぞ"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "…………\n（笑顔のまま固まる）"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lbop2lu2fs2j",
+            "label": [
+                0.715400755405426,
+                0.5514046549797058,
+                0.6049594283103943,
+                0.5242059230804443,
+                0.5016093850135803,
+                0.5151878595352173,
+                0.4867698550224304,
+                0.5444267392158508
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "…………\n（笑顔のまま固まる）"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "泣いてもやめないで俺のなかを旦那の形にされたって言ってたぞ？サドで嫉妬深くて超絶ど鬼畜だってな(笑)"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "……あんにゃろ……"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lbopcxdbw22j",
+            "label": [
+                0.5379859209060669,
+                0.6282572746276855,
+                0.5355177521705627,
+                0.5446304082870483,
+                0.509906530380249,
+                0.5496014952659607,
+                0.5234843492507935,
+                0.50864577293396
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 1,
+                    "utter": "……あんにゃろ……"
+                },
+                {
+                    "author": "did:plc:4hrs22tpennuqsdapsjykku2",
+                    "type": 2,
+                    "utter": "くくく、ゲス顔で抱き潰してくるときは抜かずプレイもしてるって言ってたなぁ"
+                },
+                {
+                    "author": "did:plc:lj3dxmovibgq5qc5wit4abkp",
+                    "type": 3,
+                    "utter": "…どんだけペラペラ喋ったの…\nあーもう！ジンガさんもからかわないでください！"
+                }
+            ],
+            "uri": "at://did:plc:lj3dxmovibgq5qc5wit4abkp/app.bsky.feed.post/3lbopg6i4uk2j",
+            "label": [
+                0.559490978717804,
+                0.7411128878593445,
+                0.601969301700592,
+                0.5907309055328369,
+                0.57254958152771,
+                0.5488196015357971,
+                0.6454101204872131,
+                0.5124726295471191
+            ]
+        }
+    ]
+}

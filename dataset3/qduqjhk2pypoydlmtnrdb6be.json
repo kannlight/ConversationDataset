@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 1,
+                    "utter": "初めまして- ̗̀ 🫶🏻 ̖́-\nフォローありがとうございます😉✨\nよろしくお願いします🥰"
+                },
+                {
+                    "author": "did:plc:2pevuahicy2kiz3ovepz4d4s",
+                    "type": 2,
+                    "utter": "こちらこそフォロバありがとうございます✨ 気軽におしゃべりしてくれるとうれしいです(*ˊ˘ˋ*)♡"
+                },
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 3,
+                    "utter": "ぜひ✋仲良くしましょう✨👍🏻 ̖́-‬\nムアラ二ちゃん好きなんですね🩵🪽"
+                }
+            ],
+            "uri": "at://did:plc:qduqjhk2pypoydlmtnrdb6be/app.bsky.feed.post/3laldhznijs2a",
+            "label": [
+                0.7286938428878784,
+                0.5041646957397461,
+                0.8138032555580139,
+                0.46651536226272583,
+                0.4885902404785156,
+                0.5065313577651978,
+                0.519777774810791,
+                0.5388854146003723
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 1,
+                    "utter": "ぜひ✋仲良くしましょう✨👍🏻 ̖́-‬\nムアラ二ちゃん好きなんですね🩵🪽"
+                },
+                {
+                    "author": "did:plc:2pevuahicy2kiz3ovepz4d4s",
+                    "type": 2,
+                    "utter": "リプおくれてすみません💦\nムアラニちゃんをYouTubeで見かけて原神始めたので最推しです🎶\n可愛くて大好き(*ˊ˘ˋ*)♡\nくしろさんの推しはお父様ですか？？"
+                },
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 3,
+                    "utter": "いいですね〜推しが出来たら初め時です- ̗̀ 🫶🏻 ̖́-\nムアラ二ちゃん元気だからこっちも元気もらえて好き🥰\n推しは召使様です😘😘😘"
+                }
+            ],
+            "uri": "at://did:plc:qduqjhk2pypoydlmtnrdb6be/app.bsky.feed.post/3lan5x65nkc2x",
+            "label": [
+                0.8690989017486572,
+                0.5007327198982239,
+                0.7481804490089417,
+                0.49102675914764404,
+                0.49237772822380066,
+                0.5252361297607422,
+                0.4963792562484741,
+                0.5737439393997192
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 1,
+                    "utter": "いいですね〜推しが出来たら初め時です- ̗̀ 🫶🏻 ̖́-\nムアラ二ちゃん元気だからこっちも元気もらえて好き🥰\n推しは召使様です😘😘😘"
+                },
+                {
+                    "author": "did:plc:2pevuahicy2kiz3ovepz4d4s",
+                    "type": 2,
+                    "utter": "ムアラニちゃんのPVのガイドのやつ大好きです🫶🏻 かわいすぎて思わずアプリDLしちゃった🥺\n召使い様もとっても素敵ですよね♡(*´ `*) 武器が鎌なのもかっこいい❕"
+                },
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 3,
+                    "utter": "ムアラ二に案内されて原神を⁉️素敵すぎる✨✨✨👏👏👏待機モーションのマラカスダンス癖になる感じで好き🥳🪇\"\n召使様は現状唯一の武器変形なんです🥳\nお厨二病としては大好き🥰🥰🥰"
+                }
+            ],
+            "uri": "at://did:plc:qduqjhk2pypoydlmtnrdb6be/app.bsky.feed.post/3lanz5fv3oc2i",
+            "label": [
+                0.8950703144073486,
+                0.5128583312034607,
+                0.7148057818412781,
+                0.5901476740837097,
+                0.5066630244255066,
+                0.5180481672286987,
+                0.5042045712471008,
+                0.5957214832305908
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 1,
+                    "utter": "ムアラ二に案内されて原神を⁉️素敵すぎる✨✨✨👏👏👏待機モーションのマラカスダンス癖になる感じで好き🥳🪇\"\n召使様は現状唯一の武器変形なんです🥳\nお厨二病としては大好き🥰🥰🥰"
+                },
+                {
+                    "author": "did:plc:2pevuahicy2kiz3ovepz4d4s",
+                    "type": 2,
+                    "utter": "マスカラダンス可愛いですよね❕最後決めポーズしたときの笑顔が眩しい♡(*´ `*)\n召使い様の武器って変形なんですか！？全然知らなかった🫢"
+                },
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 3,
+                    "utter": "着ぐるみのぽよんぽよんモーションもゆるいですよね、ナタ勢力入ってる- ̗̀ 🫶🏻 ̖́-\nそうなんですよ〜槍から変形して鎌になるんです🥰餅武器以外だと鎌の刃先っぽいエフェクトが出ます👍🏻 ̖́-‬"
+                }
+            ],
+            "uri": "at://did:plc:qduqjhk2pypoydlmtnrdb6be/app.bsky.feed.post/3lapmzmin3k2z",
+            "label": [
+                0.7338393330574036,
+                0.5134451389312744,
+                0.5901062488555908,
+                0.6298466920852661,
+                0.49691206216812134,
+                0.5416000485420227,
+                0.5195570588111877,
+                0.5387258529663086
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 1,
+                    "utter": "フォロワー聖遺物更新しててずるい…！ずるいずるいずるいフォロワーさばかり…！(闇堕ちスグリ)"
+                },
+                {
+                    "author": "did:plc:u3hfnrou765rz53xs6meyn33",
+                    "type": 2,
+                    "utter": "くしろちゃんの聖遺物強すぎて更新するの難しそう…"
+                },
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 3,
+                    "utter": "率ダメ\"防御%\"の嫌がらせ受けてる😠💨運営が最強の召使を作らせないようにしてる！これは陰謀！！😠💨"
+                }
+            ],
+            "uri": "at://did:plc:qduqjhk2pypoydlmtnrdb6be/app.bsky.feed.post/3lbtttfqcsc2p",
+            "label": [
+                0.5326198935508728,
+                0.570117712020874,
+                0.5543387532234192,
+                0.7157639265060425,
+                0.674193263053894,
+                0.6569889187812805,
+                0.7715944051742554,
+                0.4946611225605011
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 1,
+                    "utter": "率ダメ\"防御%\"の嫌がらせ受けてる😠💨運営が最強の召使を作らせないようにしてる！これは陰謀！！😠💨"
+                },
+                {
+                    "author": "did:plc:u3hfnrou765rz53xs6meyn33",
+                    "type": 2,
+                    "utter": "防御…… 悲しいね\n\nそれは陰謀だ！！不具合メール送った方がええで"
+                },
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 3,
+                    "utter": "召使様がテイワット最強を認めろ😠💨ほよばの陰謀許さない😠💨"
+                }
+            ],
+            "uri": "at://did:plc:qduqjhk2pypoydlmtnrdb6be/app.bsky.feed.post/3lbtxaik7o22l",
+            "label": [
+                0.5242935419082642,
+                0.49650800228118896,
+                0.6309987306594849,
+                0.4744037389755249,
+                0.7084275484085083,
+                0.576797366142273,
+                0.7408995628356934,
+                0.49963024258613586
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 1,
+                    "utter": "召使様がテイワット最強を認めろ😠💨ほよばの陰謀許さない😠💨"
+                },
+                {
+                    "author": "did:plc:u3hfnrou765rz53xs6meyn33",
+                    "type": 2,
+                    "utter": "がんばれぇ…… 聖遺物厳選ってある程度までは楽しいけど行く所まで行くと全く進まなくて地獄だよね"
+                },
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 3,
+                    "utter": "そうなんだよね…率ダメ攻撃揃ってても4オプじゃないと強化の魅力感じなくて………………"
+                }
+            ],
+            "uri": "at://did:plc:qduqjhk2pypoydlmtnrdb6be/app.bsky.feed.post/3lbucj43jvk23",
+            "label": [
+                0.49899542331695557,
+                0.6732291579246521,
+                0.5648983120918274,
+                0.5130088925361633,
+                0.49027666449546814,
+                0.6181749105453491,
+                0.5537764430046082,
+                0.5123140215873718
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 1,
+                    "utter": "そうなんだよね…率ダメ攻撃揃ってても4オプじゃないと強化の魅力感じなくて………………"
+                },
+                {
+                    "author": "did:plc:u3hfnrou765rz53xs6meyn33",
+                    "type": 2,
+                    "utter": "それもう末期だよォ……"
+                },
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 3,
+                    "utter": "まだ石割りはしてないから人間だよ🥺"
+                }
+            ],
+            "uri": "at://did:plc:qduqjhk2pypoydlmtnrdb6be/app.bsky.feed.post/3lbvhw54x5223",
+            "label": [
+                0.5207287073135376,
+                0.5961992144584656,
+                0.5899173617362976,
+                0.5142425894737244,
+                0.508930504322052,
+                0.5426336526870728,
+                0.6315441727638245,
+                0.5054534077644348
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 1,
+                    "utter": "まだ石割りはしてないから人間だよ🥺"
+                },
+                {
+                    "author": "did:plc:u3hfnrou765rz53xs6meyn33",
+                    "type": 2,
+                    "utter": "すごい人は全割毎日してるらしいね"
+                },
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 3,
+                    "utter": "厳選してると石割ってたりする…？って聞かれるから割ってない！！！！って強めに否定してる、まだ怪物になりとうない…🥺🥺🥺"
+                }
+            ],
+            "uri": "at://did:plc:qduqjhk2pypoydlmtnrdb6be/app.bsky.feed.post/3lbvmhdvtw226",
+            "label": [
+                0.50870281457901,
+                0.6336249113082886,
+                0.5679870843887329,
+                0.5877609848976135,
+                0.5067206025123596,
+                0.7232182025909424,
+                0.5690068006515503,
+                0.5118383169174194
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 1,
+                    "utter": "うちのコス1率ダメ揃っててかつ通常バフとか他もいいやつ付けてるからこいつはなぁって感じ。まぁ後から出る消滅の推しのために取っとく"
+                },
+                {
+                    "author": "did:plc:ghcno6yt6kcsqxtyadqkkpwv",
+                    "type": 2,
+                    "utter": "それなら要らんなぁ…ツバキはやっぱり率欲しいんだよな…最低でも70は確保しておきたい😩"
+                },
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 3,
+                    "utter": "今クリ率が84.9/249.4の愛強めツバキだからなかなか更新出来ないわね…欲張りだから必要なステ全部拾いたいし😔"
+                }
+            ],
+            "uri": "at://did:plc:qduqjhk2pypoydlmtnrdb6be/app.bsky.feed.post/3lbnx4geccc2a",
+            "label": [
+                0.5484179258346558,
+                0.6540396809577942,
+                0.7112140655517578,
+                0.49728232622146606,
+                0.5021737217903137,
+                0.5751204490661621,
+                0.5252115726470947,
+                0.5075709223747253
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 1,
+                    "utter": "今クリ率が84.9/249.4の愛強めツバキだからなかなか更新出来ないわね…欲張りだから必要なステ全部拾いたいし😔"
+                },
+                {
+                    "author": "did:plc:ghcno6yt6kcsqxtyadqkkpwv",
+                    "type": 2,
+                    "utter": "攻撃と通常ダメバフまで確保するとなると本当に地獄だからなぁ…w\nとりあえず深塔攻略できる頭数そろってるなら心を無にして無音区潜るのも有りやね🤔"
+                },
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 3,
+                    "utter": "ツバキの厳選しつつソウリと長離と星4組の育成もしてるから結晶永遠に足りない😭無音区から逃げてる🤧"
+                }
+            ],
+            "uri": "at://did:plc:qduqjhk2pypoydlmtnrdb6be/app.bsky.feed.post/3lbnxlfqg3k2k",
+            "label": [
+                0.5132221579551697,
+                0.7353110313415527,
+                0.5883802771568298,
+                0.49878737330436707,
+                0.4892652928829193,
+                0.5858280658721924,
+                0.5224682688713074,
+                0.506241500377655
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 1,
+                    "utter": "ツバキの厳選しつつソウリと長離と星4組の育成もしてるから結晶永遠に足りない😭無音区から逃げてる🤧"
+                },
+                {
+                    "author": "did:plc:ghcno6yt6kcsqxtyadqkkpwv",
+                    "type": 2,
+                    "utter": "それでいいと思うぞい。個人的には音骸厳選の魔境帯は深塔全ステ☆3取ってからやるべきだと思ってる。音骸集めやら雑魚素材集めなら喜んで手伝うし"
+                },
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 3,
+                    "utter": "塔ね〜下手だからボコボコにされてる🤣\nソウリと長離のノード育成進めて強いって言われてる星4育成して…ってやる事が多い…リナシータキャラ引いてる場合じゃないかもw"
+                }
+            ],
+            "uri": "at://did:plc:qduqjhk2pypoydlmtnrdb6be/app.bsky.feed.post/3lbo2hwi2xk2z",
+            "label": [
+                0.5853953957557678,
+                0.5432901382446289,
+                0.6968349814414978,
+                0.560691773891449,
+                0.5083177089691162,
+                0.5546898245811462,
+                0.5014719367027283,
+                0.5105968117713928
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 1,
+                    "utter": "塔ね〜下手だからボコボコにされてる🤣\nソウリと長離のノード育成進めて強いって言われてる星4育成して…ってやる事が多い…リナシータキャラ引いてる場合じゃないかもw"
+                },
+                {
+                    "author": "did:plc:ghcno6yt6kcsqxtyadqkkpwv",
+                    "type": 2,
+                    "utter": "まあ得手不得手あるからなんとも言えんが、禁域と比べたらだいぶ楽だとは思ったｗ\nとりあえず☆4は散華最優先だなぁ…サポーターは音骸厳選が楽だから良いけど"
+                },
+                {
+                    "author": "did:plc:qduqjhk2pypoydlmtnrdb6be",
+                    "type": 3,
+                    "utter": "散華いまいちよくわからなくて…音骸揃えて育成したら火力出てまた使用感わかるんだろうけど💦ツバキで暴れてると気づいたらHPごっそり減ってるくらい下手w"
+                }
+            ],
+            "uri": "at://did:plc:qduqjhk2pypoydlmtnrdb6be/app.bsky.feed.post/3lbo5roqxws2j",
+            "label": [
+                0.5204122066497803,
+                0.6625255942344666,
+                0.48779937624931335,
+                0.6153377294540405,
+                0.5049147605895996,
+                0.6898885369300842,
+                0.606252133846283,
+                0.4970918595790863
+            ]
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 1,
+                    "utter": "BANDしてるぞ"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "BANDしてるの！？もし良かったらBANDで崩壊とかのなりきりするよ！"
+                },
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 3,
+                    "utter": "やってるぞ\n\nやりたい"
+                }
+            ],
+            "uri": "at://did:plc:du4uqczioeu2cs7bu2ke6xqd/app.bsky.feed.post/3lajcqpngys2l",
+            "label": [
+                0.5504970550537109,
+                0.480243980884552,
+                0.8624275922775269,
+                0.5077667236328125,
+                0.5109123587608337,
+                0.48530682921409607,
+                0.506690502166748,
+                0.5050446391105652
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 1,
+                    "utter": "そうじゃ"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "これは迷うな〜私が似てるかが心配だ〜！"
+                },
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 3,
+                    "utter": "似てるぞ"
+                }
+            ],
+            "uri": "at://did:plc:du4uqczioeu2cs7bu2ke6xqd/app.bsky.feed.post/3lanfsfy7ok27",
+            "label": [
+                0.5837815403938293,
+                0.5192710757255554,
+                0.5575963854789734,
+                0.658494234085083,
+                0.5254931449890137,
+                0.5060790777206421,
+                0.5172006487846375,
+                0.5353779792785645
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 1,
+                    "utter": "やってるぞ\n\nやりたい"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "一緒にやりたいな〜私も！"
+                },
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 3,
+                    "utter": "いいぞ"
+                }
+            ],
+            "uri": "at://did:plc:du4uqczioeu2cs7bu2ke6xqd/app.bsky.feed.post/3lajcwnb7x22l",
+            "label": [
+                0.7145112156867981,
+                0.5076239109039307,
+                0.6440933346748352,
+                0.514137864112854,
+                0.5040531158447266,
+                0.49577826261520386,
+                0.5329933166503906,
+                0.539866030216217
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 1,
+                    "utter": "いいぞ"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "じゃあ送るね♪"
+                },
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 3,
+                    "utter": "うん〜"
+                }
+            ],
+            "uri": "at://did:plc:du4uqczioeu2cs7bu2ke6xqd/app.bsky.feed.post/3lajd3u2sok2l",
+            "label": [
+                0.519524872303009,
+                0.583268940448761,
+                0.5238401889801025,
+                0.5268989205360413,
+                0.48970675468444824,
+                0.4910283088684082,
+                0.5574753880500793,
+                0.4862300455570221
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 1,
+                    "utter": "うん〜"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "作ってくれたら行くよ♪"
+                },
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 3,
+                    "utter": "わかった!"
+                }
+            ],
+            "uri": "at://did:plc:du4uqczioeu2cs7bu2ke6xqd/app.bsky.feed.post/3lajd5c5tu22l",
+            "label": [
+                0.6573033332824707,
+                0.5182268023490906,
+                0.51678466796875,
+                0.7114777565002441,
+                0.5078783631324768,
+                0.4852379858493805,
+                0.4820408523082733,
+                0.49184733629226685
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 1,
+                    "utter": "此方こそ宜しく頼むぞ"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 2,
+                    "utter": "はい♪\n『ひきこまり吸血姫の悶々』からサクナ・メモワールです！"
+                },
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 3,
+                    "utter": "サクナちゃんじゃの\n\n妾は原神から　八重神子じゃ"
+                }
+            ],
+            "uri": "at://did:plc:du4uqczioeu2cs7bu2ke6xqd/app.bsky.feed.post/3laiztezddc2l",
+            "label": [
+                0.6020022034645081,
+                0.5076348781585693,
+                0.6383649110794067,
+                0.5834086537361145,
+                0.5022805333137512,
+                0.518815815448761,
+                0.5115815997123718,
+                0.5299721956253052
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 1,
+                    "utter": "サクナちゃんじゃの\n\n妾は原神から　八重神子じゃ"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 2,
+                    "utter": "原神なら前ツイッターで甘雨をしていました…"
+                },
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 3,
+                    "utter": "そうなのか?!"
+                }
+            ],
+            "uri": "at://did:plc:du4uqczioeu2cs7bu2ke6xqd/app.bsky.feed.post/3laj25ccctk2l",
+            "label": [
+                0.48067691922187805,
+                0.5245885848999023,
+                0.5483017563819885,
+                0.7664394974708557,
+                0.5196149945259094,
+                0.5986371636390686,
+                0.5044836401939392,
+                0.49253013730049133
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 1,
+                    "utter": "そうなのか?!"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 2,
+                    "utter": "はい、そのアカウントは此方への移住に際して消しましたけれど"
+                },
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 3,
+                    "utter": "なるほどな"
+                }
+            ],
+            "uri": "at://did:plc:du4uqczioeu2cs7bu2ke6xqd/app.bsky.feed.post/3laj2dtmwck2l",
+            "label": [
+                0.5294774174690247,
+                0.5238905549049377,
+                0.5885781049728394,
+                0.5697637796401978,
+                0.5108721256256104,
+                0.5392927527427673,
+                0.5095576643943787,
+                0.5117999315261841
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 1,
+                    "utter": "なるほどな"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 2,
+                    "utter": "ナヒーダもやっていたりしましたよ？"
+                },
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 3,
+                    "utter": "サクナちゃんは沢山やっていたのか?"
+                }
+            ],
+            "uri": "at://did:plc:du4uqczioeu2cs7bu2ke6xqd/app.bsky.feed.post/3laj2rjsfsk2l",
+            "label": [
+                0.502318799495697,
+                0.5020713210105896,
+                0.5417388081550598,
+                0.739162802696228,
+                0.48476701974868774,
+                0.5222326517105103,
+                0.5008934736251831,
+                0.5155099034309387
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 1,
+                    "utter": "良かったじゃ!\n\nもし良ければ名前聞いてもいいかのう?"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "えぇ！私の名前は三玖でいいよ♪"
+                },
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 3,
+                    "utter": "三玖ちゃんじゃの\n\n妾は八重神子じゃ\n\n神子っと呼べばいいぞ"
+                }
+            ],
+            "uri": "at://did:plc:du4uqczioeu2cs7bu2ke6xqd/app.bsky.feed.post/3laited67622y",
+            "label": [
+                0.5924604535102844,
+                0.48846256732940674,
+                0.7799022197723389,
+                0.5130468606948853,
+                0.5210261940956116,
+                0.502536952495575,
+                0.5329099297523499,
+                0.5341155529022217
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 1,
+                    "utter": "三玖ちゃんじゃの\n\n妾は八重神子じゃ\n\n神子っと呼べばいいぞ"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "えぇそうよ♪、わかった神子♪これでいいかな♪"
+                },
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 3,
+                    "utter": "いいぞ〜!!!"
+                }
+            ],
+            "uri": "at://did:plc:du4uqczioeu2cs7bu2ke6xqd/app.bsky.feed.post/3laitjdx5tk2y",
+            "label": [
+                0.8821792602539062,
+                0.49342966079711914,
+                0.6488344669342041,
+                0.5640706419944763,
+                0.5138627290725708,
+                0.48084595799446106,
+                0.49839678406715393,
+                0.5745929479598999
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 1,
+                    "utter": "いいぞ〜!!!"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "ありがとう♪これから仲良くしたいからよろしくね♪"
+                },
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 3,
+                    "utter": "此方こそ宜しく頼むぞ!!\n\n三玖ちゃん"
+                }
+            ],
+            "uri": "at://did:plc:du4uqczioeu2cs7bu2ke6xqd/app.bsky.feed.post/3laitoqnte22y",
+            "label": [
+                0.6149721145629883,
+                0.48752909898757935,
+                0.8385862708091736,
+                0.4951185882091522,
+                0.491293340921402,
+                0.5149149894714355,
+                0.4985617697238922,
+                0.5322274565696716
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 1,
+                    "utter": "此方こそ宜しく頼むぞ!!\n\n三玖ちゃん"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "うん！こちらこそ！よろしく♪\n神子〜♪"
+                },
+                {
+                    "author": "did:plc:du4uqczioeu2cs7bu2ke6xqd",
+                    "type": 3,
+                    "utter": "もし良ければ三玖ちゃんが良ければ友達紹介してくれないかのう!?"
+                }
+            ],
+            "uri": "at://did:plc:du4uqczioeu2cs7bu2ke6xqd/app.bsky.feed.post/3laitsvpw5c2y",
+            "label": [
+                0.5499674677848816,
+                0.4959796071052551,
+                0.88750821352005,
+                0.4965197741985321,
+                0.5086916089057922,
+                0.48562565445899963,
+                0.5063363313674927,
+                0.5158548951148987
+            ]
+        }
+    ]
+}

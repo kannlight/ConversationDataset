@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 1,
+                    "utter": "おはあり❣️お疲れ様❣️ありがとう💓‪"
+                },
+                {
+                    "author": "did:plc:h45dd3wlq4m7b54cmoyfmufq",
+                    "type": 2,
+                    "utter": "こんばんは❗️\nお返事ありがとうございます( ﾟ∀ﾟ)つ"
+                },
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 3,
+                    "utter": "こんばんは😊いえいえー( *ˊᵕˋ)ﾉ"
+                }
+            ],
+            "uri": "at://did:plc:nitatv7hyg5ugxivt2zvfyyk/app.bsky.feed.post/3lbwhty6dh22h",
+            "label": [
+                0.7338913679122925,
+                0.5407780408859253,
+                0.6758559942245483,
+                0.4646717309951782,
+                0.49362650513648987,
+                0.5103933215141296,
+                0.5093216300010681,
+                0.5389613509178162
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 1,
+                    "utter": "こんばんは😊いえいえー( *ˊᵕˋ)ﾉ"
+                },
+                {
+                    "author": "did:plc:h45dd3wlq4m7b54cmoyfmufq",
+                    "type": 2,
+                    "utter": "自宅に戻りました❗️"
+                },
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 3,
+                    "utter": "おかえりなさい ⸜(´˘`❁﻿) ⸝"
+                }
+            ],
+            "uri": "at://did:plc:nitatv7hyg5ugxivt2zvfyyk/app.bsky.feed.post/3lbwhygpfkc2m",
+            "label": [
+                0.6133108139038086,
+                0.5850523114204407,
+                0.5916805267333984,
+                0.45599108934402466,
+                0.4777893126010895,
+                0.5294342041015625,
+                0.5445746183395386,
+                0.5038067698478699
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 1,
+                    "utter": "おかえりなさい ⸜(´˘`❁﻿) ⸝"
+                },
+                {
+                    "author": "did:plc:h45dd3wlq4m7b54cmoyfmufq",
+                    "type": 2,
+                    "utter": "ありがとうございます( ﾟ∀ﾟ)つ"
+                },
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 3,
+                    "utter": "いえいえー( *ˊᵕˋ)ﾉ"
+                }
+            ],
+            "uri": "at://did:plc:nitatv7hyg5ugxivt2zvfyyk/app.bsky.feed.post/3lbwkr2dae22r",
+            "label": [
+                0.6296780109405518,
+                0.5579509735107422,
+                0.6594737768173218,
+                0.4923754334449768,
+                0.5036965012550354,
+                0.4990933835506439,
+                0.5233465433120728,
+                0.5205599069595337
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 1,
+                    "utter": "いえいえー( *ˊᵕˋ)ﾉ"
+                },
+                {
+                    "author": "did:plc:h45dd3wlq4m7b54cmoyfmufq",
+                    "type": 2,
+                    "utter": "また明日もよろしくお願いいたします( ﾟ∀ﾟ)つ"
+                },
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 3,
+                    "utter": "はーい❣️こちらこそ明日も宜しくお願いします🙏🙇‍♀️"
+                }
+            ],
+            "uri": "at://did:plc:nitatv7hyg5ugxivt2zvfyyk/app.bsky.feed.post/3lbwkya7xfc2r",
+            "label": [
+                0.5516825318336487,
+                0.5971660614013672,
+                0.7501060366630554,
+                0.47528591752052307,
+                0.5030207633972168,
+                0.5616446137428284,
+                0.5485954284667969,
+                0.49947577714920044
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 1,
+                    "utter": "流石👏😊💕イソップさん❣️"
+                },
+                {
+                    "author": "did:plc:7wgqapi4wpjmbxotuhml6box",
+                    "type": 2,
+                    "utter": "あと、向こうでもフォローしといたよ✨"
+                },
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 3,
+                    "utter": "えっ💦嘘⁉️アカウント名は❓"
+                }
+            ],
+            "uri": "at://did:plc:nitatv7hyg5ugxivt2zvfyyk/app.bsky.feed.post/3lbzbohpsss2s",
+            "label": [
+                0.5285282731056213,
+                0.5020179152488708,
+                0.5282921195030212,
+                0.9124979376792908,
+                0.48169419169425964,
+                0.5128415822982788,
+                0.5479655265808105,
+                0.4790167808532715
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 1,
+                    "utter": "えっ💦嘘⁉️アカウント名は❓"
+                },
+                {
+                    "author": "did:plc:7wgqapi4wpjmbxotuhml6box",
+                    "type": 2,
+                    "utter": "えっ、さっきだけど(笑)\n同じ名前だよ🤣"
+                },
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 3,
+                    "utter": "今フォロバしたよぉ〜︎︎👍"
+                }
+            ],
+            "uri": "at://did:plc:nitatv7hyg5ugxivt2zvfyyk/app.bsky.feed.post/3lbzbrlcclk2s",
+            "label": [
+                0.7348688244819641,
+                0.5118789076805115,
+                0.6413835287094116,
+                0.5116716623306274,
+                0.48503562808036804,
+                0.5173841118812561,
+                0.49862560629844666,
+                0.5042673945426941
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 1,
+                    "utter": "今フォロバしたよぉ〜︎︎👍"
+                },
+                {
+                    "author": "did:plc:7wgqapi4wpjmbxotuhml6box",
+                    "type": 2,
+                    "utter": "(｡･ω･)ゞ向こうでも宜しく✨\nでも両立は大変だよね～😆"
+                },
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 3,
+                    "utter": "大丈夫だよぉ〜︎︎👍💦"
+                }
+            ],
+            "uri": "at://did:plc:nitatv7hyg5ugxivt2zvfyyk/app.bsky.feed.post/3lbzbvrhcks2s",
+            "label": [
+                0.5580925941467285,
+                0.520430326461792,
+                0.5345577597618103,
+                0.4975581765174866,
+                0.48329904675483704,
+                0.6824862957000732,
+                0.5234918594360352,
+                0.5236811637878418
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 1,
+                    "utter": "大丈夫だよぉ〜︎︎👍💦"
+                },
+                {
+                    "author": "did:plc:7wgqapi4wpjmbxotuhml6box",
+                    "type": 2,
+                    "utter": "流石👏マサトさん🤭"
+                },
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 3,
+                    "utter": "あㄜ̏~व ♡٩(˘ ˘ू๑)"
+                }
+            ],
+            "uri": "at://did:plc:nitatv7hyg5ugxivt2zvfyyk/app.bsky.feed.post/3lbzc3ejirk23",
+            "label": [
+                0.815598726272583,
+                0.5300385355949402,
+                0.563365638256073,
+                0.5055384039878845,
+                0.4922085404396057,
+                0.4967282712459564,
+                0.5112512707710266,
+                0.518079400062561
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 1,
+                    "utter": "イソップさん❣️良く俺のXのアカウントを分かりましたねぇ〜💦"
+                },
+                {
+                    "author": "did:plc:7wgqapi4wpjmbxotuhml6box",
+                    "type": 2,
+                    "utter": "色々やってるとね～調べたり、感で分かるんだよね🤣\n言ったでしょ✨潜在的能力なのです👍"
+                },
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 3,
+                    "utter": "素晴らしい👏"
+                }
+            ],
+            "uri": "at://did:plc:nitatv7hyg5ugxivt2zvfyyk/app.bsky.feed.post/3lbzcucg4ps2r",
+            "label": [
+                0.8581777811050415,
+                0.4846329092979431,
+                0.48134759068489075,
+                0.555142343044281,
+                0.4865180253982544,
+                0.514043390750885,
+                0.47947603464126587,
+                0.5747756958007812
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 1,
+                    "utter": "素晴らしい👏"
+                },
+                {
+                    "author": "did:plc:7wgqapi4wpjmbxotuhml6box",
+                    "type": 2,
+                    "utter": "でも少し残念なのが向こうでマサトさんがリプ返してくれない事かな(笑)シカト⁉️"
+                },
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 3,
+                    "utter": "えっ💦マジ⁉️ごめんなさい🙏💦どれにリプをしたの❓"
+                }
+            ],
+            "uri": "at://did:plc:nitatv7hyg5ugxivt2zvfyyk/app.bsky.feed.post/3lbzdatgv5s2r",
+            "label": [
+                0.5273591876029968,
+                0.6553562879562378,
+                0.5193240642547607,
+                0.8380783796310425,
+                0.525546669960022,
+                0.5755435228347778,
+                0.6059638857841492,
+                0.4803062379360199
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 1,
+                    "utter": "えっ💦マジ⁉️ごめんなさい🙏💦どれにリプをしたの❓"
+                },
+                {
+                    "author": "did:plc:7wgqapi4wpjmbxotuhml6box",
+                    "type": 2,
+                    "utter": "えっ、通知見ないの⁉️\n今日のお疲れ様だよ🤣"
+                },
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 3,
+                    "utter": "ごめんなさい🙏💦通知取るようにしましたので🙏💦"
+                }
+            ],
+            "uri": "at://did:plc:nitatv7hyg5ugxivt2zvfyyk/app.bsky.feed.post/3lbzdivdl3s2r",
+            "label": [
+                0.49741679430007935,
+                0.7225326895713806,
+                0.5319870114326477,
+                0.483956515789032,
+                0.5052133202552795,
+                0.5538074374198914,
+                0.5758586525917053,
+                0.4886385202407837
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 1,
+                    "utter": "ごめんなさい🙏💦通知取るようにしましたので🙏💦"
+                },
+                {
+                    "author": "did:plc:7wgqapi4wpjmbxotuhml6box",
+                    "type": 2,
+                    "utter": "(｡･ω･)ゞ✨そしておやすみ🌃✨"
+                },
+                {
+                    "author": "did:plc:nitatv7hyg5ugxivt2zvfyyk",
+                    "type": 3,
+                    "utter": "はーい❣️おやすみなさい💓‪"
+                }
+            ],
+            "uri": "at://did:plc:nitatv7hyg5ugxivt2zvfyyk/app.bsky.feed.post/3lbzdpkmog22i",
+            "label": [
+                0.5417556166648865,
+                0.6889818906784058,
+                0.5236455202102661,
+                0.49005576968193054,
+                0.4954122304916382,
+                0.5461979508399963,
+                0.6436440944671631,
+                0.4866641163825989
+            ]
+        }
+    ]
+}

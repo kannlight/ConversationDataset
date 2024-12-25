@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 1,
+                    "utter": "ロックブーケの口調はわかるかしら…"
+                },
+                {
+                    "author": "did:plc:awa7c67qopxvtos5rb4bb4ct",
+                    "type": 2,
+                    "utter": "普通に私とか、だったきが"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 3,
+                    "utter": "ロックブーケのセリフ例探してみて？"
+                }
+            ],
+            "uri": "at://did:plc:mjelzhnwmmrsygk6yvfqe2cq/app.bsky.feed.post/3lbypzg4ics22",
+            "label": [
+                0.5400983095169067,
+                0.49834349751472473,
+                0.7342863082885742,
+                0.5307384729385376,
+                0.500683605670929,
+                0.5171029567718506,
+                0.49171027541160583,
+                0.5069421529769897
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 1,
+                    "utter": "ロックブーケのセリフ例探してみて？"
+                },
+                {
+                    "author": "did:plc:awa7c67qopxvtos5rb4bb4ct",
+                    "type": 2,
+                    "utter": "にゅ///"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 3,
+                    "utter": "ロックブーケ『リムル、私のアイコン作ってくれてたのね！？』"
+                }
+            ],
+            "uri": "at://did:plc:mjelzhnwmmrsygk6yvfqe2cq/app.bsky.feed.post/3lbyq7fg4vc2o",
+            "label": [
+                0.559766948223114,
+                0.5577034950256348,
+                0.512338399887085,
+                0.7465413212776184,
+                0.4875431954860687,
+                0.5214533805847168,
+                0.5218073129653931,
+                0.5305468440055847
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 1,
+                    "utter": "ロックブーケ『リムル、私のアイコン作ってくれてたのね！？』"
+                },
+                {
+                    "author": "did:plc:awa7c67qopxvtos5rb4bb4ct",
+                    "type": 2,
+                    "utter": "あ、ああ💦"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 3,
+                    "utter": "ロックブーケのアイコン保存したわよ"
+                }
+            ],
+            "uri": "at://did:plc:mjelzhnwmmrsygk6yvfqe2cq/app.bsky.feed.post/3lbyqbeaa522x",
+            "label": [
+                0.6814122796058655,
+                0.5193362236022949,
+                0.6895269751548767,
+                0.4965327978134155,
+                0.4927929937839508,
+                0.48969897627830505,
+                0.5010590553283691,
+                0.5117232203483582
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 1,
+                    "utter": "ロックブーケのアイコン保存したわよ"
+                },
+                {
+                    "author": "did:plc:awa7c67qopxvtos5rb4bb4ct",
+                    "type": 2,
+                    "utter": "うん♪あれはずっと残してるから"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 3,
+                    "utter": "ロックブーケ『私の名前の由来が池袋からきてる、のよね？』"
+                }
+            ],
+            "uri": "at://did:plc:mjelzhnwmmrsygk6yvfqe2cq/app.bsky.feed.post/3lbyqnfpcs22x",
+            "label": [
+                0.5369506478309631,
+                0.52838134765625,
+                0.546235203742981,
+                0.6769750714302063,
+                0.4865613579750061,
+                0.5274980068206787,
+                0.53620845079422,
+                0.5110700130462646
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 1,
+                    "utter": "(にこり、背中の翼でリンクをつつみ)"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 2,
+                    "utter": "おはよう、エリス"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 3,
+                    "utter": "私の種族わかるかしら…？"
+                }
+            ],
+            "uri": "at://did:plc:mjelzhnwmmrsygk6yvfqe2cq/app.bsky.feed.post/3lbv3cj2vdc27",
+            "label": [
+                0.5193830728530884,
+                0.5412579774856567,
+                0.5593831539154053,
+                0.622407853603363,
+                0.5028835535049438,
+                0.6118913292884827,
+                0.5309552550315857,
+                0.5071724653244019
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 1,
+                    "utter": "私の種族わかるかしら…？"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 2,
+                    "utter": "天使かな"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 3,
+                    "utter": "フェザーフォルクっていう有翼人なの。"
+                }
+            ],
+            "uri": "at://did:plc:mjelzhnwmmrsygk6yvfqe2cq/app.bsky.feed.post/3lbv3eabmic2r",
+            "label": [
+                0.5462960600852966,
+                0.5103912353515625,
+                0.5519121885299683,
+                0.7604110240936279,
+                0.5014916062355042,
+                0.4932718575000763,
+                0.48713818192481995,
+                0.5281070470809937
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 1,
+                    "utter": "フェザーフォルクっていう有翼人なの。"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 2,
+                    "utter": "なるほど…、天使だと思ったよ。"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 3,
+                    "utter": "♪"
+                }
+            ],
+            "uri": "at://did:plc:mjelzhnwmmrsygk6yvfqe2cq/app.bsky.feed.post/3lbv3ltj6pc2a",
+            "label": [
+                0.8132064342498779,
+                0.5085762739181519,
+                0.49670109152793884,
+                0.5660543441772461,
+                0.4982779026031494,
+                0.4523129165172577,
+                0.48069947957992554,
+                0.525575578212738
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 1,
+                    "utter": "♪"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 2,
+                    "utter": "︎💕︎︎"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 3,
+                    "utter": "(背中の翼でリンクを撫で)"
+                }
+            ],
+            "uri": "at://did:plc:mjelzhnwmmrsygk6yvfqe2cq/app.bsky.feed.post/3lbv3ush6wc2i",
+            "label": [
+                0.6195712685585022,
+                0.5101643204689026,
+                0.6289823651313782,
+                0.5118807554244995,
+                0.48582392930984497,
+                0.519963800907135,
+                0.4896639883518219,
+                0.5084720253944397
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 1,
+                    "utter": "まーよーい？まだ小さいんですから…クレアお姉さんと一緒にいましょ？(手を握り)"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 2,
+                    "utter": "可愛い"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 3,
+                    "utter": "///"
+                }
+            ],
+            "uri": "at://did:plc:mjelzhnwmmrsygk6yvfqe2cq/app.bsky.feed.post/3lbhc6lwruk27",
+            "label": [
+                0.5301733613014221,
+                0.6352059841156006,
+                0.520491898059845,
+                0.5176526308059692,
+                0.4814407229423523,
+                0.5151593685150146,
+                0.5268988609313965,
+                0.4855339527130127
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 1,
+                    "utter": "///"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 2,
+                    "utter": "照れてるー"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 3,
+                    "utter": "わ、わたし…どんなシスターに見えてますか…？"
+                }
+            ],
+            "uri": "at://did:plc:mjelzhnwmmrsygk6yvfqe2cq/app.bsky.feed.post/3lbhcjgnws22p",
+            "label": [
+                0.49237310886383057,
+                0.5988313555717468,
+                0.5751922130584717,
+                0.6939566731452942,
+                0.5306413769721985,
+                0.6256068348884583,
+                0.5402948260307312,
+                0.5177137851715088
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 1,
+                    "utter": "ゼルダ『ここでの私、よ？（口調どう…？）』"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 2,
+                    "utter": "変なじゃないから大丈夫"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 3,
+                    "utter": "ゼルダ『アイコンある…？』"
+                }
+            ],
+            "uri": "at://did:plc:mjelzhnwmmrsygk6yvfqe2cq/app.bsky.feed.post/3lb4ygi4gck2f",
+            "label": [
+                0.5663402676582336,
+                0.5040762424468994,
+                0.5874753594398499,
+                0.6864264607429504,
+                0.4979439079761505,
+                0.5178790092468262,
+                0.5182241201400757,
+                0.5013680458068848
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 1,
+                    "utter": "ゼルダ『保存したわ、あしたかえておくわね？』"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 2,
+                    "utter": "ああ、わかったよ"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 3,
+                    "utter": "リンク、これでいいかしら"
+                }
+            ],
+            "uri": "at://did:plc:mjelzhnwmmrsygk6yvfqe2cq/app.bsky.feed.post/3lb4zsifmak2f",
+            "label": [
+                0.5291441679000854,
+                0.49962571263313293,
+                0.6633551716804504,
+                0.519994854927063,
+                0.4826159179210663,
+                0.5510422587394714,
+                0.5164996981620789,
+                0.5011336803436279
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 1,
+                    "utter": "リンク、これでいいかしら"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 2,
+                    "utter": "大丈夫"
+                },
+                {
+                    "author": "did:plc:mjelzhnwmmrsygk6yvfqe2cq",
+                    "type": 3,
+                    "utter": "♪"
+                }
+            ],
+            "uri": "at://did:plc:mjelzhnwmmrsygk6yvfqe2cq/app.bsky.feed.post/3lb4zvac76c2o",
+            "label": [
+                0.8132064342498779,
+                0.5085762739181519,
+                0.49670109152793884,
+                0.5660543441772461,
+                0.4982779026031494,
+                0.45231297612190247,
+                0.48069947957992554,
+                0.525575578212738
+            ]
+        }
+    ]
+}

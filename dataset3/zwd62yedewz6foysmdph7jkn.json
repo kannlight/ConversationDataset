@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 1,
+                    "utter": "そーだよー！\nあっそうやったん！？名前知れて良かった！！\n3周年の星2イラスト結構好みなのよね！見つけたらつい買っちゃうやつ()"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 2,
+                    "utter": "ありがとうね！\nわかるー！！進級後のイラストめっちゃいいよね✨\n自分も好きよ！\nしかもこういうのって、手に入りやすい価格だと余計ほしくなっちゃうよね～"
+                },
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 3,
+                    "utter": "ひと回り成長してる感じなイラストですごく良いよね！！\nあーめちゃ分かるわ～\nウエハースとかさ、1つが安いからいつも見つける度に何個も何個も買っちゃうのどうにかしたい()"
+                }
+            ],
+            "uri": "at://did:plc:zwd62yedewz6foysmdph7jkn/app.bsky.feed.post/3lbrjn4dv3s2m",
+            "label": [
+                0.8970500826835632,
+                0.5130063891410828,
+                0.7649126648902893,
+                0.6071409583091736,
+                0.5188870429992676,
+                0.5144347548484802,
+                0.5173995494842529,
+                0.6020355224609375
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 1,
+                    "utter": "ひと回り成長してる感じなイラストですごく良いよね！！\nあーめちゃ分かるわ～\nウエハースとかさ、1つが安いからいつも見つける度に何個も何個も買っちゃうのどうにかしたい()"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 2,
+                    "utter": "なんだかみんな大人びた感じするよね！\nいっちゃんなんかも顔が凛としててさ！\nそうそう！\nああいうのは安いからいくら買っても許される感があるよね笑\n最近グッズへの財布のひもが昔より緩くなってきてて、ちょっとまずいかも（）"
+                },
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 3,
+                    "utter": "分かりみすぎるw\nうちバイト初めてからグッズとか特に課金もそうだし、物欲が凄いことになってるw"
+                }
+            ],
+            "uri": "at://did:plc:zwd62yedewz6foysmdph7jkn/app.bsky.feed.post/3lbrs4l5r3k2m",
+            "label": [
+                0.6411927342414856,
+                0.4875336289405823,
+                0.5661817193031311,
+                0.7973553538322449,
+                0.48999926447868347,
+                0.592279851436615,
+                0.5076918005943298,
+                0.5086731314659119
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 1,
+                    "utter": "分かりみすぎるw\nうちバイト初めてからグッズとか特に課金もそうだし、物欲が凄いことになってるw"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 2,
+                    "utter": "お金入ってくると物欲に正直になっちゃうよね笑\n自分は直近だとライブグッズのの合計金額に驚いたよ😇"
+                },
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 3,
+                    "utter": "おーまじ！？\nうち今年のセカライはなんも買わんかったなw\nペンラ棒なら買ってたんだけど…去年と同じ感じやとかさばるんよなぁ\n後々アニメイトでも出ると思うし、そのときに気になったのあれば買うか🤔"
+                }
+            ],
+            "uri": "at://did:plc:zwd62yedewz6foysmdph7jkn/app.bsky.feed.post/3lbt53l5r3k2c",
+            "label": [
+                0.5659796595573425,
+                0.6553777456283569,
+                0.6327562928199768,
+                0.6402626037597656,
+                0.5330377817153931,
+                0.5868048667907715,
+                0.5772300958633423,
+                0.502760648727417
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 1,
+                    "utter": "おーまじ！？\nうち今年のセカライはなんも買わんかったなw\nペンラ棒なら買ってたんだけど…去年と同じ感じやとかさばるんよなぁ\n後々アニメイトでも出ると思うし、そのときに気になったのあれば買うか🤔"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 2,
+                    "utter": "昨年にこんなグッズが欲しいって要望に書いたのが今回追加されてて、これは買うしかないか…いやでも値段がってめっちゃ葛藤してるんだけどね笑\n\nそれはわかるなー\nあれ持ち運ぶ時ちょっと辛いよね\n(去年よりはスリムになった気がするけど…笑)\nだから3rdのときのは先端棒タイプに変えて使おうかなって！\n\n全然ありだと思うよ👍"
+                },
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 3,
+                    "utter": "あーそゆことやったんや！！\n全然知らんかったw\n\nあーそれはわかるw去年のほんと凶器やもん()\nなるほど！それ良いと思う！！\n\nほんと！？じゃあ後々で買いますかー！"
+                }
+            ],
+            "uri": "at://did:plc:zwd62yedewz6foysmdph7jkn/app.bsky.feed.post/3lbu5jxbyj22q",
+            "label": [
+                0.5981218218803406,
+                0.555770754814148,
+                0.587472677230835,
+                0.9022312760353088,
+                0.5467649102210999,
+                0.5829710960388184,
+                0.590048611164093,
+                0.5289565324783325
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 1,
+                    "utter": "元々書いてあったから仕方ないじゃん？"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "それは気のせい"
+                },
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 3,
+                    "utter": "は"
+                }
+            ],
+            "uri": "at://did:plc:zwd62yedewz6foysmdph7jkn/app.bsky.feed.post/3l6v7323uos2q",
+            "label": [
+                0.4852338433265686,
+                0.6484895348548889,
+                0.5322220921516418,
+                0.5143432021141052,
+                0.49927008152008057,
+                0.5458829402923584,
+                0.5942554473876953,
+                0.49387645721435547
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 1,
+                    "utter": "は"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "へい？"
+                },
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 3,
+                    "utter": "103100004回ですね"
+                }
+            ],
+            "uri": "at://did:plc:zwd62yedewz6foysmdph7jkn/app.bsky.feed.post/3l6vmxp4s6v2w",
+            "label": [
+                0.5003760457038879,
+                0.5188711881637573,
+                0.5357793569564819,
+                0.6398793458938599,
+                0.504789412021637,
+                0.5117439031600952,
+                0.5124687552452087,
+                0.4900040030479431
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 1,
+                    "utter": "ちがいます"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "でも実際異常無かったよね？？\n主治医なら検査結果分かるよね！"
+                },
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 3,
+                    "utter": "そうですよわかりますよ？\n全部異常ありって出てます"
+                }
+            ],
+            "uri": "at://did:plc:zwd62yedewz6foysmdph7jkn/app.bsky.feed.post/3l2yqyupvxk2m",
+            "label": [
+                0.5181909203529358,
+                0.508922815322876,
+                0.5602145791053772,
+                0.6680104732513428,
+                0.5335114002227783,
+                0.6708897352218628,
+                0.5639253854751587,
+                0.5097000598907471
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 1,
+                    "utter": "そうですよわかりますよ？\n全部異常ありって出てます"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "いやいや健康体そのものだって昨日も言ったでしょ😅"
+                },
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 3,
+                    "utter": "言ってないけど？\n幻聴？？\nあーそっかそっか\n再検査言っとこうね\nあときのせいかうんと1ね"
+                }
+            ],
+            "uri": "at://did:plc:zwd62yedewz6foysmdph7jkn/app.bsky.feed.post/3l33ufx4bf623",
+            "label": [
+                0.5230909585952759,
+                0.6721632480621338,
+                0.5195480585098267,
+                0.6076202988624573,
+                0.5225743055343628,
+                0.6657767295837402,
+                0.6684763431549072,
+                0.5030141472816467
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 1,
+                    "utter": "言ってないけど？\n幻聴？？\nあーそっかそっか\n再検査言っとこうね\nあときのせいかうんと1ね"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "いや絶対言ったし！\n血圧以外は健康って話よ？？\n\n再検査言っとこう？おけ！\n「再検査」\nはい、言ったよ！\n\nえ、カウントされてるけど言ったっけ？"
+                },
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 3,
+                    "utter": "あ普通に誤字った\n行っとこうね"
+                }
+            ],
+            "uri": "at://did:plc:zwd62yedewz6foysmdph7jkn/app.bsky.feed.post/3l35tu5tlw625",
+            "label": [
+                0.4998317360877991,
+                0.5729559659957886,
+                0.5657845735549927,
+                0.5950178503990173,
+                0.5314972996711731,
+                0.5673003792762756,
+                0.6123741865158081,
+                0.5046828389167786
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 1,
+                    "utter": "あ普通に誤字った\n行っとこうね"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "いやだって普通に言ったしそろそろ主治医の方も検査に…"
+                },
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 3,
+                    "utter": "私は正常なので\nなんなら検査して異常無しって出てます！！"
+                }
+            ],
+            "uri": "at://did:plc:zwd62yedewz6foysmdph7jkn/app.bsky.feed.post/3l36cqmhgzu2t",
+            "label": [
+                0.5616068840026855,
+                0.4955676198005676,
+                0.7148611545562744,
+                0.5679334998130798,
+                0.549685001373291,
+                0.5721927881240845,
+                0.5350866317749023,
+                0.5316796898841858
+            ]
+        }
+    ]
+}

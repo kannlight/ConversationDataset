@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 1,
+                    "utter": "姐御、流石っす👏👏👏"
+                },
+                {
+                    "author": "did:plc:hecslcgsvwviv3lrk2k52tow",
+                    "type": 2,
+                    "utter": "やめて〜姉御じゃないって💦💦💦"
+                },
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 3,
+                    "utter": "じゃ、姐さん❤️"
+                }
+            ],
+            "uri": "at://did:plc:eegpzfuja62gec5rt6rpwhhu/app.bsky.feed.post/3lb57mtcwmc2w",
+            "label": [
+                0.6235573887825012,
+                0.5507614016532898,
+                0.5375362634658813,
+                0.5711194276809692,
+                0.5158007740974426,
+                0.5339292287826538,
+                0.5645054578781128,
+                0.5045840740203857
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 1,
+                    "utter": "じゃ、姐さん❤️"
+                },
+                {
+                    "author": "did:plc:hecslcgsvwviv3lrk2k52tow",
+                    "type": 2,
+                    "utter": "変わんないやん😢"
+                },
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 3,
+                    "utter": "じゃ、おねえさま🌹"
+                }
+            ],
+            "uri": "at://did:plc:eegpzfuja62gec5rt6rpwhhu/app.bsky.feed.post/3lb5a2lx5nc2h",
+            "label": [
+                0.5480967164039612,
+                0.5838298797607422,
+                0.5140170454978943,
+                0.5720895528793335,
+                0.5140341520309448,
+                0.528153121471405,
+                0.578516960144043,
+                0.5068284273147583
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 1,
+                    "utter": "じゃ、おねえさま🌹"
+                },
+                {
+                    "author": "did:plc:hecslcgsvwviv3lrk2k52tow",
+                    "type": 2,
+                    "utter": "その🌹見ると麗子様が浮かびます✨\n\nあらみの返しには…勝てない🥲（語彙力なくて💦）"
+                },
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 3,
+                    "utter": "薔薇薔薇ありがとうございます💋(麗子様ふうに💃)"
+                }
+            ],
+            "uri": "at://did:plc:eegpzfuja62gec5rt6rpwhhu/app.bsky.feed.post/3lb5alkp7xk2z",
+            "label": [
+                0.8196942210197449,
+                0.4983953535556793,
+                0.5184817910194397,
+                0.4917982816696167,
+                0.4989720284938812,
+                0.49595049023628235,
+                0.4969748854637146,
+                0.5592454671859741
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 1,
+                    "utter": "ヒカルスーパースターちゃん、テーマソングでは？踊らな💃💃💃"
+                },
+                {
+                    "author": "did:plc:zzmjarmxkviw5ojjc5tdih5e",
+                    "type": 2,
+                    "utter": "ラップ調で踊らなあかんで💃🕺"
+                },
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 3,
+                    "utter": "(｡_｡(ﾟдﾟ(｡_｡(ﾟдﾟ )ﾝﾀﾞﾝﾀﾞ"
+                }
+            ],
+            "uri": "at://did:plc:eegpzfuja62gec5rt6rpwhhu/app.bsky.feed.post/3l7xousvz3x2b",
+            "label": [
+                0.5319429636001587,
+                0.5898221731185913,
+                0.5127554535865784,
+                0.5353182554244995,
+                0.5026105642318726,
+                0.5434948801994324,
+                0.5449064373970032,
+                0.4840332567691803
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 1,
+                    "utter": "ね、待ってるよ♥️"
+                },
+                {
+                    "author": "did:plc:4cuy35utjpnzf2qz6anky5c4",
+                    "type": 2,
+                    "utter": "イヤです❗絶対にイヤです❗一人で楽しみまーーーす❤️"
+                },
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 3,
+                    "utter": "覗いたるわ🫣"
+                }
+            ],
+            "uri": "at://did:plc:eegpzfuja62gec5rt6rpwhhu/app.bsky.feed.post/3la4nk7dm7722",
+            "label": [
+                0.6062496304512024,
+                0.5024821758270264,
+                0.5864019989967346,
+                0.5583139061927795,
+                0.48769310116767883,
+                0.538647472858429,
+                0.5195314884185791,
+                0.49744677543640137
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 1,
+                    "utter": "下がったら上がるのよ❤️今は休みなさいって事だよ😴"
+                },
+                {
+                    "author": "did:plc:4cuy35utjpnzf2qz6anky5c4",
+                    "type": 2,
+                    "utter": "下がって下がって下がりまくって．．．\n上がりかけたら、また下がって下がって．．．\nの繰り返しなのよね😅\nあられ、私の分も上がりまくれーーー⤴️⤴️⤴️"
+                },
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 3,
+                    "utter": "一緒に上がる⤴︎⤴︎⤴︎⤴︎"
+                }
+            ],
+            "uri": "at://did:plc:eegpzfuja62gec5rt6rpwhhu/app.bsky.feed.post/3l7ffwvsovp2g",
+            "label": [
+                0.786858081817627,
+                0.47875702381134033,
+                0.7802653908729553,
+                0.48426276445388794,
+                0.5058213472366333,
+                0.5110705494880676,
+                0.4950745105743408,
+                0.5242846608161926
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 1,
+                    "utter": "一緒に上がる⤴︎⤴︎⤴︎⤴︎"
+                },
+                {
+                    "author": "did:plc:4cuy35utjpnzf2qz6anky5c4",
+                    "type": 2,
+                    "utter": "あられ、宇宙まで一緒に行こうか．．．🚀"
+                },
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 3,
+                    "utter": "戻って来られるならね😂"
+                }
+            ],
+            "uri": "at://did:plc:eegpzfuja62gec5rt6rpwhhu/app.bsky.feed.post/3l7fip5k5st23",
+            "label": [
+                0.5207629799842834,
+                0.6510720252990723,
+                0.618527889251709,
+                0.5111297965049744,
+                0.5612676739692688,
+                0.5968136787414551,
+                0.6708688139915466,
+                0.5026160478591919
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 1,
+                    "utter": "戻って来られるならね😂"
+                },
+                {
+                    "author": "did:plc:4cuy35utjpnzf2qz6anky5c4",
+                    "type": 2,
+                    "utter": "戻って来ませんよー💦"
+                },
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 3,
+                    "utter": "じゃ行かない💦"
+                }
+            ],
+            "uri": "at://did:plc:eegpzfuja62gec5rt6rpwhhu/app.bsky.feed.post/3l7foc22q3t23",
+            "label": [
+                0.5038139820098877,
+                0.6371869444847107,
+                0.5678333044052124,
+                0.5061070919036865,
+                0.4918888807296753,
+                0.5484552979469299,
+                0.600265383720398,
+                0.4922817051410675
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 1,
+                    "utter": "じゃ行かない💦"
+                },
+                {
+                    "author": "did:plc:4cuy35utjpnzf2qz6anky5c4",
+                    "type": 2,
+                    "utter": "えーーー、私、あられと一緒がいいなーーー．．．ρ(тωт`) ｲｼﾞｲｼﾞ"
+                },
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 3,
+                    "utter": "そんなに私の事好きやったっけ？🤔"
+                }
+            ],
+            "uri": "at://did:plc:eegpzfuja62gec5rt6rpwhhu/app.bsky.feed.post/3l7fyl3kl5b26",
+            "label": [
+                0.685444712638855,
+                0.5177167654037476,
+                0.5690069794654846,
+                0.5879685282707214,
+                0.5012376308441162,
+                0.5355274677276611,
+                0.533694863319397,
+                0.5284755825996399
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 1,
+                    "utter": "チェーンにお金持ち感を感じます💰"
+                },
+                {
+                    "author": "did:plc:u624qd2zur7wmeldbnliol2l",
+                    "type": 2,
+                    "utter": "すごーく昔にいただいたものよ🤣"
+                },
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 3,
+                    "utter": "黒ずくめの方から？🤔"
+                }
+            ],
+            "uri": "at://did:plc:eegpzfuja62gec5rt6rpwhhu/app.bsky.feed.post/3l7hb5vwwqf2g",
+            "label": [
+                0.5024778246879578,
+                0.49888360500335693,
+                0.571151614189148,
+                0.5560392737388611,
+                0.5221392512321472,
+                0.5599676370620728,
+                0.5208005905151367,
+                0.4710870683193207
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 1,
+                    "utter": "黒ずくめの方から？🤔"
+                },
+                {
+                    "author": "did:plc:u624qd2zur7wmeldbnliol2l",
+                    "type": 2,
+                    "utter": "黒ずくめの方は愛しかくれない🤭"
+                },
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 3,
+                    "utter": "私にはくれないよ🥶"
+                }
+            ],
+            "uri": "at://did:plc:eegpzfuja62gec5rt6rpwhhu/app.bsky.feed.post/3l7hbche5gn23",
+            "label": [
+                0.47922295331954956,
+                0.6739177703857422,
+                0.5496101379394531,
+                0.5038694143295288,
+                0.5919514298439026,
+                0.5522966980934143,
+                0.7007022500038147,
+                0.4995199143886566
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 1,
+                    "utter": "私にはくれないよ🥶"
+                },
+                {
+                    "author": "did:plc:u624qd2zur7wmeldbnliol2l",
+                    "type": 2,
+                    "utter": "大丈夫！ちゃんともらってるよー🥰\n信じてね😎"
+                },
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 3,
+                    "utter": "信じられません🥺"
+                }
+            ],
+            "uri": "at://did:plc:eegpzfuja62gec5rt6rpwhhu/app.bsky.feed.post/3l7hbg6gruf23",
+            "label": [
+                0.5037756562232971,
+                0.7534022927284241,
+                0.5198550224304199,
+                0.524114727973938,
+                0.5254275798797607,
+                0.6389536261558533,
+                0.6608210802078247,
+                0.48419836163520813
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 1,
+                    "utter": "信じられません🥺"
+                },
+                {
+                    "author": "did:plc:u624qd2zur7wmeldbnliol2l",
+                    "type": 2,
+                    "utter": "信じることが1番大事☝️\nみーんなに愛を贈ってるから🩷"
+                },
+                {
+                    "author": "did:plc:eegpzfuja62gec5rt6rpwhhu",
+                    "type": 3,
+                    "utter": "なんせ、初読まれたコメント「私には冷たい🥶」だからな🥺🥺🥺"
+                }
+            ],
+            "uri": "at://did:plc:eegpzfuja62gec5rt6rpwhhu/app.bsky.feed.post/3l7hbk7xmuo2g",
+            "label": [
+                0.5298474431037903,
+                0.5882807970046997,
+                0.5456622838973999,
+                0.548779308795929,
+                0.491112619638443,
+                0.548474907875061,
+                0.5729081034660339,
+                0.5077813267707825
+            ]
+        }
+    ]
+}

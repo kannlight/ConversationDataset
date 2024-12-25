@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 1,
+                    "utter": "寒くてファンヒーターの前で三時間ぐらい固まってた💧‬\n\n食器も洗濯もこんもりたまってるのに😂\n\n娘はいるのに、おひとり様のような怠け様🤣\n\n明日は家事を頑張る代わりに部屋に暖房入れようかな…"
+                },
+                {
+                    "author": "did:plc:wfibu2tknih53acacmgp3el7",
+                    "type": 2,
+                    "utter": "そこは我慢しちゃダメだよ\n設定温度低めでも暖房入れて体を動かしてね"
+                },
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 3,
+                    "utter": "そだね☺️\n最近、食欲旺盛だしヤバい…\nうん、家の中で体も動かさないとだね☺️"
+                }
+            ],
+            "uri": "at://did:plc:7j7qhtm4eoat7pmhdkr3lfwf/app.bsky.feed.post/3lc4sw3wpu22z",
+            "label": [
+                0.5906538963317871,
+                0.5889788866043091,
+                0.5540188550949097,
+                0.6117833256721497,
+                0.48455777764320374,
+                0.6602534055709839,
+                0.6100096106529236,
+                0.5088564157485962
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 1,
+                    "utter": "そだね☺️\n最近、食欲旺盛だしヤバい…\nうん、家の中で体も動かさないとだね☺️"
+                },
+                {
+                    "author": "did:plc:wfibu2tknih53acacmgp3el7",
+                    "type": 2,
+                    "utter": "食欲がある時は心が元気な時なんだよね\n何かあるとピタッと食欲止まる💧\n私は掃除機終わったところ😊"
+                },
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 3,
+                    "utter": "そだね！\n💩の後は１ヶ月で六キロ痩せたもん😂\n今、洗濯第一弾終了😀\nあと二三回すことになるかな😂"
+                }
+            ],
+            "uri": "at://did:plc:7j7qhtm4eoat7pmhdkr3lfwf/app.bsky.feed.post/3lc4v2oszes2t",
+            "label": [
+                0.6270425915718079,
+                0.5422212481498718,
+                0.8342800736427307,
+                0.5211452841758728,
+                0.49466732144355774,
+                0.552385151386261,
+                0.5084732174873352,
+                0.4796169698238373
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 1,
+                    "utter": "そだね！\n💩の後は１ヶ月で六キロ痩せたもん😂\n今、洗濯第一弾終了😀\nあと二三回すことになるかな😂"
+                },
+                {
+                    "author": "did:plc:wfibu2tknih53acacmgp3el7",
+                    "type": 2,
+                    "utter": "私も2回目を回してるとこ😊\nすごい天気が良くて勿体無くてたくさん洗濯しておかないと\n父親が亡くなった時も洗濯しに家に帰ったっけ私😂"
+                },
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 3,
+                    "utter": "こっちは曇ってるけど、そんなこと言ってらんない😂\n\nお母様、助かっただろうね😊"
+                }
+            ],
+            "uri": "at://did:plc:7j7qhtm4eoat7pmhdkr3lfwf/app.bsky.feed.post/3lc4vwly7z22t",
+            "label": [
+                0.7483416199684143,
+                0.5818892121315002,
+                0.5601213574409485,
+                0.5580799579620361,
+                0.4937210977077484,
+                0.5579254031181335,
+                0.4927669167518616,
+                0.5733605623245239
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 1,
+                    "utter": "こっちは曇ってるけど、そんなこと言ってらんない😂\n\nお母様、助かっただろうね😊"
+                },
+                {
+                    "author": "did:plc:wfibu2tknih53acacmgp3el7",
+                    "type": 2,
+                    "utter": "洗濯好きなの😊\n\nもう干すとこ無くなったからこれでやめることにした💧"
+                },
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 3,
+                    "utter": "そだよね、干す場所がね💧‬\n明日もあるからボチボチすればいいか😆\n今ちょびっと皿洗ったとこ🫢"
+                }
+            ],
+            "uri": "at://did:plc:7j7qhtm4eoat7pmhdkr3lfwf/app.bsky.feed.post/3lc4ykjkjfk2d",
+            "label": [
+                0.5299830436706543,
+                0.5579988956451416,
+                0.7017571330070496,
+                0.5239810943603516,
+                0.5013038516044617,
+                0.5865328907966614,
+                0.542836606502533,
+                0.4948669373989105
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 1,
+                    "utter": "そだよね、干す場所がね💧‬\n明日もあるからボチボチすればいいか😆\n今ちょびっと皿洗ったとこ🫢"
+                },
+                {
+                    "author": "did:plc:wfibu2tknih53acacmgp3el7",
+                    "type": 2,
+                    "utter": "ちょびっと😂😂😂\n\n今朝は納豆ご飯とサラダを食べて、全部食洗機に入れてしまった\nコーヒー飲んだコップもお薬飲んだコップも食洗機対応じゃないものも全部入れる毎日"
+                },
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 3,
+                    "utter": "うち食洗機ないの😂\n\n旦那がいらないって言うの\n古風よー"
+                }
+            ],
+            "uri": "at://did:plc:7j7qhtm4eoat7pmhdkr3lfwf/app.bsky.feed.post/3lc4zvq5noc2d",
+            "label": [
+                0.5280553102493286,
+                0.6033021211624146,
+                0.5004903674125671,
+                0.5762255787849426,
+                0.5604791641235352,
+                0.5207088589668274,
+                0.7059150338172913,
+                0.4951668679714203
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 1,
+                    "utter": "家のパソコンが急に電源が入らなくなった😱\nまだ買って１年ぐらいのはず💧\nそして、ビックカメラで買ったはずだけど、保証書が見つからない😂\nお店が記録残してるといいけど…"
+                },
+                {
+                    "author": "did:plc:wfibu2tknih53acacmgp3el7",
+                    "type": 2,
+                    "utter": "やだ困った事😱\n保証期間はお店で把握できてるんじゃないの？"
+                },
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 3,
+                    "utter": "それがね、お客としての記録はあったけど、パソコンの購入記録はないって言うの💧‬\n正規の値段で修理させるための手かしら？と思ってしまう🫠"
+                }
+            ],
+            "uri": "at://did:plc:7j7qhtm4eoat7pmhdkr3lfwf/app.bsky.feed.post/3lby6rtlzec2m",
+            "label": [
+                0.48269566893577576,
+                0.5917965173721313,
+                0.5235610604286194,
+                0.5965701341629028,
+                0.5466878414154053,
+                0.594335675239563,
+                0.6573886275291443,
+                0.5017956495285034
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 1,
+                    "utter": "それがね、お客としての記録はあったけど、パソコンの購入記録はないって言うの💧‬\n正規の値段で修理させるための手かしら？と思ってしまう🫠"
+                },
+                {
+                    "author": "did:plc:wfibu2tknih53acacmgp3el7",
+                    "type": 2,
+                    "utter": "いちいち保証書を取っておかなくちゃいけないね😣\n電気屋さんの会員になっていれば購入記録なんかはありそうだけど"
+                },
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 3,
+                    "utter": "ねー！\nちょっと疑心暗鬼🧐"
+                }
+            ],
+            "uri": "at://did:plc:7j7qhtm4eoat7pmhdkr3lfwf/app.bsky.feed.post/3lbyq4n42d22h",
+            "label": [
+                0.5402319431304932,
+                0.563137948513031,
+                0.4763818383216858,
+                0.5830845832824707,
+                0.6242241859436035,
+                0.6823486089706421,
+                0.7268713116645813,
+                0.49945640563964844
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 1,
+                    "utter": "ねー！\nちょっと疑心暗鬼🧐"
+                },
+                {
+                    "author": "did:plc:wfibu2tknih53acacmgp3el7",
+                    "type": 2,
+                    "utter": "もし直らなかったとして買い直すことになったら、同じお店では買いたくないね😓\nあ！大丈夫ですよ購入履歴ありますからとか言ってくれたら気持ちもいいのになぁ"
+                },
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 3,
+                    "utter": "りーちゃん、電源入った！！！\n\n長押し作戦成功だった～～～😆"
+                }
+            ],
+            "uri": "at://did:plc:7j7qhtm4eoat7pmhdkr3lfwf/app.bsky.feed.post/3lbz34iqt6k2g",
+            "label": [
+                0.8878841996192932,
+                0.5071956515312195,
+                0.4735025465488434,
+                0.6333143711090088,
+                0.49084585905075073,
+                0.5204877853393555,
+                0.49150508642196655,
+                0.5215127468109131
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 1,
+                    "utter": "りーちゃん、電源入った！！！\n\n長押し作戦成功だった～～～😆"
+                },
+                {
+                    "author": "did:plc:wfibu2tknih53acacmgp3el7",
+                    "type": 2,
+                    "utter": "やだよかった😂🎉\n運が向いて来たかもよー"
+                },
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 3,
+                    "utter": "お、そうかも🦆\n\nこのまま宝くじ当てちゃうかもよ😁"
+                }
+            ],
+            "uri": "at://did:plc:7j7qhtm4eoat7pmhdkr3lfwf/app.bsky.feed.post/3lbz64a7wcc2z",
+            "label": [
+                0.5725281238555908,
+                0.5349147319793701,
+                0.7678496241569519,
+                0.529674768447876,
+                0.5047471523284912,
+                0.5442444086074829,
+                0.4979885518550873,
+                0.4898295998573303
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 1,
+                    "utter": "紛らわしくて、ごめんね😂\nあっちもゆらりにしようかなあ。鍵してるしねえ。"
+                },
+                {
+                    "author": "did:plc:yqve7i2hilzz5vk3fnlmgp6m",
+                    "type": 2,
+                    "utter": "紛らわしいかもしれないけど\n考えたらかなぴもゆらりも本名じゃないやん？だからどっちでもいいんじゃない？😄"
+                },
+                {
+                    "author": "did:plc:7j7qhtm4eoat7pmhdkr3lfwf",
+                    "type": 3,
+                    "utter": "たしかに🤣"
+                }
+            ],
+            "uri": "at://did:plc:7j7qhtm4eoat7pmhdkr3lfwf/app.bsky.feed.post/3lbu4edvf4k2i",
+            "label": [
+                0.6342591047286987,
+                0.558088481426239,
+                0.5464961528778076,
+                0.5423685312271118,
+                0.49391284584999084,
+                0.5495018362998962,
+                0.5631148219108582,
+                0.5086830854415894
+            ]
+        }
+    ]
+}

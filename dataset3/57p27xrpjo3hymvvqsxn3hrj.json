@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 1,
+                    "utter": "アーカルム外伝って不定期で開催してる？"
+                },
+                {
+                    "author": "did:plc:yyzu6igxui45hkcrbbtys6yj",
+                    "type": 2,
+                    "utter": "大体3～4ヶ月に1回開催してるイメージですね\n運が良ければ12月か1月の頭の方に開催あるかもですね(ハーゼのだったら神です)"
+                },
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 3,
+                    "utter": "やっと2凸したんですけどまだまだ先が長い…"
+                }
+            ],
+            "uri": "at://did:plc:57p27xrpjo3hymvvqsxn3hrj/app.bsky.feed.post/3lbrnyyncok27",
+            "label": [
+                0.519088864326477,
+                0.6127431988716125,
+                0.5313268899917603,
+                0.5928665995597839,
+                0.5153845548629761,
+                0.6071698069572449,
+                0.5409016609191895,
+                0.4984734356403351
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 1,
+                    "utter": "やっと2凸したんですけどまだまだ先が長い…"
+                },
+                {
+                    "author": "did:plc:yyzu6igxui45hkcrbbtys6yj",
+                    "type": 2,
+                    "utter": "本当に要求される素材量えぐいので辛いですよね…\nでもハーゼはその苦労に見合う以上の強さがあるので頑張りましょう！"
+                },
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 3,
+                    "utter": "なんか砂も必要らしくて絶望してます"
+                }
+            ],
+            "uri": "at://did:plc:57p27xrpjo3hymvvqsxn3hrj/app.bsky.feed.post/3lbro4yqgkk27",
+            "label": [
+                0.4752649664878845,
+                0.8944023847579956,
+                0.5286580324172974,
+                0.5109233260154724,
+                0.5223878026008606,
+                0.6105297803878784,
+                0.6323122382164001,
+                0.5076161623001099
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 1,
+                    "utter": "なんか砂も必要らしくて絶望してます"
+                },
+                {
+                    "author": "did:plc:yyzu6igxui45hkcrbbtys6yj",
+                    "type": 2,
+                    "utter": "賢者は礎武器の5凸する時に砂3個使うので集められる方法はなんとか頑張って達成しておきたいですね"
+                },
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 3,
+                    "utter": "貴重なアイテムなのに3つも必要なのか…"
+                }
+            ],
+            "uri": "at://did:plc:57p27xrpjo3hymvvqsxn3hrj/app.bsky.feed.post/3lbrobotisc27",
+            "label": [
+                0.5092428922653198,
+                0.6797053217887878,
+                0.5851916074752808,
+                0.561808168888092,
+                0.5055984854698181,
+                0.6097264289855957,
+                0.5193784832954407,
+                0.5081626176834106
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 1,
+                    "utter": "貴重なアイテムなのに3つも必要なのか…"
+                },
+                {
+                    "author": "did:plc:yyzu6igxui45hkcrbbtys6yj",
+                    "type": 2,
+                    "utter": "砂実装された時に手に入る方法が低確率のドロップと一部の称号の獲得だけなのに、十賢者の分で30個、バハルシの250で30個の合計60個必要言われてて頭抱えてましたね…()"
+                },
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 3,
+                    "utter": "ﾅﾆｿﾚｷﾓﾁﾜﾙｲ"
+                }
+            ],
+            "uri": "at://did:plc:57p27xrpjo3hymvvqsxn3hrj/app.bsky.feed.post/3lbrojcolzc27",
+            "label": [
+                0.5286639928817749,
+                0.6032429337501526,
+                0.5124325156211853,
+                0.5652176737785339,
+                0.5188166499137878,
+                0.6025627255439758,
+                0.6668969988822937,
+                0.5064290165901184
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 1,
+                    "utter": "ﾅﾆｿﾚｷﾓﾁﾜﾙｲ"
+                },
+                {
+                    "author": "did:plc:yyzu6igxui45hkcrbbtys6yj",
+                    "type": 2,
+                    "utter": "なんとか集まるよう祈ってます!"
+                },
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 3,
+                    "utter": "ｶﾞﾝﾊﾞﾘﾏｽ…"
+                }
+            ],
+            "uri": "at://did:plc:57p27xrpjo3hymvvqsxn3hrj/app.bsky.feed.post/3lbrosurhks27",
+            "label": [
+                0.5019253492355347,
+                0.5893741846084595,
+                0.5214186906814575,
+                0.5533642172813416,
+                0.49635687470436096,
+                0.568507730960846,
+                0.5258918404579163,
+                0.5061010718345642
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 1,
+                    "utter": "ようやくマレ短剣3本完成"
+                },
+                {
+                    "author": "did:plc:yyzu6igxui45hkcrbbtys6yj",
+                    "type": 2,
+                    "utter": "おめでとうございます！\nはやいですね！"
+                },
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 3,
+                    "utter": "ユグやティアマトのときより泥率高かったのではやく集まりました！"
+                }
+            ],
+            "uri": "at://did:plc:57p27xrpjo3hymvvqsxn3hrj/app.bsky.feed.post/3lbcgj3ku222e",
+            "label": [
+                0.7300030589103699,
+                0.5074912905693054,
+                0.6426900625228882,
+                0.6462239027023315,
+                0.49168860912323,
+                0.5334330797195435,
+                0.49418705701828003,
+                0.4898028075695038
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 1,
+                    "utter": "ユグやティアマトのときより泥率高かったのではやく集まりました！"
+                },
+                {
+                    "author": "did:plc:yyzu6igxui45hkcrbbtys6yj",
+                    "type": 2,
+                    "utter": "次の古戦場も安心ですね！"
+                },
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 3,
+                    "utter": "とりあえずはってところでしょうかね..."
+                }
+            ],
+            "uri": "at://did:plc:57p27xrpjo3hymvvqsxn3hrj/app.bsky.feed.post/3lbcgp4s3d22y",
+            "label": [
+                0.5052052736282349,
+                0.5656586289405823,
+                0.6252074241638184,
+                0.5099793076515198,
+                0.5071805715560913,
+                0.5916947722434998,
+                0.517152726650238,
+                0.4930568039417267
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 1,
+                    "utter": "とりあえずはってところでしょうかね..."
+                },
+                {
+                    "author": "did:plc:yyzu6igxui45hkcrbbtys6yj",
+                    "type": 2,
+                    "utter": "あとは最終ハーゼが間に合うといいですよね…"
+                },
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 3,
+                    "utter": "問題はそこなんですよね"
+                }
+            ],
+            "uri": "at://did:plc:57p27xrpjo3hymvvqsxn3hrj/app.bsky.feed.post/3lbchjvvh422e",
+            "label": [
+                0.4974291920661926,
+                0.5333161354064941,
+                0.5977398157119751,
+                0.5118398666381836,
+                0.5095500946044922,
+                0.6341967582702637,
+                0.5426987409591675,
+                0.5036012530326843
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 1,
+                    "utter": "問題はそこなんですよね"
+                },
+                {
+                    "author": "did:plc:yyzu6igxui45hkcrbbtys6yj",
+                    "type": 2,
+                    "utter": "実際間に合いそうです…？\n他の終末の素材とかスパバハの素材とかは手伝ったりできますが…"
+                },
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 3,
+                    "utter": "まだわからないです...\n水終末5凸は全然間に合うんですけど"
+                }
+            ],
+            "uri": "at://did:plc:57p27xrpjo3hymvvqsxn3hrj/app.bsky.feed.post/3lbchoseaus2e",
+            "label": [
+                0.5103101134300232,
+                0.6226646900177002,
+                0.5756521224975586,
+                0.5071384310722351,
+                0.506729245185852,
+                0.6521517634391785,
+                0.5270838737487793,
+                0.4954760670661926
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 1,
+                    "utter": "まだわからないです...\n水終末5凸は全然間に合うんですけど"
+                },
+                {
+                    "author": "did:plc:yyzu6igxui45hkcrbbtys6yj",
+                    "type": 2,
+                    "utter": "賢者は頑張るしかないですからね…何とか間に合わせたいですね\nもしマルチ系で必要なのあったら手伝いますよ～"
+                },
+                {
+                    "author": "did:plc:57p27xrpjo3hymvvqsxn3hrj",
+                    "type": 3,
+                    "utter": "バブベリスパバハの素材集めたいかもです"
+                }
+            ],
+            "uri": "at://did:plc:57p27xrpjo3hymvvqsxn3hrj/app.bsky.feed.post/3lbchud3jms2e",
+            "label": [
+                0.5434123277664185,
+                0.497766375541687,
+                0.8575296401977539,
+                0.493710994720459,
+                0.5078487992286682,
+                0.49536067247390747,
+                0.5024654269218445,
+                0.5087794661521912
+            ]
+        }
+    ]
+}

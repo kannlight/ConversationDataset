@@ -1,0 +1,964 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "ちょうど歩いたときにピクミン激重で全然読み込めなかったので帰る直前のタイミングにようやくウィークリーチャレンジのお誘いに参加できました、あしからず。"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "来ないなぁ……と思ってたら重かったのか。確かに昨日おつかい行かせようとしたら何回もアプリが落ちたわ。今日は雨降って足元悪いから花植えとかしてないわ。"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "Wi-Fi環境だと普通に繋がる。\nmineoのau回線がダメで、Twitterやchrome検索は普通にできた。\nだからそれ切ってahamo回線とテザリングしたけどそれもダメ。Twitterやchrome検索は普通。\n\nということは4Gや5G回線との接続の問題か。"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lbtvensfgc2m",
+            "label": [
+                0.5979164838790894,
+                0.5793581604957581,
+                0.5957578420639038,
+                0.669099748134613,
+                0.5217099189758301,
+                0.5413193106651306,
+                0.5508421659469604,
+                0.529039740562439
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "Wi-Fi環境だと普通に繋がる。\nmineoのau回線がダメで、Twitterやchrome検索は普通にできた。\nだからそれ切ってahamo回線とテザリングしたけどそれもダメ。Twitterやchrome検索は普通。\n\nということは4Gや5G回線との接続の問題か。"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "スマホ回線や機種の影響大きいか。結構データ使用量大きいよね……🌱アプリ自体が。"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "今日は今のところWi-Fiでしか開いてないからなんとも言えないのよね。\nやはり動きをオフできるようにしてもらいたい…無理…"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lbvq262g6k2r",
+            "label": [
+                0.5066906213760376,
+                0.6840152740478516,
+                0.6451994776725769,
+                0.5079863667488098,
+                0.4974658787250519,
+                0.6272460222244263,
+                0.5486818552017212,
+                0.5075689554214478
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "今日は今のところWi-Fiでしか開いてないからなんとも言えないのよね。\nやはり動きをオフできるようにしてもらいたい…無理…"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "なんかハロウィンくらいから花植えを押しても反応が遅い、探知機が反応しないバグがあるよね？\nいつになったら直してくれるのやら。\n最近、停止してると「移動していませんよね」みたいな通知くるの鬱陶しいw"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "なんとなくまだ反応遅いねぇ。\nまじかそんな通知来んのかうぜぇw"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lbwegyo6ek2t",
+            "label": [
+                0.521324634552002,
+                0.6075624823570251,
+                0.4925704002380371,
+                0.7739484906196594,
+                0.5862550139427185,
+                0.6039373874664307,
+                0.7180012464523315,
+                0.48431259393692017
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "なんとなくまだ反応遅いねぇ。\nまじかそんな通知来んのかうぜぇw"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "今日、Wi-Fi経由でも重い。\n何回か落ちたし。\n花植えしてスーパーとかに入ってGPSが止まると通知くるよ。そんなん要らないし、動いてないならその間花植えも停止してほしい。"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "なんかさっきWi-Fi下で起動しなかったな。なんとかしてほしいわ…。\nマジか、通知よこすならホントに花植え止めてほしいわ。"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lbydzhvkes2e",
+            "label": [
+                0.497335821390152,
+                0.7041103839874268,
+                0.5659050941467285,
+                0.6291399598121643,
+                0.7715417742729187,
+                0.6978273987770081,
+                0.8653964400291443,
+                0.4785580635070801
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "なんかさっきWi-Fi下で起動しなかったな。なんとかしてほしいわ…。\nマジか、通知よこすならホントに花植え止めてほしいわ。"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "起動はしたけど、重い。\n重いのイベントを乱立させすぎじゃない？\n歩数以外クリア出来ないんだが。"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "気付くの遅れたし歩数も3周年の無理ぽ"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lbz4fm7mf227",
+            "label": [
+                0.5092881917953491,
+                0.8235931992530823,
+                0.5005238056182861,
+                0.5335195660591125,
+                0.5069988965988159,
+                0.5757966637611389,
+                0.6192453503608704,
+                0.4899322986602783
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "天才仕立て屋さん？"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "一応、型紙はあるのよw\nただ、手縫いで作ってるから時間が半端なくかかる😇\n物が小さいと縫い目も極小だから他の縫い物をするより圧倒的にツラいわ。"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "やっぱ天才やんけ！\n何言ってるかあんま分かんないもの！"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3laipp4eb3k2m",
+            "label": [
+                0.778491735458374,
+                0.5098589062690735,
+                0.5624971389770508,
+                0.8767427206039429,
+                0.5343191027641296,
+                0.4807777404785156,
+                0.5104672312736511,
+                0.5843252539634705
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "やっぱ天才やんけ！\n何言ってるかあんま分かんないもの！"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "褒めてくれるのは嬉しいが、設計図通りに切って縫ってるだけだから不器用さん以外なら誰でもできるよ。"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "じゃあ天才じゃん！！"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3laivfpmc2y2v",
+            "label": [
+                0.6952056288719177,
+                0.5303571820259094,
+                0.5446193218231201,
+                0.8659364581108093,
+                0.5344063639640808,
+                0.4642910361289978,
+                0.5085784792900085,
+                0.558388352394104
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "じゃあ天才じゃん！！"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "この程度で褒めてくれるだなんて😭ぼんちゃん調子に乗っちゃいそうで怖いw"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "調子に乗っちゃっていいのよ？"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3laj7rgfxxk2n",
+            "label": [
+                0.5299543738365173,
+                0.5119582414627075,
+                0.6046881675720215,
+                0.5614641308784485,
+                0.5109491944313049,
+                0.5632122159004211,
+                0.5374992489814758,
+                0.4961274266242981
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "調子に乗っちゃっていいのよ？"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "恥ずかしいなぁ🫣俯瞰しちゃう。"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "伸びた鼻に捕まって懸垂の訓練するよ"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lal4fl5w6s2h",
+            "label": [
+                0.4833921790122986,
+                0.5093894600868225,
+                0.7582089900970459,
+                0.5068681240081787,
+                0.5145432353019714,
+                0.5157086253166199,
+                0.5239846706390381,
+                0.4984772205352783
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "そういや着替えさせる人形って持ってなかったな。"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "私は逆にシルバニアとは無縁だったわ。欲しいとねだったことすらない……持ってる子も周りに居なかった記憶。\n幼稚園の頃にジェニーちゃん1体だけ買ってもらったけど、当時幼稚園でリカちゃんよりジェニーちゃんが人気だったのよね。\n今改めてリビングの棚に入れてあるの見るとジェニーちゃん脚長すぎて怖いがw"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "セラムンが主だったわ。あとリカちゃん1体。"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lbreb6str22w",
+            "label": [
+                0.630784809589386,
+                0.5525867938995361,
+                0.5316721200942993,
+                0.5984822511672974,
+                0.5064703822135925,
+                0.5224340558052063,
+                0.5111196637153625,
+                0.4975028336048126
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "セラムンが主だったわ。あとリカちゃん1体。"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "うちはその手のキャラクターグッズ買ってもらえない家庭だったからなぁ。従妹はセラムンの人形全種、流行ってたピカチュウの万歩計とシルバニアとか祖母にたくさん買い与えてもらってたけどね。"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "ジェニーちゃんっていうのが分からないんだよな、私は。友達とかも持ってなかったと思う。"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lbrlz7vwoc2m",
+            "label": [
+                0.4934254586696625,
+                0.7513048052787781,
+                0.520415723323822,
+                0.6130245923995972,
+                0.4768441617488861,
+                0.5171232223510742,
+                0.5492506623268127,
+                0.5231007933616638
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "ジェニーちゃんっていうのが分からないんだよな、私は。友達とかも持ってなかったと思う。"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "ジェニーちゃん、1986年の誕生で大ヒットしたらしい。2008年に生産終了、2023年に復刻したと書いてある。\nセラムンが好きだった層はセラムン買ってたのかもだけど、私そこまでどハマりしなかったしなぁ。好きな人は今でもセラムン好きよね……"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "ジェニーパイセン！なんか復刻は聞いた気もするな。しかし馴染みがない…。\nセラムン世代ど真ん中だからもうね、本当はここ近年あったセラムンコスメとかアクセのやつとか欲しいもの。"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lbsyp56f5k2f",
+            "label": [
+                0.6178217530250549,
+                0.5885828137397766,
+                0.7479920983314514,
+                0.5841814875602722,
+                0.5170710682868958,
+                0.5518131256103516,
+                0.534639298915863,
+                0.5284110903739929
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "ジェニーパイセン！なんか復刻は聞いた気もするな。しかし馴染みがない…。\nセラムン世代ど真ん中だからもうね、本当はここ近年あったセラムンコスメとかアクセのやつとか欲しいもの。"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "スーパーモデルらしい。で、足が異常に長いのね。\nセラムン、上の年齢でも好きな人はガチで好きだもんなぁ。私も観てたけど、熱量がそこまででもないというか……元々女の子らしい格好も好きじゃないからハマってない感。\nあら、今でも欲しいのか。私は限定コラボしてる商品が目の前で売ってても何も思わなかったな😅"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "お洋服もなんでも着こなせるわけね！なんとなくリカちゃんとのコンセプトの違いが面白いな。\n\nギリシャ神話ローマ神話、五行陰陽説、星座が好きなのそこがルーツかもしれん。"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lbtuzmfats2m",
+            "label": [
+                0.8773109912872314,
+                0.5180351138114929,
+                0.630116879940033,
+                0.6334661245346069,
+                0.5140753984451294,
+                0.4807225167751312,
+                0.5123410224914551,
+                0.612213134765625
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "お洋服もなんでも着こなせるわけね！なんとなくリカちゃんとのコンセプトの違いが面白いな。\n\nギリシャ神話ローマ神話、五行陰陽説、星座が好きなのそこがルーツかもしれん。"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "ただし足が異常に長い。たぶん、リカちゃんよりナイスボディなんじゃね？\n\n原点そこなの？！私全然そっち方面分かんないわ。調べたりもしたことない😅"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "なんというかさ、アメリカは憧れの対象で日本は身近で自己投影できる感じなのかもね。\n\nたぶんそうなんだよね、思い返すと。\nあんまり北欧神話とかインド神話いかないからね。\n日本神話は別だけど。三種の神器が日本神話からって気づいたのは最近だし。"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lbvpqxu6d22r",
+            "label": [
+                0.5211005806922913,
+                0.5097008347511292,
+                0.5877498388290405,
+                0.6770948767662048,
+                0.506157398223877,
+                0.5202199816703796,
+                0.5389368534088135,
+                0.5463741421699524
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "カチッカチッカチッ…チーン！\nあ、イカだ！！"
+                },
+                {
+                    "author": "did:plc:i6jbekseoapeybsqykzgri2c",
+                    "type": 2,
+                    "utter": "そうです！！思い出しましたか！？"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "あまり美味しくないタイプのいずれは私とぼんちゃんにお金くれるイカだね！"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3l3zdomrcnp2f",
+            "label": [
+                0.6702186465263367,
+                0.5643701553344727,
+                0.6186856031417847,
+                0.6027562618255615,
+                0.5088717937469482,
+                0.539960503578186,
+                0.5048102140426636,
+                0.5520371794700623
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "あまり美味しくないタイプのいずれは私とぼんちゃんにお金くれるイカだね！"
+                },
+                {
+                    "author": "did:plc:i6jbekseoapeybsqykzgri2c",
+                    "type": 2,
+                    "utter": "そんなイカいねーよ！"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "出世払いって話だが？"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3l43cr7icfh2b",
+            "label": [
+                0.49859941005706787,
+                0.5498120784759521,
+                0.5298363566398621,
+                0.6144312620162964,
+                0.5142795443534851,
+                0.5548886060714722,
+                0.5663911700248718,
+                0.4970049262046814
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "出世払いって話だが？"
+                },
+                {
+                    "author": "did:plc:i6jbekseoapeybsqykzgri2c",
+                    "type": 2,
+                    "utter": "イカは出世しません"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "イカちゃん出世しないの？じゃあ今もらわなきゃ！"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3l44adsawma2b",
+            "label": [
+                0.5170227885246277,
+                0.6255715489387512,
+                0.7412270903587341,
+                0.5598549842834473,
+                0.5329335927963257,
+                0.559717059135437,
+                0.5244067907333374,
+                0.5020329356193542
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "イカちゃん出世しないの？じゃあ今もらわなきゃ！"
+                },
+                {
+                    "author": "did:plc:i6jbekseoapeybsqykzgri2c",
+                    "type": 2,
+                    "utter": "では1000ゲソでよろしか？"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "【強制労働コース】"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3l4cq7cua2627",
+            "label": [
+                0.491068959236145,
+                0.5895898938179016,
+                0.5256929397583008,
+                0.5301185846328735,
+                0.5010939240455627,
+                0.5820889472961426,
+                0.6026095747947693,
+                0.48594680428504944
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "ピクミン増やすなら上限増やせて！"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "噂じゃ氷🌱が追加になるって夏頃から言われてるよね……いつ実装されるのか知らないが。追加されたら枠も増やすんかな……重いのが問題だわ。"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "氷ってどこで手に入るんだろうか。いまだに雪もでないのに。"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lblnyb7duc2z",
+            "label": [
+                0.48995840549468994,
+                0.6075493097305298,
+                0.5979821085929871,
+                0.5973576903343201,
+                0.5004202127456665,
+                0.6529854536056519,
+                0.5548994541168213,
+                0.4936840236186981
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "氷ってどこで手に入るんだろうか。いまだに雪もでないのに。"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "デコではなく唯一実装されてない氷属性のピク●ン(水色)のことだよ😂\n光属性(黄緑)もいるけど、アレは本編で亡霊らしいからゲームの趣旨に合わないし追加にはならないのかもって言われてる。"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "そもそもピクミンは赤青黄しか知らんからそんなもんいるなんて知らんなぁ。一つずつデコが増えるわけか。"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lblv3li6b22u",
+            "label": [
+                0.4963866174221039,
+                0.5569716095924377,
+                0.5538285970687866,
+                0.704060971736908,
+                0.5111518502235413,
+                0.5224636793136597,
+                0.5305238366127014,
+                0.5129731297492981
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "そもそもピクミンは赤青黄しか知らんからそんなもんいるなんて知らんなぁ。一つずつデコが増えるわけか。"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "氷は4から追加されたんじゃないっけ？馴染みがないし、あんまりキャラデザが私の好みじゃないのよね😅岩以上に可愛いのおらん！\nそう、実装されたら各1で増えちゃう。"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "これ特性がもうちょっとブルームに反映されれば面白いのにねぇ。ピンクのみだと速いとか岩が力持ちだからってのもわずかなアレすぎて。\n調べたらヒカリは他のなら闇属性になりそうよね。"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lbm754wcwk27",
+            "label": [
+                0.5192680954933167,
+                0.6586444973945618,
+                0.5946216583251953,
+                0.5997946262359619,
+                0.5076470971107483,
+                0.5916239023208618,
+                0.5430521965026855,
+                0.5186756253242493
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "これ特性がもうちょっとブルームに反映されれば面白いのにねぇ。ピンクのみだと速いとか岩が力持ちだからってのもわずかなアレすぎて。\n調べたらヒカリは他のなら闇属性になりそうよね。"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "フルーツ以外のものも拾ってきたりね。拾ってくる苗が固定化して長く続けると拾ってくるものに興味が無くなる。\nピクブル朝夜の差がそもそも無いから光の特性が活かせない感じもするなぁ。でも、時間に合わせて背景変わるとまた動作が重くなりそう……"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "たまにはどっかの鍵とか片方の靴下とか拾ってくればいいのにね。\n暗くなるのハロウィンのときだけだったもんね。"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lbmk5xeymk2z",
+            "label": [
+                0.5107492208480835,
+                0.6737558245658875,
+                0.5897107124328613,
+                0.5566285848617554,
+                0.5183793902397156,
+                0.5766216516494751,
+                0.5694502592086792,
+                0.500554621219635
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "たまにはどっかの鍵とか片方の靴下とか拾ってくればいいのにね。\n暗くなるのハロウィンのときだけだったもんね。"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "片方の軍手とかなw「いらねぇw」と言いつつお礼にエキスあげちゃう。\nハロウィンの時カナリ重かったからそれが常時になると離脱するユーザー増えそう。\nアニメーションOFFとかいい加減できる様にしてほしいよなぁ。"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "どんぐりとか松ぼっくりいいかもなぁ。\nハロウィン重かったよねあれはヤバい。ホントにいい加減にアニメーションoff欲しい。時間かかりすぎるくだりある。"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lbnnzw7nek2v",
+            "label": [
+                0.5250809192657471,
+                0.6521577835083008,
+                0.6287988424301147,
+                0.5424942970275879,
+                0.5579019784927368,
+                0.5987507104873657,
+                0.6761336922645569,
+                0.5161409378051758
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "ネットとか張れんかねぇ…"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "ホント3cmくらいの隙間(タオル掛けがある)でネットは難しそう……なんか冬場に冷気を妨げるために設置するクッションみたいな棒状のやつならねじ込めるかも？"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "塞いじゃえるならそれ詰め込んでみればいいかもねぇ…"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lal4hrpxys2h",
+            "label": [
+                0.5151930451393127,
+                0.659217357635498,
+                0.5913783311843872,
+                0.4928876757621765,
+                0.5063499212265015,
+                0.6789299845695496,
+                0.5829079151153564,
+                0.5043079257011414
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "塞いじゃえるならそれ詰め込んでみればいいかもねぇ…"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "母に落とした事を言ったら「そりゃ取れないわ」と言われたし、自分が私のヘアブラシを落として取れなくなった事を完全に忘れていた😇\n洗濯機の3面全ての隙間を埋めたいが、1番隙間が大きい面は蛇口やホースが邪魔！！！"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "困ったわねぇ…。マジックハンドは入らないんだろうねぇ。"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lalublk3s22k",
+            "label": [
+                0.505669355392456,
+                0.6930325031280518,
+                0.5099112391471863,
+                0.570063054561615,
+                0.5099527835845947,
+                0.6527076363563538,
+                0.5659339427947998,
+                0.5128468871116638
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "困ったわねぇ…。マジックハンドは入らないんだろうねぇ。"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "マジックハンド入っても届かないと思う。"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "となるとやはり何か詰めて落ちないようにするしかないか…"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lanpmbd7hs24",
+            "label": [
+                0.5182520151138306,
+                0.5542799234390259,
+                0.6539642214775085,
+                0.4861540198326111,
+                0.49696144461631775,
+                0.6224987506866455,
+                0.4974156320095062,
+                0.5016313195228577
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "となるとやはり何か詰めて落ちないようにするしかないか…"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "今日見たら、落とした吸水シートの代わりに水槽の濾過フィルターが敷いてあって草。\n詰めたら詰めたやつがズレ落ちる可能性……"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "もう何も置くな…"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3laofti37gk25",
+            "label": [
+                0.5027939081192017,
+                0.7075930237770081,
+                0.5627539157867432,
+                0.5149906873703003,
+                0.5208213329315186,
+                0.5808729529380798,
+                0.5844003558158875,
+                0.5145329833030701
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "コタツになるとスマホをどこに置くかで悩むのよね。\nテーブルの上には置きたくないのよ親がなんかこぼしかねん。"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "ジップロックに入れて持ち歩こう！そうすれば大丈夫！"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "熱さが心配になるんよなぁ…"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lbbmlt2xxs2h",
+            "label": [
+                0.5108322501182556,
+                0.6611762642860413,
+                0.5317670106887817,
+                0.5224747657775879,
+                0.5038584470748901,
+                0.8055659532546997,
+                0.6076858043670654,
+                0.4978937804698944
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "熱さが心配になるんよなぁ…"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "熱暴走かい？\nデフォルト状態でも熱くなるからなぁ……"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "ジッパーとか入れると蒸すのよなぁ。"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lbcfplz7zc2l",
+            "label": [
+                0.535923421382904,
+                0.5306388735771179,
+                0.6314973831176758,
+                0.5451062917709351,
+                0.507916271686554,
+                0.5258138179779053,
+                0.529942512512207,
+                0.5073290467262268
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "ジッパーとか入れると蒸すのよなぁ。"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "あー、そちらは外気温も低いからか！確かに部屋の中でも気温差あると防水系はダメね。\nもう天井から紐ぶら下げてスマホを掛けとくしかないw"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "かける場所ないわw"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lbdvpiqa422p",
+            "label": [
+                0.5189759731292725,
+                0.6827900409698486,
+                0.496460884809494,
+                0.6310739517211914,
+                0.5004788637161255,
+                0.5924816131591797,
+                0.5669591426849365,
+                0.4780711829662323
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "かける場所ないわw"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "ロフトから吊り下げなよw\n全部の部屋にロフトがある家にお住いなんでしょ。"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "無いわ"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lbe3obtg6c2p",
+            "label": [
+                0.5022664070129395,
+                0.7081758379936218,
+                0.5024004578590393,
+                0.5504845976829529,
+                0.5381638407707214,
+                0.527188241481781,
+                0.6745500564575195,
+                0.4909558892250061
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 1,
+                    "utter": "無いわ"
+                },
+                {
+                    "author": "did:plc:jahpucitpdo7sdywccjctnyf",
+                    "type": 2,
+                    "utter": "そんなぁ……お風呂場にもロフトがある想定外だったのに！"
+                },
+                {
+                    "author": "did:plc:dinrqfygkmndtt5kr5l4zjm7",
+                    "type": 3,
+                    "utter": "いらねぇwww"
+                }
+            ],
+            "uri": "at://did:plc:dinrqfygkmndtt5kr5l4zjm7/app.bsky.feed.post/3lber3j7osc2r",
+            "label": [
+                0.5619191527366638,
+                0.5966783761978149,
+                0.4842938184738159,
+                0.637654185295105,
+                0.5295702219009399,
+                0.5071129202842712,
+                0.620527446269989,
+                0.4844374358654022
+            ]
+        }
+    ]
+}

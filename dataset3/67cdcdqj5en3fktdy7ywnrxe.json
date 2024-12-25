@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 1,
+                    "utter": "飯食いに行こうとさそわれているがクソメンド…くさくさ（最低）すぎて近場のサイゼを提案するやつ…"
+                },
+                {
+                    "author": "did:plc:7e6pv5ps3mfaaxqkf3bw4veb",
+                    "type": 2,
+                    "utter": "めんどくさくさめちゃわかりみ"
+                },
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 3,
+                    "utter": "めんどくさくさよね\nだるい 美味しいものはくいたいけど"
+                }
+            ],
+            "uri": "at://did:plc:67cdcdqj5en3fktdy7ywnrxe/app.bsky.feed.post/3lboz3mdexk2j",
+            "label": [
+                0.5256956815719604,
+                0.6435590386390686,
+                0.6362501978874207,
+                0.5124231576919556,
+                0.5209545493125916,
+                0.5412462949752808,
+                0.6537899971008301,
+                0.5038658976554871
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 1,
+                    "utter": "めんどくさくさよね\nだるい 美味しいものはくいたいけど"
+                },
+                {
+                    "author": "did:plc:7e6pv5ps3mfaaxqkf3bw4veb",
+                    "type": 2,
+                    "utter": "早く帰りたいよな\n行ったら行ったで楽しいけど"
+                },
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 3,
+                    "utter": "そうなのよね\n行くまでがだるいし帰るのもだるいし（ダメなヤツ杉）家で食うのが楽"
+                }
+            ],
+            "uri": "at://did:plc:67cdcdqj5en3fktdy7ywnrxe/app.bsky.feed.post/3lbozlhijxs2j",
+            "label": [
+                0.5795313119888306,
+                0.6580658555030823,
+                0.5650994181632996,
+                0.48765885829925537,
+                0.4855072498321533,
+                0.5599216222763062,
+                0.6022499799728394,
+                0.517970621585846
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 1,
+                    "utter": "そうなのよね\n行くまでがだるいし帰るのもだるいし（ダメなヤツ杉）家で食うのが楽"
+                },
+                {
+                    "author": "did:plc:7e6pv5ps3mfaaxqkf3bw4veb",
+                    "type": 2,
+                    "utter": "でも家に呼ぶのも呼ばれるのも嫌や"
+                },
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 3,
+                    "utter": "それな🗿人と飯食えんやんで🌾"
+                }
+            ],
+            "uri": "at://did:plc:67cdcdqj5en3fktdy7ywnrxe/app.bsky.feed.post/3lbozui4xfk2j",
+            "label": [
+                0.5390117764472961,
+                0.6941442489624023,
+                0.5713906288146973,
+                0.5822818875312805,
+                0.5178951621055603,
+                0.5912097692489624,
+                0.6049745678901672,
+                0.4907591938972473
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 1,
+                    "utter": "それな🗿人と飯食えんやんで🌾"
+                },
+                {
+                    "author": "did:plc:7e6pv5ps3mfaaxqkf3bw4veb",
+                    "type": 2,
+                    "utter": "孤独のグルメ"
+                },
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 3,
+                    "utter": "孤独のグルメめちゃくちゃ外食しまくってんじゃん焼肉くいたい"
+                }
+            ],
+            "uri": "at://did:plc:67cdcdqj5en3fktdy7ywnrxe/app.bsky.feed.post/3lbp2bgqlu22j",
+            "label": [
+                0.5153384208679199,
+                0.5795584321022034,
+                0.8349155783653259,
+                0.5094634294509888,
+                0.5040193200111389,
+                0.514747679233551,
+                0.5739223957061768,
+                0.499850332736969
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 1,
+                    "utter": "孤独のグルメめちゃくちゃ外食しまくってんじゃん焼肉くいたい"
+                },
+                {
+                    "author": "did:plc:7e6pv5ps3mfaaxqkf3bw4veb",
+                    "type": 2,
+                    "utter": "孤独の家メシ\nわしも焼肉くいてぇよぉおお‼︎明日のランチはステーキにすんべ"
+                },
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 3,
+                    "utter": "よこせ肉 明日は寿司たべる"
+                }
+            ],
+            "uri": "at://did:plc:67cdcdqj5en3fktdy7ywnrxe/app.bsky.feed.post/3lbp2fe7zyk2j",
+            "label": [
+                0.7050499320030212,
+                0.5026494860649109,
+                0.8518577814102173,
+                0.5000088214874268,
+                0.4998544752597809,
+                0.5026549100875854,
+                0.4841400682926178,
+                0.5256643295288086
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 1,
+                    "utter": "もうすぐﾁﾏﾂﾘくるねこれは\n荒"
+                },
+                {
+                    "author": "did:plc:7e6pv5ps3mfaaxqkf3bw4veb",
+                    "type": 2,
+                    "utter": "ワサコもう終わる🤷🏻‍♀️"
+                },
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 3,
+                    "utter": "裏切り者ぉ"
+                }
+            ],
+            "uri": "at://did:plc:67cdcdqj5en3fktdy7ywnrxe/app.bsky.feed.post/3lboz42sfek2j",
+            "label": [
+                0.5084510445594788,
+                0.6653108596801758,
+                0.4998254179954529,
+                0.49354228377342224,
+                0.6619613170623779,
+                0.5485048890113831,
+                0.7572947144508362,
+                0.4794583022594452
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 1,
+                    "utter": "裏切り者ぉ"
+                },
+                {
+                    "author": "did:plc:7e6pv5ps3mfaaxqkf3bw4veb",
+                    "type": 2,
+                    "utter": "あんなに一緒だったのに"
+                },
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 3,
+                    "utter": "もう今月終わってるけどもう来そうな件←"
+                }
+            ],
+            "uri": "at://did:plc:67cdcdqj5en3fktdy7ywnrxe/app.bsky.feed.post/3lbozkbgjfs2j",
+            "label": [
+                0.5178555250167847,
+                0.513809859752655,
+                0.7072793841362,
+                0.5083575248718262,
+                0.5009799003601074,
+                0.5841438174247742,
+                0.5118315815925598,
+                0.47831618785858154
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 1,
+                    "utter": "もう今月終わってるけどもう来そうな件←"
+                },
+                {
+                    "author": "did:plc:7e6pv5ps3mfaaxqkf3bw4veb",
+                    "type": 2,
+                    "utter": "うちら周期狂ってんな"
+                },
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 3,
+                    "utter": "気も狂ってる俺←"
+                }
+            ],
+            "uri": "at://did:plc:67cdcdqj5en3fktdy7ywnrxe/app.bsky.feed.post/3lbozv2c5zs2j",
+            "label": [
+                0.5048778653144836,
+                0.5968923568725586,
+                0.5180624723434448,
+                0.5309451222419739,
+                0.5305436849594116,
+                0.6135469675064087,
+                0.6511592864990234,
+                0.4877914488315582
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 1,
+                    "utter": "気も狂ってる俺←"
+                },
+                {
+                    "author": "did:plc:7e6pv5ps3mfaaxqkf3bw4veb",
+                    "type": 2,
+                    "utter": "こわ"
+                },
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 3,
+                    "utter": "おい ソンナコトナイヨって言ってよ"
+                }
+            ],
+            "uri": "at://did:plc:67cdcdqj5en3fktdy7ywnrxe/app.bsky.feed.post/3lbp2c4beuk2j",
+            "label": [
+                0.5299981236457825,
+                0.5292187929153442,
+                0.6392173767089844,
+                0.546235978603363,
+                0.5538867115974426,
+                0.5179713368415833,
+                0.5987144708633423,
+                0.5154765248298645
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 1,
+                    "utter": "おい ソンナコトナイヨって言ってよ"
+                },
+                {
+                    "author": "did:plc:7e6pv5ps3mfaaxqkf3bw4veb",
+                    "type": 2,
+                    "utter": "sonnakotonaiyo"
+                },
+                {
+                    "author": "did:plc:67cdcdqj5en3fktdy7ywnrxe",
+                    "type": 3,
+                    "utter": "ﾕﾙｾﾅｲ"
+                }
+            ],
+            "uri": "at://did:plc:67cdcdqj5en3fktdy7ywnrxe/app.bsky.feed.post/3lbp2hhpx6k2j",
+            "label": [
+                0.546435534954071,
+                0.5385432243347168,
+                0.5246342420578003,
+                0.5004705786705017,
+                0.4821079969406128,
+                0.5304787755012512,
+                0.5244553089141846,
+                0.5206406712532043
+            ]
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 1,
+                    "utter": "ぜーんぜん\n相変わらずサーチ🍞中出しラベルも解除通知こない\n\nサブは綺麗になったよ\nfrom検索でもちゃんと出てた\n\nでも普通に本垢で📮してる〜𐤔𐤔𐤔\n\nリプもしてるし、リプ返もぼちぼちやってる𐤔𐤔𐤔"
+                },
+                {
+                    "author": "did:plc:o5f7agg7dtcuyrk4nr7rmnpk",
+                    "type": 2,
+                    "utter": "何日目ですか( 'ω')?"
+                },
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 3,
+                    "utter": "1週間以上はたってる\n\nやっぱり大人しくしとかないからだね"
+                }
+            ],
+            "uri": "at://did:plc:mx7udzmrg7gidjfnylbfughm/app.bsky.feed.post/3lbwxdrafmk2u",
+            "label": [
+                0.5679815411567688,
+                0.5635958313941956,
+                0.5927049517631531,
+                0.543229877948761,
+                0.4931448996067047,
+                0.5365310311317444,
+                0.5411858558654785,
+                0.5223352313041687
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 1,
+                    "utter": "1週間以上はたってる\n\nやっぱり大人しくしとかないからだね"
+                },
+                {
+                    "author": "did:plc:o5f7agg7dtcuyrk4nr7rmnpk",
+                    "type": 2,
+                    "utter": "やっぱりですか～\nまだ4日……先は長い\n\nサブがキレイになったのは🚩の申し立てしたんですか( 'ω')?"
+                },
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 3,
+                    "utter": "サブはブルバじゃないんで申請機能ないはずです\n\nサブはただのサーチ🍞ですよー\n\nだから普通にやってたんですけど収益に目がくらみ本垢動かしちゃった𐤔𐤔𐤔"
+                }
+            ],
+            "uri": "at://did:plc:mx7udzmrg7gidjfnylbfughm/app.bsky.feed.post/3lbwxpn5zks2u",
+            "label": [
+                0.5303400158882141,
+                0.635509192943573,
+                0.5291646122932434,
+                0.5817757844924927,
+                0.48929715156555176,
+                0.569025456905365,
+                0.5857483148574829,
+                0.48673921823501587
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 1,
+                    "utter": "サブはブルバじゃないんで申請機能ないはずです\n\nサブはただのサーチ🍞ですよー\n\nだから普通にやってたんですけど収益に目がくらみ本垢動かしちゃった𐤔𐤔𐤔"
+                },
+                {
+                    "author": "did:plc:o5f7agg7dtcuyrk4nr7rmnpk",
+                    "type": 2,
+                    "utter": "ひでさんが、こっちに𝙸𝙽して来ないから、何気に情報が少なくて…ﾄﾎﾎ( ×ω× ;)"
+                },
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 3,
+                    "utter": "ごめーん😂\n普通に仕事が残業ばかりで一日おきに寝落ちしてる𐤔𐤔𐤔\n\n今日はほんと珍しく起きてる"
+                }
+            ],
+            "uri": "at://did:plc:mx7udzmrg7gidjfnylbfughm/app.bsky.feed.post/3lbwxyrsatk2u",
+            "label": [
+                0.5298490524291992,
+                0.7359757423400879,
+                0.5022212862968445,
+                0.6104633808135986,
+                0.5147616863250732,
+                0.6467608213424683,
+                0.6979168057441711,
+                0.48718181252479553
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 1,
+                    "utter": "ごめーん😂\n普通に仕事が残業ばかりで一日おきに寝落ちしてる𐤔𐤔𐤔\n\n今日はほんと珍しく起きてる"
+                },
+                {
+                    "author": "did:plc:o5f7agg7dtcuyrk4nr7rmnpk",
+                    "type": 2,
+                    "utter": "リポD飲んで起きてԅ( ˙ ω˙ԅ)ﾕｻﾕｻ\n\nまぁ、冗談はさておき、また何か新着情報あったらお願いします(˶' ᵕ ' ˶)\n\nよろしくです\n私にはひでさんしかいないのです"
+                },
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 3,
+                    "utter": "いや、寝させて𐤔𐤔𐤔\n\nまた情報収集して来るから〜𐤔𐤔𐤔"
+                }
+            ],
+            "uri": "at://did:plc:mx7udzmrg7gidjfnylbfughm/app.bsky.feed.post/3lbwyel2bjk2u",
+            "label": [
+                0.5368136763572693,
+                0.5175161361694336,
+                0.6598728895187378,
+                0.47781902551651,
+                0.5436014533042908,
+                0.5672260522842407,
+                0.5898091793060303,
+                0.505798876285553
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 1,
+                    "utter": "♡様おはありですーᐢ ᵕ ᐢ )ﾉﾞﾌﾘﾌﾘ\nやっぱりそんな感じなんですね💦\nとりあえずサブ垢でウロウロしてるんですけどねぇ"
+                },
+                {
+                    "author": "did:plc:o5f7agg7dtcuyrk4nr7rmnpk",
+                    "type": 2,
+                    "utter": "今回は色々な説があって……\nサブ垢持っててもアウトってポストしてる人もいました('ω' ;)\n結局は、誰が正解か解らないから、大人しくしとくのが正解ですね"
+                },
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 3,
+                    "utter": "私もそんな📮見ました\n\nあれDMもダメなんですよね？"
+                }
+            ],
+            "uri": "at://did:plc:mx7udzmrg7gidjfnylbfughm/app.bsky.feed.post/3lbrl2c4ulk2x",
+            "label": [
+                0.49870043992996216,
+                0.6521317362785339,
+                0.5357803702354431,
+                0.5664674639701843,
+                0.5007277131080627,
+                0.6031568050384521,
+                0.5961424112319946,
+                0.5031384825706482
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 1,
+                    "utter": "私もそんな📮見ました\n\nあれDMもダメなんですよね？"
+                },
+                {
+                    "author": "did:plc:o5f7agg7dtcuyrk4nr7rmnpk",
+                    "type": 2,
+                    "utter": "ダメっぽいですね……\nそんな縛り作ったら、𝕏って何したら良いの•́ω•̀)???\nってなっちゃいそうですけどね"
+                },
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 3,
+                    "utter": "DMまで監視されてるらしいですもんね\n\nはぁ……凍結覚悟でひと暴れしてやるかって思っちゃいます🤣\n\nだったら鍵垢とかもダメなんでしょうね😅"
+                }
+            ],
+            "uri": "at://did:plc:mx7udzmrg7gidjfnylbfughm/app.bsky.feed.post/3lbrlj35ats2x",
+            "label": [
+                0.510107696056366,
+                0.5856824517250061,
+                0.5964945554733276,
+                0.5264777541160583,
+                0.5966740250587463,
+                0.7055937647819519,
+                0.6727060675621033,
+                0.49371400475502014
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 1,
+                    "utter": "DMまで監視されてるらしいですもんね\n\nはぁ……凍結覚悟でひと暴れしてやるかって思っちゃいます🤣\n\nだったら鍵垢とかもダメなんでしょうね😅"
+                },
+                {
+                    "author": "did:plc:o5f7agg7dtcuyrk4nr7rmnpk",
+                    "type": 2,
+                    "utter": "オープンな𝕏をイーロンは望んで、みんな閉鎖的になってる以上、クローズも抑制対象じゃないですかね('ω' ;)"
+                },
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 3,
+                    "utter": "やっぱり鍵垢もDMも監視されてるからダメみたい💦\n\n1回ちゃんと休んでみようかな\n優柔不断だから悩む〜"
+                }
+            ],
+            "uri": "at://did:plc:mx7udzmrg7gidjfnylbfughm/app.bsky.feed.post/3lbrr74mprc2x",
+            "label": [
+                0.5156095623970032,
+                0.6087906360626221,
+                0.6685030460357666,
+                0.4811556339263916,
+                0.4823395311832428,
+                0.644891619682312,
+                0.5338507890701294,
+                0.49761202931404114
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 1,
+                    "utter": "あ、いいじゃん😊\nでも私はそれで調子に乗ったらまた影🍞になったんよね\nでもぼちぼちやってくのだったらいいかも\n\nそれあまりあてにはならないらしいけど、📮してる人もおるし……from検索が1番いいらしいね\n\n放置するって言ってもとりあえず金曜日までね\n\nそれで忘れられるくらいならそれでもいいよ𐤔𐤔𐤔"
+                },
+                {
+                    "author": "did:plc:isldbcglrfgelyw5rp3tdyjr",
+                    "type": 2,
+                    "utter": "いいねとかリプは控えた方がいいかもね\nじゃあ明日から少しずつ📮していこうかな\n今日DMでXのプレミアム40%セールの事ちょっと言ってたら速攻仮ラベルと垢ロック貼られてたフォロワーいた(しかも鍵垢\nお仕事大変だね😅頑張って"
+                },
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 3,
+                    "utter": "え？\nやっぱりDMもダメな感じ？\n鍵垢も？"
+                }
+            ],
+            "uri": "at://did:plc:mx7udzmrg7gidjfnylbfughm/app.bsky.feed.post/3lbrl6jtqbc2x",
+            "label": [
+                0.5084922313690186,
+                0.7142418026924133,
+                0.5265505909919739,
+                0.6454240083694458,
+                0.5230687856674194,
+                0.5635903477668762,
+                0.6771501898765564,
+                0.49677687883377075
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 1,
+                    "utter": "え？\nやっぱりDMもダメな感じ？\n鍵垢も？"
+                },
+                {
+                    "author": "did:plc:isldbcglrfgelyw5rp3tdyjr",
+                    "type": 2,
+                    "utter": "鍵垢も関係ないよ\nDMでもXの悪口とか書き込むとすぐロックかかる\nだから数日X触らない方がいいかも\n見ちゃったらいいねとか押したくなるから🥺"
+                },
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 3,
+                    "utter": "やっぱりそうだよね💦\nてか怖くなってきた😭\n1回ちゃんと閉鎖して復活せんといけないなぁ💦"
+                }
+            ],
+            "uri": "at://did:plc:mx7udzmrg7gidjfnylbfughm/app.bsky.feed.post/3lbrr2avmrs2x",
+            "label": [
+                0.5243620872497559,
+                0.561977207660675,
+                0.5419140458106995,
+                0.5123624801635742,
+                0.5074775218963623,
+                0.9121307134628296,
+                0.5725533366203308,
+                0.5065500736236572
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 1,
+                    "utter": "やっぱりそうだよね💦\nてか怖くなってきた😭\n1回ちゃんと閉鎖して復活せんといけないなぁ💦"
+                },
+                {
+                    "author": "did:plc:isldbcglrfgelyw5rp3tdyjr",
+                    "type": 2,
+                    "utter": "おはツイしてもいいんだけどリプ返中に仮ラベルまた貼られたら洒落にならない🙄"
+                },
+                {
+                    "author": "did:plc:mx7udzmrg7gidjfnylbfughm",
+                    "type": 3,
+                    "utter": "確かにね😅\n私は📮はするよ\nいいねリポストは控えて、リプもおはよぉ以外に一言入れたりして、リプ返はおはあり〜は控える\nだからおはよぉだけのリプは既読だけになっちゃうけど、その人の📮にはリプする\n\n制限がある中でやるからその旨をちゃんと伝えて📮してくよ\nそれでも来てくれる人を大切にしていきたい☺️\n\nこれ検証のつもり😅"
+                }
+            ],
+            "uri": "at://did:plc:mx7udzmrg7gidjfnylbfughm/app.bsky.feed.post/3lbrvy4dets2x",
+            "label": [
+                0.5630245208740234,
+                0.5205631852149963,
+                0.8750313520431519,
+                0.4793446958065033,
+                0.4973500370979309,
+                0.5308020114898682,
+                0.5442575812339783,
+                0.5386852622032166
+            ]
+        }
+    ]
+}

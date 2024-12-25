@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 1,
+                    "utter": "繋がったー🎊\nありがとうございます👍"
+                },
+                {
+                    "author": "did:plc:em32avm5bmk5z3kzailpbia7",
+                    "type": 2,
+                    "utter": "うさぎさんを持っているところに違和感あるあるなのに指摘しない田岡さんの優しさに感謝です🙇🏻‍♀️💦"
+                },
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 3,
+                    "utter": "新型の指サックだと思ってたから😆"
+                }
+            ],
+            "uri": "at://did:plc:yxyxmqpusoxufvxni3aymjri/app.bsky.feed.post/3lc2xeojsa223",
+            "label": [
+                0.5069288611412048,
+                0.5439378619194031,
+                0.5647944808006287,
+                0.6298204660415649,
+                0.49400046467781067,
+                0.573307454586029,
+                0.5447550415992737,
+                0.5061889886856079
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 1,
+                    "utter": "新型の指サックだと思ってたから😆"
+                },
+                {
+                    "author": "did:plc:em32avm5bmk5z3kzailpbia7",
+                    "type": 2,
+                    "utter": "使い道が無さそう💦"
+                },
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 3,
+                    "utter": "伝票とかめくれなさそう😆"
+                }
+            ],
+            "uri": "at://did:plc:yxyxmqpusoxufvxni3aymjri/app.bsky.feed.post/3lc2yhut7gc23",
+            "label": [
+                0.5062471628189087,
+                0.6370252370834351,
+                0.5446650981903076,
+                0.546832799911499,
+                0.49563413858413696,
+                0.6326999664306641,
+                0.6062071919441223,
+                0.4897952675819397
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 1,
+                    "utter": "伝票とかめくれなさそう😆"
+                },
+                {
+                    "author": "did:plc:em32avm5bmk5z3kzailpbia7",
+                    "type": 2,
+                    "utter": "田岡さんの頭をペシってやれそう✌️"
+                },
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 3,
+                    "utter": "よきよき😁"
+                }
+            ],
+            "uri": "at://did:plc:yxyxmqpusoxufvxni3aymjri/app.bsky.feed.post/3lc3gubogus24",
+            "label": [
+                0.7177762389183044,
+                0.5243188142776489,
+                0.5473496913909912,
+                0.49937084317207336,
+                0.48318490386009216,
+                0.5060696601867676,
+                0.5037262439727783,
+                0.5511850118637085
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 1,
+                    "utter": "よきよき😁"
+                },
+                {
+                    "author": "did:plc:em32avm5bmk5z3kzailpbia7",
+                    "type": 2,
+                    "utter": "田岡さん\n\nどMだったんだ,,,,\n\n悲しいなぁ...."
+                },
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 3,
+                    "utter": "どっちかというと、どS・・・・😅"
+                }
+            ],
+            "uri": "at://did:plc:yxyxmqpusoxufvxni3aymjri/app.bsky.feed.post/3lc3mzu2ccc24",
+            "label": [
+                0.4828248620033264,
+                0.5913134813308716,
+                0.5177829265594482,
+                0.5888323187828064,
+                0.49297258257865906,
+                0.6281152963638306,
+                0.5610089302062988,
+                0.47578731179237366
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 1,
+                    "utter": "おっと！とても重要な情報をありがとうございます🙏\nこれ全部予約投稿で、あと2回分の投稿があるけど、最後の23:00の分でその話を組み込みますね👍"
+                },
+                {
+                    "author": "did:plc:em32avm5bmk5z3kzailpbia7",
+                    "type": 2,
+                    "utter": "田岡さんの対応力の柔軟さか凄い！"
+                },
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 3,
+                    "utter": "いやいや、そんな訳でもないので💦"
+                }
+            ],
+            "uri": "at://did:plc:yxyxmqpusoxufvxni3aymjri/app.bsky.feed.post/3lbwnxegg3k2u",
+            "label": [
+                0.5075808167457581,
+                0.6518579125404358,
+                0.5279459953308105,
+                0.5222230553627014,
+                0.4780733585357666,
+                0.5753501653671265,
+                0.5975615978240967,
+                0.4936971068382263
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 1,
+                    "utter": "いやいや、そんな訳でもないので💦"
+                },
+                {
+                    "author": "did:plc:em32avm5bmk5z3kzailpbia7",
+                    "type": 2,
+                    "utter": "その謙虚さ\n\nなにか｢あ、自分はそういうのは把握してないから！｣って言いつつ、なんか罠が仕掛けてある感じがするのは気のせいですか？笑"
+                },
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 3,
+                    "utter": "気のせい気のせい💦\nあはははは😆"
+                }
+            ],
+            "uri": "at://did:plc:yxyxmqpusoxufvxni3aymjri/app.bsky.feed.post/3lbwojpuyrk2u",
+            "label": [
+                0.4942875802516937,
+                0.6715633273124695,
+                0.5431212782859802,
+                0.5279929041862488,
+                0.4767917990684509,
+                0.6368494629859924,
+                0.6301748752593994,
+                0.49409765005111694
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 1,
+                    "utter": "気のせい気のせい💦\nあはははは😆"
+                },
+                {
+                    "author": "did:plc:em32avm5bmk5z3kzailpbia7",
+                    "type": 2,
+                    "utter": "怪しすぎです！\nバレバレです笑"
+                },
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 3,
+                    "utter": "バレちゃしょうがねぇ🥴\nどぅわっはっはっは👹"
+                }
+            ],
+            "uri": "at://did:plc:yxyxmqpusoxufvxni3aymjri/app.bsky.feed.post/3lbwpxwvkh22u",
+            "label": [
+                0.5333946943283081,
+                0.6813247203826904,
+                0.5001596212387085,
+                0.5470467209815979,
+                0.5574846267700195,
+                0.5935317873954773,
+                0.6928643584251404,
+                0.49317044019699097
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 1,
+                    "utter": "バレちゃしょうがねぇ🥴\nどぅわっはっはっは👹"
+                },
+                {
+                    "author": "did:plc:em32avm5bmk5z3kzailpbia7",
+                    "type": 2,
+                    "utter": "田岡さん、このキャラもなにかの真似のオチですか〜？\n毎回、楽しみになりそうです笑"
+                },
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 3,
+                    "utter": "ないない😅"
+                }
+            ],
+            "uri": "at://did:plc:yxyxmqpusoxufvxni3aymjri/app.bsky.feed.post/3lbwqinu4fc2u",
+            "label": [
+                0.5037424564361572,
+                0.7496619820594788,
+                0.49613261222839355,
+                0.4955124258995056,
+                0.4982261657714844,
+                0.58232581615448,
+                0.6775914430618286,
+                0.49065840244293213
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 1,
+                    "utter": "怒られた😂\nでも一発合格みたいなので、凄い🥰"
+                },
+                {
+                    "author": "did:plc:em32avm5bmk5z3kzailpbia7",
+                    "type": 2,
+                    "utter": "ありがとうございます✨️笑\nねるさんへの返信に田岡さんのアカウント入れたつもりが最後の\n.bsky.social\nを書き忘れてしましました💦\nまだ、慣れてません🙇🏻‍♀️💦"
+                },
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 3,
+                    "utter": "そう！それが大事なんです💦\n慣れるまで大変😅"
+                }
+            ],
+            "uri": "at://did:plc:yxyxmqpusoxufvxni3aymjri/app.bsky.feed.post/3lbvodytavc2k",
+            "label": [
+                0.5611171126365662,
+                0.5156657695770264,
+                0.6680758595466614,
+                0.5254045724868774,
+                0.4957982003688812,
+                0.6324676275253296,
+                0.5151287317276001,
+                0.5099215507507324
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 1,
+                    "utter": "正解です💯\n今までは選択肢がなかったから殿様商売ができたんです。\nでも今は”似たようなもの”が出てきて、気に入らなければ乗り換える自由があるんです。\nそこは使う側もアップデートしなきゃねって話で、しがみつく必要はありません😉\nで、僕なりに考えたのが今回の企画だったりします😆"
+                },
+                {
+                    "author": "did:plc:em32avm5bmk5z3kzailpbia7",
+                    "type": 2,
+                    "utter": "あ、なるほど、確かに！\nこのアプリはまだ出来たてですし、ユーザーの人数もXに比べたらケタケタ違いに少ないし、機能も劣るかもですが充実してくるといいですね！"
+                },
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 3,
+                    "utter": "こっちは確か2000万人超えになったとか。\n確かに少ないけど、その大多数がアメリカ人・日本人・ブラジル人らしいのでもう充分😆\n言語の壁が分厚すぎて交流できない人がいっぱいいてもしょうがないし、日本人だって話が通じない奴とかいるから🤣\nでもって企業アカウントとかもやられちゃってるらしいから、企業も乗り換えてくるんでは？\nそうなれば広告代がガッポガッポ入るだろうから、機能も充実するでしょう👌"
+                }
+            ],
+            "uri": "at://did:plc:yxyxmqpusoxufvxni3aymjri/app.bsky.feed.post/3lbsyrwhwkk2g",
+            "label": [
+                0.5881449580192566,
+                0.5062677264213562,
+                0.771403968334198,
+                0.663108229637146,
+                0.5226219296455383,
+                0.585753321647644,
+                0.5461643934249878,
+                0.519366443157196
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 1,
+                    "utter": "こっちは確か2000万人超えになったとか。\n確かに少ないけど、その大多数がアメリカ人・日本人・ブラジル人らしいのでもう充分😆\n言語の壁が分厚すぎて交流できない人がいっぱいいてもしょうがないし、日本人だって話が通じない奴とかいるから🤣\nでもって企業アカウントとかもやられちゃってるらしいから、企業も乗り換えてくるんでは？\nそうなれば広告代がガッポガッポ入るだろうから、機能も充実するでしょう👌"
+                },
+                {
+                    "author": "did:plc:em32avm5bmk5z3kzailpbia7",
+                    "type": 2,
+                    "utter": "さすが田岡さん！\nなるほどです！\nあ、企画最終日なので水着でやりますね！🙈\nやはり🍞のトラウマがあるからこちらでも別垢作って確認するか、もう放置してなるようになれってやるか思案中です笑\n田岡さん的にはその辺はどうお考えですか？\n（色々聞いてすみません💦）"
+                },
+                {
+                    "author": "did:plc:yxyxmqpusoxufvxni3aymjri",
+                    "type": 3,
+                    "utter": "向こうでロックになったときは別アカ作るのも検討したけど、それじゃ意味ないよなと思ってこっちに来ました😆\nこっちでもバンはあるみたいだけど、まぁよっぽどのことでもない限り大丈夫でしょう😉\n何なら独自にサーバーを構築できるみたいだし😂"
+                }
+            ],
+            "uri": "at://did:plc:yxyxmqpusoxufvxni3aymjri/app.bsky.feed.post/3lbt4334usk2g",
+            "label": [
+                0.5210747718811035,
+                0.5035955309867859,
+                0.6619015336036682,
+                0.5307650566101074,
+                0.5232986807823181,
+                0.6213008165359497,
+                0.555616557598114,
+                0.5316219925880432
+            ]
+        }
+    ]
+}

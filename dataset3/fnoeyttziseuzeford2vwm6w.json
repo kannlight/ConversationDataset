@@ -1,0 +1,514 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 1,
+                    "utter": "元々同じ木の名前だったらしい\n分かりやすく木と実で呼び方を分けるようになったとか"
+                },
+                {
+                    "author": "did:plc:zrhcfre5coj7jdb3nrf7gd34",
+                    "type": 2,
+                    "utter": "絶対にイチョウとイチョウの実でよかっただろう？？？\nそれかギンナンの木とギンナン"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 3,
+                    "utter": "余計ややこしくしちゃったんよね"
+                }
+            ],
+            "uri": "at://did:plc:fnoeyttziseuzeford2vwm6w/app.bsky.feed.post/3lc66y25ct22i",
+            "label": [
+                0.5289177298545837,
+                0.6432746648788452,
+                0.5418810844421387,
+                0.5660588145256042,
+                0.49635258316993713,
+                0.5934266448020935,
+                0.5746882557868958,
+                0.4964759647846222
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 1,
+                    "utter": "余計ややこしくしちゃったんよね"
+                },
+                {
+                    "author": "did:plc:zrhcfre5coj7jdb3nrf7gd34",
+                    "type": 2,
+                    "utter": "頭の弱い我々のような人への配慮がない"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 3,
+                    "utter": "もう漢字表記しなくていいよ！"
+                }
+            ],
+            "uri": "at://did:plc:fnoeyttziseuzeford2vwm6w/app.bsky.feed.post/3lcaqm4ldjc2r",
+            "label": [
+                0.5112830996513367,
+                0.5418456196784973,
+                0.6523175239562988,
+                0.5610299110412598,
+                0.5216816067695618,
+                0.5715659856796265,
+                0.5729687809944153,
+                0.5082048177719116
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 1,
+                    "utter": "もう漢字表記しなくていいよ！"
+                },
+                {
+                    "author": "did:plc:zrhcfre5coj7jdb3nrf7gd34",
+                    "type": 2,
+                    "utter": "ありがとうございます😭😭そもそもあれ銀じゃなくて金やろ"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 3,
+                    "utter": "種子が白色やから銀らしい😭\n葉っぱ黄色やんけな😭😭"
+                }
+            ],
+            "uri": "at://did:plc:fnoeyttziseuzeford2vwm6w/app.bsky.feed.post/3lcbp3y4gn22q",
+            "label": [
+                0.6171406507492065,
+                0.5166012048721313,
+                0.5449076294898987,
+                0.7058003544807434,
+                0.5105536580085754,
+                0.5550532937049866,
+                0.5532451868057251,
+                0.5105996131896973
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 1,
+                    "utter": "種子が白色やから銀らしい😭\n葉っぱ黄色やんけな😭😭"
+                },
+                {
+                    "author": "did:plc:zrhcfre5coj7jdb3nrf7gd34",
+                    "type": 2,
+                    "utter": "ねえさんイチョウに詳しすぎない？ルーツわかるの天才なん？"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 3,
+                    "utter": "あたしすぐググっちゃうから"
+                }
+            ],
+            "uri": "at://did:plc:fnoeyttziseuzeford2vwm6w/app.bsky.feed.post/3lcc6susav224",
+            "label": [
+                0.517720639705658,
+                0.6282215118408203,
+                0.5341171622276306,
+                0.5627280473709106,
+                0.4940482974052429,
+                0.6333706378936768,
+                0.603140652179718,
+                0.5115612745285034
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 1,
+                    "utter": "これが大正解！！\nけど目玉焼きは味変のために素でいて欲しい気持ちもある"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 2,
+                    "utter": "わかる\nでもさ！炊きたてのお米は無限に味変してくれるから！！おかず米おかず米おかず米おかず米おかず米時々味噌汁でス！"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 3,
+                    "utter": "わしはたまごが大好きなんだよーーー！！\nあ！じゃあさ、、味付きたまごと味なしたまごの2個焼けばいいんじゃん！？天才オブざ朝飯前"
+                }
+            ],
+            "uri": "at://did:plc:fnoeyttziseuzeford2vwm6w/app.bsky.feed.post/3lbxz33cf7c24",
+            "label": [
+                0.7317488193511963,
+                0.5420576930046082,
+                0.7532390356063843,
+                0.6675866842269897,
+                0.5087233185768127,
+                0.5572153925895691,
+                0.5381471514701843,
+                0.5627225637435913
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 1,
+                    "utter": "わしはたまごが大好きなんだよーーー！！\nあ！じゃあさ、、味付きたまごと味なしたまごの2個焼けばいいんじゃん！？天才オブざ朝飯前"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 2,
+                    "utter": "天才すぎる\n欲を言えば温泉たまごももっと手軽につくりたい"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 3,
+                    "utter": "温泉たまごどうやって作ってる？"
+                }
+            ],
+            "uri": "at://did:plc:fnoeyttziseuzeford2vwm6w/app.bsky.feed.post/3lbye4z3qjs2o",
+            "label": [
+                0.5206272006034851,
+                0.4981931447982788,
+                0.5863738656044006,
+                0.6904836893081665,
+                0.5012354850769043,
+                0.5373067855834961,
+                0.5131440162658691,
+                0.5052615404129028
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 1,
+                    "utter": "温泉たまごどうやって作ってる？"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 2,
+                    "utter": "つくったことないれす"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 3,
+                    "utter": "こだわりなければレンチンで作れるれ"
+                }
+            ],
+            "uri": "at://did:plc:fnoeyttziseuzeford2vwm6w/app.bsky.feed.post/3lbyhinnxs22n",
+            "label": [
+                0.5941358208656311,
+                0.5259925127029419,
+                0.6978516578674316,
+                0.5217730402946472,
+                0.49814605712890625,
+                0.5162577033042908,
+                0.4920172095298767,
+                0.5314663648605347
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 1,
+                    "utter": "こだわりなければレンチンで作れるれ"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 2,
+                    "utter": "へいたそ、れんちん\nゆでたまご\nつくりかた"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 3,
+                    "utter": "聞き取れませんでした。\nもう一度おっしゃってください"
+                }
+            ],
+            "uri": "at://did:plc:fnoeyttziseuzeford2vwm6w/app.bsky.feed.post/3lbyojvem6c2n",
+            "label": [
+                0.5141679644584656,
+                0.6920686364173889,
+                0.650924563407898,
+                0.5026189088821411,
+                0.5318214297294617,
+                0.5896013975143433,
+                0.5453284978866577,
+                0.4889903664588928
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 1,
+                    "utter": "ホームベーカリーがうるせえってことみんなもっとちゃんと教えといてくれよな"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 2,
+                    "utter": "自動餅つきの機械ぐらいうるさい\nゴウンゴウンいう"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 3,
+                    "utter": "あいつ餅つけるらしい！"
+                }
+            ],
+            "uri": "at://did:plc:fnoeyttziseuzeford2vwm6w/app.bsky.feed.post/3lbxy4yc3522j",
+            "label": [
+                0.5741245746612549,
+                0.4960406422615051,
+                0.6819206476211548,
+                0.6822342872619629,
+                0.5123507976531982,
+                0.5330438613891602,
+                0.5252618789672852,
+                0.5053964257240295
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 1,
+                    "utter": "あいつ餅つけるらしい！"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 2,
+                    "utter": "ホームモチツキーやん！"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 3,
+                    "utter": "パン色々とピザ生地、餃子の生地、餅と作れるらしい！"
+                }
+            ],
+            "uri": "at://did:plc:fnoeyttziseuzeford2vwm6w/app.bsky.feed.post/3lbxyzc35ls24",
+            "label": [
+                0.7882869243621826,
+                0.524968683719635,
+                0.6090914607048035,
+                0.7945378422737122,
+                0.5004281997680664,
+                0.5120625495910645,
+                0.4975908696651459,
+                0.5542702674865723
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 1,
+                    "utter": "パン色々とピザ生地、餃子の生地、餅と作れるらしい！"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 2,
+                    "utter": "なんか嫁が一時期欲しいゆうてたかも"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 3,
+                    "utter": "まじパン簡単に美味しいから嫁、ぜひ\nビストロが一番静からしい！"
+                }
+            ],
+            "uri": "at://did:plc:fnoeyttziseuzeford2vwm6w/app.bsky.feed.post/3lbye4ix7ac2o",
+            "label": [
+                0.8591746687889099,
+                0.5080975890159607,
+                0.5480297207832336,
+                0.6408924460411072,
+                0.5023851990699768,
+                0.5298924446105957,
+                0.4831433892250061,
+                0.5771779417991638
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 1,
+                    "utter": "まじパン簡単に美味しいから嫁、ぜひ\nビストロが一番静からしい！"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 2,
+                    "utter": "パナソニックのやつ？"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 3,
+                    "utter": "それそれ\nわしのは59dBでビストロは29dBらしい"
+                }
+            ],
+            "uri": "at://did:plc:fnoeyttziseuzeford2vwm6w/app.bsky.feed.post/3lbyhi3g4722n",
+            "label": [
+                0.5136439800262451,
+                0.5297245383262634,
+                0.5410512089729309,
+                0.7017217874526978,
+                0.4972403645515442,
+                0.5641065239906311,
+                0.5418732762336731,
+                0.5098400712013245
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 1,
+                    "utter": "それそれ\nわしのは59dBでビストロは29dBらしい"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 2,
+                    "utter": "59dbちょっとした歌声ぐらいあるやん"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 3,
+                    "utter": "まじ昨晩発狂しながら目が覚めました"
+                }
+            ],
+            "uri": "at://did:plc:fnoeyttziseuzeford2vwm6w/app.bsky.feed.post/3lbyojb5xs22n",
+            "label": [
+                0.5017401576042175,
+                0.6944372653961182,
+                0.48668766021728516,
+                0.5935470461845398,
+                0.5131120085716248,
+                0.6334912776947021,
+                0.6373742818832397,
+                0.5014142394065857
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 1,
+                    "utter": "またこぼすて"
+                },
+                {
+                    "author": "did:plc:zrhcfre5coj7jdb3nrf7gd34",
+                    "type": 2,
+                    "utter": "不安に屈して明日にとっておくことにした"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 3,
+                    "utter": "机の上綺麗にしてから食べるんやで"
+                }
+            ],
+            "uri": "at://did:plc:fnoeyttziseuzeford2vwm6w/app.bsky.feed.post/3lbtsfjv2ps2u",
+            "label": [
+                0.6173276901245117,
+                0.5271030068397522,
+                0.7293528318405151,
+                0.5536220073699951,
+                0.5154681205749512,
+                0.5217272639274597,
+                0.5328983664512634,
+                0.5083320140838623
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 1,
+                    "utter": "机の上綺麗にしてから食べるんやで"
+                },
+                {
+                    "author": "did:plc:zrhcfre5coj7jdb3nrf7gd34",
+                    "type": 2,
+                    "utter": "ひっくり返してまっさらにしてからお湯入れる"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 3,
+                    "utter": "？？？中身なくなった？？？"
+                }
+            ],
+            "uri": "at://did:plc:fnoeyttziseuzeford2vwm6w/app.bsky.feed.post/3lbtyav2ncs2x",
+            "label": [
+                0.4981386959552765,
+                0.8144471645355225,
+                0.49916329979896545,
+                0.5971071720123291,
+                0.5059945583343506,
+                0.5298976898193359,
+                0.5641316771507263,
+                0.49577978253364563
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 1,
+                    "utter": "？？？中身なくなった？？？"
+                },
+                {
+                    "author": "did:plc:zrhcfre5coj7jdb3nrf7gd34",
+                    "type": 2,
+                    "utter": "あ違うwww机をひっくり返すww"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 3,
+                    "utter": "つくえだったwwwww"
+                }
+            ],
+            "uri": "at://did:plc:fnoeyttziseuzeford2vwm6w/app.bsky.feed.post/3lbu576cvjs25",
+            "label": [
+                0.6781892776489258,
+                0.5232675671577454,
+                0.5076549053192139,
+                0.6528179049491882,
+                0.4996338188648224,
+                0.503649115562439,
+                0.5090864896774292,
+                0.4988926649093628
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 1,
+                    "utter": "つくえだったwwwww"
+                },
+                {
+                    "author": "did:plc:zrhcfre5coj7jdb3nrf7gd34",
+                    "type": 2,
+                    "utter": "こぼした代わりをひっくり返すかい！！www"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 3,
+                    "utter": "全て無かったことにするつもりなんかよ、、つええ！！となったww"
+                }
+            ],
+            "uri": "at://did:plc:fnoeyttziseuzeford2vwm6w/app.bsky.feed.post/3lbuaftao3k2u",
+            "label": [
+                0.5514958500862122,
+                0.7073466777801514,
+                0.5352328419685364,
+                0.7086192965507507,
+                0.5243546962738037,
+                0.6143279671669006,
+                0.5670501589775085,
+                0.4856722056865692
+            ]
+        }
+    ]
+}

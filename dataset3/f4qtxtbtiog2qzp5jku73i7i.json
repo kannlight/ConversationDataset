@@ -1,0 +1,604 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "15時間も寝れるものなんですか…🙄"
+                },
+                {
+                    "author": "did:plc:gxoucmstc4loxpbxb467jo2m",
+                    "type": 2,
+                    "utter": "いやね俺もこんな寝たの久々すぎて起きた時よく分からんかったもの"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "体内時計ぶっ壊れそう()"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3laaduoudcc27",
+            "label": [
+                0.5125147700309753,
+                0.6644834876060486,
+                0.5358861088752747,
+                0.5419881343841553,
+                0.5027581453323364,
+                0.8002184629440308,
+                0.5837122201919556,
+                0.5031443238258362
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "体内時計ぶっ壊れそう()"
+                },
+                {
+                    "author": "did:plc:gxoucmstc4loxpbxb467jo2m",
+                    "type": 2,
+                    "utter": "ぶっこわれたよ！\n昨日の夜はあんまり眠れなかったよ！\nでも不思議と今日はしんどくないんだよね🤔"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "おお…マジでぶっ壊れてるやん笑\nこのまま戻ってくれるといいね(？)"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3lacuzy4mft27",
+            "label": [
+                0.6093541383743286,
+                0.5683833956718445,
+                0.7014434933662415,
+                0.5899947285652161,
+                0.5073325634002686,
+                0.5872872471809387,
+                0.5395412445068359,
+                0.5175944566726685
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "おお…マジでぶっ壊れてるやん笑\nこのまま戻ってくれるといいね(？)"
+                },
+                {
+                    "author": "did:plc:gxoucmstc4loxpbxb467jo2m",
+                    "type": 2,
+                    "utter": "1日で戻ったから大丈夫！w"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "それならよかった笑"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3laehv3pbpf2f",
+            "label": [
+                0.7629224061965942,
+                0.5171698331832886,
+                0.5289111733436584,
+                0.5226703882217407,
+                0.48501431941986084,
+                0.515632688999176,
+                0.502066433429718,
+                0.5328603982925415
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "それならよかった笑"
+                },
+                {
+                    "author": "did:plc:gxoucmstc4loxpbxb467jo2m",
+                    "type": 2,
+                    "utter": "ショートスリーパーになりたかった…🥹"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "しっかり寝ようね…？"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3lagqmvjd452a",
+            "label": [
+                0.4856899082660675,
+                0.5694628357887268,
+                0.6023572683334351,
+                0.5463980436325073,
+                0.5089020133018494,
+                0.5826184749603271,
+                0.5412968993186951,
+                0.505399227142334
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "けいどりありがとー！\n気合い入れて走るって訳じゃないから、そんなに期待しないでね笑"
+                },
+                {
+                    "author": "did:plc:v5jdepdr2gidljok563zqtwq",
+                    "type": 2,
+                    "utter": "うん！！期待しとく、、めっちゃ期待しとくよ！！(º言º)"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "けいどり？？？\n違うよ？そんなハードル上げられると困るんだけど…！！"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3l4nh45xtno2r",
+            "label": [
+                0.574996292591095,
+                0.5871736407279968,
+                0.6927012801170349,
+                0.6528304815292358,
+                0.5025322437286377,
+                0.6290984153747559,
+                0.5127629041671753,
+                0.511010468006134
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "けいどり？？？\n違うよ？そんなハードル上げられると困るんだけど…！！"
+                },
+                {
+                    "author": "did:plc:v5jdepdr2gidljok563zqtwq",
+                    "type": 2,
+                    "utter": "応援してる！！\nがんばって、ね？？😎😎"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "なんだか圧がすごい気がするんだけど…！？！？\n…はい。”可能な範囲で”頑張ります😇"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3l4nsamjead2a",
+            "label": [
+                0.554764449596405,
+                0.5191569328308105,
+                0.7095869779586792,
+                0.741744339466095,
+                0.5096699595451355,
+                0.6443897485733032,
+                0.52712082862854,
+                0.517838180065155
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "なんだか圧がすごい気がするんだけど…！？！？\n…はい。”可能な範囲で”頑張ります😇"
+                },
+                {
+                    "author": "did:plc:v5jdepdr2gidljok563zqtwq",
+                    "type": 2,
+                    "utter": "確定花ランだよっっ！！"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "無理無理！！\nハードル上げすぎだよ！？！？"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3l4qvb5ahzx2w",
+            "label": [
+                0.5211196541786194,
+                0.6694656610488892,
+                0.5175890922546387,
+                0.757577121257782,
+                0.5882636308670044,
+                0.7900744080543518,
+                0.6948128938674927,
+                0.5131862163543701
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "無理無理！！\nハードル上げすぎだよ！？！？"
+                },
+                {
+                    "author": "did:plc:v5jdepdr2gidljok563zqtwq",
+                    "type": 2,
+                    "utter": "テル先ならいける！！がんばって👍👍"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "今とっくに100位漏れてるんだけど？？？\n全然大丈夫じゃないよ？？？"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3l4rx26bjsb2i",
+            "label": [
+                0.5220363140106201,
+                0.6971435546875,
+                0.5080785751342773,
+                0.6287909746170044,
+                0.48147422075271606,
+                0.7817780375480652,
+                0.5460816621780396,
+                0.5119902491569519
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "これお文具さんっていうんだ！\n見たことあったけど名前知らなかったから気になってたんだよね\nめっちゃ可愛いね！\nいっちゃんもナイス✨\n\n本当に地下鉄とは思えない開放感だし、めっちゃ明るいね！"
+                },
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 2,
+                    "utter": "そーだよー！\nあっそうやったん！？名前知れて良かった！！\n3周年の星2イラスト結構好みなのよね！見つけたらつい買っちゃうやつ()"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "ありがとうね！\nわかるー！！進級後のイラストめっちゃいいよね✨\n自分も好きよ！\nしかもこういうのって、手に入りやすい価格だと余計ほしくなっちゃうよね～"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3lbpedlayts2u",
+            "label": [
+                0.9136795401573181,
+                0.5050549507141113,
+                0.703239381313324,
+                0.5503972768783569,
+                0.5032632946968079,
+                0.5101288557052612,
+                0.5033934712409973,
+                0.6124398112297058
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "ありがとうね！\nわかるー！！進級後のイラストめっちゃいいよね✨\n自分も好きよ！\nしかもこういうのって、手に入りやすい価格だと余計ほしくなっちゃうよね～"
+                },
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 2,
+                    "utter": "ひと回り成長してる感じなイラストですごく良いよね！！\nあーめちゃ分かるわ～\nウエハースとかさ、1つが安いからいつも見つける度に何個も何個も買っちゃうのどうにかしたい()"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "なんだかみんな大人びた感じするよね！\nいっちゃんなんかも顔が凛としててさ！\nそうそう！\nああいうのは安いからいくら買っても許される感があるよね笑\n最近グッズへの財布のひもが昔より緩くなってきてて、ちょっとまずいかも（）"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3lbrpv6bkdk2u",
+            "label": [
+                0.646567165851593,
+                0.5601985454559326,
+                0.6114774346351624,
+                0.6896721720695496,
+                0.5268373489379883,
+                0.6038110852241516,
+                0.5925443768501282,
+                0.5278775691986084
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "なんだかみんな大人びた感じするよね！\nいっちゃんなんかも顔が凛としててさ！\nそうそう！\nああいうのは安いからいくら買っても許される感があるよね笑\n最近グッズへの財布のひもが昔より緩くなってきてて、ちょっとまずいかも（）"
+                },
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 2,
+                    "utter": "分かりみすぎるw\nうちバイト初めてからグッズとか特に課金もそうだし、物欲が凄いことになってるw"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "お金入ってくると物欲に正直になっちゃうよね笑\n自分は直近だとライブグッズのの合計金額に驚いたよ😇"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3lbspsb34i223",
+            "label": [
+                0.668388307094574,
+                0.5233468413352966,
+                0.5325000286102295,
+                0.6674655079841614,
+                0.48296868801116943,
+                0.5783742070198059,
+                0.517552375793457,
+                0.5011167526245117
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "お金入ってくると物欲に正直になっちゃうよね笑\n自分は直近だとライブグッズのの合計金額に驚いたよ😇"
+                },
+                {
+                    "author": "did:plc:zwd62yedewz6foysmdph7jkn",
+                    "type": 2,
+                    "utter": "おーまじ！？\nうち今年のセカライはなんも買わんかったなw\nペンラ棒なら買ってたんだけど…去年と同じ感じやとかさばるんよなぁ\n後々アニメイトでも出ると思うし、そのときに気になったのあれば買うか🤔"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "昨年にこんなグッズが欲しいって要望に書いたのが今回追加されてて、これは買うしかないか…いやでも値段がってめっちゃ葛藤してるんだけどね笑\n\nそれはわかるなー\nあれ持ち運ぶ時ちょっと辛いよね\n(去年よりはスリムになった気がするけど…笑)\nだから3rdのときのは先端棒タイプに変えて使おうかなって！\n\n全然ありだと思うよ👍"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3lbt6wv2bjc2p",
+            "label": [
+                0.6486442685127258,
+                0.5459941625595093,
+                0.8701397776603699,
+                0.5348701477050781,
+                0.5061564445495605,
+                0.5575741529464722,
+                0.5207449197769165,
+                0.5349628329277039
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "みねねお疲れさま\n食いたくなっちゃう…"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "テルムありがと～！\n王将はいいぞ🥳🥟"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "いやーうまいよね！\n量も結構食べられるからいい😌"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3latfp7l6ak2x",
+            "label": [
+                0.8900593519210815,
+                0.5023691058158875,
+                0.6282851099967957,
+                0.5742188692092896,
+                0.4939723014831543,
+                0.5163211226463318,
+                0.4959232807159424,
+                0.5962886214256287
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "いやーうまいよね！\n量も結構食べられるからいい😌"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "それね！コスパ強過ぎるんよね王将って🥟"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "夕飯に結構ガッツリ食べたい時とか持ってこいよね！！"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3lauzfedmn226",
+            "label": [
+                0.6135101914405823,
+                0.5209800004959106,
+                0.8552072048187256,
+                0.5305350422859192,
+                0.5506713390350342,
+                0.49383997917175293,
+                0.5457988977432251,
+                0.5249661207199097
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "夕飯に結構ガッツリ食べたい時とか持ってこいよね！！"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "満腹になって帰れるもんなぁ\n1番行ってる飲食店かもw"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "確かにみねねよくいってるよね！\n写真見るたび、行きたくなっちゃうよ…！笑"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3law5yjf2rk2h",
+            "label": [
+                0.7006757855415344,
+                0.5257437229156494,
+                0.8104860186576843,
+                0.5544420480728149,
+                0.4987739026546478,
+                0.5207871198654175,
+                0.5066103339195251,
+                0.5282602310180664
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "確かにみねねよくいってるよね！\n写真見るたび、行きたくなっちゃうよ…！笑"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "行くしかないね！🚗³₃"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "よし行くか！！\n（みねねのおごりで？）"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3law6ywnotk2h",
+            "label": [
+                0.6732017397880554,
+                0.5010334849357605,
+                0.8420003056526184,
+                0.5350651741027832,
+                0.5114427804946899,
+                0.4956572353839874,
+                0.4909813702106476,
+                0.47967278957366943
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "(今把握した)\n生地を生で食べたってマジですか？笑"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "マジです()\nマジで腹ヤバかったw"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "ホットケーキの生地生で食べたは初めて聞いたかも…笑\n半生焼けで食べたとかじゃなくて、焼く前のをそのままでってことだもんね…！？"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3lbodatsdg22u",
+            "label": [
+                0.5524002909660339,
+                0.5286155939102173,
+                0.5259286165237427,
+                0.8659419417381287,
+                0.5130739212036133,
+                0.5764321088790894,
+                0.5427383184432983,
+                0.5098882913589478
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "ホットケーキの生地生で食べたは初めて聞いたかも…笑\n半生焼けで食べたとかじゃなくて、焼く前のをそのままでってことだもんね…！？"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "そうよw\nボールに残ったやつをスプーン1杯分くらい行ったね笑"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "まじか笑\nスプーン1杯だけでもそんなに攻撃力高いんだね笑笑\n生きててよかったよ（）"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3lbofyrnszc2u",
+            "label": [
+                0.8005948662757874,
+                0.5170027017593384,
+                0.5147109627723694,
+                0.7278148531913757,
+                0.49386081099510193,
+                0.5178315043449402,
+                0.5013971924781799,
+                0.5772247314453125
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "まじか笑\nスプーン1杯だけでもそんなに攻撃力高いんだね笑笑\n生きててよかったよ（）"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "まだちょっと違和感あって今日も昼ご飯食べれてないけど\nまぁなんとか…w"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "でも、まじめな話お大事にね\n夕飯は食べられそう？"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3lbom2uvnhs2u",
+            "label": [
+                0.6335098147392273,
+                0.5381234884262085,
+                0.665638267993927,
+                0.5265713334083557,
+                0.49136605858802795,
+                0.5900012254714966,
+                0.5145686864852905,
+                0.5329384803771973
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 1,
+                    "utter": "でも、まじめな話お大事にね\n夕飯は食べられそう？"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "なんか昨日の昼から何も食べてないのに今お腹減ってない謎の状況()\n\nでもこれからなんとか食べてみる👍"
+                },
+                {
+                    "author": "did:plc:f4qtxtbtiog2qzp5jku73i7i",
+                    "type": 3,
+                    "utter": "ずっと食べてなかったの腹減ってなかったの…？\nマジ大丈夫？（）\n\nでも、とりあえず何か食べられたみたいで良かったよ😌"
+                }
+            ],
+            "uri": "at://did:plc:f4qtxtbtiog2qzp5jku73i7i/app.bsky.feed.post/3lbp2f55e3k2u",
+            "label": [
+                0.8028079867362976,
+                0.5357130169868469,
+                0.5319837331771851,
+                0.6445464491844177,
+                0.5050326585769653,
+                0.5317078232765198,
+                0.5067208409309387,
+                0.5619663000106812
+            ]
+        }
+    ]
+}

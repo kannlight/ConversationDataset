@@ -1,0 +1,454 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 1,
+                    "utter": "お疲れ様、ほむらさん。"
+                },
+                {
+                    "author": "did:plc:opkr4zf7fdtyb4uf42fa2fvg",
+                    "type": 2,
+                    "utter": "竜島さんもお疲れ様。"
+                },
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 3,
+                    "utter": "ありがとう♪"
+                }
+            ],
+            "uri": "at://did:plc:wxb42jmmkx4khjhltioeyacu/app.bsky.feed.post/3lbrfh2r5ws2p",
+            "label": [
+                0.8691609501838684,
+                0.5009327530860901,
+                0.4668503403663635,
+                0.5184120535850525,
+                0.5034338235855103,
+                0.45246651768684387,
+                0.460651159286499,
+                0.5722758173942566
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 1,
+                    "utter": "ありがとう♪"
+                },
+                {
+                    "author": "did:plc:opkr4zf7fdtyb4uf42fa2fvg",
+                    "type": 2,
+                    "utter": "どういたしまして。"
+                },
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 3,
+                    "utter": "···最近は魔女と戦わない日が続いてて、少し寂しい感じがあったんですよね。"
+                }
+            ],
+            "uri": "at://did:plc:wxb42jmmkx4khjhltioeyacu/app.bsky.feed.post/3lbrgapbca22p",
+            "label": [
+                0.5556642413139343,
+                0.8081572651863098,
+                0.5140134692192078,
+                0.5384091138839722,
+                0.4893602728843689,
+                0.5638914108276367,
+                0.4818737208843231,
+                0.49173542857170105
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 1,
+                    "utter": "···最近は魔女と戦わない日が続いてて、少し寂しい感じがあったんですよね。"
+                },
+                {
+                    "author": "did:plc:opkr4zf7fdtyb4uf42fa2fvg",
+                    "type": 2,
+                    "utter": "そうなのね。"
+                },
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 3,
+                    "utter": "うん···。"
+                }
+            ],
+            "uri": "at://did:plc:wxb42jmmkx4khjhltioeyacu/app.bsky.feed.post/3lbrgzkfnxc23",
+            "label": [
+                0.49559351801872253,
+                0.6473066210746765,
+                0.5140038728713989,
+                0.5354139804840088,
+                0.4940722584724426,
+                0.5110449194908142,
+                0.5566871762275696,
+                0.47893622517585754
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 1,
+                    "utter": "うん···。"
+                },
+                {
+                    "author": "did:plc:opkr4zf7fdtyb4uf42fa2fvg",
+                    "type": 2,
+                    "utter": "そんなに寂しい感じがするのなら…私の部屋に来てもいいのよ。"
+                },
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 3,
+                    "utter": "え？いいの？"
+                }
+            ],
+            "uri": "at://did:plc:wxb42jmmkx4khjhltioeyacu/app.bsky.feed.post/3lbriwujmsc2i",
+            "label": [
+                0.5550565123558044,
+                0.5275015234947205,
+                0.5342193245887756,
+                0.8103704452514648,
+                0.5275630354881287,
+                0.4872174561023712,
+                0.5414480566978455,
+                0.4970637559890747
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 1,
+                    "utter": "···とりあえずこれを。←なぜ抱き枕を渡すんだこの人は"
+                },
+                {
+                    "author": "did:plc:opkr4zf7fdtyb4uf42fa2fvg",
+                    "type": 2,
+                    "utter": "え？…え？【←唐突な抱き枕に戸惑う魔法少女】"
+                },
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 3,
+                    "utter": "戸惑うのはわかるけど···なんかごめんね。"
+                }
+            ],
+            "uri": "at://did:plc:wxb42jmmkx4khjhltioeyacu/app.bsky.feed.post/3lbhdyvyiqc2j",
+            "label": [
+                0.5222577452659607,
+                0.6862465143203735,
+                0.5093544721603394,
+                0.5815520286560059,
+                0.5007529258728027,
+                0.5935835242271423,
+                0.550503134727478,
+                0.4990691542625427
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 1,
+                    "utter": "戸惑うのはわかるけど···なんかごめんね。"
+                },
+                {
+                    "author": "did:plc:opkr4zf7fdtyb4uf42fa2fvg",
+                    "type": 2,
+                    "utter": "別にいいわよ。…これ、何がプリントされてる抱き枕なの？"
+                },
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 3,
+                    "utter": "ん？猫ちゃん。"
+                }
+            ],
+            "uri": "at://did:plc:wxb42jmmkx4khjhltioeyacu/app.bsky.feed.post/3lbheee3rfs2j",
+            "label": [
+                0.5505504608154297,
+                0.5085328817367554,
+                0.5399466156959534,
+                0.6423343420028687,
+                0.4963464140892029,
+                0.5028969645500183,
+                0.5310718417167664,
+                0.49673599004745483
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 1,
+                    "utter": "ん？猫ちゃん。"
+                },
+                {
+                    "author": "did:plc:opkr4zf7fdtyb4uf42fa2fvg",
+                    "type": 2,
+                    "utter": "猫なのね。…可愛い。【抱き枕を両手で持ってあらゆる角度でじーっと見つめながら】"
+                },
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 3,
+                    "utter": "でしょ？"
+                }
+            ],
+            "uri": "at://did:plc:wxb42jmmkx4khjhltioeyacu/app.bsky.feed.post/3lbhexf6kic2p",
+            "label": [
+                0.4749208688735962,
+                0.5953771471977234,
+                0.5077329277992249,
+                0.5924522876739502,
+                0.5877423882484436,
+                0.5109387636184692,
+                0.6863080859184265,
+                0.48900336027145386
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 1,
+                    "utter": "でしょ？"
+                },
+                {
+                    "author": "did:plc:opkr4zf7fdtyb4uf42fa2fvg",
+                    "type": 2,
+                    "utter": "ええ。すごく可愛いと思う。…これ、私に渡したって事は…くれるの？"
+                },
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 3,
+                    "utter": "うん、あげるよ。"
+                }
+            ],
+            "uri": "at://did:plc:wxb42jmmkx4khjhltioeyacu/app.bsky.feed.post/3lbhfaviloc2d",
+            "label": [
+                0.5459835529327393,
+                0.5568629503250122,
+                0.6319000124931335,
+                0.5150609016418457,
+                0.5028719305992126,
+                0.4945773780345917,
+                0.5370606780052185,
+                0.51662278175354
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 1,
+                    "utter": "あちゃー捕まっちゃった〜"
+                },
+                {
+                    "author": "did:plc:3ves2wkno7d74nsq5yd23ij6",
+                    "type": 2,
+                    "utter": "さーて1日監禁放置しちゃったけど、これからどうしよう？"
+                },
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 3,
+                    "utter": "どうしよ？"
+                }
+            ],
+            "uri": "at://did:plc:wxb42jmmkx4khjhltioeyacu/app.bsky.feed.post/3lbarfpcegs27",
+            "label": [
+                0.4927189350128174,
+                0.5853991508483887,
+                0.520964503288269,
+                0.6795637011528015,
+                0.5532606840133667,
+                0.5755143165588379,
+                0.6106204390525818,
+                0.5055792927742004
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 1,
+                    "utter": "どうしよ？"
+                },
+                {
+                    "author": "did:plc:3ves2wkno7d74nsq5yd23ij6",
+                    "type": 2,
+                    "utter": "ごはん食べよう！！"
+                },
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 3,
+                    "utter": "ご飯か〜···うん、いいよ。"
+                }
+            ],
+            "uri": "at://did:plc:wxb42jmmkx4khjhltioeyacu/app.bsky.feed.post/3lbbkmv7re22w",
+            "label": [
+                0.8357498049736023,
+                0.519815981388092,
+                0.5439856648445129,
+                0.5069929957389832,
+                0.49411413073539734,
+                0.4747416079044342,
+                0.5233023166656494,
+                0.5665902495384216
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 1,
+                    "utter": "ご飯か〜···うん、いいよ。"
+                },
+                {
+                    "author": "did:plc:3ves2wkno7d74nsq5yd23ij6",
+                    "type": 2,
+                    "utter": "なに食べるー？"
+                },
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 3,
+                    "utter": "何にしようかな〜···"
+                }
+            ],
+            "uri": "at://did:plc:wxb42jmmkx4khjhltioeyacu/app.bsky.feed.post/3lbbldaccks2o",
+            "label": [
+                0.5030035972595215,
+                0.5784945487976074,
+                0.6989920139312744,
+                0.4953957796096802,
+                0.5034723877906799,
+                0.5307458639144897,
+                0.4838583767414093,
+                0.5040783882141113
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 1,
+                    "utter": "何にしようかな〜···"
+                },
+                {
+                    "author": "did:plc:3ves2wkno7d74nsq5yd23ij6",
+                    "type": 2,
+                    "utter": "オムライスとか？"
+                },
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 3,
+                    "utter": "···あ、そうだ。実はいいお店を知ってるんだけど···行く？"
+                }
+            ],
+            "uri": "at://did:plc:wxb42jmmkx4khjhltioeyacu/app.bsky.feed.post/3lbcduqqp6c2i",
+            "label": [
+                0.5766300559043884,
+                0.5256001353263855,
+                0.7960734367370605,
+                0.5387341380119324,
+                0.5000407695770264,
+                0.5219801068305969,
+                0.5048835873603821,
+                0.5073186755180359
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 1,
+                    "utter": "？？「ほう？中々面白いことを言っているではないか。」"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "何っ？お前も来ていたのか？"
+                },
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 3,
+                    "utter": "？？「ほう？儂のことを知っているのか？」ﾆﾔｯ"
+                }
+            ],
+            "uri": "at://did:plc:wxb42jmmkx4khjhltioeyacu/app.bsky.feed.post/3lbce7ym2f22g",
+            "label": [
+                0.512844979763031,
+                0.4757693409919739,
+                0.4804690480232239,
+                0.7279262542724609,
+                0.5318022966384888,
+                0.5413762927055359,
+                0.6117640137672424,
+                0.4945821464061737
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 1,
+                    "utter": "？？「ほう？儂のことを知っているのか？」ﾆﾔｯ"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "エンマの知り合いか？お前は？いやまさかなそんな事無いな？(周りがさらに悪意に包まれ始めていて)"
+                },
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 3,
+                    "utter": "？？「奴の知り合いなどではない、儂は大妖怪刃黒···高天原から落とされ、下界で大妖怪となった宝物庫の神じゃ。」"
+                }
+            ],
+            "uri": "at://did:plc:wxb42jmmkx4khjhltioeyacu/app.bsky.feed.post/3lbceivciks2g",
+            "label": [
+                0.5651201009750366,
+                0.5384054183959961,
+                0.5378686189651489,
+                0.6333194971084595,
+                0.4892093539237976,
+                0.5623233914375305,
+                0.544883131980896,
+                0.5188071131706238
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 1,
+                    "utter": "？？「奴の知り合いなどではない、儂は大妖怪刃黒···高天原から落とされ、下界で大妖怪となった宝物庫の神じゃ。」"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "なるほど、お前は神かあいつの知り合い出ないのなら良いが我と手を組むか？、大妖怪同士組んだらもっと面白い事が出来そうだがな。"
+                },
+                {
+                    "author": "did:plc:wxb42jmmkx4khjhltioeyacu",
+                    "type": 3,
+                    "utter": "刃黒「いいだろう、妖魔界がどうなろうと儂にはどうでもいいことじゃが···神々に復讐できるのであれば手を組もう。」\n刃黒「などと、言うと思うてか？儂はお主と組んでも釣り合わん、それに···儂は人の子を主としておるからな。」"
+                }
+            ],
+            "uri": "at://did:plc:wxb42jmmkx4khjhltioeyacu/app.bsky.feed.post/3lbcerdmw222g",
+            "label": [
+                0.5446928143501282,
+                0.519921064376831,
+                0.6672032475471497,
+                0.5394930839538574,
+                0.5551530718803406,
+                0.5502098798751831,
+                0.6009405851364136,
+                0.5307929515838623
+            ]
+        }
+    ]
+}

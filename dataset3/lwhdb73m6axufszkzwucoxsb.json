@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 1,
+                    "utter": "ケモノイベはもはや大規模になりすぎて人多くてな……なかなか行く気になれないんだよ"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 2,
+                    "utter": "サークル募集中600に対して900応募だってね(´・ω・｀)"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 3,
+                    "utter": "もう作り手過剰やね"
+                }
+            ],
+            "uri": "at://did:plc:lwhdb73m6axufszkzwucoxsb/app.bsky.feed.post/3kyi64scif22j",
+            "label": [
+                0.48024848103523254,
+                0.7071316838264465,
+                0.5048447251319885,
+                0.5743022561073303,
+                0.6011725068092346,
+                0.5735450387001038,
+                0.7872412800788879,
+                0.49026426672935486
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 1,
+                    "utter": "もう作り手過剰やね"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 2,
+                    "utter": "次代がちゃんと育ってるって有り難さでもあるんだろうけどね…\n規模を分けて欲しいっ思うけど新春抜いても年2回オンリーやるくらいにはもう規模でかいのも中々よね(苦笑)"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 3,
+                    "utter": "もうオスケモオンリーイベくらいの規模感でやってもらわないと人口がえぐい"
+                }
+            ],
+            "uri": "at://did:plc:lwhdb73m6axufszkzwucoxsb/app.bsky.feed.post/3kyibosbdyi2q",
+            "label": [
+                0.5432896018028259,
+                0.571515679359436,
+                0.5594532489776611,
+                0.6226572394371033,
+                0.5052977800369263,
+                0.6452971696853638,
+                0.5485103726387024,
+                0.49858927726745605
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 1,
+                    "utter": "もうオスケモオンリーイベくらいの規模感でやってもらわないと人口がえぐい"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 2,
+                    "utter": "オス・メス・グッズに分けても良いよね。\nただ主催主はTRCに思い入れがあるみたいだから大きな縮小しちゃうとそこを使う意義が薄くなるって二律背反もあるのかもね…"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 3,
+                    "utter": "グッズは流石に分けたらきついと思うけどオスメスだけでも楽にはなる\n人口が一番ヤバい"
+                }
+            ],
+            "uri": "at://did:plc:lwhdb73m6axufszkzwucoxsb/app.bsky.feed.post/3kyic5no7lz2j",
+            "label": [
+                0.5718151926994324,
+                0.5738069415092468,
+                0.642575740814209,
+                0.5449924468994141,
+                0.5060482025146484,
+                0.5800339579582214,
+                0.5365945100784302,
+                0.5091552734375
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 1,
+                    "utter": "グッズは流石に分けたらきついと思うけどオスメスだけでも楽にはなる\n人口が一番ヤバい"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 2,
+                    "utter": "グッズはきぐ勢も含めれば良さげじゃない？\n性欲系にきぐ勢混ぜるの色々あるだろうし…"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 3,
+                    "utter": "まキグは分けてほしいがあっち側からすると複雑なんじゃねえかな\nオンリーイベあるしあえて同人即売会と同時開催せんでもええのではと思うけど"
+                }
+            ],
+            "uri": "at://did:plc:lwhdb73m6axufszkzwucoxsb/app.bsky.feed.post/3kyid3wurjo2z",
+            "label": [
+                0.5327789187431335,
+                0.5206345915794373,
+                0.7594171166419983,
+                0.5213386416435242,
+                0.5111871957778931,
+                0.5465351343154907,
+                0.5265350341796875,
+                0.5212199687957764
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 1,
+                    "utter": "まキグは分けてほしいがあっち側からすると複雑なんじゃねえかな\nオンリーイベあるしあえて同人即売会と同時開催せんでもええのではと思うけど"
+                },
+                {
+                    "author": "did:plc:fwirrl6tnpoglssk56kf4ghh",
+                    "type": 2,
+                    "utter": "きぐ勢のちょっときな臭い噂は色々耳にするけど、本より公的な場所で活動する機会は少ないなは間違いないだろうしグッズ系がやる時期次第かなぁって。\n前回の関ケモときぐイベの同日近隣開催も賑わっていた印象だけどね。"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 3,
+                    "utter": "メディア露出を嫌わないから日陰イベントの獣人同人とはあまりにそりが合わなすぎるよ"
+                }
+            ],
+            "uri": "at://did:plc:lwhdb73m6axufszkzwucoxsb/app.bsky.feed.post/3kyigql73rt2d",
+            "label": [
+                0.5265032649040222,
+                0.6076310276985168,
+                0.5489712357521057,
+                0.5277403593063354,
+                0.5194288492202759,
+                0.5687639117240906,
+                0.6207995414733887,
+                0.5015879273414612
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 1,
+                    "utter": "えぐい、永遠に眠い"
+                },
+                {
+                    "author": "did:plc:6x3pip7teatc7ulg4f63eaxw",
+                    "type": 2,
+                    "utter": "薬の効果は恐らく抜けているので、今まで熟睡出来なかった反動でしょうね。\n\n私も永遠に眠いです。\n恐らく気温と風が涼しくて寝るのに適してるからかなーと。"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 3,
+                    "utter": "目とじただけで寝れそう\n反動いつまでつづくんや……"
+                }
+            ],
+            "uri": "at://did:plc:lwhdb73m6axufszkzwucoxsb/app.bsky.feed.post/3kt4yrxuwx22u",
+            "label": [
+                0.5101602077484131,
+                0.6173152327537537,
+                0.5746700167655945,
+                0.5756779909133911,
+                0.5054885149002075,
+                0.689882218837738,
+                0.5723909139633179,
+                0.5034124851226807
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 1,
+                    "utter": "目とじただけで寝れそう\n反動いつまでつづくんや……"
+                },
+                {
+                    "author": "did:plc:6x3pip7teatc7ulg4f63eaxw",
+                    "type": 2,
+                    "utter": "逆にそれは凄い\n\n一般的に寝れなかった反動は次の日に来るので、明日落ち着くかもですね"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 3,
+                    "utter": "まじ？\n今日が峠か"
+                }
+            ],
+            "uri": "at://did:plc:lwhdb73m6axufszkzwucoxsb/app.bsky.feed.post/3kt56bspjx22h",
+            "label": [
+                0.5001487135887146,
+                0.5016425251960754,
+                0.5329996943473816,
+                0.8090053200721741,
+                0.5307005047798157,
+                0.6137039661407471,
+                0.5269866585731506,
+                0.5192427039146423
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 1,
+                    "utter": "まじ？\n今日が峠か"
+                },
+                {
+                    "author": "did:plc:6x3pip7teatc7ulg4f63eaxw",
+                    "type": 2,
+                    "utter": "今日と明日ですかね\n\n今日飲んでどれくらい眠れるかも大事ですね\n\n今も眠気ありますか?"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 3,
+                    "utter": "一瞬なくなったなと思ったけどまた出てきた"
+                }
+            ],
+            "uri": "at://did:plc:lwhdb73m6axufszkzwucoxsb/app.bsky.feed.post/3kt5kov2ulk2v",
+            "label": [
+                0.6190512776374817,
+                0.5121010541915894,
+                0.5070090293884277,
+                0.6942425966262817,
+                0.49757617712020874,
+                0.5541378855705261,
+                0.5148654580116272,
+                0.5109519958496094
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 1,
+                    "utter": "一瞬なくなったなと思ったけどまた出てきた"
+                },
+                {
+                    "author": "did:plc:6x3pip7teatc7ulg4f63eaxw",
+                    "type": 2,
+                    "utter": "あらら\n\nこの時間で眠いという事はちゃんと寝れなかった反動で眠くなってる感じでしょうね\n\nほら、徹夜した後に来る物凄い眠気のあれです"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 3,
+                    "utter": "っぽいね……\n数ヶ月の負債やしな\n明日まで様子見や……"
+                }
+            ],
+            "uri": "at://did:plc:lwhdb73m6axufszkzwucoxsb/app.bsky.feed.post/3kt5ojkiywz2g",
+            "label": [
+                0.5011284351348877,
+                0.772882878780365,
+                0.5318014621734619,
+                0.5712276101112366,
+                0.5286737680435181,
+                0.6704483032226562,
+                0.6576040983200073,
+                0.4934352934360504
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 1,
+                    "utter": "っぽいね……\n数ヶ月の負債やしな\n明日まで様子見や……"
+                },
+                {
+                    "author": "did:plc:6x3pip7teatc7ulg4f63eaxw",
+                    "type": 2,
+                    "utter": "ですねぇ……\n数ヶ月も寝れてなかったらそうなりますよ\n後、寝る時間はなるべく近い時間の方がより効果的ですよ！\n所謂睡眠バランスを整える的な"
+                },
+                {
+                    "author": "did:plc:lwhdb73m6axufszkzwucoxsb",
+                    "type": 3,
+                    "utter": "だいたい1〜2時に寝てたからそこ合わせやね"
+                }
+            ],
+            "uri": "at://did:plc:lwhdb73m6axufszkzwucoxsb/app.bsky.feed.post/3kt5qty5xf22e",
+            "label": [
+                0.5532310605049133,
+                0.5315256118774414,
+                0.5893483757972717,
+                0.567605197429657,
+                0.5154902935028076,
+                0.5408098697662354,
+                0.5378261804580688,
+                0.5097598433494568
+            ]
+        }
+    ]
+}

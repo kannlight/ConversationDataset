@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 1,
+                    "utter": "おはよーーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 2,
+                    "utter": "どんぶらこだよーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 3,
+                    "utter": "溺れてるのかと思ったよーーーー＼(^o^)／"
+                }
+            ],
+            "uri": "at://did:plc:bnjuqvhcsz6kylpm57gns7cw/app.bsky.feed.post/3lbvnm7wlo227",
+            "label": [
+                0.59618079662323,
+                0.6313456296920776,
+                0.5280576348304749,
+                0.6408292055130005,
+                0.4858754277229309,
+                0.5827422738075256,
+                0.5220613479614258,
+                0.48294490575790405
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 1,
+                    "utter": "溺れてるのかと思ったよーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 2,
+                    "utter": "平和だよーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 3,
+                    "utter": "荒波に見えるよーーーー＼(^o^)／"
+                }
+            ],
+            "uri": "at://did:plc:bnjuqvhcsz6kylpm57gns7cw/app.bsky.feed.post/3lbvns2b2ik27",
+            "label": [
+                0.6440703868865967,
+                0.5585577487945557,
+                0.5644581913948059,
+                0.5861480236053467,
+                0.4986460506916046,
+                0.5946966409683228,
+                0.5413547158241272,
+                0.4756763279438019
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 1,
+                    "utter": "荒波に見えるよーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 2,
+                    "utter": "荒波だよーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 3,
+                    "utter": "平和なのかなーーーー＼(^o^)／"
+                }
+            ],
+            "uri": "at://did:plc:bnjuqvhcsz6kylpm57gns7cw/app.bsky.feed.post/3lbvnuyjiuc27",
+            "label": [
+                0.5933144092559814,
+                0.6082344055175781,
+                0.6942833065986633,
+                0.5094090104103088,
+                0.49897071719169617,
+                0.5491244196891785,
+                0.5087109804153442,
+                0.4673008918762207
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 1,
+                    "utter": "平和なのかなーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 2,
+                    "utter": "水深はマリアナ海溝並みだよーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 3,
+                    "utter": "平和とはーーーー＼(^o^)／"
+                }
+            ],
+            "uri": "at://did:plc:bnjuqvhcsz6kylpm57gns7cw/app.bsky.feed.post/3lbvo2gogts27",
+            "label": [
+                0.8926427960395813,
+                0.4876246452331543,
+                0.7573028206825256,
+                0.5060378909111023,
+                0.4936373233795166,
+                0.488208532333374,
+                0.4946823716163635,
+                0.5338557362556458
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 1,
+                    "utter": "おはよーーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 2,
+                    "utter": "今日もフツーだよーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 3,
+                    "utter": "そーだねーーーー＼(^o^)／"
+                }
+            ],
+            "uri": "at://did:plc:bnjuqvhcsz6kylpm57gns7cw/app.bsky.feed.post/3lbnwbxe5c22t",
+            "label": [
+                0.6948757171630859,
+                0.5880051255226135,
+                0.555255115032196,
+                0.5009394884109497,
+                0.491618812084198,
+                0.527980387210846,
+                0.5486369729042053,
+                0.4914092719554901
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 1,
+                    "utter": "そーだねーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 2,
+                    "utter": "11月ももうすぐ終わりだよーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 3,
+                    "utter": "楽しみーーーー(年末になるとワクワクする人)＼(^o^)／"
+                }
+            ],
+            "uri": "at://did:plc:bnjuqvhcsz6kylpm57gns7cw/app.bsky.feed.post/3lbnwh34nlc2t",
+            "label": [
+                0.8381193280220032,
+                0.5116536617279053,
+                0.9167805314064026,
+                0.4877949655056,
+                0.4708407521247864,
+                0.5031679272651672,
+                0.4994364082813263,
+                0.5090601444244385
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 1,
+                    "utter": "楽しみーーーー(年末になるとワクワクする人)＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 2,
+                    "utter": "師匠も走りますからねーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 3,
+                    "utter": "どんどん走ってほしいーーーー＼(^o^)／"
+                }
+            ],
+            "uri": "at://did:plc:bnjuqvhcsz6kylpm57gns7cw/app.bsky.feed.post/3lbo4aysozk25",
+            "label": [
+                0.5870023965835571,
+                0.5114074349403381,
+                0.9020271301269531,
+                0.5091550946235657,
+                0.4962449371814728,
+                0.4793316125869751,
+                0.512945830821991,
+                0.5163328051567078
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 1,
+                    "utter": "どんどん走ってほしいーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 2,
+                    "utter": "この間福岡マラソンで見ましたーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 3,
+                    "utter": "それはよかったーーーー＼(^o^)／"
+                }
+            ],
+            "uri": "at://did:plc:bnjuqvhcsz6kylpm57gns7cw/app.bsky.feed.post/3lbo4jqbyl225",
+            "label": [
+                0.9222930073738098,
+                0.47651374340057373,
+                0.5559816360473633,
+                0.48963266611099243,
+                0.49666911363601685,
+                0.48435017466545105,
+                0.507641077041626,
+                0.5501891374588013
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 1,
+                    "utter": "おはよーーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 2,
+                    "utter": "もーどーにでもなれーなときにお使いくださいーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 3,
+                    "utter": "もーどーにでもなれーーーーー＼(^o^)／"
+                }
+            ],
+            "uri": "at://did:plc:bnjuqvhcsz6kylpm57gns7cw/app.bsky.feed.post/3lbxsxpu4qc2e",
+            "label": [
+                0.5510221123695374,
+                0.6032801270484924,
+                0.7908200025558472,
+                0.5087069869041443,
+                0.5318701267242432,
+                0.5473935008049011,
+                0.5659303665161133,
+                0.49151766300201416
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 1,
+                    "utter": "もーどーにでもなれーーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 2,
+                    "utter": "孔明「今ですーーーーーーー＼(＾o＾)／」"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 3,
+                    "utter": "孔明の罠ーーーー＼(^o^)／"
+                }
+            ],
+            "uri": "at://did:plc:bnjuqvhcsz6kylpm57gns7cw/app.bsky.feed.post/3lby3konjlc27",
+            "label": [
+                0.6680372953414917,
+                0.5490057468414307,
+                0.5658055543899536,
+                0.5788373351097107,
+                0.5025009512901306,
+                0.5717726349830627,
+                0.5091444849967957,
+                0.5023245811462402
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 1,
+                    "utter": "孔明の罠ーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 2,
+                    "utter": "今でしょーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 3,
+                    "utter": "誰ーーーー＼(^o^)／"
+                }
+            ],
+            "uri": "at://did:plc:bnjuqvhcsz6kylpm57gns7cw/app.bsky.feed.post/3lby5chxsjk2m",
+            "label": [
+                0.6718787550926208,
+                0.514057993888855,
+                0.8772209882736206,
+                0.5728039741516113,
+                0.483103483915329,
+                0.48831942677497864,
+                0.5171095728874207,
+                0.49362117052078247
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 1,
+                    "utter": "誰ーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 2,
+                    "utter": "誰かですーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 3,
+                    "utter": "なんのこっちゃーーーー＼(^o^)／"
+                }
+            ],
+            "uri": "at://did:plc:bnjuqvhcsz6kylpm57gns7cw/app.bsky.feed.post/3lby5hc5v5k2m",
+            "label": [
+                0.8124173283576965,
+                0.5235775113105774,
+                0.5921783447265625,
+                0.5717933177947998,
+                0.49748358130455017,
+                0.5073018670082092,
+                0.5270416140556335,
+                0.4962722063064575
+            ]
+        }
+    ]
+}

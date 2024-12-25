@@ -1,0 +1,484 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 1,
+                    "utter": "寝ちゃって今…\n俺は弱い…"
+                },
+                {
+                    "author": "did:plc:6zkbm6mr4rjlurvwjp7l6vxo",
+                    "type": 2,
+                    "utter": "ｵﾊﾖ\n夜は寝るもんやから大丈夫や🫛"
+                },
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 3,
+                    "utter": "全然大丈夫みたいなこと言ったあたりから\n記憶ないでつ"
+                }
+            ],
+            "uri": "at://did:plc:z44f44wvavnpbgw5wgfoeohc/app.bsky.feed.post/3lc4xku7t422j",
+            "label": [
+                0.529272198677063,
+                0.6196638345718384,
+                0.526471734046936,
+                0.569186270236969,
+                0.49011653661727905,
+                0.6576022505760193,
+                0.5276079177856445,
+                0.5029330253601074
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 1,
+                    "utter": "全然大丈夫みたいなこと言ったあたりから\n記憶ないでつ"
+                },
+                {
+                    "author": "did:plc:6zkbm6mr4rjlurvwjp7l6vxo",
+                    "type": 2,
+                    "utter": "ホントに限界やったんやなw\nまぁ昨日は色々やってて疲れたやろし仕方ないよ🧚🏻‍♀️\n改めて誕生日おめでとう🎉"
+                },
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 3,
+                    "utter": "イヤホンしながら寝てたもんね\nモンハンとか言う爆音聴きながら寝れたから\n相当疲れてたと思うw\n\nおたおめありがとう\nたまお君の誕生日には\n収益化通ってて欲しいわ🙏"
+                }
+            ],
+            "uri": "at://did:plc:z44f44wvavnpbgw5wgfoeohc/app.bsky.feed.post/3lc4ygqswn22j",
+            "label": [
+                0.7792873978614807,
+                0.5439196825027466,
+                0.7863226532936096,
+                0.5041503310203552,
+                0.4913747310638428,
+                0.5081211924552917,
+                0.5192543864250183,
+                0.5545024275779724
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 1,
+                    "utter": "イヤホンしながら寝てたもんね\nモンハンとか言う爆音聴きながら寝れたから\n相当疲れてたと思うw\n\nおたおめありがとう\nたまお君の誕生日には\n収益化通ってて欲しいわ🙏"
+                },
+                {
+                    "author": "did:plc:6zkbm6mr4rjlurvwjp7l6vxo",
+                    "type": 2,
+                    "utter": "だって昨日配信時間エグくない？w\nそりゃ疲れるよw\nゆっくり休んでくれ病院かもやけど🏥\n\nワイの誕生日は夏やけど\nそれまで配信してたらいいな…"
+                },
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 3,
+                    "utter": "7時半から基本ぶっ通しで17時くらいまで？？？\nだから？？？\nでも\nカナエちゃんのがバケモンやよ？？？？？🫠\n\n配信しろ！！！👊"
+                }
+            ],
+            "uri": "at://did:plc:z44f44wvavnpbgw5wgfoeohc/app.bsky.feed.post/3lc52q2m2mk2j",
+            "label": [
+                0.6643563508987427,
+                0.522599995136261,
+                0.7645426392555237,
+                0.6827099323272705,
+                0.5384371280670166,
+                0.5986803770065308,
+                0.5764656662940979,
+                0.5236541032791138
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 1,
+                    "utter": "7時半から基本ぶっ通しで17時くらいまで？？？\nだから？？？\nでも\nカナエちゃんのがバケモンやよ？？？？？🫠\n\n配信しろ！！！👊"
+                },
+                {
+                    "author": "did:plc:6zkbm6mr4rjlurvwjp7l6vxo",
+                    "type": 2,
+                    "utter": "約10時間か…w やばすぎうちとしややな…\nそう考えたらありえんバケモンやな🐲\n\nけっこう急に辞めちゃったりするからねw\n実際モンハンやる前も半年以上配信してなかったし🐉🐉🐉"
+                },
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 3,
+                    "utter": "カナエちゃん\nずっと同じテンションで配信してるから\n本当のバケモンだと思うw\n\n辞めないで😢🐉"
+                }
+            ],
+            "uri": "at://did:plc:z44f44wvavnpbgw5wgfoeohc/app.bsky.feed.post/3lc5bdqndsk2j",
+            "label": [
+                0.6102728247642517,
+                0.5115237832069397,
+                0.669716477394104,
+                0.5304934978485107,
+                0.49542346596717834,
+                0.5672678351402283,
+                0.5446691513061523,
+                0.5278875231742859
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 1,
+                    "utter": "くっっっっそ嬉しい\nありがとう\n信じて頑張って良かった🥲"
+                },
+                {
+                    "author": "did:plc:6zkbm6mr4rjlurvwjp7l6vxo",
+                    "type": 2,
+                    "utter": "最終フェーズまでもつれたのはドキドキしたけどあそこまで行って回復も補充出来てて勝てる未来しか無かった🧚🏻‍♀️\n本当によく頑張った\nソードマスターも喜んどるわ"
+                },
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 3,
+                    "utter": "普通に泣くかと思ったw\nガチで怖かった\nそれで死んでたら萎え落ちあったよw\nでも倒せたから\nありえん達成感で\n普通にやっぱモンハンは神ゲーだったわ😭"
+                }
+            ],
+            "uri": "at://did:plc:z44f44wvavnpbgw5wgfoeohc/app.bsky.feed.post/3lbwagsvu7s2q",
+            "label": [
+                0.8708621859550476,
+                0.49919793009757996,
+                0.5058271884918213,
+                0.6178446412086487,
+                0.49473297595977783,
+                0.6119788885116577,
+                0.5093786120414734,
+                0.6077053546905518
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 1,
+                    "utter": "普通に泣くかと思ったw\nガチで怖かった\nそれで死んでたら萎え落ちあったよw\nでも倒せたから\nありえん達成感で\n普通にやっぱモンハンは神ゲーだったわ😭"
+                },
+                {
+                    "author": "did:plc:6zkbm6mr4rjlurvwjp7l6vxo",
+                    "type": 2,
+                    "utter": "そやろな〜最後の最後の10分くらいはプレイングからも焦りが見えたもんww\nモンハン最強やな！\nアルバの装備とか作るなら言ってなw"
+                },
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 3,
+                    "utter": "ひん\nアルバ装備とか\nガチでもう\nアルバ行きたくねぇよ\nミラ行くのに\nいらねって言われたし\nもう良いべwww"
+                }
+            ],
+            "uri": "at://did:plc:z44f44wvavnpbgw5wgfoeohc/app.bsky.feed.post/3lbwejyttps2p",
+            "label": [
+                0.5940822958946228,
+                0.6970913410186768,
+                0.5317689180374146,
+                0.5206331610679626,
+                0.5496610999107361,
+                0.5344946980476379,
+                0.642078697681427,
+                0.5064291954040527
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 1,
+                    "utter": "ひん\nアルバ装備とか\nガチでもう\nアルバ行きたくねぇよ\nミラ行くのに\nいらねって言われたし\nもう良いべwww"
+                },
+                {
+                    "author": "did:plc:6zkbm6mr4rjlurvwjp7l6vxo",
+                    "type": 2,
+                    "utter": "そうか…w\n\nまぁミラ倒すためにはミラの防具とかいうキチガイ仕様やから後は任せますわ🫸🧘🫷\n討伐を待つ🦭"
+                },
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 3,
+                    "utter": "でも\n普通に\nアルバ楽しかったわよ\nありがとう\n本当にありがとう🙏"
+                }
+            ],
+            "uri": "at://did:plc:z44f44wvavnpbgw5wgfoeohc/app.bsky.feed.post/3lbwj3g4osc2i",
+            "label": [
+                0.8855031728744507,
+                0.5283262729644775,
+                0.49196144938468933,
+                0.5046961903572083,
+                0.5001554489135742,
+                0.4866742789745331,
+                0.489081472158432,
+                0.588522732257843
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 1,
+                    "utter": "でも\n普通に\nアルバ楽しかったわよ\nありがとう\n本当にありがとう🙏"
+                },
+                {
+                    "author": "did:plc:6zkbm6mr4rjlurvwjp7l6vxo",
+                    "type": 2,
+                    "utter": "クリア出来て本当に良かったよ！\nミラも大変だろうけど頑張ってほしい🫛🫛🫛"
+                },
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 3,
+                    "utter": "そ、装備が\nちょい不安でして…\n本当にカブカカブの臨海ブラキ太刀？\nえ？本当？？？🫛🫛🫛🫛🫛"
+                }
+            ],
+            "uri": "at://did:plc:z44f44wvavnpbgw5wgfoeohc/app.bsky.feed.post/3lbwmpbgxoc2p",
+            "label": [
+                0.49843114614486694,
+                0.5803146362304688,
+                0.5526570081710815,
+                0.657123327255249,
+                0.4964256286621094,
+                0.8448885083198547,
+                0.5410771369934082,
+                0.490056574344635
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 1,
+                    "utter": "わかりみ"
+                },
+                {
+                    "author": "did:plc:pz3fym3vjcwoqt4ekwcmdoi3",
+                    "type": 2,
+                    "utter": "ね。\n\nどっちかわからん場合がほとんどやわ。後から「アレそうだったわ」は割りとあるかもだけど"
+                },
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 3,
+                    "utter": "え、本当にそう…\nなんか\nブランさんに初めて\n親近感湧いた…"
+                }
+            ],
+            "uri": "at://did:plc:z44f44wvavnpbgw5wgfoeohc/app.bsky.feed.post/3lbm5in44622a",
+            "label": [
+                0.6947240233421326,
+                0.5052525401115417,
+                0.5458584427833557,
+                0.7852180004119873,
+                0.48483705520629883,
+                0.5189245939254761,
+                0.5140518546104431,
+                0.5366877913475037
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 1,
+                    "utter": "え、本当にそう…\nなんか\nブランさんに初めて\n親近感湧いた…"
+                },
+                {
+                    "author": "did:plc:pz3fym3vjcwoqt4ekwcmdoi3",
+                    "type": 2,
+                    "utter": "あんまりこういう話しないからなぁ〜\nやったー！親近感！1ポイント！(？)"
+                },
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 3,
+                    "utter": "わかる\nあんまりしない\nする必要性無いし…\n\nいや\nマジで親近感上がりました\n勉強できないのと良い\n何か意外ですたわ"
+                }
+            ],
+            "uri": "at://did:plc:z44f44wvavnpbgw5wgfoeohc/app.bsky.feed.post/3lbmcxbr7bk2x",
+            "label": [
+                0.7268902659416199,
+                0.5058456659317017,
+                0.545408308506012,
+                0.6354519724845886,
+                0.49410271644592285,
+                0.5430593490600586,
+                0.5071718096733093,
+                0.536094605922699
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 1,
+                    "utter": "わかる\nあんまりしない\nする必要性無いし…\n\nいや\nマジで親近感上がりました\n勉強できないのと良い\n何か意外ですたわ"
+                },
+                {
+                    "author": "did:plc:pz3fym3vjcwoqt4ekwcmdoi3",
+                    "type": 2,
+                    "utter": "やはりそっとしといたるのが1番だネ\n\nよかったですわw\nマジでね、思った以上に大した人間じゃないので..."
+                },
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 3,
+                    "utter": "ね\nなんか\n意識するのもね嫌だしね\nわかんないのもあるけど\n\nいや\n声って大事だなって\n思いましたねんw"
+                }
+            ],
+            "uri": "at://did:plc:z44f44wvavnpbgw5wgfoeohc/app.bsky.feed.post/3lbmgh5wsv22l",
+            "label": [
+                0.5467766523361206,
+                0.5778264999389648,
+                0.5620101690292358,
+                0.5412607789039612,
+                0.52594393491745,
+                0.5676389336585999,
+                0.6431805491447449,
+                0.5116271376609802
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 1,
+                    "utter": "ね\nなんか\n意識するのもね嫌だしね\nわかんないのもあるけど\n\nいや\n声って大事だなって\n思いましたねんw"
+                },
+                {
+                    "author": "did:plc:pz3fym3vjcwoqt4ekwcmdoi3",
+                    "type": 2,
+                    "utter": "配信上...というか、インターネット上だと声質と出し方で印象変わりまくるもんなぁ〜私も気をつけてはいるつもりだけどw"
+                },
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 3,
+                    "utter": "めっちゃ良い声ですもん\nなんか\n知的な？？？"
+                }
+            ],
+            "uri": "at://did:plc:z44f44wvavnpbgw5wgfoeohc/app.bsky.feed.post/3lbmjzgzmck2n",
+            "label": [
+                0.7047972083091736,
+                0.499732106924057,
+                0.5481230616569519,
+                0.6915186643600464,
+                0.5136525630950928,
+                0.5143832564353943,
+                0.5244112014770508,
+                0.5439735054969788
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 1,
+                    "utter": "流石にきもすぎて\n吐き気しちゃった…\n本当に無理しないでくれ"
+                },
+                {
+                    "author": "did:plc:6zkbm6mr4rjlurvwjp7l6vxo",
+                    "type": 2,
+                    "utter": "マジでヤバすぎるやろイカれてるにも程があるわ"
+                },
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 3,
+                    "utter": "他の人にもやってるの？\nたまお君にだけ？？？"
+                }
+            ],
+            "uri": "at://did:plc:z44f44wvavnpbgw5wgfoeohc/app.bsky.feed.post/3lbjngwc45s2l",
+            "label": [
+                0.5573023557662964,
+                0.5286511182785034,
+                0.5434377789497375,
+                0.721706211566925,
+                0.508789598941803,
+                0.5142049789428711,
+                0.5656265616416931,
+                0.505243718624115
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 1,
+                    "utter": "他の人にもやってるの？\nたまお君にだけ？？？"
+                },
+                {
+                    "author": "did:plc:6zkbm6mr4rjlurvwjp7l6vxo",
+                    "type": 2,
+                    "utter": "もう1人同期みたいなん居るけど喰らってるねw\n普通にしっかり終わってんだわ"
+                },
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 3,
+                    "utter": "おもったよりクソで\n駄目だね…\n返信無視したりとかって\nしちゃ駄目なの？\n上司に相談…はすでにしてると思うし\nなんでそんな変なのに絡まれてるんだか\n聞いててぶん殴りたくなる…☹️"
+                }
+            ],
+            "uri": "at://did:plc:z44f44wvavnpbgw5wgfoeohc/app.bsky.feed.post/3lbjqemlh5225",
+            "label": [
+                0.5094221830368042,
+                0.5523557662963867,
+                0.5056859254837036,
+                0.5289048552513123,
+                0.8563187122344971,
+                0.5621229410171509,
+                0.9203671216964722,
+                0.4846407473087311
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 1,
+                    "utter": "おもったよりクソで\n駄目だね…\n返信無視したりとかって\nしちゃ駄目なの？\n上司に相談…はすでにしてると思うし\nなんでそんな変なのに絡まれてるんだか\n聞いててぶん殴りたくなる…☹️"
+                },
+                {
+                    "author": "did:plc:6zkbm6mr4rjlurvwjp7l6vxo",
+                    "type": 2,
+                    "utter": "無視してても無限に送ってくるしその中に仕事の内容とかも織り交ぜてるから返信せざるを得ないんだよね\nマジでやってる事キモすぎて普通に頭痛い"
+                },
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 3,
+                    "utter": "本当にどうかしてるよ…\nかまってくれる人が居ないから\nこじらせてしまってるのか\n部下？を奴隷かなんかだと思ってるんか…"
+                }
+            ],
+            "uri": "at://did:plc:z44f44wvavnpbgw5wgfoeohc/app.bsky.feed.post/3lbjqsk77n225",
+            "label": [
+                0.5056986212730408,
+                0.6332907676696777,
+                0.5085858702659607,
+                0.5664581060409546,
+                0.6519977450370789,
+                0.6435514092445374,
+                0.7878177762031555,
+                0.48723262548446655
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 1,
+                    "utter": "本当にどうかしてるよ…\nかまってくれる人が居ないから\nこじらせてしまってるのか\n部下？を奴隷かなんかだと思ってるんか…"
+                },
+                {
+                    "author": "did:plc:6zkbm6mr4rjlurvwjp7l6vxo",
+                    "type": 2,
+                    "utter": "どっちも思ってると思うww\n使いっ走りの言う事聞く都合の良い駒くらいにしか思ってないと思うわ\nまぁ来年から1人で現場回すの頑張ってほしいね！"
+                },
+                {
+                    "author": "did:plc:z44f44wvavnpbgw5wgfoeohc",
+                    "type": 3,
+                    "utter": "ヤバすぎ\nやっぱ環境って大事よね…\n大変困って欲しいもんだね🐙がよ…"
+                }
+            ],
+            "uri": "at://did:plc:z44f44wvavnpbgw5wgfoeohc/app.bsky.feed.post/3lbjrie5pqc2z",
+            "label": [
+                0.5356839299201965,
+                0.6609405279159546,
+                0.5506323575973511,
+                0.5403270721435547,
+                0.5075106024742126,
+                0.6607116460800171,
+                0.6116546392440796,
+                0.5102058053016663
+            ]
+        }
+    ]
+}

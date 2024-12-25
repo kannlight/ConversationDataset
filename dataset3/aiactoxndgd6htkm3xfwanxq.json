@@ -1,0 +1,314 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 1,
+                    "utter": "えっ！！！！！\nおうどんちゃんお誕生日おめでとう！！！！！！！！"
+                },
+                {
+                    "author": "did:plc:uz7toc6xupdklfo3kmf54vbt",
+                    "type": 2,
+                    "utter": "ありがとう！！！！\nちゃんと探索してる？"
+                },
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 3,
+                    "utter": "毎日のデイリーと樹脂消費で精一杯ですｩ…"
+                }
+            ],
+            "uri": "at://did:plc:aiactoxndgd6htkm3xfwanxq/app.bsky.feed.post/3lbvgrqlnus26",
+            "label": [
+                0.602735698223114,
+                0.6566084027290344,
+                0.5900009870529175,
+                0.5235682725906372,
+                0.5115256905555725,
+                0.5324194431304932,
+                0.5284246802330017,
+                0.5086532235145569
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 1,
+                    "utter": "毎日のデイリーと樹脂消費で精一杯ですｩ…"
+                },
+                {
+                    "author": "did:plc:uz7toc6xupdklfo3kmf54vbt",
+                    "type": 2,
+                    "utter": "ストーリーをやるんだ"
+                },
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 3,
+                    "utter": "今日魔神任務やってたら4時間経ってた"
+                },
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 3,
+                    "utter": "ところでおうどんちゃん今何してる？"
+                }
+            ],
+            "uri": "at://did:plc:aiactoxndgd6htkm3xfwanxq/app.bsky.feed.post/3lbvohfgso22d",
+            "label": [
+                0.5224480628967285,
+                0.5641534924507141,
+                0.5392428636550903,
+                0.7573248744010925,
+                0.49560511112213135,
+                0.5774615406990051,
+                0.5240442752838135,
+                0.5007756948471069
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 1,
+                    "utter": "今日魔神任務やってたら4時間経ってた"
+                },
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 1,
+                    "utter": "ところでおうどんちゃん今何してる？"
+                },
+                {
+                    "author": "did:plc:uz7toc6xupdklfo3kmf54vbt",
+                    "type": 2,
+                    "utter": "めっちゃ寝てたよ\n明日明後日は起きてると思うよ"
+                },
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 3,
+                    "utter": "おはよ\n起きたら原神しよ"
+                }
+            ],
+            "uri": "at://did:plc:aiactoxndgd6htkm3xfwanxq/app.bsky.feed.post/3lbxpjno32k26",
+            "label": [
+                0.6596333980560303,
+                0.48158302903175354,
+                0.764100193977356,
+                0.502000093460083,
+                0.5082492232322693,
+                0.5110546946525574,
+                0.4858623743057251,
+                0.544708788394928
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 1,
+                    "utter": "おはよ\n起きたら原神しよ"
+                },
+                {
+                    "author": "did:plc:uz7toc6xupdklfo3kmf54vbt",
+                    "type": 2,
+                    "utter": "12時くらいに寝るかも知んないけどいい？"
+                },
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 3,
+                    "utter": "お昼寝早くない？"
+                }
+            ],
+            "uri": "at://did:plc:aiactoxndgd6htkm3xfwanxq/app.bsky.feed.post/3lbxtjclg5226",
+            "label": [
+                0.5143370628356934,
+                0.6251242160797119,
+                0.5648117661476135,
+                0.6031367778778076,
+                0.5111370086669922,
+                0.5965071320533752,
+                0.5714256763458252,
+                0.5053560137748718
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 1,
+                    "utter": "Googleマップマン嬉しいよ\nでもぶっちゃけ隣に居てくれるだけで嬉しかったりもするし、楽しくお喋りしてくれたりしてくれたらそれだけでもう"
+                },
+                {
+                    "author": "did:plc:uz7toc6xupdklfo3kmf54vbt",
+                    "type": 2,
+                    "utter": "ほとんどラジオになってた　\nそれでいいならいいか"
+                },
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 3,
+                    "utter": "えっ、会話じゃなくてラジオ？それはそれですごい"
+                }
+            ],
+            "uri": "at://did:plc:aiactoxndgd6htkm3xfwanxq/app.bsky.feed.post/3lbcarbnkyc2v",
+            "label": [
+                0.5762176513671875,
+                0.4789526164531708,
+                0.4743672013282776,
+                0.9392172694206238,
+                0.4826775789260864,
+                0.5123240947723389,
+                0.4888303279876709,
+                0.5201783180236816
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 1,
+                    "utter": "えっ、会話じゃなくてラジオ？それはそれですごい"
+                },
+                {
+                    "author": "did:plc:uz7toc6xupdklfo3kmf54vbt",
+                    "type": 2,
+                    "utter": "私喋ろうと思えば二十四時間話せるから\nアンストッパブルよ"
+                },
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 3,
+                    "utter": "ノンストップうどん\nまるで香川県\n\n今日から要潤って呼ぶね"
+                }
+            ],
+            "uri": "at://did:plc:aiactoxndgd6htkm3xfwanxq/app.bsky.feed.post/3lbcbpzudyk2v",
+            "label": [
+                0.7442517876625061,
+                0.5141531229019165,
+                0.5837661623954773,
+                0.5931840538978577,
+                0.5095370411872864,
+                0.5138852000236511,
+                0.5138800740242004,
+                0.5571922063827515
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 1,
+                    "utter": "そういえば前にやってたくら寿司コラボの時どしたん"
+                },
+                {
+                    "author": "did:plc:uz7toc6xupdklfo3kmf54vbt",
+                    "type": 2,
+                    "utter": "私の家の近所にはくら寿司ないのと\nそもそも寿司屋さんに入れないくらい魚のにおい無理だから\nほーんとおもって傍観してた"
+                },
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 3,
+                    "utter": "まじか\nそのころ知り合ってたらおうどんちゃんの分まで通ったのにな…"
+                }
+            ],
+            "uri": "at://did:plc:aiactoxndgd6htkm3xfwanxq/app.bsky.feed.post/3l65n3angcf2o",
+            "label": [
+                0.5143457651138306,
+                0.7286801338195801,
+                0.5396199226379395,
+                0.6717891097068787,
+                0.49422258138656616,
+                0.5389807224273682,
+                0.5429654717445374,
+                0.48690253496170044
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 1,
+                    "utter": "まじか\nそのころ知り合ってたらおうどんちゃんの分まで通ったのにな…"
+                },
+                {
+                    "author": "did:plc:uz7toc6xupdklfo3kmf54vbt",
+                    "type": 2,
+                    "utter": "次があったらおねがいするわ\nあなたのところまでとりにいくね"
+                },
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 3,
+                    "utter": "なにそのメリーさん"
+                }
+            ],
+            "uri": "at://did:plc:aiactoxndgd6htkm3xfwanxq/app.bsky.feed.post/3l65niggaek2w",
+            "label": [
+                0.5848333239555359,
+                0.49518850445747375,
+                0.5196787714958191,
+                0.6891725063323975,
+                0.5027711987495422,
+                0.51468425989151,
+                0.5166337490081787,
+                0.5070440173149109
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 1,
+                    "utter": "なにそのメリーさん"
+                },
+                {
+                    "author": "did:plc:uz7toc6xupdklfo3kmf54vbt",
+                    "type": 2,
+                    "utter": "職業メリーさんなんだよね"
+                },
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 3,
+                    "utter": "まじ？\nじゃあお土産買って来て"
+                }
+            ],
+            "uri": "at://did:plc:aiactoxndgd6htkm3xfwanxq/app.bsky.feed.post/3l65nsw6dlq2r",
+            "label": [
+                0.5527794361114502,
+                0.500368058681488,
+                0.7909466028213501,
+                0.5757672190666199,
+                0.5346976518630981,
+                0.5056475400924683,
+                0.5391388535499573,
+                0.4952901303768158
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 1,
+                    "utter": "まじ？\nじゃあお土産買って来て"
+                },
+                {
+                    "author": "did:plc:uz7toc6xupdklfo3kmf54vbt",
+                    "type": 2,
+                    "utter": "手元の総合風邪薬もってく"
+                },
+                {
+                    "author": "did:plc:aiactoxndgd6htkm3xfwanxq",
+                    "type": 3,
+                    "utter": "風邪ひいてんならその総合感冒薬飲んで大人しくしててもろて"
+                }
+            ],
+            "uri": "at://did:plc:aiactoxndgd6htkm3xfwanxq/app.bsky.feed.post/3l65o2wsyr72f",
+            "label": [
+                0.5180115699768066,
+                0.6545035243034363,
+                0.6375625729560852,
+                0.5437296032905579,
+                0.5465067625045776,
+                0.6442381143569946,
+                0.66741544008255,
+                0.4928435981273651
+            ]
+        }
+    ]
+}

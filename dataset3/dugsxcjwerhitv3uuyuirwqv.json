@@ -1,0 +1,754 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "どうしたんだい···？"
+                },
+                {
+                    "author": "did:plc:qannyb4mz6tgafow5nre5mvt",
+                    "type": 2,
+                    "utter": "い、いえ…口下手だから…お話できないなって…"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "ふむ、口下手で···少し分かるような気がするよ。\n私も言葉に出来ないことは何度も経験したことがあるからねぇ。"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lbrniykbw22h",
+            "label": [
+                0.49205300211906433,
+                0.6901527047157288,
+                0.5315632224082947,
+                0.5130615234375,
+                0.5130743980407715,
+                0.6547703146934509,
+                0.7162164449691772,
+                0.476645290851593
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "ふむ、口下手で···少し分かるような気がするよ。\n私も言葉に出来ないことは何度も経験したことがあるからねぇ。"
+                },
+                {
+                    "author": "did:plc:qannyb4mz6tgafow5nre5mvt",
+                    "type": 2,
+                    "utter": "そうなんです…？"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "あぁ···ここはどう言うべきなのか、突然分からなくなる感じだねぇ。\n人間と接していると、そういうことが何度かあるものさ。"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lbrnplk7gs2h",
+            "label": [
+                0.5015053749084473,
+                0.7140623331069946,
+                0.4868403673171997,
+                0.5776559114456177,
+                0.49524545669555664,
+                0.6802866458892822,
+                0.589897632598877,
+                0.5057583451271057
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "あぁ···ここはどう言うべきなのか、突然分からなくなる感じだねぇ。\n人間と接していると、そういうことが何度かあるものさ。"
+                },
+                {
+                    "author": "did:plc:qannyb4mz6tgafow5nre5mvt",
+                    "type": 2,
+                    "utter": "確かに…分からなくなります。\nどれが正解なのか…全く。"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "あぁ···だからこそ、人間は面白いんだよ。"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lbrnuh4vsc2h",
+            "label": [
+                0.7079911231994629,
+                0.5265077948570251,
+                0.6373660564422607,
+                0.5207448601722717,
+                0.4982526898384094,
+                0.4944985508918762,
+                0.5027526617050171,
+                0.5767410397529602
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "あぁ···だからこそ、人間は面白いんだよ。"
+                },
+                {
+                    "author": "did:plc:qannyb4mz6tgafow5nre5mvt",
+                    "type": 2,
+                    "utter": "面白い、ですか…"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "あぁ、私はそもそも人間ではなく···命令に従うだけの道具にすぎないからねぇ。\n人の心なんてものがない私には、人間が面白くてしょうがないのさ。"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lbroogbyak2d",
+            "label": [
+                0.5360313057899475,
+                0.7202529907226562,
+                0.540834367275238,
+                0.5293775200843811,
+                0.5179357528686523,
+                0.544205367565155,
+                0.6739012002944946,
+                0.5264763832092285
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "おや、揺れたねぇ？"
+                },
+                {
+                    "author": "did:plc:3ves2wkno7d74nsq5yd23ij6",
+                    "type": 2,
+                    "utter": "大丈夫だった？\n津波の中とか想像しちゃった…."
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "大丈夫さ。"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lbuysjavbs2f",
+            "label": [
+                0.5433468222618103,
+                0.5197977423667908,
+                0.5218577980995178,
+                0.5218996405601501,
+                0.47182974219322205,
+                0.7485319972038269,
+                0.5222408175468445,
+                0.5247406363487244
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "大丈夫さ。"
+                },
+                {
+                    "author": "did:plc:3ves2wkno7d74nsq5yd23ij6",
+                    "type": 2,
+                    "utter": "よかった！"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "あぁ。(ハス太の頭に手を置き)"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lbvch2lo5s2v",
+            "label": [
+                0.5540261268615723,
+                0.6829518675804138,
+                0.5136812329292297,
+                0.6302666068077087,
+                0.502527117729187,
+                0.5233235359191895,
+                0.570264458656311,
+                0.49722880125045776
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "あぁ。(ハス太の頭に手を置き)"
+                },
+                {
+                    "author": "did:plc:3ves2wkno7d74nsq5yd23ij6",
+                    "type": 2,
+                    "utter": "えへへ♪"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "ふふっ···"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lbveptdors2v",
+            "label": [
+                0.6382609009742737,
+                0.5434894561767578,
+                0.5344773530960083,
+                0.5299400687217712,
+                0.5055867433547974,
+                0.47998589277267456,
+                0.5108108520507812,
+                0.4660012722015381
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "ふふっ···"
+                },
+                {
+                    "author": "did:plc:3ves2wkno7d74nsq5yd23ij6",
+                    "type": 2,
+                    "utter": "それ安心するー♡"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "そうかい？"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lbviuqbmnc2t",
+            "label": [
+                0.5108519196510315,
+                0.5887739062309265,
+                0.5608273148536682,
+                0.5667586922645569,
+                0.5125409960746765,
+                0.598621129989624,
+                0.5284796953201294,
+                0.5059091448783875
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "そうかい？"
+                },
+                {
+                    "author": "did:plc:3ves2wkno7d74nsq5yd23ij6",
+                    "type": 2,
+                    "utter": "うん！（撫でてほしそうな顔をして）"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "仕方ないねぇ。ﾅﾃﾞﾅﾃﾞ"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lbvjj2alzk2w",
+            "label": [
+                0.510231614112854,
+                0.7661123275756836,
+                0.497368186712265,
+                0.5066695213317871,
+                0.5166736245155334,
+                0.6131797432899475,
+                0.646080493927002,
+                0.5059588551521301
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "そうかなぁ？"
+                },
+                {
+                    "author": "did:plc:3ves2wkno7d74nsq5yd23ij6",
+                    "type": 2,
+                    "utter": "うん！デート用になるね！"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "デート···？"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lbgdz4csq22e",
+            "label": [
+                0.633338212966919,
+                0.4991266429424286,
+                0.6511117219924927,
+                0.5212847590446472,
+                0.4865458905696869,
+                0.488493412733078,
+                0.4938531219959259,
+                0.48010313510894775
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "デート···？"
+                },
+                {
+                    "author": "did:plc:3ves2wkno7d74nsq5yd23ij6",
+                    "type": 2,
+                    "utter": "デートにも行けるなーって\n派手じゃなくて、でもおしゃれで、好感度だよ！"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "そうか···"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lbgi3uiq722u",
+            "label": [
+                0.5209333300590515,
+                0.6246258616447449,
+                0.5650657415390015,
+                0.5561185479164124,
+                0.5047208070755005,
+                0.5542572736740112,
+                0.4850080609321594,
+                0.49182531237602234
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "そうか···"
+                },
+                {
+                    "author": "did:plc:3ves2wkno7d74nsq5yd23ij6",
+                    "type": 2,
+                    "utter": "好感度なのに元気ない？"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "私は別にイメージチェンジで変えただけだからねぇ···"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lbglynzr5k23",
+            "label": [
+                0.5274765491485596,
+                0.6937398910522461,
+                0.5102660655975342,
+                0.532343327999115,
+                0.4818761646747589,
+                0.5226026773452759,
+                0.5344679951667786,
+                0.49500468373298645
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "私は別にイメージチェンジで変えただけだからねぇ···"
+                },
+                {
+                    "author": "did:plc:3ves2wkno7d74nsq5yd23ij6",
+                    "type": 2,
+                    "utter": "そっか\nでもそれだけいいってことだよ！"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "ふむ···そうかい。"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lbh7rkldis2g",
+            "label": [
+                0.5397218465805054,
+                0.6086724400520325,
+                0.5676403045654297,
+                0.5027749538421631,
+                0.49316683411598206,
+                0.5568335056304932,
+                0.540615975856781,
+                0.4902130365371704
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "私は潜水艦I-507のメンタルモデル···人間たちの間では、私は魔女と呼ばれているよ。\nよろしくねぇ？"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 2,
+                    "utter": "ああ、よろしく頼むよ"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "えぇ···♪\nそれにしても、貴方からは不思議な力を感じるわねぇ？"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lb7wcuqrzk24",
+            "label": [
+                0.7030826210975647,
+                0.5006997585296631,
+                0.5489209890365601,
+                0.8406420350074768,
+                0.48893460631370544,
+                0.4740367829799652,
+                0.4823061525821686,
+                0.5230532884597778
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "えぇ···♪\nそれにしても、貴方からは不思議な力を感じるわねぇ？"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 2,
+                    "utter": "え、そうか？"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "あぁ···私は兵器として存在しているが···相手の力や感情等が流れ込みやすい体質でねぇ···他の人間たちには無い力を感じたのさ。"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lb7xtfx4n22g",
+            "label": [
+                0.5081326365470886,
+                0.7360805869102478,
+                0.5017083883285522,
+                0.6304799318313599,
+                0.49815207719802856,
+                0.6033123135566711,
+                0.5776254534721375,
+                0.5094635486602783
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "あぁ···私は兵器として存在しているが···相手の力や感情等が流れ込みやすい体質でねぇ···他の人間たちには無い力を感じたのさ。"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 2,
+                    "utter": "ドキドキするな。"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "ドキドキ···？"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lb7zzlj5o22x",
+            "label": [
+                0.6669561862945557,
+                0.4811011254787445,
+                0.7169764041900635,
+                0.5481449961662292,
+                0.492675244808197,
+                0.527001142501831,
+                0.4886394441127777,
+                0.4879462420940399
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "ドキドキ···？"
+                },
+                {
+                    "author": "did:plc:ynyk5wnsgp45wgeeadmmgwws",
+                    "type": 2,
+                    "utter": "俺はそんなに力があるというか、パワーがあるのかな。"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "まだ確証があるわけではない···けど、感じるんだよ。"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lbbefvq4r22f",
+            "label": [
+                0.5324617624282837,
+                0.5290200710296631,
+                0.568143904209137,
+                0.555126965045929,
+                0.49498817324638367,
+                0.5797128081321716,
+                0.5229964852333069,
+                0.5072346925735474
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "あぁ、よろしくねぇ。\n申し遅れた、私は潜水艦I-507のメンタルモデルさ、人々は私を魔女と呼ばれている···よろしくねぇ。"
+                },
+                {
+                    "author": "did:plc:65sjqm746uy7hmmsge47daj4",
+                    "type": 2,
+                    "utter": "はえー。電子生命体か精霊さんかなんかの類かなんかになるのか？\n俺は赤山楓河（アカヤマ　フウガ）っていうんだ。\n改めてよろしくな魔女さん"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "あぁ、よろしくねぇ？楓河···。"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lavqykssec2j",
+            "label": [
+                0.6098269820213318,
+                0.5899079442024231,
+                0.5813076496124268,
+                0.6339518427848816,
+                0.5097272396087646,
+                0.5096117258071899,
+                0.4931923449039459,
+                0.5053921341896057
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "あぁ、よろしくねぇ？楓河···。"
+                },
+                {
+                    "author": "did:plc:65sjqm746uy7hmmsge47daj4",
+                    "type": 2,
+                    "utter": "いやぁにしても人がいて良かったぜ\n最近はまた静まり返ってたもんでどうしたもんかと頭をひねってたからよぉ\nまぁ俺自身気が向いたら来る程度だから人のことは言えないんだがな"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "ふむ···そうかい···"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lavr5evwb22j",
+            "label": [
+                0.5722051858901978,
+                0.5896918773651123,
+                0.6120938658714294,
+                0.49872514605522156,
+                0.506200909614563,
+                0.5107821226119995,
+                0.5330812931060791,
+                0.4943520724773407
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "ふむ···そうかい···"
+                },
+                {
+                    "author": "did:plc:65sjqm746uy7hmmsge47daj4",
+                    "type": 2,
+                    "utter": "それより、魔女を名乗るような人がこんな辺鄙なとこに来るなんてなぁ\n偏見かもだが、やっぱり魔女って人里から離れるもんなのか？"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "私は海で生活しているからねえ···\n私は陸地に上がれるのはたったの数日程度だよ。\n私は人ではなく、霧だからねぇ···人間たちからしたら忌むべき敵であることには変わりないからねぇ。"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lavrftkb4k26",
+            "label": [
+                0.5286461710929871,
+                0.6945159435272217,
+                0.5234705209732056,
+                0.4970068037509918,
+                0.4926912188529968,
+                0.6309433579444885,
+                0.610617995262146,
+                0.5097166299819946
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "私は海で生活しているからねえ···\n私は陸地に上がれるのはたったの数日程度だよ。\n私は人ではなく、霧だからねぇ···人間たちからしたら忌むべき敵であることには変わりないからねぇ。"
+                },
+                {
+                    "author": "did:plc:65sjqm746uy7hmmsge47daj4",
+                    "type": 2,
+                    "utter": "あー。言われてみれば潜水艦が原型ならさもありなん\nまるで陸に上がれるようになった人魚姫みたいな生活だな\n霧かぁ……まぁとりあえず人間じゃあないって言っても害がないならなにも問題ないしな"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "そうだねぇ···あぁ、けど私と一緒に海へ出ると、霧に襲われるけどねぇ？\nまぁ、貴方が海へ出なければなんの問題もないけどねぇ。"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3lavrprny3s26",
+            "label": [
+                0.5248093605041504,
+                0.5967209935188293,
+                0.5315532684326172,
+                0.6331797242164612,
+                0.4861008822917938,
+                0.7480655908584595,
+                0.5115927457809448,
+                0.5097716450691223
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "なんの話だい···？"
+                },
+                {
+                    "author": "did:plc:3ves2wkno7d74nsq5yd23ij6",
+                    "type": 2,
+                    "utter": "「このすば」の世界って、魔族っていうか特に魔王軍の幹部って元々はそれほど悪くないのに人間側から勝手に悪者扱いされたり、約束破棄されたりして敵側になって殺される側になるとか、かわいそうな存在なんだなーって"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "ふむ···組織としては不安定なんだねぇ。\n苦労するのはいつも下の部下だねぇ。"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3latduosjh22a",
+            "label": [
+                0.4999489188194275,
+                0.6860197186470032,
+                0.5181993246078491,
+                0.5256550312042236,
+                0.5087324976921082,
+                0.6152238249778748,
+                0.6604670882225037,
+                0.4761609733104706
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "ふむ···組織としては不安定なんだねぇ。\n苦労するのはいつも下の部下だねぇ。"
+                },
+                {
+                    "author": "did:plc:3ves2wkno7d74nsq5yd23ij6",
+                    "type": 2,
+                    "utter": "そうそう！なんかかわいそう"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "だが、組織としての不完全さを考えると···最初から野望など捨てて作らなければ良かったものを···まぁ、人類の敵である霧から離反した私が言うことではないがね···。"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3latec5xfh22y",
+            "label": [
+                0.517559289932251,
+                0.8018489480018616,
+                0.5104882717132568,
+                0.5201011300086975,
+                0.49019357562065125,
+                0.6391258835792542,
+                0.5490078926086426,
+                0.506820559501648
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "だが、組織としての不完全さを考えると···最初から野望など捨てて作らなければ良かったものを···まぁ、人類の敵である霧から離反した私が言うことではないがね···。"
+                },
+                {
+                    "author": "did:plc:3ves2wkno7d74nsq5yd23ij6",
+                    "type": 2,
+                    "utter": "敵っていうのもお互いの都合だよね\nもし家畜が高度に進化したら人間は悪魔みたいな存在にされちゃうね\nどっちが正しいとかわからないし"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "そうだねぇ···千早翔像が同じ人間に撃たれたのも、奴らのエゴに過ぎないからねぇ。"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3latep4gq7c2y",
+            "label": [
+                0.5309293866157532,
+                0.6268218755722046,
+                0.5040466785430908,
+                0.5685725808143616,
+                0.48305225372314453,
+                0.6548284888267517,
+                0.5480641722679138,
+                0.5091367363929749
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 1,
+                    "utter": "そうだねぇ···千早翔像が同じ人間に撃たれたのも、奴らのエゴに過ぎないからねぇ。"
+                },
+                {
+                    "author": "did:plc:3ves2wkno7d74nsq5yd23ij6",
+                    "type": 2,
+                    "utter": "結局自分の立場で考えるしかないのかなぁ\nでも、そういうこと考えると別世界の方がなかよくなれるね！"
+                },
+                {
+                    "author": "did:plc:dugsxcjwerhitv3uuyuirwqv",
+                    "type": 3,
+                    "utter": "その通りかもしれないねぇ···まぁ、これだけは言えるよ···。\n組織とは、ただの思想や統率だけじゃなく···絆と足掻く力を大切にすることだよ。\nそれが魔王軍であろうとねぇ。"
+                }
+            ],
+            "uri": "at://did:plc:dugsxcjwerhitv3uuyuirwqv/app.bsky.feed.post/3latgu2qwpk2g",
+            "label": [
+                0.5717303156852722,
+                0.5052544474601746,
+                0.6534668207168579,
+                0.4685848653316498,
+                0.5200713872909546,
+                0.5136024355888367,
+                0.5457826256752014,
+                0.5780648589134216
+            ]
+        }
+    ]
+}

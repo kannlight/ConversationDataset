@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 1,
+                    "utter": "はむ…ぺろぺろ…"
+                },
+                {
+                    "author": "did:plc:3qmch5hhw3xvsgpnq6p5w5jj",
+                    "type": 2,
+                    "utter": "変態だー！！！！ばっちぃのでやめなさい！！！"
+                },
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 3,
+                    "utter": "ぴえぇ…＞＜。"
+                }
+            ],
+            "uri": "at://did:plc:krxs4yuhbixflkp3v26nfexl/app.bsky.feed.post/3lc4iq3ssos2d",
+            "label": [
+                0.5036351680755615,
+                0.6389089822769165,
+                0.4901534616947174,
+                0.5573759078979492,
+                0.49155065417289734,
+                0.5451183319091797,
+                0.5507592558860779,
+                0.4859877824783325
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 1,
+                    "utter": "ぴえぇ…＞＜。"
+                },
+                {
+                    "author": "did:plc:3qmch5hhw3xvsgpnq6p5w5jj",
+                    "type": 2,
+                    "utter": "あああごめんー！！せめてしっかり洗ってからにしよう！！！"
+                },
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 3,
+                    "utter": "お風呂上がりのなのめちゃんのなめる…＞＜。"
+                }
+            ],
+            "uri": "at://did:plc:krxs4yuhbixflkp3v26nfexl/app.bsky.feed.post/3lc4iylitoc2d",
+            "label": [
+                0.5916272401809692,
+                0.5707451105117798,
+                0.5373827815055847,
+                0.5288370847702026,
+                0.49742093682289124,
+                0.5233873128890991,
+                0.5312560200691223,
+                0.480966180562973
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 1,
+                    "utter": "お風呂上がりのなのめちゃんのなめる…＞＜。"
+                },
+                {
+                    "author": "did:plc:3qmch5hhw3xvsgpnq6p5w5jj",
+                    "type": 2,
+                    "utter": "謎の約束をしてしまった！！今思うと、えーてるさんのイラストから見える癖がそんな感じだった…！！"
+                },
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 3,
+                    "utter": "や、やばい…性癖がばれる……！！！！！"
+                }
+            ],
+            "uri": "at://did:plc:krxs4yuhbixflkp3v26nfexl/app.bsky.feed.post/3lc4niixhxc2d",
+            "label": [
+                0.5246264338493347,
+                0.7336939573287964,
+                0.5274614095687866,
+                0.7017585039138794,
+                0.6113903522491455,
+                0.8196005821228027,
+                0.7847204804420471,
+                0.4980286955833435
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 1,
+                    "utter": "や、やばい…性癖がばれる……！！！！！"
+                },
+                {
+                    "author": "did:plc:3qmch5hhw3xvsgpnq6p5w5jj",
+                    "type": 2,
+                    "utter": "性癖は全開にしていけ…！！！おみ足、すばらしい癖じゃないか！！！僕も好きですし！！！\nこの調子でいきましょう！！"
+                },
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 3,
+                    "utter": "じゃあお風呂上がりのなのめちゃんの足なめるね…\nはむはむ…"
+                }
+            ],
+            "uri": "at://did:plc:krxs4yuhbixflkp3v26nfexl/app.bsky.feed.post/3lc4ohljlis2d",
+            "label": [
+                0.5978105068206787,
+                0.585229754447937,
+                0.6480569839477539,
+                0.5256133675575256,
+                0.5073093175888062,
+                0.5471692085266113,
+                0.5457995533943176,
+                0.4951491057872772
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 1,
+                    "utter": "何でだろう…これもPC版とVR版の違いなのか…！？"
+                },
+                {
+                    "author": "did:plc:3qmch5hhw3xvsgpnq6p5w5jj",
+                    "type": 2,
+                    "utter": "調べてみたら「フォールバックアバター」なるものらしい…！！アバターの容量が大きかったり、モバイル版に対応してないアバターは別の簡素的なアバターに置き換わるみたい！！\nPCとつなげて出来るようにすれば、ワールドもいっぱい行けるようになって、モデルも対応されたりするので、できれば繋げた方がいいかもです…！！"
+                },
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 3,
+                    "utter": "む、難しそう…\nうちのWindows古いし動作不安定だから不安だけど頑張ってみようかな…"
+                }
+            ],
+            "uri": "at://did:plc:krxs4yuhbixflkp3v26nfexl/app.bsky.feed.post/3lai2qmeuvt25",
+            "label": [
+                0.49044495820999146,
+                0.5817068815231323,
+                0.7065104246139526,
+                0.4849006235599518,
+                0.4956110715866089,
+                0.7422796487808228,
+                0.513037919998169,
+                0.4919959008693695
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 1,
+                    "utter": "大丈夫！\n次の土曜日やりたい…！\n私にも教えて！"
+                },
+                {
+                    "author": "did:plc:3qmch5hhw3xvsgpnq6p5w5jj",
+                    "type": 2,
+                    "utter": "教え方…教え方が難しい…。あとまだ十分に理解してないからどうだろう…。努力はする…！！\n\nちなみに、アバターを買ったとしてもトラストランクがvisitorの状態だと使えないから注意ね…！！"
+                },
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 3,
+                    "utter": "なるほど…トラストランクとかあるのか…難しそう…\n届いたら色々試してみるね…！"
+                }
+            ],
+            "uri": "at://did:plc:krxs4yuhbixflkp3v26nfexl/app.bsky.feed.post/3lab6cbw5uv2q",
+            "label": [
+                0.5167372226715088,
+                0.5550830364227295,
+                0.7824812531471252,
+                0.5034146904945374,
+                0.5000840425491333,
+                0.6032286882400513,
+                0.4967840611934662,
+                0.5170963406562805
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 1,
+                    "utter": "なるほど…トラストランクとかあるのか…難しそう…\n届いたら色々試してみるね…！"
+                },
+                {
+                    "author": "did:plc:3qmch5hhw3xvsgpnq6p5w5jj",
+                    "type": 2,
+                    "utter": "フレンド作ったり、会話(チャット)したり、色んなワールド行ったりすればvisitor卒業できるらしい！！\n自分の場合はフレンド数2で、約30強のワールドを回ったら行けた！！"
+                },
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 3,
+                    "utter": "そうなんだ…！\nチャット苦手だけど頑張ってみる…＞＜。"
+                }
+            ],
+            "uri": "at://did:plc:krxs4yuhbixflkp3v26nfexl/app.bsky.feed.post/3lablcwgpz62t",
+            "label": [
+                0.524799108505249,
+                0.5713619589805603,
+                0.7730447053909302,
+                0.5037903785705566,
+                0.511130690574646,
+                0.551386296749115,
+                0.5098414421081543,
+                0.49737444519996643
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 1,
+                    "utter": "そうなんだ…！\nチャット苦手だけど頑張ってみる…＞＜。"
+                },
+                {
+                    "author": "did:plc:3qmch5hhw3xvsgpnq6p5w5jj",
+                    "type": 2,
+                    "utter": "すみません…やっぱり金曜日とかどうですか…？？難しそうでしたら大丈夫です！"
+                },
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 3,
+                    "utter": "金曜日大丈夫そう！"
+                }
+            ],
+            "uri": "at://did:plc:krxs4yuhbixflkp3v26nfexl/app.bsky.feed.post/3lacumlxb322t",
+            "label": [
+                0.5594940185546875,
+                0.4811134338378906,
+                0.6855058670043945,
+                0.5424811244010925,
+                0.4982800781726837,
+                0.6501925587654114,
+                0.5065615177154541,
+                0.4989883005619049
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 1,
+                    "utter": "金曜日大丈夫そう！"
+                },
+                {
+                    "author": "did:plc:3qmch5hhw3xvsgpnq6p5w5jj",
+                    "type": 2,
+                    "utter": "では金曜日お願いします…！！！自分は午後3時以降ならいつでも！！"
+                },
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 3,
+                    "utter": "夜の8時くらいからはいかがでしょうか…！"
+                }
+            ],
+            "uri": "at://did:plc:krxs4yuhbixflkp3v26nfexl/app.bsky.feed.post/3lad26xqeoi2y",
+            "label": [
+                0.5012633800506592,
+                0.5555807948112488,
+                0.7102757692337036,
+                0.5536563396453857,
+                0.5040446519851685,
+                0.630906343460083,
+                0.5213097333908081,
+                0.4959472119808197
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 1,
+                    "utter": "ぷぇ…"
+                },
+                {
+                    "author": "did:plc:3qmch5hhw3xvsgpnq6p5w5jj",
+                    "type": 2,
+                    "utter": "どうしましたか…！？"
+                },
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 3,
+                    "utter": "VRChatでみんなが話してる中会話に混ざれずみんながいないところに移動してお散歩してるのが悲しくなってしまった…\nでも、ランダムなワールドで誰もいないエモいところで過ごすことにより元気が回復してきた…！"
+                }
+            ],
+            "uri": "at://did:plc:krxs4yuhbixflkp3v26nfexl/app.bsky.feed.post/3l7xqrce4my2b",
+            "label": [
+                0.7864449620246887,
+                0.7252500653266907,
+                0.562987208366394,
+                0.5325363874435425,
+                0.504975438117981,
+                0.5239652991294861,
+                0.5218476057052612,
+                0.5266141295433044
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 1,
+                    "utter": "VRChatでみんなが話してる中会話に混ざれずみんながいないところに移動してお散歩してるのが悲しくなってしまった…\nでも、ランダムなワールドで誰もいないエモいところで過ごすことにより元気が回復してきた…！"
+                },
+                {
+                    "author": "did:plc:3qmch5hhw3xvsgpnq6p5w5jj",
+                    "type": 2,
+                    "utter": "あらら…でも僕も人の会話に混ざれない人間なので、おそらく同じことしちゃいそう…。\nエモいワールドいいですよね！！ホラーなワールドなんかもあるらしいですよ！クイズのワールドとか！！\n\n来週VR届くので、良ければ来週以降のどこかで一緒にどこか回りましょ！"
+                },
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 3,
+                    "utter": "あ、ありがとう…！一緒に回りたい…！\nコミュ障すぎてちょっと通話とかダメダメで変な感じになっても許してください…VRChatは文字でコミュニケーションとってますか…？"
+                }
+            ],
+            "uri": "at://did:plc:krxs4yuhbixflkp3v26nfexl/app.bsky.feed.post/3l7xrgqwiak24",
+            "label": [
+                0.786349356174469,
+                0.5575380325317383,
+                0.875823438167572,
+                0.4693413972854614,
+                0.5101475715637207,
+                0.5115739107131958,
+                0.5074779391288757,
+                0.5670925974845886
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 1,
+                    "utter": "あ、ありがとう…！一緒に回りたい…！\nコミュ障すぎてちょっと通話とかダメダメで変な感じになっても許してください…VRChatは文字でコミュニケーションとってますか…？"
+                },
+                {
+                    "author": "did:plc:3qmch5hhw3xvsgpnq6p5w5jj",
+                    "type": 2,
+                    "utter": "僕もコミュ障やばくて変な感じなので大丈夫ですよ！！\n文字でコミュニケーションとる予定でしたが、喋りの方がいいのであれば喋るかもです！！"
+                },
+                {
+                    "author": "did:plc:krxs4yuhbixflkp3v26nfexl",
+                    "type": 3,
+                    "utter": "喋るのが苦手なのでむしろ文字のほうがありがたいかもです…！\nパソコンがLinuxとiPadしかなくて、文字打てる環境での導入に時間かかっちゃうかもですがよろしくお願いします…！"
+                }
+            ],
+            "uri": "at://did:plc:krxs4yuhbixflkp3v26nfexl/app.bsky.feed.post/3l7xs2um67l24",
+            "label": [
+                0.6197699308395386,
+                0.5604076981544495,
+                0.7898647785186768,
+                0.535063624382019,
+                0.5039393305778503,
+                0.5526578426361084,
+                0.5030717849731445,
+                0.5328782200813293
+            ]
+        }
+    ]
+}

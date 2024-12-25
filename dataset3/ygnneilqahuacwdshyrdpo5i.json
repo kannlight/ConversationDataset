@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 1,
+                    "utter": "わかる\nでもさ！炊きたてのお米は無限に味変してくれるから！！おかず米おかず米おかず米おかず米おかず米時々味噌汁でス！"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 2,
+                    "utter": "わしはたまごが大好きなんだよーーー！！\nあ！じゃあさ、、味付きたまごと味なしたまごの2個焼けばいいんじゃん！？天才オブざ朝飯前"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 3,
+                    "utter": "天才すぎる\n欲を言えば温泉たまごももっと手軽につくりたい"
+                }
+            ],
+            "uri": "at://did:plc:ygnneilqahuacwdshyrdpo5i/app.bsky.feed.post/3lbxzvscatc2c",
+            "label": [
+                0.6337029337882996,
+                0.4977884888648987,
+                0.8803392052650452,
+                0.5756542086601257,
+                0.514193058013916,
+                0.5092347264289856,
+                0.49908140301704407,
+                0.5321374535560608
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 1,
+                    "utter": "天才すぎる\n欲を言えば温泉たまごももっと手軽につくりたい"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 2,
+                    "utter": "温泉たまごどうやって作ってる？"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 3,
+                    "utter": "つくったことないれす"
+                }
+            ],
+            "uri": "at://did:plc:ygnneilqahuacwdshyrdpo5i/app.bsky.feed.post/3lbyfzyany22c",
+            "label": [
+                0.5306006669998169,
+                0.562180757522583,
+                0.6023572683334351,
+                0.5196059942245483,
+                0.5278331637382507,
+                0.5213823318481445,
+                0.5413299202919006,
+                0.507977306842804
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 1,
+                    "utter": "つくったことないれす"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 2,
+                    "utter": "こだわりなければレンチンで作れるれ"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 3,
+                    "utter": "へいたそ、れんちん\nゆでたまご\nつくりかた"
+                }
+            ],
+            "uri": "at://did:plc:ygnneilqahuacwdshyrdpo5i/app.bsky.feed.post/3lbylw3n4hs2c",
+            "label": [
+                0.5394786596298218,
+                0.526685357093811,
+                0.6475839018821716,
+                0.532147228717804,
+                0.5122436881065369,
+                0.541682243347168,
+                0.5246870517730713,
+                0.5313242673873901
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 1,
+                    "utter": "自動餅つきの機械ぐらいうるさい\nゴウンゴウンいう"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 2,
+                    "utter": "あいつ餅つけるらしい！"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 3,
+                    "utter": "ホームモチツキーやん！"
+                }
+            ],
+            "uri": "at://did:plc:ygnneilqahuacwdshyrdpo5i/app.bsky.feed.post/3lbxyam6c7s2c",
+            "label": [
+                0.7349027991294861,
+                0.4989553987979889,
+                0.5527777671813965,
+                0.7384852766990662,
+                0.51207435131073,
+                0.5196506381034851,
+                0.5179052948951721,
+                0.5444126129150391
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 1,
+                    "utter": "ホームモチツキーやん！"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 2,
+                    "utter": "パン色々とピザ生地、餃子の生地、餅と作れるらしい！"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 3,
+                    "utter": "なんか嫁が一時期欲しいゆうてたかも"
+                }
+            ],
+            "uri": "at://did:plc:ygnneilqahuacwdshyrdpo5i/app.bsky.feed.post/3lbxzuwkfp22c",
+            "label": [
+                0.5008826851844788,
+                0.627220094203949,
+                0.6535936594009399,
+                0.553791344165802,
+                0.5084934830665588,
+                0.5539722442626953,
+                0.5157545804977417,
+                0.48945942521095276
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 1,
+                    "utter": "なんか嫁が一時期欲しいゆうてたかも"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 2,
+                    "utter": "まじパン簡単に美味しいから嫁、ぜひ\nビストロが一番静からしい！"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 3,
+                    "utter": "パナソニックのやつ？"
+                }
+            ],
+            "uri": "at://did:plc:ygnneilqahuacwdshyrdpo5i/app.bsky.feed.post/3lbyfzepbbs2c",
+            "label": [
+                0.47588518261909485,
+                0.4817487299442291,
+                0.5413033366203308,
+                0.7297226190567017,
+                0.5313234925270081,
+                0.49296778440475464,
+                0.5718708038330078,
+                0.4957290589809418
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 1,
+                    "utter": "パナソニックのやつ？"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 2,
+                    "utter": "それそれ\nわしのは59dBでビストロは29dBらしい"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 3,
+                    "utter": "59dbちょっとした歌声ぐらいあるやん"
+                }
+            ],
+            "uri": "at://did:plc:ygnneilqahuacwdshyrdpo5i/app.bsky.feed.post/3lbylvkn7722c",
+            "label": [
+                0.5792693495750427,
+                0.5207123756408691,
+                0.5519249439239502,
+                0.838918924331665,
+                0.51486736536026,
+                0.5451377034187317,
+                0.5305654406547546,
+                0.5250711441040039
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 1,
+                    "utter": "ちなみにたそさんから教えてもらった方法でまだレア出てない、たぶんLUKステータスが終わってるワイ"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 2,
+                    "utter": "あ、の、、大変申し上げにくいのですが\nレアでなくなりました\n対ありです\nただいたずらさんのID運気うんこだと思う"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 3,
+                    "utter": "たそさんの運の良さを見せつけられただけってこと！？！？！わたしのこのきもちどうしてくれるのよぉ！！！！\nｱ゛ｱ゛ｱ゛ｱ゛ｱ゛ｱ゛ｱ゛ｱ゛"
+                }
+            ],
+            "uri": "at://did:plc:ygnneilqahuacwdshyrdpo5i/app.bsky.feed.post/3lbbfexza7s2x",
+            "label": [
+                0.5918577313423157,
+                0.6347132921218872,
+                0.5382914543151855,
+                0.8118505477905273,
+                0.6422917246818542,
+                0.6075308322906494,
+                0.6897860169410706,
+                0.5367096662521362
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 1,
+                    "utter": "たそさんの運の良さを見せつけられただけってこと！？！？！わたしのこのきもちどうしてくれるのよぉ！！！！\nｱ゛ｱ゛ｱ゛ｱ゛ｱ゛ｱ゛ｱ゛ｱ゛"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 2,
+                    "utter": "やーい！うんこうんこうんこ！！！！"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 3,
+                    "utter": "これが職長さんのリプか？？"
+                }
+            ],
+            "uri": "at://did:plc:ygnneilqahuacwdshyrdpo5i/app.bsky.feed.post/3lbbfxuygec2x",
+            "label": [
+                0.5084829330444336,
+                0.4919931888580322,
+                0.5742908120155334,
+                0.6810523867607117,
+                0.5116813778877258,
+                0.5388545989990234,
+                0.5337732434272766,
+                0.48887601494789124
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 1,
+                    "utter": "これが職長さんのリプか？？"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 2,
+                    "utter": "おまえの運気うんこ〜〜！！！！！！！！"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 3,
+                    "utter": "うんこ食え！うんこ食え！いっぱい食え！！"
+                }
+            ],
+            "uri": "at://did:plc:ygnneilqahuacwdshyrdpo5i/app.bsky.feed.post/3lbbhpdshk22x",
+            "label": [
+                0.6263366937637329,
+                0.5252949595451355,
+                0.8940487504005432,
+                0.5518407821655273,
+                0.5387356281280518,
+                0.4804282486438751,
+                0.5261341333389282,
+                0.5240373611450195
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 1,
+                    "utter": "うんこ食え！うんこ食え！いっぱい食え！！"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 2,
+                    "utter": "それはちょっとどうなん、、2児のパパとしてさ、、"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 3,
+                    "utter": "2児のうんこ死ぬほど処理してきたし、むしろ妥当"
+                }
+            ],
+            "uri": "at://did:plc:ygnneilqahuacwdshyrdpo5i/app.bsky.feed.post/3lbbi2nlu422x",
+            "label": [
+                0.6795129776000977,
+                0.5025889873504639,
+                0.5762669444084167,
+                0.5434464812278748,
+                0.4842003285884857,
+                0.5465870499610901,
+                0.507554292678833,
+                0.5540372133255005
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 1,
+                    "utter": "2児のうんこ死ぬほど処理してきたし、むしろ妥当"
+                },
+                {
+                    "author": "did:plc:fnoeyttziseuzeford2vwm6w",
+                    "type": 2,
+                    "utter": "お前が食べるんだよ！！！！"
+                },
+                {
+                    "author": "did:plc:ygnneilqahuacwdshyrdpo5i",
+                    "type": 3,
+                    "utter": "うんこくって運気アップするわけねーーーだろ！！！"
+                }
+            ],
+            "uri": "at://did:plc:ygnneilqahuacwdshyrdpo5i/app.bsky.feed.post/3lbbqdojtls2x",
+            "label": [
+                0.522295355796814,
+                0.594670295715332,
+                0.5794067978858948,
+                0.5883374214172363,
+                0.5360921025276184,
+                0.5493913888931274,
+                0.5969964861869812,
+                0.49460920691490173
+            ]
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 1,
+                    "utter": "ドウドゥースとスターズオンアースとジャスティンパレスはレベルが違うと思う"
+                },
+                {
+                    "author": "did:plc:7x3vlkeikjafx6simznwglg3",
+                    "type": 2,
+                    "utter": "珍しくジェッタさんが川田選んでる"
+                },
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 3,
+                    "utter": "スターズオンアースは強すぎる\nだが川田乗ることによって弱くなる…\nスターズオンアースの強さを信じるか、川田のダメさを信じるか悩む…"
+                }
+            ],
+            "uri": "at://did:plc:ryhul4zjdnbctcbjqj56xpjh/app.bsky.feed.post/3lbjuaaaluz25",
+            "label": [
+                0.4904481768608093,
+                0.6783435940742493,
+                0.5799844264984131,
+                0.5193897485733032,
+                0.502747654914856,
+                0.6260228753089905,
+                0.5026243329048157,
+                0.5235442519187927
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 1,
+                    "utter": "スターズオンアースは強すぎる\nだが川田乗ることによって弱くなる…\nスターズオンアースの強さを信じるか、川田のダメさを信じるか悩む…"
+                },
+                {
+                    "author": "did:plc:7x3vlkeikjafx6simznwglg3",
+                    "type": 2,
+                    "utter": "大外からピューンってこれるかな～どうかな～\nワイの穴はシンエンペラー"
+                },
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 3,
+                    "utter": "シンエンペラーかあ\n３歳なんよねえ\nだが坂井瑠星は侮れない"
+                }
+            ],
+            "uri": "at://did:plc:ryhul4zjdnbctcbjqj56xpjh/app.bsky.feed.post/3lbjvtywzao2l",
+            "label": [
+                0.6072920560836792,
+                0.5165823101997375,
+                0.5827372670173645,
+                0.7609326243400574,
+                0.5195479393005371,
+                0.5170660018920898,
+                0.49715831875801086,
+                0.5489216446876526
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 1,
+                    "utter": "シンエンペラーかあ\n３歳なんよねえ\nだが坂井瑠星は侮れない"
+                },
+                {
+                    "author": "did:plc:7x3vlkeikjafx6simznwglg3",
+                    "type": 2,
+                    "utter": "そう坂井瑠星\n侮れない\nシンエンペラーもいきなり海外で走っちゃってジャパンカップだから\n未知数"
+                },
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 3,
+                    "utter": "考えれば考えるほど分からないンゴねえ\n何来てもおかしくないレース…\nゲロむず"
+                }
+            ],
+            "uri": "at://did:plc:ryhul4zjdnbctcbjqj56xpjh/app.bsky.feed.post/3lbjwbmce7p2u",
+            "label": [
+                0.4952581822872162,
+                0.5794265866279602,
+                0.5134020447731018,
+                0.560904324054718,
+                0.5243240594863892,
+                0.6878346800804138,
+                0.6030024290084839,
+                0.505888819694519
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 1,
+                    "utter": "考えれば考えるほど分からないンゴねえ\n何来てもおかしくないレース…\nゲロむず"
+                },
+                {
+                    "author": "did:plc:7x3vlkeikjafx6simznwglg3",
+                    "type": 2,
+                    "utter": "スターズオンアース\n追い切りスゴいな\nうわー悩む"
+                },
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 3,
+                    "utter": "3連複のヒモあたりで買っとこう"
+                }
+            ],
+            "uri": "at://did:plc:ryhul4zjdnbctcbjqj56xpjh/app.bsky.feed.post/3lble7scdlc2r",
+            "label": [
+                0.5456204414367676,
+                0.5014994144439697,
+                0.6692529320716858,
+                0.5571751594543457,
+                0.5103423595428467,
+                0.5315563082695007,
+                0.5118985176086426,
+                0.5140715837478638
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 1,
+                    "utter": "あーやっぱチェルビニアとステレンボッシュだったか…\n\n死んだ"
+                },
+                {
+                    "author": "did:plc:7x3vlkeikjafx6simznwglg3",
+                    "type": 2,
+                    "utter": "ルメールは自動的買えとあれほど！"
+                },
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 3,
+                    "utter": "3連複ではステレンボッシュとチェルヴィニア買ってたンゴ\nボンドガールがくるとは思わなかった…"
+                }
+            ],
+            "uri": "at://did:plc:ryhul4zjdnbctcbjqj56xpjh/app.bsky.feed.post/3l6ezv4zwpj2e",
+            "label": [
+                0.5800300240516663,
+                0.5505547523498535,
+                0.6403365731239319,
+                0.6998782753944397,
+                0.5090221762657166,
+                0.5653436779975891,
+                0.5130608081817627,
+                0.504784107208252
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 1,
+                    "utter": "3連複ではステレンボッシュとチェルヴィニア買ってたンゴ\nボンドガールがくるとは思わなかった…"
+                },
+                {
+                    "author": "did:plc:7x3vlkeikjafx6simznwglg3",
+                    "type": 2,
+                    "utter": "スッときた"
+                },
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 3,
+                    "utter": "さすが武さん"
+                }
+            ],
+            "uri": "at://did:plc:ryhul4zjdnbctcbjqj56xpjh/app.bsky.feed.post/3l6ezy4ki3326",
+            "label": [
+                0.6120864152908325,
+                0.5135637521743774,
+                0.5490355491638184,
+                0.6270322799682617,
+                0.4969300627708435,
+                0.4777071475982666,
+                0.5027809739112854,
+                0.5483172535896301
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 1,
+                    "utter": "さすが武さん"
+                },
+                {
+                    "author": "did:plc:7x3vlkeikjafx6simznwglg3",
+                    "type": 2,
+                    "utter": "豊マジック"
+                },
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 3,
+                    "utter": "明日はブレイディベーグ(ルメール)来るかしら\nハーパー(武豊)来るかしら"
+                }
+            ],
+            "uri": "at://did:plc:ryhul4zjdnbctcbjqj56xpjh/app.bsky.feed.post/3l6fichu3dt2f",
+            "label": [
+                0.5525680780410767,
+                0.5165253281593323,
+                0.8361214995384216,
+                0.4882086515426636,
+                0.5080090761184692,
+                0.5194420218467712,
+                0.5027895569801331,
+                0.5128718018531799
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 1,
+                    "utter": "明日はブレイディベーグ(ルメール)来るかしら\nハーパー(武豊)来るかしら"
+                },
+                {
+                    "author": "did:plc:7x3vlkeikjafx6simznwglg3",
+                    "type": 2,
+                    "utter": "うむ！"
+                },
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 3,
+                    "utter": "どっちかの複勝だけ買おうと思ってるけど…\nどっちがいいか悩むンゴ"
+                }
+            ],
+            "uri": "at://did:plc:ryhul4zjdnbctcbjqj56xpjh/app.bsky.feed.post/3l6fk2ar6kw2j",
+            "label": [
+                0.5080366730690002,
+                0.5933974385261536,
+                0.6699280738830566,
+                0.5273160338401794,
+                0.4986512064933777,
+                0.5968924760818481,
+                0.5067414045333862,
+                0.5074573755264282
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 1,
+                    "utter": "サトノレーヴかナムラクレアが一着だと思うから単勝勝負"
+                },
+                {
+                    "author": "did:plc:7x3vlkeikjafx6simznwglg3",
+                    "type": 2,
+                    "utter": "マ、マ、コ、チャ♥"
+                },
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 3,
+                    "utter": "川田はこないよ！"
+                }
+            ],
+            "uri": "at://did:plc:ryhul4zjdnbctcbjqj56xpjh/app.bsky.feed.post/3l56k4jvdnw26",
+            "label": [
+                0.5436516404151917,
+                0.5678513050079346,
+                0.6908739805221558,
+                0.573122501373291,
+                0.5393356084823608,
+                0.5551136136054993,
+                0.5262569785118103,
+                0.5207251906394958
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 1,
+                    "utter": "川田はこないよ！"
+                },
+                {
+                    "author": "did:plc:7x3vlkeikjafx6simznwglg3",
+                    "type": 2,
+                    "utter": "ジェッタさんが買わぬとき\nやつはくる！"
+                },
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 3,
+                    "utter": "まあ二着、三着なら可能性はギリある"
+                }
+            ],
+            "uri": "at://did:plc:ryhul4zjdnbctcbjqj56xpjh/app.bsky.feed.post/3l56r2uogcq2f",
+            "label": [
+                0.5048152208328247,
+                0.5308862924575806,
+                0.6122785210609436,
+                0.4944733679294586,
+                0.46970146894454956,
+                0.7076172828674316,
+                0.49297764897346497,
+                0.5017269849777222
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 1,
+                    "utter": "まあ二着、三着なら可能性はギリある"
+                },
+                {
+                    "author": "did:plc:7x3vlkeikjafx6simznwglg3",
+                    "type": 2,
+                    "utter": "でました粗品の呪い\nなんとナムラクレア、サトノレーヴ！"
+                },
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 3,
+                    "utter": "ヤヴァい…\nもうナムラクレアとサトノレーヴの単勝買ってしまったンゴ"
+                }
+            ],
+            "uri": "at://did:plc:ryhul4zjdnbctcbjqj56xpjh/app.bsky.feed.post/3l5b5lbaclb2j",
+            "label": [
+                0.6282485723495483,
+                0.5947305560112,
+                0.6026468276977539,
+                0.5801299810409546,
+                0.4983559846878052,
+                0.5478940606117249,
+                0.5081146359443665,
+                0.5186423659324646
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 1,
+                    "utter": "ヤヴァい…\nもうナムラクレアとサトノレーヴの単勝買ってしまったンゴ"
+                },
+                {
+                    "author": "did:plc:7x3vlkeikjafx6simznwglg3",
+                    "type": 2,
+                    "utter": "よし、ママコチャ買ってくる"
+                },
+                {
+                    "author": "did:plc:ryhul4zjdnbctcbjqj56xpjh",
+                    "type": 3,
+                    "utter": "川田じゃあ無理ネ"
+                }
+            ],
+            "uri": "at://did:plc:ryhul4zjdnbctcbjqj56xpjh/app.bsky.feed.post/3l5b5pucgjz2y",
+            "label": [
+                0.48827803134918213,
+                0.6660187840461731,
+                0.5236681699752808,
+                0.5298140645027161,
+                0.51913982629776,
+                0.6046342849731445,
+                0.6125675439834595,
+                0.513093113899231
+            ]
+        }
+    ]
+}
