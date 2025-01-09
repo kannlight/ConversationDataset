@@ -31,8 +31,8 @@ def print_statics(path):
     else:
         with open(path, 'r', encoding='utf-8') as f:
             num_data = len(json.load(f)['data'])
-            print(path)
-            print('  sum: {}'.format(num_data))
+        print(path)
+        print('  sum: {}'.format(num_data))
 
 def label_statistics(dir):
     sum_label = np.zeros(8)
