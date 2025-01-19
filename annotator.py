@@ -7,6 +7,8 @@ import os
 tokenizer = AutoTokenizer.from_pretrained("Mizuiro-sakura/luke-japanese-large-sentiment-analysis-wrime")
 config = LukeConfig.from_pretrained('Mizuiro-sakura/luke-japanese-large-sentiment-analysis-wrime', output_hidden_states=True)
 model = AutoModelForSequenceClassification.from_pretrained('Mizuiro-sakura/luke-japanese-large-sentiment-analysis-wrime', config=config)
+# GPUを使用
+model = model.cuda()
 
 def annotate(filename):
     # アノテーション対象のデータを読み込む
@@ -31,6 +33,9 @@ def annotate(filename):
             max_length=max_seq_length,
             padding="max_length",
             return_tensors="pt")
+
+    # GPUを使用
+    token = {k: v.cuda() for k, v in token.items()}
     
     # モデルに推定させる
     output=model(token['input_ids'], token['attention_mask'])
