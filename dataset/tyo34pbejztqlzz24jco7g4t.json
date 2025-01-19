@@ -1,0 +1,484 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 1,
+                    "utter": "どんぶらこだよーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 2,
+                    "utter": "溺れてるのかと思ったよーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 3,
+                    "utter": "平和だよーーーーーーー＼(＾o＾)／"
+                }
+            ],
+            "uri": "at://did:plc:tyo34pbejztqlzz24jco7g4t/app.bsky.feed.post/3lbvnpg6huc2u",
+            "label": [
+                0.9996172189712524,
+                5.402098395279609e-05,
+                0.00010638149979058653,
+                6.0698457673424855e-05,
+                2.5489129257039167e-05,
+                4.485695535549894e-05,
+                5.2586678066290915e-05,
+                3.8725018384866416e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 1,
+                    "utter": "平和だよーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 2,
+                    "utter": "荒波に見えるよーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 3,
+                    "utter": "荒波だよーーーーーーー＼(＾o＾)／"
+                }
+            ],
+            "uri": "at://did:plc:tyo34pbejztqlzz24jco7g4t/app.bsky.feed.post/3lbvnta3ulk2u",
+            "label": [
+                0.10007058829069138,
+                0.045628998428583145,
+                0.019263843074440956,
+                0.09491825848817825,
+                0.0024231800343841314,
+                0.7311448454856873,
+                0.003704021219164133,
+                0.002846261952072382
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 1,
+                    "utter": "荒波だよーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 2,
+                    "utter": "平和なのかなーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 3,
+                    "utter": "水深はマリアナ海溝並みだよーーーーーーー＼(＾o＾)／"
+                }
+            ],
+            "uri": "at://did:plc:tyo34pbejztqlzz24jco7g4t/app.bsky.feed.post/3lbvnwsub6s2u",
+            "label": [
+                0.1454504132270813,
+                0.0026858437340706587,
+                0.0037969560362398624,
+                0.8447257280349731,
+                0.0004788413061760366,
+                0.0016062051290646195,
+                0.0005935101071372628,
+                0.0006625555688515306
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 1,
+                    "utter": "水深はマリアナ海溝並みだよーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 2,
+                    "utter": "平和とはーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 3,
+                    "utter": "麻雀の役だよーーーーーーー＼(＾o＾)／"
+                }
+            ],
+            "uri": "at://did:plc:tyo34pbejztqlzz24jco7g4t/app.bsky.feed.post/3lbvyzqcqgs2l",
+            "label": [
+                0.9995274543762207,
+                5.331300781108439e-05,
+                0.0001856405579019338,
+                7.348113285843283e-05,
+                3.0054385206312872e-05,
+                3.389206904103048e-05,
+                5.193367906031199e-05,
+                4.4241591240279377e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 1,
+                    "utter": "今日もフツーだよーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 2,
+                    "utter": "そーだねーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 3,
+                    "utter": "11月ももうすぐ終わりだよーーーーーーー＼(＾o＾)／"
+                }
+            ],
+            "uri": "at://did:plc:tyo34pbejztqlzz24jco7g4t/app.bsky.feed.post/3lbnwe6x7qk23",
+            "label": [
+                0.999126136302948,
+                0.00025455636205151677,
+                0.00024700912763364613,
+                0.00015787595475558192,
+                2.3757205781294033e-05,
+                4.942401938023977e-05,
+                8.191371307475492e-05,
+                5.93885088164825e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 1,
+                    "utter": "11月ももうすぐ終わりだよーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 2,
+                    "utter": "楽しみーーーー(年末になるとワクワクする人)＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 3,
+                    "utter": "師匠も走りますからねーーーーーーー＼(＾o＾)／"
+                }
+            ],
+            "uri": "at://did:plc:tyo34pbejztqlzz24jco7g4t/app.bsky.feed.post/3lbo3u3p4ns23",
+            "label": [
+                0.5644784569740295,
+                0.0018491614609956741,
+                0.42938432097435,
+                0.0008544367155991495,
+                0.0005834124749526381,
+                0.0009294532355852425,
+                0.0006215512985363603,
+                0.0012992676347494125
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 1,
+                    "utter": "師匠も走りますからねーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 2,
+                    "utter": "どんどん走ってほしいーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 3,
+                    "utter": "この間福岡マラソンで見ましたーーーーーーー＼(＾o＾)／"
+                }
+            ],
+            "uri": "at://did:plc:tyo34pbejztqlzz24jco7g4t/app.bsky.feed.post/3lbo4datqqk23",
+            "label": [
+                0.9996138215065002,
+                4.30186846642755e-05,
+                9.833335934672505e-05,
+                9.075791604118422e-05,
+                3.072946856264025e-05,
+                3.6413792258827016e-05,
+                4.451828863238916e-05,
+                4.241152055328712e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 1,
+                    "utter": "この間福岡マラソンで見ましたーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 2,
+                    "utter": "それはよかったーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 3,
+                    "utter": "次は福岡国際マラソンで見られるかもーーーーーーー＼(＾o＾)／"
+                }
+            ],
+            "uri": "at://did:plc:tyo34pbejztqlzz24jco7g4t/app.bsky.feed.post/3lbo4nupdcc23",
+            "label": [
+                0.5033724904060364,
+                0.0013033609138801694,
+                0.4929346442222595,
+                0.0006777073722332716,
+                0.000369325396604836,
+                0.000567861832678318,
+                0.0003626387333497405,
+                0.000411929126130417
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 1,
+                    "utter": "もーどーにでもなれーなときにお使いくださいーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 2,
+                    "utter": "もーどーにでもなれーーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 3,
+                    "utter": "孔明「今ですーーーーーーー＼(＾o＾)／」"
+                }
+            ],
+            "uri": "at://did:plc:tyo34pbejztqlzz24jco7g4t/app.bsky.feed.post/3lby3fwzrps2k",
+            "label": [
+                0.9882289171218872,
+                0.00043789055780507624,
+                0.01033575925976038,
+                0.00023648480419069529,
+                0.0001444657245883718,
+                0.0001905375102069229,
+                0.0001984154514502734,
+                0.00022754541714675725
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 1,
+                    "utter": "孔明「今ですーーーーーーー＼(＾o＾)／」"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 2,
+                    "utter": "孔明の罠ーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 3,
+                    "utter": "今でしょーーーーーーー＼(＾o＾)／"
+                }
+            ],
+            "uri": "at://did:plc:tyo34pbejztqlzz24jco7g4t/app.bsky.feed.post/3lby47ssalc2k",
+            "label": [
+                0.767367959022522,
+                0.0009442247683182359,
+                0.22850048542022705,
+                0.0008007308933883905,
+                0.0007192290504463017,
+                0.0004974469193257391,
+                0.0004112864553462714,
+                0.0007586694555357099
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 1,
+                    "utter": "今でしょーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 2,
+                    "utter": "誰ーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 3,
+                    "utter": "誰かですーーーーーーー＼(＾o＾)／"
+                }
+            ],
+            "uri": "at://did:plc:tyo34pbejztqlzz24jco7g4t/app.bsky.feed.post/3lby5ec7tws2k",
+            "label": [
+                0.37932389974594116,
+                0.021143918856978416,
+                0.5902242660522461,
+                0.0020898969378322363,
+                0.0009829220362007618,
+                0.0017970599001273513,
+                0.0030624312348663807,
+                0.0013756202533841133
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 1,
+                    "utter": "誰かですーーーーーーー＼(＾o＾)／"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 2,
+                    "utter": "なんのこっちゃーーーー＼(^o^)／"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 3,
+                    "utter": "毎度のようにうやむやにしますーーーーーーー＼(＾o＾)／"
+                }
+            ],
+            "uri": "at://did:plc:tyo34pbejztqlzz24jco7g4t/app.bsky.feed.post/3lby5ksup4k2k",
+            "label": [
+                0.1590145230293274,
+                0.32825279235839844,
+                0.022498061880469322,
+                0.0025996563490480185,
+                0.0045633986592292786,
+                0.023245181888341904,
+                0.4567369520664215,
+                0.003089393489062786
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 1,
+                    "utter": "「パターンを入稿する時は、アピアランスを分割しましょう」→アピアランスを分割→ファイルサイズが100MB超え"
+                },
+                {
+                    "author": "did:plc:wpddtdodncb6tgix66gqrw77",
+                    "type": 2,
+                    "utter": "おおう、そういうデータにはまだ遭遇したことない…100MB超えるのはなかなかやねw"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 3,
+                    "utter": "ぼくの作るパターン、アンカーポイント数が半端じゃないからですね…まあラスタライズして入稿が正解だと思われます…"
+                }
+            ],
+            "uri": "at://did:plc:tyo34pbejztqlzz24jco7g4t/app.bsky.feed.post/3lbt3visp5k2c",
+            "label": [
+                0.04710707440972328,
+                0.18463613092899323,
+                0.034764278680086136,
+                0.006577671505510807,
+                0.0011467358563095331,
+                0.7180841565132141,
+                0.005554074887186289,
+                0.0021298520732671022
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 1,
+                    "utter": "ぼくの作るパターン、アンカーポイント数が半端じゃないからですね…まあラスタライズして入稿が正解だと思われます…"
+                },
+                {
+                    "author": "did:plc:wpddtdodncb6tgix66gqrw77",
+                    "type": 2,
+                    "utter": "ほおおおお...見てみたいw"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 3,
+                    "utter": "さすがに数は少ないです。帰宅したら見てみます…とはいってもパターン保存用のデータはアピアランスを分割していないので、見た目で判断してやっていかないと。時間がかかりそうです＾＾；"
+                }
+            ],
+            "uri": "at://did:plc:tyo34pbejztqlzz24jco7g4t/app.bsky.feed.post/3lbt3zsdkcc2c",
+            "label": [
+                0.024335898458957672,
+                0.0029575610533356667,
+                0.9602734446525574,
+                0.0005478309467434883,
+                0.00011261067993473262,
+                0.01112243440002203,
+                0.0003022699092980474,
+                0.0003479304723441601
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 1,
+                    "utter": "さすがに数は少ないです。帰宅したら見てみます…とはいってもパターン保存用のデータはアピアランスを分割していないので、見た目で判断してやっていかないと。時間がかかりそうです＾＾；"
+                },
+                {
+                    "author": "did:plc:wpddtdodncb6tgix66gqrw77",
+                    "type": 2,
+                    "utter": "なるべくデータを軽くするってのは確かに鉄則だけど、まあ今の時代昔よりはデカくなっても問題ないで！"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 3,
+                    "utter": "パターンオブジェクトの場合位置の正確性が重要なら分割はしておいた方が良い、という気はしています。ファイルサイズは…(´･_･`)"
+                }
+            ],
+            "uri": "at://did:plc:tyo34pbejztqlzz24jco7g4t/app.bsky.feed.post/3lbt5ivtiz22m",
+            "label": [
+                0.06878103315830231,
+                0.08628355711698532,
+                0.24904926121234894,
+                0.0009894741233438253,
+                0.0005672681145370007,
+                0.5891947746276855,
+                0.0033453931100666523,
+                0.0017892115283757448
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 1,
+                    "utter": "パターンオブジェクトの場合位置の正確性が重要なら分割はしておいた方が良い、という気はしています。ファイルサイズは…(´･_･`)"
+                },
+                {
+                    "author": "did:plc:wpddtdodncb6tgix66gqrw77",
+                    "type": 2,
+                    "utter": "バージョンによってずれたりするからねえ……それ結構問題なんよ割と"
+                },
+                {
+                    "author": "did:plc:tyo34pbejztqlzz24jco7g4t",
+                    "type": 3,
+                    "utter": "位置にシビアになる場合は分割した方が無難ですね…"
+                }
+            ],
+            "uri": "at://did:plc:tyo34pbejztqlzz24jco7g4t/app.bsky.feed.post/3lbtpee635s2a",
+            "label": [
+                0.014540066011250019,
+                0.014024426229298115,
+                0.08470985293388367,
+                0.0011897132499143481,
+                0.00041831901762634516,
+                0.8832371234893799,
+                0.0011030969908460975,
+                0.0007774446276016533
+            ]
+        }
+    ]
+}

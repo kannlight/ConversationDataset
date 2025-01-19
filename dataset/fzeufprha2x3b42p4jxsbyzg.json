@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 1,
+                    "utter": "おは、よしよし…ねちがえかな…"
+                },
+                {
+                    "author": "did:plc:b66ltremt4rtitu2mqggebfy",
+                    "type": 2,
+                    "utter": "おは、おきてたの\nじつはきのうからちょといたい"
+                },
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 3,
+                    "utter": "じつはきょうぼくおやすみだからにどねしていまおきた\nまだいたい？"
+                }
+            ],
+            "uri": "at://did:plc:fzeufprha2x3b42p4jxsbyzg/app.bsky.feed.post/3lc2jl5hp5c2k",
+            "label": [
+                0.0016221344703808427,
+                0.9705613255500793,
+                0.000974401249550283,
+                0.000893397955223918,
+                0.0004490201245062053,
+                0.011401355266571045,
+                0.013962507247924805,
+                0.000135812399093993
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 1,
+                    "utter": "じつはきょうぼくおやすみだからにどねしていまおきた\nまだいたい？"
+                },
+                {
+                    "author": "did:plc:b66ltremt4rtitu2mqggebfy",
+                    "type": 2,
+                    "utter": "ありがと…もうだいじょぶそう、すやすや早めに寝たおかげかな\nおやすみいいにゃー"
+                },
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 3,
+                    "utter": "とくになにも遊ぶわけでもないんだけどね\n平日でないとできない雑用すますのよ、書類だしたり\nきみはふつうにおしごとかな"
+                }
+            ],
+            "uri": "at://did:plc:fzeufprha2x3b42p4jxsbyzg/app.bsky.feed.post/3lc2jwqkick2q",
+            "label": [
+                0.6569241881370544,
+                0.11344275623559952,
+                0.1473933458328247,
+                0.0032201583962887526,
+                0.002806098898872733,
+                0.011443348601460457,
+                0.05978076159954071,
+                0.00498933857306838
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 1,
+                    "utter": "とくになにも遊ぶわけでもないんだけどね\n平日でないとできない雑用すますのよ、書類だしたり\nきみはふつうにおしごとかな"
+                },
+                {
+                    "author": "did:plc:b66ltremt4rtitu2mqggebfy",
+                    "type": 2,
+                    "utter": "おやくしょ？ぎんこう？混んでないといいね、おちゅかれさま\nあしたもあさってもおしごと"
+                },
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 3,
+                    "utter": "つゆくんとぼくってお休みかぶってないのかな\nかぶってたら布団ごろごろしながらうだうだおはなしできるのにね"
+                }
+            ],
+            "uri": "at://did:plc:fzeufprha2x3b42p4jxsbyzg/app.bsky.feed.post/3lc2kd2gdkc2g",
+            "label": [
+                0.0017623058520257473,
+                0.003454228164628148,
+                0.9942558407783508,
+                9.833444346440956e-05,
+                6.763507553841919e-05,
+                0.00013537309132516384,
+                0.00014151491632219404,
+                8.481074473820627e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 1,
+                    "utter": "つゆくんとぼくってお休みかぶってないのかな\nかぶってたら布団ごろごろしながらうだうだおはなしできるのにね"
+                },
+                {
+                    "author": "did:plc:b66ltremt4rtitu2mqggebfy",
+                    "type": 2,
+                    "utter": "たまにかぶるときもあるよ\nそのときごろごろちゅっちゅしよ"
+                },
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 3,
+                    "utter": "ちゅっちゅはよけいだよ！！！、！\n…してくれてもいい、\nけど"
+                }
+            ],
+            "uri": "at://did:plc:fzeufprha2x3b42p4jxsbyzg/app.bsky.feed.post/3lc2ktwdvf22b",
+            "label": [
+                0.3449660837650299,
+                0.26365309953689575,
+                0.1440318375825882,
+                0.02375897951424122,
+                0.0788821280002594,
+                0.011517328210175037,
+                0.11851244419813156,
+                0.01467819418758154
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 1,
+                    "utter": "いき…しづらい…"
+                },
+                {
+                    "author": "did:plc:b66ltremt4rtitu2mqggebfy",
+                    "type": 2,
+                    "utter": "きょうもつらそう\nおはの"
+                },
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 3,
+                    "utter": "にくたいのくびきからときはなたれたいです"
+                }
+            ],
+            "uri": "at://did:plc:fzeufprha2x3b42p4jxsbyzg/app.bsky.feed.post/3lbv6ktamas24",
+            "label": [
+                0.00037020607851445675,
+                0.9944596290588379,
+                0.0014580219285562634,
+                0.00012690603034570813,
+                0.0001501862716395408,
+                0.0012355557410046458,
+                0.002143895486369729,
+                5.563891681958921e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 1,
+                    "utter": "にくたいのくびきからときはなたれたいです"
+                },
+                {
+                    "author": "did:plc:b66ltremt4rtitu2mqggebfy",
+                    "type": 2,
+                    "utter": "正直わかる\nさむすぎ"
+                },
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 3,
+                    "utter": "ぼくのとこはきょうあったかい、いつもより\nつゆくんもこもこきてる？防寒大事ね"
+                }
+            ],
+            "uri": "at://did:plc:fzeufprha2x3b42p4jxsbyzg/app.bsky.feed.post/3lbv6pealqk24",
+            "label": [
+                0.9995111227035522,
+                5.121865979162976e-05,
+                0.00020813883747905493,
+                6.06545181653928e-05,
+                2.0224391846568324e-05,
+                4.863012145506218e-05,
+                4.7405759687535465e-05,
+                5.2487004722934216e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 1,
+                    "utter": "ぼくのとこはきょうあったかい、いつもより\nつゆくんもこもこきてる？防寒大事ね"
+                },
+                {
+                    "author": "did:plc:b66ltremt4rtitu2mqggebfy",
+                    "type": 2,
+                    "utter": "ありがと、もこもこじゃないけどあったかくしてる\nタダノくんとこあったかいならよかったよ"
+                },
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 3,
+                    "utter": "もこもこじゃないのか(´・_・`)σ…ﾂﾝ"
+                }
+            ],
+            "uri": "at://did:plc:fzeufprha2x3b42p4jxsbyzg/app.bsky.feed.post/3lbv7f5hrqs24",
+            "label": [
+                0.0004395496507640928,
+                0.9986950755119324,
+                0.00018317224748898298,
+                0.000176213652594015,
+                6.824069714639336e-05,
+                9.734003833727911e-05,
+                0.00031262944685295224,
+                2.7666716050589457e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 1,
+                    "utter": "もこもこじゃないのか(´・_・`)σ…ﾂﾝ"
+                },
+                {
+                    "author": "did:plc:b66ltremt4rtitu2mqggebfy",
+                    "type": 2,
+                    "utter": "もこもこじゃないけどぎゅってするのはいつでも受け付けてるよ\nさむいし"
+                },
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 3,
+                    "utter": "ふーん…へー…それで…？"
+                }
+            ],
+            "uri": "at://did:plc:fzeufprha2x3b42p4jxsbyzg/app.bsky.feed.post/3lbvc5j3ww22c",
+            "label": [
+                0.0012616664171218872,
+                0.0006071803509257734,
+                0.0008755332673899829,
+                0.99654620885849,
+                0.00012447279004845768,
+                0.00020050216699019074,
+                0.000268758914899081,
+                0.00011566929606487975
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 1,
+                    "utter": "ふーん…へー…それで…？"
+                },
+                {
+                    "author": "did:plc:b66ltremt4rtitu2mqggebfy",
+                    "type": 2,
+                    "utter": "なにその反応\n人類ずっとしてほしそうにまってるよ"
+                },
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 3,
+                    "utter": "受け付けてるって言うのがしてほしいとは限らないから\nどうしたいか聞きたかったの"
+                }
+            ],
+            "uri": "at://did:plc:fzeufprha2x3b42p4jxsbyzg/app.bsky.feed.post/3lbvgfywpxc2z",
+            "label": [
+                0.28784382343292236,
+                0.00760558620095253,
+                0.4525698125362396,
+                0.023654485121369362,
+                0.10963147133588791,
+                0.004647370893508196,
+                0.08347847312688828,
+                0.030569009482860565
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 1,
+                    "utter": "教えてくれてありがとう　なんでだろう"
+                },
+                {
+                    "author": "did:plc:b66ltremt4rtitu2mqggebfy",
+                    "type": 2,
+                    "utter": "わかんにゃい\nこえきけるかとおもた"
+                },
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 3,
+                    "utter": "おやすみ、きづけてよかった"
+                }
+            ],
+            "uri": "at://did:plc:fzeufprha2x3b42p4jxsbyzg/app.bsky.feed.post/3lbf7lo2lfc27",
+            "label": [
+                0.9995980858802795,
+                6.708154978696257e-05,
+                0.00011038433876819909,
+                4.956369593855925e-05,
+                2.4217626560130157e-05,
+                4.6562203351641074e-05,
+                5.215405690250918e-05,
+                5.2024748583789915e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 1,
+                    "utter": "おやすみ、きづけてよかった"
+                },
+                {
+                    "author": "did:plc:b66ltremt4rtitu2mqggebfy",
+                    "type": 2,
+                    "utter": "おはのおただのくん\nにゃー"
+                },
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 3,
+                    "utter": "おは…またごはんたべそびれのﾎﾞｸﾀﾞﾖ\nいまごろ旅館ごはんかなあ"
+                }
+            ],
+            "uri": "at://did:plc:fzeufprha2x3b42p4jxsbyzg/app.bsky.feed.post/3lbg4aekwhc23",
+            "label": [
+                0.00025972703588195145,
+                0.9990639090538025,
+                0.0001869135012384504,
+                0.00011590713256737217,
+                5.800772851216607e-05,
+                0.0001287086633965373,
+                0.00015937627176754177,
+                2.75225356745068e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 1,
+                    "utter": "おは…またごはんたべそびれのﾎﾞｸﾀﾞﾖ\nいまごろ旅館ごはんかなあ"
+                },
+                {
+                    "author": "did:plc:b66ltremt4rtitu2mqggebfy",
+                    "type": 2,
+                    "utter": "ただのくんごはんたべてにゃ…\nおきて温泉いって朝ごはんたべて支度してホテルでた！いまいどうちゅう"
+                },
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 3,
+                    "utter": "はや、ぼくあさはゆっくり組んじゃうからなあ…"
+                }
+            ],
+            "uri": "at://did:plc:fzeufprha2x3b42p4jxsbyzg/app.bsky.feed.post/3lbg634fwg223",
+            "label": [
+                0.44065970182418823,
+                0.3281356692314148,
+                0.018793057650327682,
+                0.10373865813016891,
+                0.0007981538074091077,
+                0.09757956117391586,
+                0.00723398569971323,
+                0.0030611262191087008
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 1,
+                    "utter": "はや、ぼくあさはゆっくり組んじゃうからなあ…"
+                },
+                {
+                    "author": "did:plc:b66ltremt4rtitu2mqggebfy",
+                    "type": 2,
+                    "utter": "人類もゆったりできそうなときはそうしてるー\n今日もしんどそう…よしよし…"
+                },
+                {
+                    "author": "did:plc:fzeufprha2x3b42p4jxsbyzg",
+                    "type": 3,
+                    "utter": "おしゃしんみせてね…"
+                }
+            ],
+            "uri": "at://did:plc:fzeufprha2x3b42p4jxsbyzg/app.bsky.feed.post/3lbgfivrfss2q",
+            "label": [
+                0.016336003318428993,
+                0.002453438937664032,
+                0.9802887439727783,
+                0.00023938878439366817,
+                0.00010225480218650773,
+                0.0002462279226165265,
+                0.00016643844719510525,
+                0.00016757339471951127
+            ]
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 1,
+                    "utter": "何がつらいかお姉さんに言うてみ"
+                },
+                {
+                    "author": "did:plc:vyaiu4wpuik3h3pyd554f3bl",
+                    "type": 2,
+                    "utter": "うち親が離婚してるんですけど、そこに関しては何とも思ってないというかむしろ父親嫌いだったのでナイスって感じだったんですが、世間からの印象がちゃんと悪くて………"
+                },
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 3,
+                    "utter": "えーーーーーー！！！！！時代錯誤！！！！！！！どういう場でそういう雰囲気になったのかわからんけどあまりにも世間を知らなさすぎる、、、"
+                }
+            ],
+            "uri": "at://did:plc:je7lgbw5mjnk2pyhexjkqqyf/app.bsky.feed.post/3lbvq4onfjk2d",
+            "label": [
+                0.0007637851522304118,
+                0.004551616031676531,
+                0.0003139896143693477,
+                0.9865171909332275,
+                0.0017028630245476961,
+                0.001019011135213077,
+                0.004932385869324207,
+                0.00019925626111216843
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 1,
+                    "utter": "えーーーーーー！！！！！時代錯誤！！！！！！！どういう場でそういう雰囲気になったのかわからんけどあまりにも世間を知らなさすぎる、、、"
+                },
+                {
+                    "author": "did:plc:vyaiu4wpuik3h3pyd554f3bl",
+                    "type": 2,
+                    "utter": "流れてきたのをあーしが勝手に見ただけなので別に誰も悪くないのですが…………"
+                },
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 3,
+                    "utter": "Twitterのやつ？それはそこしかマウント取れないんだよ....................."
+                }
+            ],
+            "uri": "at://did:plc:je7lgbw5mjnk2pyhexjkqqyf/app.bsky.feed.post/3lbvrgapmqc2d",
+            "label": [
+                0.006366899237036705,
+                0.9640853404998779,
+                0.0006571916746906936,
+                0.0026217715349048376,
+                0.001567963743582368,
+                0.0073694586753845215,
+                0.017051702365279198,
+                0.00027967829373665154
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 1,
+                    "utter": "Twitterのやつ？それはそこしかマウント取れないんだよ....................."
+                },
+                {
+                    "author": "did:plc:vyaiu4wpuik3h3pyd554f3bl",
+                    "type": 2,
+                    "utter": "そうなのですが………………"
+                },
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 3,
+                    "utter": "しんどい時は課題の分離をしよ\nお造りさんが悩んでるのは第三者の問題で干渉できない部分でしょ いくら考えてもしんどいだけで答えはでないよ\nそれより自分より外側の問題をどうやったら割り切れるか考えよ"
+                }
+            ],
+            "uri": "at://did:plc:je7lgbw5mjnk2pyhexjkqqyf/app.bsky.feed.post/3lbvx72mycc27",
+            "label": [
+                0.00019789849466178566,
+                0.00110988924279809,
+                0.9974706172943115,
+                0.00012485074694268405,
+                0.00027137185679748654,
+                0.00018486972840037197,
+                0.0004972594324499369,
+                0.00014320736227091402
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 1,
+                    "utter": "しんどい時は課題の分離をしよ\nお造りさんが悩んでるのは第三者の問題で干渉できない部分でしょ いくら考えてもしんどいだけで答えはでないよ\nそれより自分より外側の問題をどうやったら割り切れるか考えよ"
+                },
+                {
+                    "author": "did:plc:vyaiu4wpuik3h3pyd554f3bl",
+                    "type": 2,
+                    "utter": "割り切ってきたはずだったのですが……なぜか刺さってしまって…"
+                },
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 3,
+                    "utter": "実は考えてなかっただけでお造りさんにとって引け目を感じる部分だったのかもしれん\n理想が仲睦まじい幸せな家族なのかも"
+                }
+            ],
+            "uri": "at://did:plc:je7lgbw5mjnk2pyhexjkqqyf/app.bsky.feed.post/3lbvzb2hhzc24",
+            "label": [
+                0.14283215999603271,
+                0.10075268149375916,
+                0.39135533571243286,
+                0.09620456397533417,
+                0.001384150586090982,
+                0.25666505098342896,
+                0.004155769478529692,
+                0.0066502392292022705
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 1,
+                    "utter": "やーい5時起き"
+                },
+                {
+                    "author": "did:plc:vyaiu4wpuik3h3pyd554f3bl",
+                    "type": 2,
+                    "utter": "朝だよ！！！！！海野さんも起きてカンカンカンカンカン！！！！！！！"
+                },
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 3,
+                    "utter": "ねむいさむい"
+                }
+            ],
+            "uri": "at://did:plc:je7lgbw5mjnk2pyhexjkqqyf/app.bsky.feed.post/3lcbnylpnic2p",
+            "label": [
+                0.0033312218729406595,
+                0.03479733318090439,
+                0.0019666743464767933,
+                0.0021965440828353167,
+                0.001975932391360402,
+                0.004255152773112059,
+                0.9509821534156799,
+                0.00049499177839607
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 1,
+                    "utter": "ねむいさむい"
+                },
+                {
+                    "author": "did:plc:vyaiu4wpuik3h3pyd554f3bl",
+                    "type": 2,
+                    "utter": "カンカンカンカンカン！！！！！！"
+                },
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 3,
+                    "utter": "寒い早く寝よ"
+                }
+            ],
+            "uri": "at://did:plc:je7lgbw5mjnk2pyhexjkqqyf/app.bsky.feed.post/3lcbo3lnbys2p",
+            "label": [
+                0.007888251915574074,
+                0.3298812508583069,
+                0.6291312575340271,
+                0.0004513135354500264,
+                0.000693181820679456,
+                0.0047760759480297565,
+                0.026574693620204926,
+                0.0006039319559931755
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 1,
+                    "utter": "寒い早く寝よ"
+                },
+                {
+                    "author": "did:plc:vyaiu4wpuik3h3pyd554f3bl",
+                    "type": 2,
+                    "utter": "寝たいよ！！！！！！！！"
+                },
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 3,
+                    "utter": "早く布団おいで〜"
+                }
+            ],
+            "uri": "at://did:plc:je7lgbw5mjnk2pyhexjkqqyf/app.bsky.feed.post/3lcbo7yke222p",
+            "label": [
+                0.013393593952059746,
+                0.03340330719947815,
+                0.9453882575035095,
+                0.0010942750377580523,
+                0.0013174813939258456,
+                0.0008504222496412694,
+                0.004050113260746002,
+                0.0005025874706916511
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 1,
+                    "utter": "早く布団おいで〜"
+                },
+                {
+                    "author": "did:plc:vyaiu4wpuik3h3pyd554f3bl",
+                    "type": 2,
+                    "utter": "ばふ"
+                },
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 3,
+                    "utter": "ほんとばぶなのに5時起きかわいそう、、"
+                }
+            ],
+            "uri": "at://did:plc:je7lgbw5mjnk2pyhexjkqqyf/app.bsky.feed.post/3lcbprmgffc24",
+            "label": [
+                0.0012007011100649834,
+                0.9943550825119019,
+                0.00018903745512943715,
+                0.0003848075866699219,
+                0.00010018861939897761,
+                0.0031632918398827314,
+                0.0005464474088512361,
+                6.050354932085611e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 1,
+                    "utter": "誰かの性癖に刺さりそうなことしてるね"
+                },
+                {
+                    "author": "did:plc:vyaiu4wpuik3h3pyd554f3bl",
+                    "type": 2,
+                    "utter": "歯医者で働いてんだよなぁ…"
+                },
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 3,
+                    "utter": "それ以外で口の中見せることないでしょ説明されるとじわる"
+                }
+            ],
+            "uri": "at://did:plc:je7lgbw5mjnk2pyhexjkqqyf/app.bsky.feed.post/3lc5pvsacec2v",
+            "label": [
+                0.992831826210022,
+                0.0009606433450244367,
+                0.0016814108239486814,
+                0.0020670853555202484,
+                0.000133679379359819,
+                0.0015305099077522755,
+                0.0005024962010793388,
+                0.00029236156842671335
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 1,
+                    "utter": "それ以外で口の中見せることないでしょ説明されるとじわる"
+                },
+                {
+                    "author": "did:plc:vyaiu4wpuik3h3pyd554f3bl",
+                    "type": 2,
+                    "utter": "ナメてました"
+                },
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 3,
+                    "utter": "からかっといてなんやけどまじでやだわ見られるの"
+                }
+            ],
+            "uri": "at://did:plc:je7lgbw5mjnk2pyhexjkqqyf/app.bsky.feed.post/3lc5pztfquk2v",
+            "label": [
+                0.005148812662810087,
+                0.08895742148160934,
+                0.0015913614770397544,
+                0.0023912210017442703,
+                0.0030537510756403208,
+                0.810572624206543,
+                0.08755194395780563,
+                0.0007328683277592063
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 1,
+                    "utter": "からかっといてなんやけどまじでやだわ見られるの"
+                },
+                {
+                    "author": "did:plc:vyaiu4wpuik3h3pyd554f3bl",
+                    "type": 2,
+                    "utter": "申し訳ない気持ちになるね"
+                },
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 3,
+                    "utter": "そうなん？それは変態っぽくない？"
+                }
+            ],
+            "uri": "at://did:plc:je7lgbw5mjnk2pyhexjkqqyf/app.bsky.feed.post/3lc5q7ceuqk2v",
+            "label": [
+                0.0012288570869714022,
+                0.0004732309898827225,
+                0.0009624500526115298,
+                0.9936409592628479,
+                0.00014884625852573663,
+                0.002722054021432996,
+                0.000691976398229599,
+                0.00013161645620130002
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 1,
+                    "utter": "そうなん？それは変態っぽくない？"
+                },
+                {
+                    "author": "did:plc:vyaiu4wpuik3h3pyd554f3bl",
+                    "type": 2,
+                    "utter": "あーしが悪いんですか！？"
+                },
+                {
+                    "author": "did:plc:je7lgbw5mjnk2pyhexjkqqyf",
+                    "type": 3,
+                    "utter": "私は人の性癖にとやかく言わないから安心してよ"
+                }
+            ],
+            "uri": "at://did:plc:je7lgbw5mjnk2pyhexjkqqyf/app.bsky.feed.post/3lc5qezgbbc2v",
+            "label": [
+                0.9835289716720581,
+                0.0003465782501734793,
+                0.006934788543730974,
+                0.00018819919205270708,
+                0.0007746230694465339,
+                0.002761106938123703,
+                0.002690829336643219,
+                0.0027748744469136
+            ]
+        }
+    ]
+}

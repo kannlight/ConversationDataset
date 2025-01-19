@@ -1,0 +1,634 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "おはやうございます☀️"
+                },
+                {
+                    "author": "did:plc:5xfmx7o4oeds22wyy6mdqkfc",
+                    "type": 2,
+                    "utter": "おはやうしださん☀\n返信まで僅か1,800,000㍉秒(ΦωΦ)"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "おはやう、こむたんさん(ΦωΦ)☀️\n今日もいい天気ぃ〜〜〜〜〜♪"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbxnapl7n224",
+            "label": [
+                0.999570906162262,
+                5.177418279345147e-05,
+                0.00015871041978243738,
+                5.856475399923511e-05,
+                2.9103181077516638e-05,
+                3.968040618929081e-05,
+                5.124409653944895e-05,
+                4.005623850389384e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "おはやう、こむたんさん(ΦωΦ)☀️\n今日もいい天気ぃ〜〜〜〜〜♪"
+                },
+                {
+                    "author": "did:plc:5xfmx7o4oeds22wyy6mdqkfc",
+                    "type": 2,
+                    "utter": "財布を忘れて愉快なうしださんにならないようにねー(ΦωΦ)"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "今日はテレワークぅ〜〜〜〜♪"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbxnt5xjds24",
+            "label": [
+                0.9994483590126038,
+                7.277051190612838e-05,
+                0.00025160558288916945,
+                6.963871419429779e-05,
+                2.6103885829797946e-05,
+                3.9859362004790455e-05,
+                5.2642517403000966e-05,
+                3.90379354939796e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "おうち帰るのめんどくさい…"
+                },
+                {
+                    "author": "did:plc:rlw7rgyj6otevoekiser3i3e",
+                    "type": 2,
+                    "utter": "え、うち...汚いけど良い？"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "キンミヤ買ってく‼️"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbwjnyd3qc2e",
+            "label": [
+                0.009716186672449112,
+                0.0004154457419645041,
+                0.9891559481620789,
+                0.0002293755824211985,
+                0.00011487174197100103,
+                0.00014226045459508896,
+                0.00010760362056316808,
+                0.00011830315634142607
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "キンミヤ買ってく‼️"
+                },
+                {
+                    "author": "did:plc:rlw7rgyj6otevoekiser3i3e",
+                    "type": 2,
+                    "utter": "もう飲んだ🫶\nベッド温めておく"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "お風呂も〜🤣"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbwjr6fadk2e",
+            "label": [
+                0.9984051585197449,
+                0.0002513348008506,
+                0.0008550017955712974,
+                0.0001228667242685333,
+                4.299700594856404e-05,
+                7.85518714110367e-05,
+                0.00016067412798292935,
+                8.348631672561169e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "お風呂も〜🤣"
+                },
+                {
+                    "author": "did:plc:rlw7rgyj6otevoekiser3i3e",
+                    "type": 2,
+                    "utter": "任せろ、バブ入れておくわ"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "夜泣きするけど、いい？"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbwjwt4onk2e",
+            "label": [
+                0.047364573925733566,
+                0.10311829298734665,
+                0.006702770944684744,
+                0.006364744622260332,
+                0.0016253952635452151,
+                0.8215939998626709,
+                0.01093481108546257,
+                0.0022954484447836876
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "3回回って\nワンっ🐕"
+                },
+                {
+                    "author": "did:plc:vnhvv2x42zkztc6f6zh5qhrs",
+                    "type": 2,
+                    "utter": "ワンって言った瞬間にｹﾞｯﾌﾟ出そう…"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "ワンッ げふっ\nオロロロロロロぉ〜"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbu64kgxxk22",
+            "label": [
+                0.9992747902870178,
+                0.00016819883603602648,
+                0.0001863136130850762,
+                0.00013057906471658498,
+                3.176562313456088e-05,
+                6.273460166994482e-05,
+                0.00010262892465107143,
+                4.2963598389178514e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "ワンッ げふっ\nオロロロロロロぉ〜"
+                },
+                {
+                    "author": "did:plc:vnhvv2x42zkztc6f6zh5qhrs",
+                    "type": 2,
+                    "utter": "☺️\n\nそう言えば\nうしださん\nあまりオロロ〜しなさそう…"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "実はお酒、あんまりつおくないのよ…"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbu6uwyde222",
+            "label": [
+                0.00036413726047612727,
+                0.9967713952064514,
+                0.00018113480473402888,
+                0.0002508087200112641,
+                8.447661821264774e-05,
+                0.0013328514760360122,
+                0.0009776547085493803,
+                3.748959716176614e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "実はお酒、あんまりつおくないのよ…"
+                },
+                {
+                    "author": "did:plc:6fylb4fmfutyas3ekqr57ycj",
+                    "type": 2,
+                    "utter": "いっしょ(ΦωΦ)ﾌﾌﾌ"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "でも好き☺️\n (ΦωΦ)ﾌﾌﾌ"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbu6yny6w222",
+            "label": [
+                0.9996378421783447,
+                4.278103369870223e-05,
+                0.00010119999933522195,
+                4.894734956906177e-05,
+                2.8101181669626385e-05,
+                4.276068284525536e-05,
+                5.2905983466189355e-05,
+                4.545452611637302e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "もう明日、スーツじゃなくていいような気がしてきた。"
+                },
+                {
+                    "author": "did:plc:dl44pcbyijg24zhxlfymczty",
+                    "type": 2,
+                    "utter": "全裸でいいと思うけど、寒さがね。\nちょっと心配かな。\nそこら辺は気温と相談して！"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "お客さんとこ行くんだけど…\n全裸でいいの？\nねえ、全裸でいいの💕"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lboverstmk2a",
+            "label": [
+                0.46664929389953613,
+                0.013054621405899525,
+                0.17868554592132568,
+                0.3126506209373474,
+                0.0015190478879958391,
+                0.019600415602326393,
+                0.0035110015887767076,
+                0.004329494666308165
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "お客さんとこ行くんだけど…\n全裸でいいの？\nねえ、全裸でいいの💕"
+                },
+                {
+                    "author": "did:plc:5xfmx7o4oeds22wyy6mdqkfc",
+                    "type": 2,
+                    "utter": "全裸スーツを蒸着せよ！うしだー(ΦωΦ)"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "電装 電装 全裸スーツ\n代打が代打が代打が代打が"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbovqtxpk22q",
+            "label": [
+                0.547380805015564,
+                0.05667625740170479,
+                0.03906002640724182,
+                0.24823428690433502,
+                0.004902038257569075,
+                0.05835264176130295,
+                0.03235834091901779,
+                0.013035579584538937
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "電装 電装 全裸スーツ\n代打が代打が代打が代打が"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 2,
+                    "utter": "全裸スーツを蒸発せよ！うしだー(ΦωΦ)"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "いざとなると、あんま自信ないwww"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbow2glqvc2q",
+            "label": [
+                0.0072706593200564384,
+                0.0023966419976204634,
+                0.007693666499108076,
+                0.013412215746939182,
+                0.00030197942396625876,
+                0.9680483937263489,
+                0.00047476644976995885,
+                0.0004017002647742629
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "明日からこたつごと出勤したい。"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 2,
+                    "utter": "こたつの中からリモートワークだ"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "こたつに「サイバリアン」って名前つければいい。"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbolcsqc422a",
+            "label": [
+                0.0010722731240093708,
+                0.00022733448713552207,
+                0.9982806444168091,
+                0.00011918901145691052,
+                6.519543239846826e-05,
+                7.776670099701732e-05,
+                9.218859486281872e-05,
+                6.544723873957992e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "こたつに「サイバリアン」って名前つければいい。"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 2,
+                    "utter": "こたつにハイツクバリアン"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "こたつに蒸着！"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbollqxrmk2a",
+            "label": [
+                0.021417543292045593,
+                0.004097941797226667,
+                0.0029624048620462418,
+                0.9682249426841736,
+                0.0001907203404698521,
+                0.0020669877994805574,
+                0.0007056851754896343,
+                0.00033379538217559457
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "こたつに蒸着！"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 2,
+                    "utter": "若さってなんだ！？"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "ずるむけないことさ"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbom3ba2ks2a",
+            "label": [
+                0.0005639747832901776,
+                0.0014178453711792827,
+                0.9968076944351196,
+                0.00011556201934581622,
+                0.00013414330896921456,
+                0.0004959921934641898,
+                0.0002988351334352046,
+                0.00016599625814706087
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "ずるむけないことさ"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 2,
+                    "utter": "あばよ包茎"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "直球やな⚾️"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbom7cnunk2a",
+            "label": [
+                0.06917207688093185,
+                0.0018137433798983693,
+                0.05027101933956146,
+                0.8647347092628479,
+                0.004064070992171764,
+                0.0010864392388612032,
+                0.0034147349651902914,
+                0.005443233530968428
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "直球やな⚾️"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 2,
+                    "utter": "ずるむけに言われたくない…"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "たし🦀🦀🦀"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbombmhrpc2a",
+            "label": [
+                0.9981483221054077,
+                0.0003154818550683558,
+                0.001119726919569075,
+                0.0001087906930479221,
+                4.543442992144264e-05,
+                6.392858631443232e-05,
+                0.00012079206499038264,
+                7.752257079118863e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "おはやうございます☁️"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 2,
+                    "utter": "うしだ散る！！\nおはビーフ！！"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "おはやう、クリステル☁️\nジビエになってるwww"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbnlkpexh22z",
+            "label": [
+                0.9980292916297913,
+                8.397157944273204e-05,
+                0.00026979984249919653,
+                0.001365859992802143,
+                4.579051528708078e-05,
+                5.850209345226176e-05,
+                6.924151966813952e-05,
+                7.74903382989578e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "おはやう、クリステル☁️\nジビエになってるwww"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 2,
+                    "utter": "もとからジビエやで"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "冷凍ジビエから調理後のジビエへ"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbnlphxfq22z",
+            "label": [
+                0.7477576732635498,
+                0.002619893057271838,
+                0.2427467256784439,
+                0.0031353009399026632,
+                0.0003894830879289657,
+                0.0008612540550529957,
+                0.0010868852259591222,
+                0.001402861438691616
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "冷凍ジビエから調理後のジビエへ"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 2,
+                    "utter": "いや調理中やで、食えるもんなら食ってみな！！"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "調理中か‼️www"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbnltsen3c2z",
+            "label": [
+                0.6676787734031677,
+                0.0016323152231052518,
+                0.005384922958910465,
+                0.3220738470554352,
+                0.0006523997872136533,
+                0.0007759691798128188,
+                0.0009345240541733801,
+                0.0008671252871863544
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "調理中か‼️www"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 2,
+                    "utter": "それこそ、あなたが食ったら牛タンになるだろwww"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "ジュッ\nってなるわね🤣"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbnlwslpe22z",
+            "label": [
+                0.4790734648704529,
+                0.10383376479148865,
+                0.008245752193033695,
+                0.19402799010276794,
+                0.003984339069575071,
+                0.14631330966949463,
+                0.060120340436697006,
+                0.004401002544909716
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 1,
+                    "utter": "ジュッ\nってなるわね🤣"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 2,
+                    "utter": "ジュッで済むといいけどなぁ🤣"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 3,
+                    "utter": "本体まで延焼しそう💦"
+                }
+            ],
+            "uri": "at://did:plc:teli4osisvwxhzdxs6h6txey/app.bsky.feed.post/3lbnlzwwkgc2z",
+            "label": [
+                0.000719431962352246,
+                0.0020839700009673834,
+                0.0004990583984181285,
+                0.0028261400293558836,
+                0.000751189305447042,
+                0.9922856092453003,
+                0.0006333694909699261,
+                0.00020114901417400688
+            ]
+        }
+    ]
+}

@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 1,
+                    "utter": "あばば……\nと、鳥肌が……\nふつくしい……"
+                },
+                {
+                    "author": "did:plc:2fvh5dpwqayr53c7ahbhfbd6",
+                    "type": 2,
+                    "utter": "あざます！🙏✨✨✨\n鳥肌ってｗｗｗ"
+                },
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 3,
+                    "utter": "いやマジで！\n見てくださいコレ（見えないか）\nそれくらい素敵だという表現なのです！（迫真）"
+                }
+            ],
+            "uri": "at://did:plc:jx5qmlmee6vguug6ubap5ugs/app.bsky.feed.post/3lbz5iqhdzc2t",
+            "label": [
+                0.9972746968269348,
+                0.0002224014315288514,
+                0.0016097299521788955,
+                0.0002811948652379215,
+                0.00010340230801375583,
+                9.889297507470474e-05,
+                0.00012064135080436245,
+                0.00028901328914798796
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 1,
+                    "utter": "いやマジで！\n見てくださいコレ（見えないか）\nそれくらい素敵だという表現なのです！（迫真）"
+                },
+                {
+                    "author": "did:plc:2fvh5dpwqayr53c7ahbhfbd6",
+                    "type": 2,
+                    "utter": "なんか鳥肌立ってるの寒いからかもしれないけどありがとう！！\n嬉しいよ！！😆\n\n1人ヴィアベル祭り開催するから良かったら参加してｗ\n1人とか言ってるのに誘ってるの草はえるけどｗ\n#ヴィアベル祭2024 ていうタグがあるんすよｗｗ"
+                },
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 3,
+                    "utter": "寒いからではないwww\nネロがルーベンスの絵をみたときのような鳥肌です（マジで）\n「ほわあっ！？」ってやつですね😆\n\nおおう！？\nそんな飯ウマタグが！\n\n過去絵でも大丈夫でしょうか？？？\nそれをゆうたらわたしなど毎日ひとり音楽祭ですよ～😇"
+                }
+            ],
+            "uri": "at://did:plc:jx5qmlmee6vguug6ubap5ugs/app.bsky.feed.post/3lbz7p3ykac2d",
+            "label": [
+                0.009000859223306179,
+                0.0025880371686071157,
+                0.0018215400632470846,
+                0.9833893179893494,
+                0.00023049856827128679,
+                0.0023120949044823647,
+                0.00039097911212593317,
+                0.0002665952197276056
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 1,
+                    "utter": "寒いからではないwww\nネロがルーベンスの絵をみたときのような鳥肌です（マジで）\n「ほわあっ！？」ってやつですね😆\n\nおおう！？\nそんな飯ウマタグが！\n\n過去絵でも大丈夫でしょうか？？？\nそれをゆうたらわたしなど毎日ひとり音楽祭ですよ～😇"
+                },
+                {
+                    "author": "did:plc:2fvh5dpwqayr53c7ahbhfbd6",
+                    "type": 2,
+                    "utter": "うん、いいよ～ｗ　祭しようぜわっしょいｗ"
+                },
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 3,
+                    "utter": "おうおうおう！\nさっそく投稿させてください！😳\n世界中のギルティを集めるんんじゃ・・・！"
+                }
+            ],
+            "uri": "at://did:plc:jx5qmlmee6vguug6ubap5ugs/app.bsky.feed.post/3lbzccrfdhk2h",
+            "label": [
+                0.0014479549136012793,
+                0.0002490896440576762,
+                0.9978739023208618,
+                0.00011434003681642935,
+                7.835980068193749e-05,
+                9.569616668159142e-05,
+                7.387615914922208e-05,
+                6.676701013930142e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 1,
+                    "utter": "おうおうおう！\nさっそく投稿させてください！😳\n世界中のギルティを集めるんんじゃ・・・！"
+                },
+                {
+                    "author": "did:plc:2fvh5dpwqayr53c7ahbhfbd6",
+                    "type": 2,
+                    "utter": "元気玉みたいになってきたぞｗ"
+                },
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 3,
+                    "utter": "ギルティ玉？w"
+                }
+            ],
+            "uri": "at://did:plc:jx5qmlmee6vguug6ubap5ugs/app.bsky.feed.post/3lbzdxyv4g22g",
+            "label": [
+                0.35301128029823303,
+                0.0032659932039678097,
+                0.15129265189170837,
+                0.48373737931251526,
+                0.0011884411796927452,
+                0.0018559045856818557,
+                0.0028860396705567837,
+                0.0027622387278825045
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 1,
+                    "utter": "月曜にまどろむヴィの図です？😅\nRPありがとうございます！\n人気らしいですねハイエー〇🤔\nハイエー〇を駆るヴィ……み、見たい……💦"
+                },
+                {
+                    "author": "did:plc:2fvh5dpwqayr53c7ahbhfbd6",
+                    "type": 2,
+                    "utter": "ダイハ〇の軽自動車に謎のLEDつけてピカピカさせながら走るヴィがみたいｗ"
+                },
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 3,
+                    "utter": "www\nヴィならデコトラとかも似合うかもですね😅\nねじり鉢巻きにステテコで搭乗とか💦\nドリフトとかうまそうw"
+                }
+            ],
+            "uri": "at://did:plc:jx5qmlmee6vguug6ubap5ugs/app.bsky.feed.post/3lbrru7uvok2b",
+            "label": [
+                0.002459115581586957,
+                0.0002130980574293062,
+                0.9968084692955017,
+                0.00018972522229887545,
+                6.326843140413985e-05,
+                0.00012677341874223202,
+                6.549672252731398e-05,
+                7.407311932183802e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 1,
+                    "utter": "www\nヴィならデコトラとかも似合うかもですね😅\nねじり鉢巻きにステテコで搭乗とか💦\nドリフトとかうまそうw"
+                },
+                {
+                    "author": "did:plc:2fvh5dpwqayr53c7ahbhfbd6",
+                    "type": 2,
+                    "utter": "ちょｗ\nねじり鉢巻きにステテコでデコトラドリフトさせんのツッコミどころ多すぎなんだけどｗｗｗ\n\nねじり鉢巻きはよしとしてステテコはやめてｗｗｗ\n寅壱のニッカポッカにして！！！ｗｗｗ"
+                },
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 3,
+                    "utter": "ニッカポッカwww\nもはやなんでも似合う気がしますwww\n逆にスーパーカ〇とか😅\n街や城内の移動用にw"
+                }
+            ],
+            "uri": "at://did:plc:jx5qmlmee6vguug6ubap5ugs/app.bsky.feed.post/3lbrsbby7es2h",
+            "label": [
+                0.996036946773529,
+                0.0001287057384615764,
+                0.0032105259597301483,
+                0.00020308495732024312,
+                5.3694602684117854e-05,
+                0.00014445306442212313,
+                9.753596532391384e-05,
+                0.00012517751019913703
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 1,
+                    "utter": "ニッカポッカwww\nもはやなんでも似合う気がしますwww\n逆にスーパーカ〇とか😅\n街や城内の移動用にw"
+                },
+                {
+                    "author": "did:plc:2fvh5dpwqayr53c7ahbhfbd6",
+                    "type": 2,
+                    "utter": "もうキッザニア行って色々コスプレしてほしい💕💕💕\n\nん？\n城内・・・？\n姫路城とかをスーパーカーで走っちゃうの？\nすごいおまわりさんきちゃうよ・・・？"
+                },
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 3,
+                    "utter": "キッザニアwww\nコスプレは楽しくやってしまいそうですよね😅\n\nカブは小回りが利くので大丈夫です？\n天守閣まで魔法でジャンプしましょう😇\n\n遊園地にあるパンダカーとか🤔\n「俺のタンデム」と言ってみたり😎"
+                }
+            ],
+            "uri": "at://did:plc:jx5qmlmee6vguug6ubap5ugs/app.bsky.feed.post/3lbrsoudzd22a",
+            "label": [
+                0.10620979219675064,
+                0.0008282525232061744,
+                0.891252338886261,
+                0.00047355768037959933,
+                0.00020226265769451857,
+                0.0005117511609569192,
+                0.00022673288185615093,
+                0.0002952743961941451
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 1,
+                    "utter": "描きますか、んごご・・・"
+                },
+                {
+                    "author": "did:plc:2fvh5dpwqayr53c7ahbhfbd6",
+                    "type": 2,
+                    "utter": "やった～～！！！"
+                },
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 3,
+                    "utter": "ちょうどヴィ不足でしたし😄\nカルシウムよりも大切（迫真）"
+                }
+            ],
+            "uri": "at://did:plc:jx5qmlmee6vguug6ubap5ugs/app.bsky.feed.post/3lbfbqs7boc2e",
+            "label": [
+                0.026079565286636353,
+                0.00396277429535985,
+                0.9586769342422485,
+                0.0013909087283536792,
+                0.000720206240657717,
+                0.004568556323647499,
+                0.0010083172237500548,
+                0.0035927777644246817
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 1,
+                    "utter": "ちょうどヴィ不足でしたし😄\nカルシウムよりも大切（迫真）"
+                },
+                {
+                    "author": "did:plc:2fvh5dpwqayr53c7ahbhfbd6",
+                    "type": 2,
+                    "utter": "ヴィも大事だけどカルシウムも大事だから牛乳飲みながらヴィ描いてｗｗｗ"
+                },
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 3,
+                    "utter": "うまいw\n牛乳買ってきますw\n魔法少女ミラクル☆ヴィアベルとか（消される・・・）"
+                }
+            ],
+            "uri": "at://did:plc:jx5qmlmee6vguug6ubap5ugs/app.bsky.feed.post/3lbfc752e322k",
+            "label": [
+                0.998023271560669,
+                0.00015739967057015747,
+                0.0014992093201726675,
+                7.604320853715762e-05,
+                3.939268572139554e-05,
+                5.846152998856269e-05,
+                7.156615174608305e-05,
+                7.459516200469807e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 1,
+                    "utter": "うまいw\n牛乳買ってきますw\n魔法少女ミラクル☆ヴィアベルとか（消される・・・）"
+                },
+                {
+                    "author": "did:plc:2fvh5dpwqayr53c7ahbhfbd6",
+                    "type": 2,
+                    "utter": "女装はｗｗｗ要求あったけど手が出ないシリーズだったｗｗ\n一歩間違えるとヴィ推しに刺されるからきをつけてｗ"
+                },
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 3,
+                    "utter": "なるほどw\n情報助かりますw\nここは真面目路線？で行きますか～🤔"
+                }
+            ],
+            "uri": "at://did:plc:jx5qmlmee6vguug6ubap5ugs/app.bsky.feed.post/3lbfclvdb7s2k",
+            "label": [
+                0.8852571249008179,
+                0.0005467364680953324,
+                0.11235041171312332,
+                0.0005694878054782748,
+                0.0002140197466360405,
+                0.0003266046696808189,
+                0.0002603305038064718,
+                0.00047533639008179307
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 1,
+                    "utter": "なるほどw\n情報助かりますw\nここは真面目路線？で行きますか～🤔"
+                },
+                {
+                    "author": "did:plc:2fvh5dpwqayr53c7ahbhfbd6",
+                    "type": 2,
+                    "utter": "いえい！！🤩\nてか朽木さんの好きに描いてくれちゃっていいからね！😆"
+                },
+                {
+                    "author": "did:plc:jx5qmlmee6vguug6ubap5ugs",
+                    "type": 3,
+                    "utter": "おおう！？\nありがとうございます！😆\n寝ずに描きそうです（落ち着け）"
+                }
+            ],
+            "uri": "at://did:plc:jx5qmlmee6vguug6ubap5ugs/app.bsky.feed.post/3lbfcy546uc2y",
+            "label": [
+                0.9992092251777649,
+                6.654358730884269e-05,
+                0.00040390834328718483,
+                0.00014580338029190898,
+                2.4278881028294563e-05,
+                6.28937195870094e-05,
+                3.524258499965072e-05,
+                5.205586421652697e-05
+            ]
+        }
+    ]
+}

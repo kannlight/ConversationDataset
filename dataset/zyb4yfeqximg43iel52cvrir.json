@@ -1,0 +1,454 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 1,
+                    "utter": "ちょっとわかる"
+                },
+                {
+                    "author": "did:plc:fjoqswldrvgwqql467774vlf",
+                    "type": 2,
+                    "utter": "観ろ"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 3,
+                    "utter": "ハルヒの最終話みる"
+                }
+            ],
+            "uri": "at://did:plc:zyb4yfeqximg43iel52cvrir/app.bsky.feed.post/3lbzca4wq2s2y",
+            "label": [
+                0.0071202293038368225,
+                0.0004131664172746241,
+                0.9918246865272522,
+                0.00021069178183097392,
+                8.505616278853267e-05,
+                0.00015404133591800928,
+                9.050995868165046e-05,
+                0.00010156539065064862
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 1,
+                    "utter": "ハルヒの最終話みる"
+                },
+                {
+                    "author": "did:plc:fjoqswldrvgwqql467774vlf",
+                    "type": 2,
+                    "utter": "今見れるとこあるのか…？"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 3,
+                    "utter": "アマプラでみてた"
+                }
+            ],
+            "uri": "at://did:plc:zyb4yfeqximg43iel52cvrir/app.bsky.feed.post/3lbzcod5t4c2y",
+            "label": [
+                0.9983313679695129,
+                0.00011930788605241105,
+                0.00119124969933182,
+                8.695061114849523e-05,
+                4.684098166762851e-05,
+                4.8464997234987095e-05,
+                8.620338485343382e-05,
+                8.957821410149336e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 1,
+                    "utter": "アマプラでみてた"
+                },
+                {
+                    "author": "did:plc:fjoqswldrvgwqql467774vlf",
+                    "type": 2,
+                    "utter": "今もう見れなくね？"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 3,
+                    "utter": "dアニメストア解約したからそうかも"
+                }
+            ],
+            "uri": "at://did:plc:zyb4yfeqximg43iel52cvrir/app.bsky.feed.post/3lbzcslkh3c2y",
+            "label": [
+                0.9540562033653259,
+                0.004677096381783485,
+                0.019728368148207664,
+                0.007980058901011944,
+                0.0004506564582698047,
+                0.00581692811101675,
+                0.0029243703465908766,
+                0.004366275854408741
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 1,
+                    "utter": "dアニメストア解約したからそうかも"
+                },
+                {
+                    "author": "did:plc:fjoqswldrvgwqql467774vlf",
+                    "type": 2,
+                    "utter": "観れないやんけ！"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 3,
+                    "utter": "かもしれない"
+                }
+            ],
+            "uri": "at://did:plc:zyb4yfeqximg43iel52cvrir/app.bsky.feed.post/3lbzcwue6xs2y",
+            "label": [
+                0.009927923791110516,
+                0.0006685312837362289,
+                0.9881855249404907,
+                0.00029052418540231884,
+                5.913433415116742e-05,
+                0.0006200774805620313,
+                0.0001049607089953497,
+                0.00014331331476569176
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 1,
+                    "utter": "じつはMacで DTMわからん！ってころはWindows XPのフリーのDAWでミックスしてたw"
+                },
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 2,
+                    "utter": "あぁさすがですね。自分、ソフトの画面を見ただけでパニックですもん…！"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 3,
+                    "utter": "わたしはGUIがないだけでパニックだよw"
+                }
+            ],
+            "uri": "at://did:plc:zyb4yfeqximg43iel52cvrir/app.bsky.feed.post/3lbzaznyftc2y",
+            "label": [
+                0.0028432696126401424,
+                0.386038601398468,
+                0.0009774550562724471,
+                0.06732150167226791,
+                0.0038023663219064474,
+                0.5353591442108154,
+                0.0030702361837029457,
+                0.0005873904447071254
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 1,
+                    "utter": "わたしはGUIがないだけでパニックだよw"
+                },
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 2,
+                    "utter": "まぁ分かる…w 社内ツール、GUIとか必要ないよね！って感じでリリースしてて、はぁ？？？って1人でなってましたしw"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 3,
+                    "utter": "DAWのプラグイン、同じ機材のエミュレートが100個くらい存在したりするけどGUIがぜんぶ同じだったらはたして人は音の違いで使い分けるのだろうか..."
+                }
+            ],
+            "uri": "at://did:plc:zyb4yfeqximg43iel52cvrir/app.bsky.feed.post/3lbzbai4yqc2y",
+            "label": [
+                0.05661441385746002,
+                0.005911754444241524,
+                0.05198216810822487,
+                0.050697483122348785,
+                0.0006960008759051561,
+                0.8307358622550964,
+                0.0014703035121783614,
+                0.0018919282592833042
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 1,
+                    "utter": "DAWのプラグイン、同じ機材のエミュレートが100個くらい存在したりするけどGUIがぜんぶ同じだったらはたして人は音の違いで使い分けるのだろうか..."
+                },
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 2,
+                    "utter": "絶対に無理な気がしますし、そもそも100個もあるんですね…！"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 3,
+                    "utter": "コンプレッサーという機材に関しては鉄板のやつに関しては100じゃ済まないほどエミュレートされてるかも\n\nそういうのが重複してわたしは計400個くらいプラグインはいってるんだけど、まあ8割は使わないよね..."
+                }
+            ],
+            "uri": "at://did:plc:zyb4yfeqximg43iel52cvrir/app.bsky.feed.post/3lbzbsu7zps2y",
+            "label": [
+                0.33325210213661194,
+                0.4367973804473877,
+                0.0034355446696281433,
+                0.0668700709939003,
+                0.0017039502272382379,
+                0.09831494837999344,
+                0.05488160625100136,
+                0.004744336940348148
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 1,
+                    "utter": "コンプレッサーという機材に関しては鉄板のやつに関しては100じゃ済まないほどエミュレートされてるかも\n\nそういうのが重複してわたしは計400個くらいプラグインはいってるんだけど、まあ8割は使わないよね..."
+                },
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 2,
+                    "utter": "やっぱすごい世界ですね…！\nしかもこれを覚えることが目的じゃないからなぁ…"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 3,
+                    "utter": "でもプログラミングでもそういうのあるでしょ？"
+                }
+            ],
+            "uri": "at://did:plc:zyb4yfeqximg43iel52cvrir/app.bsky.feed.post/3lbzcmfmqek2y",
+            "label": [
+                0.3135461211204529,
+                0.005586186423897743,
+                0.6046179533004761,
+                0.03115137107670307,
+                0.007321338634938002,
+                0.003089130623266101,
+                0.02245992422103882,
+                0.012227999046444893
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 1,
+                    "utter": "なんかウトイが最初よりピュアじゃなくなってるきがする"
+                },
+                {
+                    "author": "did:plc:z3hrex4yivw737nzbrdgnlwb",
+                    "type": 2,
+                    "utter": "知らない間に汚れてしまったのですね……"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 3,
+                    "utter": "インターネットこわ"
+                }
+            ],
+            "uri": "at://did:plc:zyb4yfeqximg43iel52cvrir/app.bsky.feed.post/3lbza6ytkus2y",
+            "label": [
+                0.000600055733229965,
+                0.0011257424484938383,
+                0.0006646090769208968,
+                0.0020838507916778326,
+                0.0007595998467877507,
+                0.9939571619033813,
+                0.0005597755662165582,
+                0.0002491911291144788
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 1,
+                    "utter": "インターネットこわ"
+                },
+                {
+                    "author": "did:plc:z3hrex4yivw737nzbrdgnlwb",
+                    "type": 2,
+                    "utter": "インターネットは地獄より恐ろしいもの"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 3,
+                    "utter": "わたしいま人生でいちばん音楽やってるわ"
+                }
+            ],
+            "uri": "at://did:plc:zyb4yfeqximg43iel52cvrir/app.bsky.feed.post/3lbzb36gw222y",
+            "label": [
+                0.9995385408401489,
+                4.8145804612431675e-05,
+                0.00010583641414996237,
+                8.215943671530113e-05,
+                2.8314501832937822e-05,
+                7.69222533563152e-05,
+                4.934281241730787e-05,
+                7.0773865445517e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 1,
+                    "utter": "わたしいま人生でいちばん音楽やってるわ"
+                },
+                {
+                    "author": "did:plc:z3hrex4yivw737nzbrdgnlwb",
+                    "type": 2,
+                    "utter": "ツイート見ていると音楽活動結構盛んになっていますよね。\n良いことだと思いますよ。"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 3,
+                    "utter": "なかなか忙しくて自分の曲を書けてないが...新曲は先輩バンドマンふたりに仕事をたのむよ"
+                }
+            ],
+            "uri": "at://did:plc:zyb4yfeqximg43iel52cvrir/app.bsky.feed.post/3lbzbe7mwx22y",
+            "label": [
+                0.0007122702663764358,
+                0.0015928683569654822,
+                0.9972309470176697,
+                8.92731113708578e-05,
+                5.334112938726321e-05,
+                0.00017717544687911868,
+                7.486799586331472e-05,
+                6.92261237418279e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 1,
+                    "utter": "なかなか忙しくて自分の曲を書けてないが...新曲は先輩バンドマンふたりに仕事をたのむよ"
+                },
+                {
+                    "author": "did:plc:z3hrex4yivw737nzbrdgnlwb",
+                    "type": 2,
+                    "utter": "そうなんですね～誰かに曲提供できることは素敵な事ですよ。\n自分は誰かに曲提供できるほど音楽理論もセンスもないので……"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 3,
+                    "utter": "クリックに合わせて叩いて叫んでそれをもとに五線譜の要素を書いてもらえばいいんじゃないか"
+                }
+            ],
+            "uri": "at://did:plc:zyb4yfeqximg43iel52cvrir/app.bsky.feed.post/3lbzc3xlick2y",
+            "label": [
+                0.0006715444033034146,
+                0.00015426051686517894,
+                0.9987506866455078,
+                0.00012422459258232266,
+                7.725921022938564e-05,
+                8.851342863636091e-05,
+                6.71571324346587e-05,
+                6.635636964347214e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 1,
+                    "utter": "叫んでる音声ほしい"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 2,
+                    "utter": "うるさいよ？"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 3,
+                    "utter": "波形をスライスして曲にする"
+                }
+            ],
+            "uri": "at://did:plc:zyb4yfeqximg43iel52cvrir/app.bsky.feed.post/3lbyzdne6n22y",
+            "label": [
+                0.0016613462939858437,
+                0.0002171284577343613,
+                0.997665286064148,
+                0.00014445015403907746,
+                7.002722122706473e-05,
+                9.163160575553775e-05,
+                7.839864701963961e-05,
+                7.175216160248965e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 1,
+                    "utter": "波形をスライスして曲にする"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 2,
+                    "utter": "曲にされんの死ぬ"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 3,
+                    "utter": "SoundCloudにアップして消さない"
+                }
+            ],
+            "uri": "at://did:plc:zyb4yfeqximg43iel52cvrir/app.bsky.feed.post/3lbyzgz6dvs2y",
+            "label": [
+                0.6609114408493042,
+                0.004298373591154814,
+                0.3065318167209625,
+                0.0021553607657551765,
+                0.001184533117339015,
+                0.0160919651389122,
+                0.002948205452412367,
+                0.0058783236891031265
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 1,
+                    "utter": "SoundCloudにアップして消さない"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 2,
+                    "utter": "やだー"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 3,
+                    "utter": "はずかしいとこ写真撮られまくって脅されたい"
+                }
+            ],
+            "uri": "at://did:plc:zyb4yfeqximg43iel52cvrir/app.bsky.feed.post/3lbyzmb7tyc2y",
+            "label": [
+                0.0014265513746067882,
+                0.0006304263370111585,
+                0.9958047270774841,
+                0.0001947137643583119,
+                9.796501399250701e-05,
+                0.0015650988789275289,
+                0.00018281533266417682,
+                9.777395462151617e-05
+            ]
+        }
+    ]
+}

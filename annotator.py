@@ -38,7 +38,8 @@ def annotate(filename):
     token = {k: v.cuda() for k, v in token.items()}
     
     # モデルに推定させる
-    output=model(token['input_ids'], token['attention_mask'])
+    with torch.no_grad():
+        output=model(token['input_ids'], token['attention_mask'])
     # 確率分布をラベルとする
     labels = output.logits.clone().detach().softmax(dim=1)
 

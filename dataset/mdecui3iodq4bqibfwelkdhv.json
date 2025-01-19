@@ -1,0 +1,574 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "おはようございます〜\n\nあら！大丈夫ですか？無理なさらないように💦"
+                },
+                {
+                    "author": "did:plc:bknc2c3ws67kvbxj2yxvfysb",
+                    "type": 2,
+                    "utter": "ツッキーしゃん、おはありです( ´△｀；)💦\n\nすこぶる調子悪いですが、ぼちぼちと頑張りまする💦"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "急に寒くなったり、暑くなったりしてますからね💦\n無理はなさらないように〜💦"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lby4nj6wkc2d",
+            "label": [
+                0.0016100592911243439,
+                0.0032769429963082075,
+                0.015293841250240803,
+                0.001252529094927013,
+                0.0004868691030424088,
+                0.9770739674568176,
+                0.0005875366041436791,
+                0.0004181545809842646
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "急に寒くなったり、暑くなったりしてますからね💦\n無理はなさらないように〜💦"
+                },
+                {
+                    "author": "did:plc:bknc2c3ws67kvbxj2yxvfysb",
+                    "type": 2,
+                    "utter": "ありがとです😭💦\n体調安定しないので困りもんです…うう💦"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "ゆっくり休んで下さいねぇ〜"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lbz6zadh2s2g",
+            "label": [
+                0.00197493564337492,
+                0.008075584657490253,
+                0.9880481958389282,
+                9.247658454114571e-05,
+                0.00014432637544814497,
+                0.0007667953614145517,
+                0.0007053713197819889,
+                0.0001922967639984563
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "ゆっくり休んで下さいねぇ〜"
+                },
+                {
+                    "author": "did:plc:bknc2c3ws67kvbxj2yxvfysb",
+                    "type": 2,
+                    "utter": "あいっ(  ´˘`(´｀♡)ｷﾞｭ‬\nツッキーさんに抱きついて寝ます←お巡りさんコイツです"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "ばちこい！！！！(笑)\n受け入れ態勢！！"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lbz7sspwcs2g",
+            "label": [
+                0.992561399936676,
+                0.00024210095580201596,
+                0.003979492466896772,
+                0.002385904313996434,
+                0.00015242694644257426,
+                0.00017113421927206218,
+                0.00023346702801063657,
+                0.00027409495669417083
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "ばちこい！！！！(笑)\n受け入れ態勢！！"
+                },
+                {
+                    "author": "did:plc:bknc2c3ws67kvbxj2yxvfysb",
+                    "type": 2,
+                    "utter": "わぁい！抱きついちゃう(  ´˘`(´｀♡)ｷﾞｭ‬"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "わぁーい！！！"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lbzao4dzzc2r",
+            "label": [
+                0.9994333386421204,
+                5.378139394451864e-05,
+                0.00016331870574504137,
+                0.0001769588270690292,
+                3.713201294885948e-05,
+                3.487591311568394e-05,
+                5.657746078213677e-05,
+                4.390904359752312e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "えへへへぇ〜💕"
+                },
+                {
+                    "author": "did:plc:bknc2c3ws67kvbxj2yxvfysb",
+                    "type": 2,
+                    "utter": "タバコ吸う推しはてーてーです😇🙏✨✨"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "てーてーでやんす！"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lbwmyre7ok23",
+            "label": [
+                0.9820196032524109,
+                0.0034503492061048746,
+                0.009248461574316025,
+                0.0003566733794286847,
+                0.000762400624807924,
+                0.0006034088437445462,
+                0.0027599530294537544,
+                0.0007991501479409635
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "てーてーでやんす！"
+                },
+                {
+                    "author": "did:plc:bknc2c3ws67kvbxj2yxvfysb",
+                    "type": 2,
+                    "utter": "ね！\n初期の方でしか吸ってないから余計にてーてーお姿なんですよね☺️"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "ですよね〜！\nアサシン時代だけでしたからね！！\nたまに、吸わせよう…(笑)"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lbwnt5lmts2m",
+            "label": [
+                0.8588452935218811,
+                0.00259981257840991,
+                0.13539151847362518,
+                0.0008301195339299738,
+                0.0003119605244137347,
+                0.0007348043727688491,
+                0.0006064267363399267,
+                0.0006800906267017126
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "ですよね〜！\nアサシン時代だけでしたからね！！\nたまに、吸わせよう…(笑)"
+                },
+                {
+                    "author": "did:plc:bknc2c3ws67kvbxj2yxvfysb",
+                    "type": 2,
+                    "utter": "そうなんですよ(ﾉｼ*`꒳´*)ﾉｼ ﾊﾞﾝﾊﾞﾝ\nもしかしたらワンチャン店長なってからも仕事終わってから一服してるんやないかなって思ったりしてて☺️💦\n偶に吸わせちゃいましょw"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "隠れて吸って、カリンちゃんに怒られればいいと思います！！(笑)"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lbwq4z453c2d",
+            "label": [
+                0.01447356678545475,
+                0.000958239019382745,
+                0.9835479855537415,
+                0.00014174330863170326,
+                0.00011602285667322576,
+                0.0003795382799580693,
+                0.0002331771538592875,
+                0.00014962498971726745
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "隠れて吸って、カリンちゃんに怒られればいいと思います！！(笑)"
+                },
+                {
+                    "author": "did:plc:bknc2c3ws67kvbxj2yxvfysb",
+                    "type": 2,
+                    "utter": "仕事終わった後だから吸わせてあげてよ、カリンちゃん(´,,•ω•,,｀)💦\n部屋で1人で煙草蒸してるのも好きなんすよねぇ〜"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "うふふ〜(笑)\n\nいいですね！部屋でふかしてる！"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lbwvczuhok2z",
+            "label": [
+                0.9994876384735107,
+                6.39652498648502e-05,
+                0.00023206135665532202,
+                5.732101635658182e-05,
+                2.4424218281637877e-05,
+                4.6297911467263475e-05,
+                4.980293306289241e-05,
+                3.8446683902293444e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "あるだわよ！"
+                },
+                {
+                    "author": "did:plc:qtgsr57rlxtalkxuxpwtashi",
+                    "type": 2,
+                    "utter": "(´・ω・｀)"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "顔(笑)"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lbp4ewv2bk2l",
+            "label": [
+                0.9991579055786133,
+                8.826849807519466e-05,
+                0.00013093012967146933,
+                0.0002268491662107408,
+                3.4405486076138914e-05,
+                0.00015425529272761196,
+                0.00014456422650255263,
+                6.278993532760069e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "顔(笑)"
+                },
+                {
+                    "author": "did:plc:qtgsr57rlxtalkxuxpwtashi",
+                    "type": 2,
+                    "utter": "書きたい(´・ω・｀)"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "今度、語り明そう(笑)"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lbp4gnkgqk2l",
+            "label": [
+                0.1523396223783493,
+                0.0011049610329791903,
+                0.8444668650627136,
+                0.0004689053457695991,
+                0.0002533686929382384,
+                0.0006484784535132349,
+                0.0004025916277896613,
+                0.0003151920682284981
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "今度、語り明そう(笑)"
+                },
+                {
+                    "author": "did:plc:qtgsr57rlxtalkxuxpwtashi",
+                    "type": 2,
+                    "utter": "うん……(´・ω・｀)"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "よしよし"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lbp4rvtkf22l",
+            "label": [
+                0.9996001124382019,
+                6.019383363309316e-05,
+                0.00010138667130377144,
+                5.5137228628154844e-05,
+                2.8928783649462275e-05,
+                4.7130837629083544e-05,
+                6.533946725539863e-05,
+                4.181574331596494e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "それも手で食べるんでしょうね(笑)\nクリームまみれ(笑)"
+                },
+                {
+                    "author": "did:plc:o27yurc3zwsr4vgka3ohueyo",
+                    "type": 2,
+                    "utter": "だよね！！笑\nイブしゃんは…凄くお上品に😌\n羨ましいねぇ〜🥹💚✨✨"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "ですよね！！\n\nおフォークを使っていますね(笑)\n羨ましいねぇ〜💚"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lboza5hjbc2l",
+            "label": [
+                0.29971662163734436,
+                0.05667857453227043,
+                0.04137719050049782,
+                0.5769067406654358,
+                0.0020147855393588543,
+                0.011521262116730213,
+                0.00610373355448246,
+                0.005681040231138468
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "ですよね！！\n\nおフォークを使っていますね(笑)\n羨ましいねぇ〜💚"
+                },
+                {
+                    "author": "did:plc:o27yurc3zwsr4vgka3ohueyo",
+                    "type": 2,
+                    "utter": "おフォーク🤣🤣何やwww"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "お上品に(笑)"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lbozl3aj2c2l",
+            "label": [
+                0.9982069730758667,
+                0.00016991216398309916,
+                0.0009835183154791594,
+                0.00012585683725774288,
+                2.8893648050143383e-05,
+                0.00023112261260394007,
+                0.00013304267486091703,
+                0.00012062279711244628
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "お上品に(笑)"
+                },
+                {
+                    "author": "did:plc:o27yurc3zwsr4vgka3ohueyo",
+                    "type": 2,
+                    "utter": "「お」を付けたらえぇと思うツッキーちゃん！！笑"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "ぉ、はい！！(笑)\n\nおをつけたら、お上品になるかと思いまして！！(笑)(笑)"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lbozsqfacc2l",
+            "label": [
+                0.44424498081207275,
+                0.0017525454750284553,
+                0.5507641434669495,
+                0.0008608057396486402,
+                0.0003240965015720576,
+                0.0008057081140577793,
+                0.0006136943702585995,
+                0.0006339754909276962
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "ぉ、はい！！(笑)\n\nおをつけたら、お上品になるかと思いまして！！(笑)(笑)"
+                },
+                {
+                    "author": "did:plc:o27yurc3zwsr4vgka3ohueyo",
+                    "type": 2,
+                    "utter": "おでん🍢はどうしよ？笑"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "…………御おでん様🍢(笑)"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lbozwahc7c2l",
+            "label": [
+                0.9993519186973572,
+                8.050735777942464e-05,
+                0.00023283094924408942,
+                0.00010656117956386879,
+                2.8566395485540852e-05,
+                6.938097067177296e-05,
+                7.671450293855742e-05,
+                5.351803338271566e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "おかえりんごぉ〜！！"
+                },
+                {
+                    "author": "did:plc:qtgsr57rlxtalkxuxpwtashi",
+                    "type": 2,
+                    "utter": "ただいまんごーっっ"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "頑張って慣れな(笑)\nそして、慣れてワシに教えて(笑)"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lbmfhvnqts2a",
+            "label": [
+                0.0011497115483507514,
+                0.0003658832865767181,
+                0.9979331493377686,
+                0.00014594806998502463,
+                0.0001084848481696099,
+                0.00012129883543821052,
+                0.00010873519931919873,
+                6.685055996058509e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "頑張って慣れな(笑)\nそして、慣れてワシに教えて(笑)"
+                },
+                {
+                    "author": "did:plc:qtgsr57rlxtalkxuxpwtashi",
+                    "type": 2,
+                    "utter": "頑張るわ（笑）\n\nでも、基本操作は…いっしょ、かなぁ？？（笑）"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "よろよろ(笑)\n\nなるへそな！！(笑)"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lbmfntqge22a",
+            "label": [
+                0.05767105892300606,
+                0.003537161275744438,
+                0.9361749887466431,
+                0.0003743174602277577,
+                0.0003157261817250401,
+                0.0008358371560461819,
+                0.0007562632672488689,
+                0.0003346878511365503
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "よろよろ(笑)\n\nなるへそな！！(笑)"
+                },
+                {
+                    "author": "did:plc:qtgsr57rlxtalkxuxpwtashi",
+                    "type": 2,
+                    "utter": "ぎゃんばる（笑）"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "がんば！！(笑)\nもろもろの設定な！！(笑)"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lbmg6wmch22p",
+            "label": [
+                0.0009918701834976673,
+                0.0002784586395137012,
+                0.9983078241348267,
+                0.00013701764692086726,
+                6.470378866652027e-05,
+                9.451770165469497e-05,
+                6.346961890812963e-05,
+                6.219898205017671e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 1,
+                    "utter": "がんば！！(笑)\nもろもろの設定な！！(笑)"
+                },
+                {
+                    "author": "did:plc:qtgsr57rlxtalkxuxpwtashi",
+                    "type": 2,
+                    "utter": "………それな！！！！（笑）\nそれが、しんどい（笑）"
+                },
+                {
+                    "author": "did:plc:mdecui3iodq4bqibfwelkdhv",
+                    "type": 3,
+                    "utter": "やるしかない…(笑)"
+                }
+            ],
+            "uri": "at://did:plc:mdecui3iodq4bqibfwelkdhv/app.bsky.feed.post/3lbmia33ke22u",
+            "label": [
+                0.03955468162894249,
+                0.008736658841371536,
+                0.946994423866272,
+                0.0004660113772843033,
+                0.00016884540673345327,
+                0.0031476025469601154,
+                0.0006058803992345929,
+                0.00032586074667051435
+            ]
+        }
+    ]
+}

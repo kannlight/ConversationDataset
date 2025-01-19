@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 1,
+                    "utter": "あ、昨日は定時に逃げました。\n時間になった瞬間に打刻してやりました。"
+                },
+                {
+                    "author": "did:plc:2ujolhnwniqsiluzajv2jpac",
+                    "type": 2,
+                    "utter": "残業とかホンマ蕁麻疹出そうになるよなー"
+                },
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 3,
+                    "utter": "ほんとですねぇ。\nこちとらただのアルバイトになにさせるんじゃぁ！って感じですわ。"
+                }
+            ],
+            "uri": "at://did:plc:qewdkek3kdufcnqy7jyyobcf/app.bsky.feed.post/3lagga62fmx2y",
+            "label": [
+                0.002840218134224415,
+                0.014170914888381958,
+                0.0029409085400402546,
+                0.004653048701584339,
+                0.9350214004516602,
+                0.0038353842683136463,
+                0.035226695239543915,
+                0.0013114613248035312
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 1,
+                    "utter": "ほんとですねぇ。\nこちとらただのアルバイトになにさせるんじゃぁ！って感じですわ。"
+                },
+                {
+                    "author": "did:plc:2ujolhnwniqsiluzajv2jpac",
+                    "type": 2,
+                    "utter": "あーアルバイトならなおさら！残らんと終わらんと言うならそれは社員の仕事ですね。\n時給制で働いた分金になるとしても、帰りたい気持ちは止められない。"
+                },
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 3,
+                    "utter": "それが社員いないときもザラにあるんですよぇ。\n残業代はうまうまですけど、それより早く帰って寝たいです(笑)"
+                }
+            ],
+            "uri": "at://did:plc:qewdkek3kdufcnqy7jyyobcf/app.bsky.feed.post/3lai3elnde425",
+            "label": [
+                0.0032909957226365805,
+                0.7732627987861633,
+                0.0018496580887585878,
+                0.003426571376621723,
+                0.002599619794636965,
+                0.022909218445420265,
+                0.1922857165336609,
+                0.0003753767814487219
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 1,
+                    "utter": "それが社員いないときもザラにあるんですよぇ。\n残業代はうまうまですけど、それより早く帰って寝たいです(笑)"
+                },
+                {
+                    "author": "did:plc:2ujolhnwniqsiluzajv2jpac",
+                    "type": 2,
+                    "utter": "辞めるの決まったら、ブチギレかまして社員無しでも無人になろうが帰ってやろうぜ！"
+                },
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 3,
+                    "utter": "辞めたいのは山々なのですが、仕事内容が性に合ってのか楽しいんですよね。"
+                }
+            ],
+            "uri": "at://did:plc:qewdkek3kdufcnqy7jyyobcf/app.bsky.feed.post/3laktes4qvk2n",
+            "label": [
+                0.9995031356811523,
+                0.00011580027057789266,
+                7.502913649659604e-05,
+                5.9762558521470055e-05,
+                2.2184492991073057e-05,
+                9.667155973147601e-05,
+                7.006308442214504e-05,
+                5.729764234274626e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 1,
+                    "utter": "辞めたいのは山々なのですが、仕事内容が性に合ってのか楽しいんですよね。"
+                },
+                {
+                    "author": "did:plc:2ujolhnwniqsiluzajv2jpac",
+                    "type": 2,
+                    "utter": "あちゃーそれは大変。無理して潰れたらアカンよ。マジで一回壊れたら完治せーへんからね。"
+                },
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 3,
+                    "utter": "それはそれは身に沁みてますわ\nストレスMax、体調絶不調のタイミングで体重20kg増えましたので(笑)\nお気遣いありがとうございます。"
+                }
+            ],
+            "uri": "at://did:plc:qewdkek3kdufcnqy7jyyobcf/app.bsky.feed.post/3laleexwn522x",
+            "label": [
+                0.4852489233016968,
+                0.10714112222194672,
+                0.0028752267826348543,
+                0.025172138586640358,
+                0.001593106659129262,
+                0.3673761487007141,
+                0.00644453102722764,
+                0.004148826003074646
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 1,
+                    "utter": "それはそれは身に沁みてますわ\nストレスMax、体調絶不調のタイミングで体重20kg増えましたので(笑)\nお気遣いありがとうございます。"
+                },
+                {
+                    "author": "did:plc:2ujolhnwniqsiluzajv2jpac",
+                    "type": 2,
+                    "utter": "あー、ストレスで体重増えるのすごくわかる。だいぶ疲労もストレスもあるのに太って行くから余裕ありそうに見られるやつ。20キロ減ったらみんな心配するのに20キロ増えても誰も心配してくれへんよな。"
+                },
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 3,
+                    "utter": "まぁ身近な人さえ気が付かない程でしたから……。\n急激に増えるのも減るのもどちらも危険には変わりないですからねぇ、知らない人も多いみたいですけど。"
+                }
+            ],
+            "uri": "at://did:plc:qewdkek3kdufcnqy7jyyobcf/app.bsky.feed.post/3landm2phxs23",
+            "label": [
+                0.000702356337569654,
+                0.0019600316882133484,
+                0.0005805036635138094,
+                0.0007595042698085308,
+                0.000792601378634572,
+                0.9938179850578308,
+                0.0011153072118759155,
+                0.0002716274466365576
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 1,
+                    "utter": "しちゃいます🥰\n満員電車なので余計に、"
+                },
+                {
+                    "author": "did:plc:zvefarsifjdxfs2fng74qwxi",
+                    "type": 2,
+                    "utter": "ブラの下で乳首も硬くしちゃって気持ち良くなってきちゃう？"
+                },
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 3,
+                    "utter": "声出るほどでは無いですけど、気持ちいいです。\n下のお口は濡れ濡れなのがわかりますわ(//ω//)"
+                }
+            ],
+            "uri": "at://did:plc:qewdkek3kdufcnqy7jyyobcf/app.bsky.feed.post/3laohuuxgr22r",
+            "label": [
+                0.9996505975723267,
+                4.258225089870393e-05,
+                7.526826811954379e-05,
+                5.7550576457288116e-05,
+                2.804141149681527e-05,
+                4.848306343774311e-05,
+                5.675724969478324e-05,
+                4.0789782360661775e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 1,
+                    "utter": "声出るほどでは無いですけど、気持ちいいです。\n下のお口は濡れ濡れなのがわかりますわ(//ω//)"
+                },
+                {
+                    "author": "did:plc:zvefarsifjdxfs2fng74qwxi",
+                    "type": 2,
+                    "utter": "歩くたびに濡れてるの実感して乳首軽く擦れて気持ちいいのがジワジワ蓄積してもっとぬれてきちゃうんですね？😊"
+                },
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 3,
+                    "utter": "電車座ってるんですけど、ｶﾞﾀﾝｯて揺れるたびに擦れて存在を主張してるのがたまらなく良くてぬれてきちゃいます。"
+                }
+            ],
+            "uri": "at://did:plc:qewdkek3kdufcnqy7jyyobcf/app.bsky.feed.post/3laoiheat522r",
+            "label": [
+                0.9996826648712158,
+                4.624122811947018e-05,
+                6.572931306436658e-05,
+                4.451354834600352e-05,
+                2.5430384994251654e-05,
+                4.6770514018135145e-05,
+                4.711441943072714e-05,
+                4.164245547144674e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 1,
+                    "utter": "電車座ってるんですけど、ｶﾞﾀﾝｯて揺れるたびに擦れて存在を主張してるのがたまらなく良くてぬれてきちゃいます。"
+                },
+                {
+                    "author": "did:plc:zvefarsifjdxfs2fng74qwxi",
+                    "type": 2,
+                    "utter": "いいですね☺️\nカバンの紐とか直すフリして軽く乳首擦ったりしたら余計にトロトロになっちゃいそうですね？☺️"
+                },
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 3,
+                    "utter": "誰かに触れられたい位ですわ。\nひっぱ叩くなり抓るなりしてほしいです…(//ω//)"
+                }
+            ],
+            "uri": "at://did:plc:qewdkek3kdufcnqy7jyyobcf/app.bsky.feed.post/3laoirnuy5k2r",
+            "label": [
+                0.0009043407044373453,
+                0.0018790719332173467,
+                0.9964626431465149,
+                0.00010221378761343658,
+                7.852947601350024e-05,
+                0.0003098929882980883,
+                0.0001873770379461348,
+                7.597600779263303e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 1,
+                    "utter": "誰かに触れられたい位ですわ。\nひっぱ叩くなり抓るなりしてほしいです…(//ω//)"
+                },
+                {
+                    "author": "did:plc:zvefarsifjdxfs2fng74qwxi",
+                    "type": 2,
+                    "utter": "つねって引っ張ってあげたいですね😊\n引っ叩くのは帰ってから"
+                },
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 3,
+                    "utter": "悪い子にお仕置きしてほしいですわ(⁠｡⁠♡⁠‿⁠♡⁠｡⁠)"
+                }
+            ],
+            "uri": "at://did:plc:qewdkek3kdufcnqy7jyyobcf/app.bsky.feed.post/3laok3uqr7k2r",
+            "label": [
+                0.0004122176324017346,
+                0.0011350302956998348,
+                0.9976867437362671,
+                9.59528042585589e-05,
+                0.00015961378812789917,
+                0.000184995325980708,
+                0.00025136914337053895,
+                7.399979222100228e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 1,
+                    "utter": "こういう性癖はお好きです？"
+                },
+                {
+                    "author": "did:plc:5ofvdi37myamrgxtp4bbaw7g",
+                    "type": 2,
+                    "utter": "一見するとわからないけれど実は…\nというのは好きです"
+                },
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 3,
+                    "utter": "おぉー好きな方いた！\nギャップがあればあるほど良くないです？あるあるですけど、清楚なのに実は……みたいなやつ。"
+                }
+            ],
+            "uri": "at://did:plc:qewdkek3kdufcnqy7jyyobcf/app.bsky.feed.post/3kp2g6fuvyv2l",
+            "label": [
+                0.9957039952278137,
+                0.00011581184662645683,
+                0.003190605202689767,
+                0.0005177712882868946,
+                7.15285204933025e-05,
+                7.92664141044952e-05,
+                0.00010942854714812711,
+                0.00021157032460905612
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 1,
+                    "utter": "おぉー好きな方いた！\nギャップがあればあるほど良くないです？あるあるですけど、清楚なのに実は……みたいなやつ。"
+                },
+                {
+                    "author": "did:plc:5ofvdi37myamrgxtp4bbaw7g",
+                    "type": 2,
+                    "utter": "清楚系ビッチ、なんかの謎のワードが生まれるくらいですから\n定番の人気やもしれませぬな\nいや、振れ幅ここまでじゃないと思うけどw"
+                },
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 3,
+                    "utter": "不思議なワードたくさんありますからね。でも組み合わせ自由で妄想出来るのって素敵だと思いますわ。\nあー、振り幅はボクがsm、暴力系寄りが好きだからかもです（笑）"
+                }
+            ],
+            "uri": "at://did:plc:qewdkek3kdufcnqy7jyyobcf/app.bsky.feed.post/3kp36a6byxi2d",
+            "label": [
+                0.9984102249145508,
+                5.9231402701698244e-05,
+                0.0011273769196122885,
+                9.49534005485475e-05,
+                4.306555638322607e-05,
+                8.414009789703414e-05,
+                6.967799708945677e-05,
+                0.00011126678145956248
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 1,
+                    "utter": "不思議なワードたくさんありますからね。でも組み合わせ自由で妄想出来るのって素敵だと思いますわ。\nあー、振り幅はボクがsm、暴力系寄りが好きだからかもです（笑）"
+                },
+                {
+                    "author": "did:plc:5ofvdi37myamrgxtp4bbaw7g",
+                    "type": 2,
+                    "utter": "貴重な新情報っすね"
+                },
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 3,
+                    "utter": "アブノーマルに惹かれるんですよねー。入り？が痴漢レイプ？等ですので。"
+                }
+            ],
+            "uri": "at://did:plc:qewdkek3kdufcnqy7jyyobcf/app.bsky.feed.post/3kp37cxva7t2r",
+            "label": [
+                0.13107921183109283,
+                0.0007929333951324224,
+                0.8586292862892151,
+                0.003122607944533229,
+                0.00026675494154915214,
+                0.004318962339311838,
+                0.0004983310354873538,
+                0.0012919733999297023
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 1,
+                    "utter": "アブノーマルに惹かれるんですよねー。入り？が痴漢レイプ？等ですので。"
+                },
+                {
+                    "author": "did:plc:5ofvdi37myamrgxtp4bbaw7g",
+                    "type": 2,
+                    "utter": "あらあらまあまあ\nその衝撃を超えるのは大変ですね"
+                },
+                {
+                    "author": "did:plc:qewdkek3kdufcnqy7jyyobcf",
+                    "type": 3,
+                    "utter": "もう超えれないんじゃないかなぁと（笑）\nぐろ系は苦手ですので。"
+                }
+            ],
+            "uri": "at://did:plc:qewdkek3kdufcnqy7jyyobcf/app.bsky.feed.post/3kp4yg24sws2f",
+            "label": [
+                0.06621724367141724,
+                0.025557346642017365,
+                0.011533873155713081,
+                0.003632002044469118,
+                0.0007090131985023618,
+                0.8816406726837158,
+                0.00823909044265747,
+                0.0024708553683012724
+            ]
+        }
+    ]
+}

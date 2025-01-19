@@ -1,0 +1,784 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "ラー油鮭ン。広島かと思ったけど、長野の商品だった。海がないのによく頑張ったな長野県"
+                },
+                {
+                    "author": "did:plc:5xfmx7o4oeds22wyy6mdqkfc",
+                    "type": 2,
+                    "utter": "ネイティブな広島弁、頑張ってますね"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "ネイティブって言ったら、広島県民に怒られるけぇ…"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lc36upmlt22h",
+            "label": [
+                0.006474402267485857,
+                0.2421366274356842,
+                0.0018640472553670406,
+                0.0031430714298039675,
+                0.0004066608671564609,
+                0.7441754937171936,
+                0.0015146492514759302,
+                0.00028509178082458675
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "ネイティブって言ったら、広島県民に怒られるけぇ…"
+                },
+                {
+                    "author": "did:plc:5xfmx7o4oeds22wyy6mdqkfc",
+                    "type": 2,
+                    "utter": "文太に謝る(ΦωΦ)"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "赤犬？"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lc373w3zik2h",
+            "label": [
+                0.002898466307669878,
+                0.00034958324977196753,
+                0.002833889564499259,
+                0.9931229948997498,
+                0.00014172150986269116,
+                0.0002609151997603476,
+                0.0002198474103352055,
+                0.00017245557683054358
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "たまにガラムマサラとか追加するよ笑"
+                },
+                {
+                    "author": "did:plc:6fylb4fmfutyas3ekqr57ycj",
+                    "type": 2,
+                    "utter": "カレー成分増量やね"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "そうそう、スパイスを追加していくことでカレーはインドに近づいていきます。"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lby4krhqhs2a",
+            "label": [
+                0.011406335979700089,
+                0.0003633568121585995,
+                0.9872538447380066,
+                0.00022523844381794333,
+                0.00015118102601263672,
+                0.00020156153186690062,
+                0.0001445689267711714,
+                0.00025399000151082873
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "そうそう、スパイスを追加していくことでカレーはインドに近づいていきます。"
+                },
+                {
+                    "author": "did:plc:6fylb4fmfutyas3ekqr57ycj",
+                    "type": 2,
+                    "utter": "🍛のガンダーラへの巡礼､､､"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "カレーを巡る西遊記"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lby4rz7l4c2a",
+            "label": [
+                0.502935528755188,
+                0.0010169459274038672,
+                0.49360689520835876,
+                0.000737111724447459,
+                0.0003707215073518455,
+                0.00040697064832784235,
+                0.0003930291277356446,
+                0.0005327871767804027
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "カレーを巡る西遊記"
+                },
+                {
+                    "author": "did:plc:6fylb4fmfutyas3ekqr57ycj",
+                    "type": 2,
+                    "utter": "経典でなくスパイス持ち帰る三蔵法師"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "もしかしたら本当に三蔵法師は経典と一緒に香辛料を持ち帰ったって言う可能性もありそう"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lby52mocfk2a",
+            "label": [
+                0.001900333329103887,
+                0.0002153917303076014,
+                0.9956579208374023,
+                0.001597886555828154,
+                7.995102350832894e-05,
+                0.0003569546388462186,
+                6.093832053011283e-05,
+                0.0001307798083871603
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "もしかしたら本当に三蔵法師は経典と一緒に香辛料を持ち帰ったって言う可能性もありそう"
+                },
+                {
+                    "author": "did:plc:6fylb4fmfutyas3ekqr57ycj",
+                    "type": 2,
+                    "utter": "椅子以外は料理するという国やからね。ありえる（おい）"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "それは椅子だけにい椅子ぎだよ笑"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lby5c6agns2a",
+            "label": [
+                0.01644548960030079,
+                0.0024091554805636406,
+                0.0017441606614738703,
+                0.9744778275489807,
+                0.000245114992139861,
+                0.0031038394663482904,
+                0.0011688937665894628,
+                0.0004055832396261394
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "ジースだ！！笑"
+                },
+                {
+                    "author": "did:plc:5xfmx7o4oeds22wyy6mdqkfc",
+                    "type": 2,
+                    "utter": "ジースは……なんの乳製品なんだろ？チーズ？"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "チーズらしいですね、乳製品なはずなのにずっとジュースだと思ってました"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbtn5k563223",
+            "label": [
+                0.0007212260970845819,
+                0.0004205877776257694,
+                0.00041377366869710386,
+                0.9976122379302979,
+                0.00014550623018294573,
+                0.0002899566025007516,
+                0.00029245155747048557,
+                0.00010413061681902036
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "チーズらしいですね、乳製品なはずなのにずっとジュースだと思ってました"
+                },
+                {
+                    "author": "did:plc:5xfmx7o4oeds22wyy6mdqkfc",
+                    "type": 2,
+                    "utter": "かつてリアルタイムでジャンプ読んでたときは僕もジュースだと思ってたの思い出しました(ΦωΦ)"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "フリーザ編をリアルタイムで読んでいたとか羨ましいの極み！！"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbtnhlqbis23",
+            "label": [
+                0.03127650171518326,
+                0.02206123061478138,
+                0.005590430460870266,
+                0.9344543814659119,
+                0.0008321285131387413,
+                0.0017335141310468316,
+                0.002843929920345545,
+                0.0012078876607120037
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "フリーザ編をリアルタイムで読んでいたとか羨ましいの極み！！"
+                },
+                {
+                    "author": "did:plc:5xfmx7o4oeds22wyy6mdqkfc",
+                    "type": 2,
+                    "utter": "え？あれ？レッドリボン軍のころからずっと読んでますよね？(ΦωΦ)"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "レッドリボン軍編とか生まれる前ですわ💦"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbtnwjy45s23",
+            "label": [
+                0.032170265913009644,
+                0.17001155018806458,
+                0.0018944187322631478,
+                0.7615169286727905,
+                0.0005014986963942647,
+                0.03078962303698063,
+                0.0024313940666615963,
+                0.0006842408911325037
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "全裸スーツを蒸発せよ！うしだー(ΦωΦ)"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 2,
+                    "utter": "いざとなると、あんま自信ないwww"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "やればできる！！"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbow5b4o2s2b",
+            "label": [
+                0.8997337222099304,
+                0.0005782993393950164,
+                0.09652167558670044,
+                0.001795507618226111,
+                0.00026501851971261203,
+                0.00025101428036578,
+                0.0002596911508589983,
+                0.0005950751365162432
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "こたつの中からリモートワークだ"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 2,
+                    "utter": "こたつに「サイバリアン」って名前つければいい。"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "こたつにハイツクバリアン"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbolhmjjls2s",
+            "label": [
+                0.997464656829834,
+                0.0006544352509081364,
+                0.0009628129773773253,
+                0.0002994918904732913,
+                5.447410512715578e-05,
+                0.00015447486657649279,
+                0.0002387012937106192,
+                0.00017088554159272462
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "こたつにハイツクバリアン"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 2,
+                    "utter": "こたつに蒸着！"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "若さってなんだ！？"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbolrzcozs2s",
+            "label": [
+                0.0006770928157493472,
+                0.00023472354223486036,
+                0.001005121972411871,
+                0.9973143935203552,
+                0.00022901604825165123,
+                0.0002275246224598959,
+                0.0001743005122989416,
+                0.0001377639564452693
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "若さってなんだ！？"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 2,
+                    "utter": "ずるむけないことさ"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "あばよ包茎"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbom67z46k2s",
+            "label": [
+                0.004106211941689253,
+                0.9149593114852905,
+                0.0005995812825858593,
+                0.0018730994779616594,
+                0.0024271858856081963,
+                0.006874453742057085,
+                0.06891398876905441,
+                0.0002461789408698678
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "あばよ包茎"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 2,
+                    "utter": "直球やな⚾️"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "ずるむけに言われたくない…"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbomaa7lds2s",
+            "label": [
+                0.002676304429769516,
+                0.6312182545661926,
+                0.0013715090462937951,
+                0.002378669334575534,
+                0.006686266977339983,
+                0.0054354192689061165,
+                0.3497883975505829,
+                0.00044518968206830323
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "海幸彦と山幸彦！"
+                },
+                {
+                    "author": "did:plc:6fylb4fmfutyas3ekqr57ycj",
+                    "type": 2,
+                    "utter": "そそ！"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "すみよしさんは海の神様ですからね"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbokidqujs2s",
+            "label": [
+                0.5478497743606567,
+                0.0011248074006289244,
+                0.4354605972766876,
+                0.0026053874753415585,
+                0.0014228100189939141,
+                0.0012377549428492785,
+                0.001643345458433032,
+                0.008655552752315998
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "すみよしさんは海の神様ですからね"
+                },
+                {
+                    "author": "did:plc:6fylb4fmfutyas3ekqr57ycj",
+                    "type": 2,
+                    "utter": "ですです。さすがー"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "大阪のすみよしさん言ってみたいです〜"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbokmauvgs2s",
+            "label": [
+                0.0006591127603314817,
+                0.00022046835510991514,
+                0.9987634420394897,
+                0.00011076904775109142,
+                5.521920684259385e-05,
+                7.381793693639338e-05,
+                6.209350976860151e-05,
+                5.494589277077466e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "大阪のすみよしさん言ってみたいです〜"
+                },
+                {
+                    "author": "did:plc:6fylb4fmfutyas3ekqr57ycj",
+                    "type": 2,
+                    "utter": "参拝しがいのある広さですわー"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "広い神社って見応えありますよね〜\n下鴨神社とかおいせさんとかも広くてすごい"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lboks3rcic2s",
+            "label": [
+                0.0464119017124176,
+                0.00044965522829443216,
+                0.006169656757265329,
+                0.9442538022994995,
+                0.0006315761129371822,
+                0.0004301919834688306,
+                0.0005444720736704767,
+                0.0011088349856436253
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "広い神社って見応えありますよね〜\n下鴨神社とかおいせさんとかも広くてすごい"
+                },
+                {
+                    "author": "did:plc:6fylb4fmfutyas3ekqr57ycj",
+                    "type": 2,
+                    "utter": "ですねー。緑も多いし、気分転換に良いですね"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "そうですよね〜、神社の境内を散歩するのは気持ちがいいです"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbol6ti6ic2s",
+            "label": [
+                0.9995588660240173,
+                3.745422509382479e-05,
+                0.00014631527301389724,
+                6.22725929133594e-05,
+                3.7477948353625834e-05,
+                4.323161920183338e-05,
+                5.656071880366653e-05,
+                5.774771489086561e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "口が2つあってきもいwww"
+                },
+                {
+                    "author": "did:plc:5xfmx7o4oeds22wyy6mdqkfc",
+                    "type": 2,
+                    "utter": "いや、これは髭剃りに失敗してアゴに絆創膏を貼っているだけかもしれない(ΦωΦ)"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "ちょっと無理がある解釈！！"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbnkpdl4cc2s",
+            "label": [
+                0.0016718890983611345,
+                0.0010899081826210022,
+                0.000379380740923807,
+                0.9899128079414368,
+                0.000547543924767524,
+                0.0032318730372935534,
+                0.002957940101623535,
+                0.00020879747171420604
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "ちょっと無理がある解釈！！"
+                },
+                {
+                    "author": "did:plc:5xfmx7o4oeds22wyy6mdqkfc",
+                    "type": 2,
+                    "utter": "雪だるまくどかわいいですね☃️"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "次はスノーマンKだな"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbnlb6j6us2s",
+            "label": [
+                0.0015134065179154277,
+                0.00024061856674961746,
+                0.9978106617927551,
+                0.00014771682617720217,
+                5.595955008175224e-05,
+                0.00010483575169928372,
+                6.273876351770014e-05,
+                6.410149217117578e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "次はスノーマンKだな"
+                },
+                {
+                    "author": "did:plc:5xfmx7o4oeds22wyy6mdqkfc",
+                    "type": 2,
+                    "utter": "SNMK!"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "めっちゃ略されたwww\nこむたんさんもCMTNに"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbnmtyurfs2s",
+            "label": [
+                0.7806009650230408,
+                0.0013233261415734887,
+                0.0025448091328144073,
+                0.2134227752685547,
+                0.00032960428507067263,
+                0.0005034864880144596,
+                0.0006487211212515831,
+                0.000626302498858422
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "めっちゃ略されたwww\nこむたんさんもCMTNに"
+                },
+                {
+                    "author": "did:plc:5xfmx7o4oeds22wyy6mdqkfc",
+                    "type": 2,
+                    "utter": "文字数変わってない！w"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "곰탕(コムタン)ハングルにしたら二文字だ！"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbnpecqkdc2s",
+            "label": [
+                0.3588966131210327,
+                0.004607310984283686,
+                0.22871024906635284,
+                0.4015968441963196,
+                0.0010908269323408604,
+                0.0013994206674396992,
+                0.0011983606964349747,
+                0.002500375732779503
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "うしだ散る！！\nおはビーフ！！"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 2,
+                    "utter": "おはやう、クリステル☁️\nジビエになってるwww"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "もとからジビエやで"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbnln4mdgk2s",
+            "label": [
+                0.9646044373512268,
+                0.0011193720856681466,
+                0.01637205295264721,
+                0.010934486985206604,
+                0.0008203210891224444,
+                0.0006844450836069882,
+                0.002253506099805236,
+                0.0032113592606037855
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "もとからジビエやで"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 2,
+                    "utter": "冷凍ジビエから調理後のジビエへ"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "いや調理中やで、食えるもんなら食ってみな！！"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbnlrkyn6s2s",
+            "label": [
+                0.0005192268872633576,
+                0.00021673472656402737,
+                0.9981999397277832,
+                0.0002832207246683538,
+                0.0003981978807132691,
+                0.00011556550452951342,
+                0.00017173061496578157,
+                9.529550152365118e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "いや調理中やで、食えるもんなら食ってみな！！"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 2,
+                    "utter": "調理中か‼️www"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "それこそ、あなたが食ったら牛タンになるだろwww"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbnlvhj7zk2s",
+            "label": [
+                0.8756225109100342,
+                0.003548982786014676,
+                0.05855013430118561,
+                0.05226554349064827,
+                0.0011174193350598216,
+                0.004201476462185383,
+                0.0020867441780865192,
+                0.0026072340551763773
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 1,
+                    "utter": "それこそ、あなたが食ったら牛タンになるだろwww"
+                },
+                {
+                    "author": "did:plc:teli4osisvwxhzdxs6h6txey",
+                    "type": 2,
+                    "utter": "ジュッ\nってなるわね🤣"
+                },
+                {
+                    "author": "did:plc:lzqymcgit3wvgzyvaditz4cz",
+                    "type": 3,
+                    "utter": "ジュッで済むといいけどなぁ🤣"
+                }
+            ],
+            "uri": "at://did:plc:lzqymcgit3wvgzyvaditz4cz/app.bsky.feed.post/3lbnlxtfacs2s",
+            "label": [
+                0.01293423306196928,
+                0.09004992246627808,
+                0.5219622254371643,
+                0.0012565271463245153,
+                0.0006198614137247205,
+                0.3695546090602875,
+                0.002561945701017976,
+                0.0010606443975120783
+            ]
+        }
+    ]
+}

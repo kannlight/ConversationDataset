@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 1,
+                    "utter": "知らない人www"
+                },
+                {
+                    "author": "did:plc:rn5pojjp5wjtyyn7gslksvan",
+                    "type": 2,
+                    "utter": "みんなの名前いただきましたw"
+                },
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 3,
+                    "utter": "旅の労働費ください🙄"
+                }
+            ],
+            "uri": "at://did:plc:pjaqa2lihcrftuptfmutlati/app.bsky.feed.post/3lb4hwrixlk2j",
+            "label": [
+                0.00023483901168219745,
+                0.0018444611923769116,
+                0.9972932934761047,
+                0.00011007964349118993,
+                7.040992932161316e-05,
+                0.0002533204678911716,
+                0.00013139272050466388,
+                6.21300277998671e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 1,
+                    "utter": "旅の労働費ください🙄"
+                },
+                {
+                    "author": "did:plc:rn5pojjp5wjtyyn7gslksvan",
+                    "type": 2,
+                    "utter": "ちょくちょく敵から盗んでるアイテムあるでしょ！しってるんだからね！！"
+                },
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 3,
+                    "utter": "え？もしかしてわたし盗賊？？？wwwwwww"
+                }
+            ],
+            "uri": "at://did:plc:pjaqa2lihcrftuptfmutlati/app.bsky.feed.post/3lb4jmjbz7c2z",
+            "label": [
+                0.001091453479602933,
+                0.00029827197431586683,
+                0.0011923888232558966,
+                0.9966660141944885,
+                0.00016074538871180266,
+                0.0003253686591051519,
+                0.000143242854392156,
+                0.00012250807776581496
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 1,
+                    "utter": "え？もしかしてわたし盗賊？？？wwwwwww"
+                },
+                {
+                    "author": "did:plc:rn5pojjp5wjtyyn7gslksvan",
+                    "type": 2,
+                    "utter": "盗賊w"
+                },
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 3,
+                    "utter": "せめて魔法使いとかwww"
+                }
+            ],
+            "uri": "at://did:plc:pjaqa2lihcrftuptfmutlati/app.bsky.feed.post/3lb573mt6j22j",
+            "label": [
+                0.039013102650642395,
+                0.0006888788775540888,
+                0.957436203956604,
+                0.001700224238447845,
+                0.00017075079085770994,
+                0.00041146448347717524,
+                0.0003079743473790586,
+                0.000271392724243924
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 1,
+                    "utter": "体調悪い\n最低限の人数で仕事まわしとるから休みを切り出すのにもメンタルけずられる\nましてや月曜日😞\nうう…"
+                },
+                {
+                    "author": "did:plc:rn5pojjp5wjtyyn7gslksvan",
+                    "type": 2,
+                    "utter": "私はそれで朝イチに無理ってなって休んでた"
+                },
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 3,
+                    "utter": "代わりに電話してほしい"
+                }
+            ],
+            "uri": "at://did:plc:pjaqa2lihcrftuptfmutlati/app.bsky.feed.post/3lbpzqxo2y22u",
+            "label": [
+                0.003104175440967083,
+                0.0839323177933693,
+                0.8864923119544983,
+                0.0009673807653598487,
+                0.003357179230079055,
+                0.0064418623223900795,
+                0.014668814837932587,
+                0.00103589310310781
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 1,
+                    "utter": "代わりに電話してほしい"
+                },
+                {
+                    "author": "did:plc:rn5pojjp5wjtyyn7gslksvan",
+                    "type": 2,
+                    "utter": "電話番号教えてもろて"
+                },
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 3,
+                    "utter": "やさしい…"
+                }
+            ],
+            "uri": "at://did:plc:pjaqa2lihcrftuptfmutlati/app.bsky.feed.post/3lbqdsckxec23",
+            "label": [
+                0.9994521737098694,
+                0.00015032110968604684,
+                8.190669905161485e-05,
+                0.0001285336766159162,
+                1.574362613609992e-05,
+                5.913983841310255e-05,
+                6.882529851282015e-05,
+                4.338563667261042e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 1,
+                    "utter": "やさしい…"
+                },
+                {
+                    "author": "did:plc:rn5pojjp5wjtyyn7gslksvan",
+                    "type": 2,
+                    "utter": "やさしくはない...\n体調大丈夫？ほんとにむりそうなら休むんだよ"
+                },
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 3,
+                    "utter": "休んだけど罪悪感がすごい\n今頃みんな忙しくしとるんやろなーって😞"
+                }
+            ],
+            "uri": "at://did:plc:pjaqa2lihcrftuptfmutlati/app.bsky.feed.post/3lbqed4qj7c2y",
+            "label": [
+                0.004797282628715038,
+                0.12191891670227051,
+                0.001391477882862091,
+                0.0009440731373615563,
+                0.0009426166652701795,
+                0.8614505529403687,
+                0.008057093247771263,
+                0.0004980741068720818
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 1,
+                    "utter": "休んだけど罪悪感がすごい\n今頃みんな忙しくしとるんやろなーって😞"
+                },
+                {
+                    "author": "did:plc:rn5pojjp5wjtyyn7gslksvan",
+                    "type": 2,
+                    "utter": "忙しくしてても体調悪いまま行く方が迷惑なるから仕方ない思って割り切りましょう"
+                },
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 3,
+                    "utter": "その言葉がめちゃくちゃ響いた\n割り切って休めた1日！"
+                }
+            ],
+            "uri": "at://did:plc:pjaqa2lihcrftuptfmutlati/app.bsky.feed.post/3lbqzh6lgw22o",
+            "label": [
+                0.9995930790901184,
+                4.5154851250117645e-05,
+                0.00010638865933287889,
+                8.213210821850225e-05,
+                2.95739318971755e-05,
+                3.573558569769375e-05,
+                4.3303080019541085e-05,
+                6.470940570579842e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 1,
+                    "utter": "その言葉がめちゃくちゃ響いた\n割り切って休めた1日！"
+                },
+                {
+                    "author": "did:plc:rn5pojjp5wjtyyn7gslksvan",
+                    "type": 2,
+                    "utter": "休めるのが1番！\n実際無理して行って悪化してその後数日休む事考えたら早めに1日休んだ方が全員の為"
+                },
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 3,
+                    "utter": "無理して行ってしんどそうに仕事されたら周りも嫌やろうって無理やり考えて寝てた🥱🫧"
+                }
+            ],
+            "uri": "at://did:plc:pjaqa2lihcrftuptfmutlati/app.bsky.feed.post/3lbrajlw7jk2y",
+            "label": [
+                0.006960951257497072,
+                0.8925249576568604,
+                0.002397861797362566,
+                0.0006932176765985787,
+                0.0004027982649859041,
+                0.07857470214366913,
+                0.018111132085323334,
+                0.0003343634307384491
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 1,
+                    "utter": "ミラティブって結局換金できるの？🙄"
+                },
+                {
+                    "author": "did:plc:uq5lyhm4tla2emjqlackxsos",
+                    "type": 2,
+                    "utter": "そこ重要だぞ🫵"
+                },
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 3,
+                    "utter": "収益化できるっぽい"
+                }
+            ],
+            "uri": "at://did:plc:pjaqa2lihcrftuptfmutlati/app.bsky.feed.post/3lbgte5xsvs2k",
+            "label": [
+                0.003523621242493391,
+                0.0001728515198919922,
+                0.9954848289489746,
+                0.0003971639962401241,
+                5.946459714323282e-05,
+                0.00019150407752022147,
+                7.166960131144151e-05,
+                9.899085125653073e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 1,
+                    "utter": "寝てた\nご飯も洗濯もしてない"
+                },
+                {
+                    "author": "did:plc:rn5pojjp5wjtyyn7gslksvan",
+                    "type": 2,
+                    "utter": "ご飯行ったんじゃなかったんw"
+                },
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 3,
+                    "utter": "家にあるもんで食べた！\nちいかわのレトルトカレー！🍛"
+                }
+            ],
+            "uri": "at://did:plc:pjaqa2lihcrftuptfmutlati/app.bsky.feed.post/3lb2wudurss2b",
+            "label": [
+                0.9988701939582825,
+                8.864262781571597e-05,
+                0.0007550491136498749,
+                8.574226376367733e-05,
+                3.5944442061008886e-05,
+                3.9775375626049936e-05,
+                6.496728747151792e-05,
+                5.958931797067635e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 1,
+                    "utter": "家にあるもんで食べた！\nちいかわのレトルトカレー！🍛"
+                },
+                {
+                    "author": "did:plc:rn5pojjp5wjtyyn7gslksvan",
+                    "type": 2,
+                    "utter": "いいね！"
+                },
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 3,
+                    "utter": "モニター買ったから節約"
+                }
+            ],
+            "uri": "at://did:plc:pjaqa2lihcrftuptfmutlati/app.bsky.feed.post/3lb2xdowlmc2g",
+            "label": [
+                0.9982020854949951,
+                0.00010791305248858407,
+                0.0013341219164431095,
+                9.540964674670249e-05,
+                5.335301466402598e-05,
+                4.5625940401805565e-05,
+                7.53445056034252e-05,
+                8.610646182205528e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 1,
+                    "utter": "モニター買ったから節約"
+                },
+                {
+                    "author": "did:plc:rn5pojjp5wjtyyn7gslksvan",
+                    "type": 2,
+                    "utter": "節約だいじ！"
+                },
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 3,
+                    "utter": "ゆぅなさんのご飯🥺🥺🥺"
+                }
+            ],
+            "uri": "at://did:plc:pjaqa2lihcrftuptfmutlati/app.bsky.feed.post/3lb2yftlre22v",
+            "label": [
+                0.999518871307373,
+                6.355037476168945e-05,
+                0.00020263616170268506,
+                6.287758878897876e-05,
+                2.4464216039632447e-05,
+                3.451672455412336e-05,
+                5.057924136053771e-05,
+                4.2520277929725125e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 1,
+                    "utter": "ゆぅなさんのご飯🥺🥺🥺"
+                },
+                {
+                    "author": "did:plc:rn5pojjp5wjtyyn7gslksvan",
+                    "type": 2,
+                    "utter": "食べにおいで"
+                },
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 3,
+                    "utter": "明日のご飯は何？🍚"
+                }
+            ],
+            "uri": "at://did:plc:pjaqa2lihcrftuptfmutlati/app.bsky.feed.post/3lb2ywbass22e",
+            "label": [
+                0.04749621823430061,
+                0.001779634039849043,
+                0.948465883731842,
+                0.0005672391271218657,
+                0.00017687510990072042,
+                0.0008306786767207086,
+                0.00032172005739994347,
+                0.00036171876126900315
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 1,
+                    "utter": "明日のご飯は何？🍚"
+                },
+                {
+                    "author": "did:plc:rn5pojjp5wjtyyn7gslksvan",
+                    "type": 2,
+                    "utter": "わかんないw"
+                },
+                {
+                    "author": "did:plc:pjaqa2lihcrftuptfmutlati",
+                    "type": 3,
+                    "utter": "肉じゃが食べたいな"
+                }
+            ],
+            "uri": "at://did:plc:pjaqa2lihcrftuptfmutlati/app.bsky.feed.post/3lb2zzgae5c2p",
+            "label": [
+                0.0008988003246486187,
+                0.00022469053510576487,
+                0.9985218644142151,
+                9.98254181467928e-05,
+                5.476772639667615e-05,
+                8.356864418601617e-05,
+                6.008711352478713e-05,
+                5.635163324768655e-05
+            ]
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 1,
+                    "utter": "こちらは全然\n見つかりませんでしたー(　߹꒳​߹ )"
+                },
+                {
+                    "author": "did:plc:otwp3ciphhw5s4l3hc7d3b5v",
+                    "type": 2,
+                    "utter": "あら(´・ω・｀)\nこっちで買いますか？笑\nまだ明日残ってたらって感じですけど(´・ω・｀)"
+                },
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 3,
+                    "utter": "優しい( ；꒳​； )\n悩むー...\n最近タンブラー2つ買っちゃったので\n出会えたら運命だと思って\n買います(  ｰ̀֊ｰ́ )笑"
+                }
+            ],
+            "uri": "at://did:plc:xpmmtkc3n6ywerwuvdcvmdnl/app.bsky.feed.post/3lc25iiew4s2e",
+            "label": [
+                0.0026417754124850035,
+                0.00025382955209352076,
+                0.9966145157814026,
+                0.00011672601249301806,
+                5.5622775107622147e-05,
+                0.0001862331118900329,
+                5.5811138736316934e-05,
+                7.54483335185796e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 1,
+                    "utter": "優しい( ；꒳​； )\n悩むー...\n最近タンブラー2つ買っちゃったので\n出会えたら運命だと思って\n買います(  ｰ̀֊ｰ́ )笑"
+                },
+                {
+                    "author": "did:plc:otwp3ciphhw5s4l3hc7d3b5v",
+                    "type": 2,
+                    "utter": "タンブラーばっかりになりますね(´・ω・｀)笑\nちいかわとハチワレは結構見かけるんですけど、うさぎ残ってるとこほぼ無くて(´・ω・｀)必要だったら見に行くので声かけてくださいね！"
+                },
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 3,
+                    "utter": "ありがとうございます⸜(*ˊᗜˋ*)⸝\n3人とも見かけない...\nまさか田舎で入荷してない?!"
+                }
+            ],
+            "uri": "at://did:plc:xpmmtkc3n6ywerwuvdcvmdnl/app.bsky.feed.post/3lc25ptd5522p",
+            "label": [
+                0.9982037544250488,
+                0.0004447739920578897,
+                0.00017317294259555638,
+                0.0007111610611900687,
+                3.2198280678130686e-05,
+                0.00028073330759070814,
+                7.148658914957196e-05,
+                8.263924246421084e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 1,
+                    "utter": "ありがとうございます⸜(*ˊᗜˋ*)⸝\n3人とも見かけない...\nまさか田舎で入荷してない?!"
+                },
+                {
+                    "author": "did:plc:otwp3ciphhw5s4l3hc7d3b5v",
+                    "type": 2,
+                    "utter": "あ、でも近くのローソンは初日の朝行ったらなくて、さっき行ったらあったので笑\n遅れて入荷してるとこもあるかもしれないですね٩(ˊᗜˋ*)و"
+                },
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 3,
+                    "utter": "やっぱり遅れてるとこもあるんですね!!\nローソン行ってみます(￣^￣)ゞ"
+                }
+            ],
+            "uri": "at://did:plc:xpmmtkc3n6ywerwuvdcvmdnl/app.bsky.feed.post/3lc2bbabi422i",
+            "label": [
+                0.0022743362933397293,
+                0.00029477718635462224,
+                0.996184766292572,
+                0.0008791047148406506,
+                7.849035318940878e-05,
+                0.0001177209269371815,
+                6.090077295084484e-05,
+                0.0001098249267670326
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 1,
+                    "utter": "やっぱり遅れてるとこもあるんですね!!\nローソン行ってみます(￣^￣)ゞ"
+                },
+                {
+                    "author": "did:plc:otwp3ciphhw5s4l3hc7d3b5v",
+                    "type": 2,
+                    "utter": "探してみてください〜\nあるといいですね(๑•̀ㅂ•́)و✧"
+                },
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 3,
+                    "utter": "今から行ってきます!!!!!"
+                }
+            ],
+            "uri": "at://did:plc:xpmmtkc3n6ywerwuvdcvmdnl/app.bsky.feed.post/3lc3cfrnl422o",
+            "label": [
+                0.9685251116752625,
+                0.00045866065192967653,
+                0.029717661440372467,
+                0.0003506746725179255,
+                0.0002093145449180156,
+                0.00019214690837543458,
+                0.0002494139480404556,
+                0.000297095044516027
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 1,
+                    "utter": "ライブの前に行ってみようかな...と。\n混んでたら諦めようかな...(•ᴗ•; )"
+                },
+                {
+                    "author": "did:plc:otwp3ciphhw5s4l3hc7d3b5v",
+                    "type": 2,
+                    "utter": "あ！ちょうどその時期！\n見れたらいいですね( ́•ૢ⌔•ૢ ̀)♡"
+                },
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 3,
+                    "utter": "そうなんです(˶' ᵕ ' ˶)\n新幹線取っちゃったので\nそんなに早くは行けないです( ˊᵕˋ ;)"
+                }
+            ],
+            "uri": "at://did:plc:xpmmtkc3n6ywerwuvdcvmdnl/app.bsky.feed.post/3lbyydh4ujs2u",
+            "label": [
+                0.1650324910879135,
+                0.6169264316558838,
+                0.023012176156044006,
+                0.004632654599845409,
+                0.0007006222731433809,
+                0.1850850135087967,
+                0.0030292831361293793,
+                0.001581257558427751
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 1,
+                    "utter": "そうなんです(˶' ᵕ ' ˶)\n新幹線取っちゃったので\nそんなに早くは行けないです( ˊᵕˋ ;)"
+                },
+                {
+                    "author": "did:plc:otwp3ciphhw5s4l3hc7d3b5v",
+                    "type": 2,
+                    "utter": "新幹線て時間はずらせないんですか(´・ω・｀)？手数料かかるのかな？\nなんとか！見に行けますようにー！！！"
+                },
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 3,
+                    "utter": "トクだ値っていう安いので\n取ったんですけど、変更すると\n定価に戻っちゃうんですよね...\n悩むーーー(-.-;)"
+                }
+            ],
+            "uri": "at://did:plc:xpmmtkc3n6ywerwuvdcvmdnl/app.bsky.feed.post/3lbz4au2fwk2d",
+            "label": [
+                0.039704881608486176,
+                0.015488015487790108,
+                0.0089180376380682,
+                0.001388330478221178,
+                0.00029875998734496534,
+                0.9329210519790649,
+                0.000725311751011759,
+                0.0005555262905545533
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 1,
+                    "utter": "トクだ値っていう安いので\n取ったんですけど、変更すると\n定価に戻っちゃうんですよね...\n悩むーーー(-.-;)"
+                },
+                {
+                    "author": "did:plc:otwp3ciphhw5s4l3hc7d3b5v",
+                    "type": 2,
+                    "utter": "あー(´；ω；｀)！\nそれはせっかく安く取ったのにもったいない…タイミングー！！！"
+                },
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 3,
+                    "utter": "30%オフなんです!!!\n4日に早起きすればいいのか?って\n思ってきました(◜ᴗ◝ )"
+                }
+            ],
+            "uri": "at://did:plc:xpmmtkc3n6ywerwuvdcvmdnl/app.bsky.feed.post/3lbzbxauq6k2g",
+            "label": [
+                0.9869472980499268,
+                0.00023115896328818053,
+                0.011750305071473122,
+                0.0005217188154347241,
+                0.000137118564452976,
+                0.00011343292135279626,
+                0.00010984936670865864,
+                0.00018921187438536435
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 1,
+                    "utter": "30%オフなんです!!!\n4日に早起きすればいいのか?って\n思ってきました(◜ᴗ◝ )"
+                },
+                {
+                    "author": "did:plc:otwp3ciphhw5s4l3hc7d3b5v",
+                    "type": 2,
+                    "utter": "30%！\nそれは新幹線そのままでなんとか行ける方向考えましょう(´；ω；｀)！\n4日は終わった後そのまま帰るんですか？"
+                },
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 3,
+                    "utter": "帰りも30%ので取ってて...\n余裕持って取ってはいるんですが\nなにせ方向音痴で間に合わなかったら\nどーしようとか思ってます(•ᴗ•; )笑"
+                }
+            ],
+            "uri": "at://did:plc:xpmmtkc3n6ywerwuvdcvmdnl/app.bsky.feed.post/3lbzdgfs5xs2a",
+            "label": [
+                0.001480366918258369,
+                0.0014075548388063908,
+                0.0017954993527382612,
+                0.0010437240125611424,
+                0.000254143524216488,
+                0.9935345649719238,
+                0.0002998237614519894,
+                0.00018440875282976776
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 1,
+                    "utter": "一部でやってるみたいですね!!!\nこちらはやってませんよー(˶' ᵕ ' ˶)\n...どのタイミングで\nオカワリに行けばいいんでしょう??笑"
+                },
+                {
+                    "author": "did:plc:otwp3ciphhw5s4l3hc7d3b5v",
+                    "type": 2,
+                    "utter": "そうなんですね！全部じゃないんですか！？\n映画の前に飲みすぎたらトイレ行きたくなるし(´・ω・｀)\n途中で席立つとかできないんですけど！？って感じですよね笑\nオカワリできない…笑"
+                },
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 3,
+                    "utter": "トイレ問題もありますね( ˊᵕˋ ;)\nどうやって利用するのが正解なのか...笑"
+                }
+            ],
+            "uri": "at://did:plc:xpmmtkc3n6ywerwuvdcvmdnl/app.bsky.feed.post/3lbtzje4f2k2n",
+            "label": [
+                0.03024461306631565,
+                0.025991640985012054,
+                0.004485065583139658,
+                0.0022412328980863094,
+                0.0003326558507978916,
+                0.9350461959838867,
+                0.0011924880091100931,
+                0.00046606044634245336
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 1,
+                    "utter": "トイレ問題もありますね( ˊᵕˋ ;)\nどうやって利用するのが正解なのか...笑"
+                },
+                {
+                    "author": "did:plc:otwp3ciphhw5s4l3hc7d3b5v",
+                    "type": 2,
+                    "utter": "映画に集中できなくなりますよね(´・ω・｀)笑\n映画終わったあとに飲みながらロビーで語る…笑"
+                },
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 3,
+                    "utter": "なるほど!!!笑\n余韻に浸りましょう(˶' ᵕ ' ˶)\nいっぱい飲んでるください!!\n酒じゃないのが残念ですが...笑"
+                }
+            ],
+            "uri": "at://did:plc:xpmmtkc3n6ywerwuvdcvmdnl/app.bsky.feed.post/3lbtzt22qqs2r",
+            "label": [
+                0.26163530349731445,
+                0.002016395563259721,
+                0.7339907288551331,
+                0.000461924122646451,
+                0.00033781089587137103,
+                0.0005880095413886011,
+                0.0005299312761053443,
+                0.0004398896126076579
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 1,
+                    "utter": "なるほど!!!笑\n余韻に浸りましょう(˶' ᵕ ' ˶)\nいっぱい飲んでるください!!\n酒じゃないのが残念ですが...笑"
+                },
+                {
+                    "author": "did:plc:otwp3ciphhw5s4l3hc7d3b5v",
+                    "type": 2,
+                    "utter": "ソフトドリンクで語るのです！！笑"
+                },
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 3,
+                    "utter": "ぼっちで来てるので即帰宅です!!笑\n明日は連れがいる予定です(*´˘`*)\n相手の気が変わらなければ...ꉂꉂ(ˊᗜˋ*)"
+                }
+            ],
+            "uri": "at://did:plc:xpmmtkc3n6ywerwuvdcvmdnl/app.bsky.feed.post/3lbu22rp5sk2q",
+            "label": [
+                0.0011561280116438866,
+                0.0004271217330824584,
+                0.9980339407920837,
+                7.851127884350717e-05,
+                4.420494587975554e-05,
+                0.00014226525672711432,
+                6.170489359647036e-05,
+                5.602062083198689e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 1,
+                    "utter": "ぼっちで来てるので即帰宅です!!笑\n明日は連れがいる予定です(*´˘`*)\n相手の気が変わらなければ...ꉂꉂ(ˊᗜˋ*)"
+                },
+                {
+                    "author": "did:plc:otwp3ciphhw5s4l3hc7d3b5v",
+                    "type": 2,
+                    "utter": "私もぼっちだったのでもう家です！笑\nもしかして毎日行ってますね！？笑"
+                },
+                {
+                    "author": "did:plc:xpmmtkc3n6ywerwuvdcvmdnl",
+                    "type": 3,
+                    "utter": "えーん!!近かったら一緒に\nドリンクバーでお話できるのにー!!!笑\n行けるだけ行こうと思ったら\n案外毎日行けちゃってます(•ᴗ•; )笑"
+                }
+            ],
+            "uri": "at://did:plc:xpmmtkc3n6ywerwuvdcvmdnl/app.bsky.feed.post/3lbu6xrepyk2z",
+            "label": [
+                0.09076999127864838,
+                0.5549130439758301,
+                0.0045132203958928585,
+                0.3415640592575073,
+                0.000600874365773052,
+                0.004925158806145191,
+                0.0019895483274012804,
+                0.0007240374106913805
+            ]
+        }
+    ]
+}

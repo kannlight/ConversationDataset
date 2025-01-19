@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 1,
+                    "utter": "寝なきゃなのに返事が返ってくるのを楽しみになり過ぎて寝れないジレンマに陥ってますww"
+                },
+                {
+                    "author": "did:plc:g7vgturv5k47xgjumro5weds",
+                    "type": 2,
+                    "utter": "おはんよ(  ˊ꒳ˋ ) ᐝちょっとだけ寝れた(  ˊ꒳ˋ ) ᐝ"
+                },
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 3,
+                    "utter": "おはよっ！\n少しでも寝れたのなら良かった！"
+                }
+            ],
+            "uri": "at://did:plc:r7adksnodtx5rvhgfptbjj6h/app.bsky.feed.post/3lc2mdjw45k2d",
+            "label": [
+                0.9994194507598877,
+                5.617677015834488e-05,
+                0.00028656801441684365,
+                6.71947855153121e-05,
+                2.9162780265323818e-05,
+                4.0167258703149855e-05,
+                4.9314821808366105e-05,
+                5.1931041525676847e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 1,
+                    "utter": "おはよっ！\n少しでも寝れたのなら良かった！"
+                },
+                {
+                    "author": "did:plc:g7vgturv5k47xgjumro5weds",
+                    "type": 2,
+                    "utter": "うん！\nリプ付き合ってくれてありがとうねっ(❁´ω`❁)"
+                },
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 3,
+                    "utter": "これくらいなら苦でもなくむしろ頼られて嬉しかった✨"
+                }
+            ],
+            "uri": "at://did:plc:r7adksnodtx5rvhgfptbjj6h/app.bsky.feed.post/3lc2mjeluck2d",
+            "label": [
+                0.9996316432952881,
+                4.293228266760707e-05,
+                0.00010166253196075559,
+                5.9787576901726425e-05,
+                2.966379906865768e-05,
+                4.400587931741029e-05,
+                4.771506428369321e-05,
+                4.2489806219236925e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 1,
+                    "utter": "これくらいなら苦でもなくむしろ頼られて嬉しかった✨"
+                },
+                {
+                    "author": "did:plc:g7vgturv5k47xgjumro5weds",
+                    "type": 2,
+                    "utter": "んへへ(* 'ᵕ' )ありがとう(o´罒`o)"
+                },
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 3,
+                    "utter": "(*´  `*)ｨｪｨｪ♪ちなこの後のご予定は？"
+                }
+            ],
+            "uri": "at://did:plc:r7adksnodtx5rvhgfptbjj6h/app.bsky.feed.post/3lc2ms65c2s2n",
+            "label": [
+                0.9990829229354858,
+                8.666277426527813e-05,
+                0.0005626844940707088,
+                6.620680505875498e-05,
+                3.6418758099898696e-05,
+                4.877027458860539e-05,
+                6.657973426626995e-05,
+                4.976406489731744e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 1,
+                    "utter": "(*´  `*)ｨｪｨｪ♪ちなこの後のご予定は？"
+                },
+                {
+                    "author": "did:plc:g7vgturv5k47xgjumro5weds",
+                    "type": 2,
+                    "utter": "１回お手紙企画の動画撮ってその後は発送とか出来たら配信かな？"
+                },
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 3,
+                    "utter": "いいねいいね！\n体調良くて配信ありそうなら楽しみにしておく！"
+                }
+            ],
+            "uri": "at://did:plc:r7adksnodtx5rvhgfptbjj6h/app.bsky.feed.post/3lc2mxgyq7s2i",
+            "label": [
+                0.27007541060447693,
+                0.001000782591290772,
+                0.7267123460769653,
+                0.0005246233777143061,
+                0.00039639323949813843,
+                0.0004670297494158149,
+                0.0003811878268606961,
+                0.0004422246420290321
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 1,
+                    "utter": "いいねいいね！\n体調良くて配信ありそうなら楽しみにしておく！"
+                },
+                {
+                    "author": "did:plc:g7vgturv5k47xgjumro5weds",
+                    "type": 2,
+                    "utter": "今はもう打ちに行ってんのかな？\n発送して来たら配信するだよ(* 'ᵕ' )☆"
+                },
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 3,
+                    "utter": "今はお仕事中よ〜！\n(°∀° )おっ!!配信楽しみに待ってる！"
+                }
+            ],
+            "uri": "at://did:plc:r7adksnodtx5rvhgfptbjj6h/app.bsky.feed.post/3lc2sgjk72k2c",
+            "label": [
+                0.002162692602723837,
+                0.00029481027740985155,
+                0.9971036314964294,
+                0.00011009828449459746,
+                7.35103094484657e-05,
+                0.00011704776989063248,
+                6.714178016409278e-05,
+                7.099780486896634e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 1,
+                    "utter": "おはよ(  ¯꒳​¯ )ᐝ\n寝れてないの？"
+                },
+                {
+                    "author": "did:plc:g7vgturv5k47xgjumro5weds",
+                    "type": 2,
+                    "utter": "おはりる〜( ܸ ⩌⩊⩌ ܸ )寝れてない( ܸ ⩌⩊⩌ ܸ )ｱﾘｬ"
+                },
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 3,
+                    "utter": "ありゃ…\n寝れない原因があったり？"
+                }
+            ],
+            "uri": "at://did:plc:r7adksnodtx5rvhgfptbjj6h/app.bsky.feed.post/3lc23fwafi22d",
+            "label": [
+                0.011630582623183727,
+                0.6593942046165466,
+                0.001970105804502964,
+                0.16434845328330994,
+                0.0016572646563872695,
+                0.1516919583082199,
+                0.008660797029733658,
+                0.0006466544582508504
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 1,
+                    "utter": "ありゃ…\n寝れない原因があったり？"
+                },
+                {
+                    "author": "did:plc:g7vgturv5k47xgjumro5weds",
+                    "type": 2,
+                    "utter": "んー、単純に寝付けなかった及び気圧( ੭⌯᷄ω⌯᷅ ).｡oஇ‬"
+                },
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 3,
+                    "utter": "あぁ…気圧か\n寒くなってから天気も安定してないし\nそれか…\nﾖｼﾖｼ(｡´･ω･)ﾉﾞ"
+                }
+            ],
+            "uri": "at://did:plc:r7adksnodtx5rvhgfptbjj6h/app.bsky.feed.post/3lc23mcgkas2d",
+            "label": [
+                0.7271543741226196,
+                0.19805201888084412,
+                0.028401536867022514,
+                0.0029673201497644186,
+                0.0009088996448554099,
+                0.01891176775097847,
+                0.020735161378979683,
+                0.002868923358619213
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 1,
+                    "utter": "あぁ…気圧か\n寒くなってから天気も安定してないし\nそれか…\nﾖｼﾖｼ(｡´･ω･)ﾉﾞ"
+                },
+                {
+                    "author": "did:plc:g7vgturv5k47xgjumro5weds",
+                    "type": 2,
+                    "utter": "それかも〜(*´◜ᾥ◝)ｸｯ\nだからひまひまじゃ_(:З｣∠)_"
+                },
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 3,
+                    "utter": "私の方で☀☁☀☔☀って感じで\n毎日天気がコロコロ変わるのよ…\n\n暇なのかww\n起きてから準備とか色々しなきゃだけど相手しましょか？"
+                }
+            ],
+            "uri": "at://did:plc:r7adksnodtx5rvhgfptbjj6h/app.bsky.feed.post/3lc23uln7ik2d",
+            "label": [
+                0.034540850669145584,
+                0.2102918028831482,
+                0.6710524559020996,
+                0.014009171165525913,
+                0.006532599218189716,
+                0.011552114970982075,
+                0.05028623342514038,
+                0.0017347169341519475
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 1,
+                    "utter": "私の方で☀☁☀☔☀って感じで\n毎日天気がコロコロ変わるのよ…\n\n暇なのかww\n起きてから準備とか色々しなきゃだけど相手しましょか？"
+                },
+                {
+                    "author": "did:plc:g7vgturv5k47xgjumro5weds",
+                    "type": 2,
+                    "utter": "それともキャスとかの方がいいのかのう？"
+                },
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 3,
+                    "utter": "あぁ…そこはときせ氏にお任せするよ！"
+                }
+            ],
+            "uri": "at://did:plc:r7adksnodtx5rvhgfptbjj6h/app.bsky.feed.post/3lc244ojk4s2h",
+            "label": [
+                0.01968303695321083,
+                0.0020752178970724344,
+                0.9767501950263977,
+                0.00017304667562711984,
+                9.86030645435676e-05,
+                0.0007844418869353831,
+                0.00020855804905295372,
+                0.00022693058417644352
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 1,
+                    "utter": "oh(´・ω・｀)..."
+                },
+                {
+                    "author": "did:plc:g7vgturv5k47xgjumro5weds",
+                    "type": 2,
+                    "utter": "やっぶぇえ！"
+                },
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 3,
+                    "utter": "気圧よ耐えるのだ(;`皿´)ｸﾞﾇﾇ\nときせ氏の自宅付近だけピンポイントで避けよ！！w"
+                }
+            ],
+            "uri": "at://did:plc:r7adksnodtx5rvhgfptbjj6h/app.bsky.feed.post/3lbwghqnv4k25",
+            "label": [
+                0.004097777418792248,
+                0.05835263431072235,
+                0.8628024458885193,
+                0.007100708782672882,
+                0.004158814437687397,
+                0.05768786370754242,
+                0.004642945248633623,
+                0.001156761427409947
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 1,
+                    "utter": "気圧よ耐えるのだ(;`皿´)ｸﾞﾇﾇ\nときせ氏の自宅付近だけピンポイントで避けよ！！w"
+                },
+                {
+                    "author": "did:plc:g7vgturv5k47xgjumro5weds",
+                    "type": 2,
+                    "utter": "台風の目の様に晴れ渡れ！！！"
+                },
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 3,
+                    "utter": "参加型楽しみにしてるんや\n気圧が楽しみを奪うんやない！w"
+                }
+            ],
+            "uri": "at://did:plc:r7adksnodtx5rvhgfptbjj6h/app.bsky.feed.post/3lbwgmxnvvs25",
+            "label": [
+                0.0011079303221777081,
+                0.9486939311027527,
+                0.0009046329651027918,
+                0.002427750499919057,
+                0.03478657081723213,
+                0.0013407383812591434,
+                0.010444260202348232,
+                0.0002941654820460826
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 1,
+                    "utter": "参加型楽しみにしてるんや\n気圧が楽しみを奪うんやない！w"
+                },
+                {
+                    "author": "did:plc:g7vgturv5k47xgjumro5weds",
+                    "type": 2,
+                    "utter": "気圧はん…ぶぶ漬け食べはる？(*´◜ᾥ◝)"
+                },
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 3,
+                    "utter": "食べに降りてきたら死ぬで"
+                }
+            ],
+            "uri": "at://did:plc:r7adksnodtx5rvhgfptbjj6h/app.bsky.feed.post/3lbwgt3ylsk25",
+            "label": [
+                0.0008145611500367522,
+                0.002349808579310775,
+                0.0005414900952018797,
+                0.0015488272765651345,
+                0.0004259480338077992,
+                0.993606686592102,
+                0.0005283407517708838,
+                0.00018444184388499707
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 1,
+                    "utter": "食べに降りてきたら死ぬで"
+                },
+                {
+                    "author": "did:plc:g7vgturv5k47xgjumro5weds",
+                    "type": 2,
+                    "utter": "ｱｯ…"
+                },
+                {
+                    "author": "did:plc:r7adksnodtx5rvhgfptbjj6h",
+                    "type": 3,
+                    "utter": "(　`ᾥ´　)ｸｯ既に気圧に脳をやられていたか…"
+                }
+            ],
+            "uri": "at://did:plc:r7adksnodtx5rvhgfptbjj6h/app.bsky.feed.post/3lbwhemmps225",
+            "label": [
+                0.0004933252348564565,
+                0.9974554181098938,
+                0.00013626227155327797,
+                0.0004495274624787271,
+                7.037263276288286e-05,
+                0.001096838852390647,
+                0.0002678547170944512,
+                3.052045576623641e-05
+            ]
+        }
+    ]
+}

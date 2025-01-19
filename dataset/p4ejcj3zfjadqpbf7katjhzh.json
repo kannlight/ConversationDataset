@@ -1,0 +1,664 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "お〜〜あったありがとうございますm(__)m✨️"
+                },
+                {
+                    "author": "did:plc:qnwju3vhxxi4txrzxgsubyek",
+                    "type": 2,
+                    "utter": "こちらこそありがとうございますっ、そして遅くなってしまいすみませんでした！\nそういや湍さんが今回のタグの名前で唯一の１文字さんでしたが、字間違ってませんでしたかn("
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "大丈夫です合ってます!\n唯一の一文字ｗ"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbyhgmzyyc2n",
+            "label": [
+                0.9966423511505127,
+                0.00015528430230915546,
+                0.001755138044245541,
+                0.00014028420264367014,
+                9.030268847709522e-05,
+                0.0006204771343618631,
+                0.000175259803654626,
+                0.0004208704922348261
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "ほんそれ。ぬっこは脇に描く形にしとこうかな....ぬっこはだめだ"
+                },
+                {
+                    "author": "did:plc:cuoy7qs26eo3abfqykjlqag4",
+                    "type": 2,
+                    "utter": "ぬっこは脇に、もしくは…少しかかるぐらいでが良いのかな？もしくは円の形に作って、中に入れる…タイプ"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "あ、それいいね円タイプ。\n作り方分からんけど..."
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lboh5ytmkc2d",
+            "label": [
+                0.6971760988235474,
+                0.0020097098313272,
+                0.2975439727306366,
+                0.0015253325691446662,
+                0.00023455241171177477,
+                0.00037616892950609326,
+                0.0005199821898713708,
+                0.0006142191705293953
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "あ、それいいね円タイプ。\n作り方分からんけど..."
+                },
+                {
+                    "author": "did:plc:cuoy7qs26eo3abfqykjlqag4",
+                    "type": 2,
+                    "utter": "円形なんか作り方あるみたいだけど…わからないから、自分でつくってる😂\nあと四角とか菱形"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "あとで頑張って探してみるかあ...\n菱形とか四角は普通の絵にいいなあ🤔"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbohncmtjc2d",
+            "label": [
+                0.004318416118621826,
+                0.00033220628392882645,
+                0.994821310043335,
+                0.0001422019413439557,
+                7.943374657770619e-05,
+                0.0001163964843726717,
+                9.066238271770999e-05,
+                9.934179979609326e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "あとで頑張って探してみるかあ...\n菱形とか四角は普通の絵にいいなあ🤔"
+                },
+                {
+                    "author": "did:plc:cuoy7qs26eo3abfqykjlqag4",
+                    "type": 2,
+                    "utter": "なんかね…？この絵なら四角とか丸とか考え始めたら止まらなくてね？デザインするのが楽しくなってきていて…毎回デザイン変えてしまうかもしれない😂"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "そんなコロコロ変えられるものなのか...え、何でウォーターマーク作ってるの🤔(苦戦するんだけど)"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbohzl2uws2d",
+            "label": [
+                0.0004129247972741723,
+                0.0006466907216235995,
+                0.0003438059939071536,
+                0.9976133108139038,
+                0.00020129329641349614,
+                0.0004176500078756362,
+                0.00028044040664099157,
+                8.379382052225992e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "大谷の話題を振ると大谷ハラスメントとか草やわ"
+                },
+                {
+                    "author": "did:plc:r32d5k5c2py6s2v2gvc2ztm7",
+                    "type": 2,
+                    "utter": "もはや大谷ハラスメントハラスメントすよね😂"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "ほんとそれですねもう言ってるそれもハラスメントっていうｗｗハラスメントの境界がもう分からなくなってきてますｗｗ"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbebnjl3hc2i",
+            "label": [
+                0.02306346409022808,
+                0.023463552817702293,
+                0.0016070433193817735,
+                0.04274245351552963,
+                0.04150765761733055,
+                0.10661862045526505,
+                0.7572690844535828,
+                0.003728141076862812
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "ほんとそれですねもう言ってるそれもハラスメントっていうｗｗハラスメントの境界がもう分からなくなってきてますｗｗ"
+                },
+                {
+                    "author": "did:plc:r32d5k5c2py6s2v2gvc2ztm7",
+                    "type": 2,
+                    "utter": "なんだもかんでもはちょい違いますよねえ😅"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "ハラスメントという言葉がいいように利用されてますよねえ....何この世の中"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbecdrdfas2i",
+            "label": [
+                0.003553733928129077,
+                0.21548396348953247,
+                0.0007358695147559047,
+                0.008207402192056179,
+                0.011064760386943817,
+                0.06481701880693436,
+                0.695233166217804,
+                0.0009041595039889216
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "ハラスメントという言葉がいいように利用されてますよねえ....何この世の中"
+                },
+                {
+                    "author": "did:plc:r32d5k5c2py6s2v2gvc2ztm7",
+                    "type": 2,
+                    "utter": "ほんとそう思います、自身たちのことは棚に上げて言うてますもんね"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "そう、棚に上げて言ってるの気になりますね。\n\nというか棚に上げて言ってるからハラスメントってなんだっけ？？？？？？ってなってくる....."
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbeygisblc2z",
+            "label": [
+                0.0029084940906614065,
+                0.003935241140425205,
+                0.0012822204735130072,
+                0.003512704512104392,
+                0.020913386717438698,
+                0.0027367500588297844,
+                0.963869035243988,
+                0.0008422297541983426
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "そう、棚に上げて言ってるの気になりますね。\n\nというか棚に上げて言ってるからハラスメントってなんだっけ？？？？？？ってなってくる....."
+                },
+                {
+                    "author": "did:plc:r32d5k5c2py6s2v2gvc2ztm7",
+                    "type": 2,
+                    "utter": "棚に上げて言ってる人にハラスメントって言い過ぎなのが、棚に上げて言ってる人に棚に上げて言うハラスメントハラスメントですね😂\n日本語むずすぎです😅"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "略してハラハラになるんでしょうかね...ここまでくるともう屁理屈に見えて哲学みたいになってきてて無限ループ入りそうです_(┐「ε:)_"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbf2kswddc2z",
+            "label": [
+                0.18227769434452057,
+                0.05324484780430794,
+                0.04016408324241638,
+                0.003191255033016205,
+                0.0006911040982231498,
+                0.7108280658721924,
+                0.007077901624143124,
+                0.0025250380858778954
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "略してハラハラになるんでしょうかね...ここまでくるともう屁理屈に見えて哲学みたいになってきてて無限ループ入りそうです_(┐「ε:)_"
+                },
+                {
+                    "author": "did:plc:r32d5k5c2py6s2v2gvc2ztm7",
+                    "type": 2,
+                    "utter": "ほんと哲学かもしんないすね😳✨\n個人的な考えだと、セクハラは防ぐのが難しいからハラスメントですが大谷ハラスメントは見なきゃいいんで違うと思いますねー難しい！"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "大谷見なきゃ良いんですけど話振られると逃げられないのがねえ....\nそれ言ったら何言ってもハラスメントになるからだめかｗ"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbf3icmj4s2z",
+            "label": [
+                0.015152678824961185,
+                0.5125178098678589,
+                0.0027907395269721746,
+                0.0017671218374744058,
+                0.0022487975656986237,
+                0.2681465148925781,
+                0.19639119505882263,
+                0.0009851298527792096
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "ひゅるりらぱっぱは聞いたことなかったなあ....こんな曲もあるのかぁ〜"
+                },
+                {
+                    "author": "did:plc:cuoy7qs26eo3abfqykjlqag4",
+                    "type": 2,
+                    "utter": "意外と落ち着いた声で良い感じかなと思ってね✨"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "落ち着いてるけど疾走感あるよの✨️ありがとうございまする〜〜"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbeyj5fams2z",
+            "label": [
+                0.9996464252471924,
+                4.5252407289808616e-05,
+                8.430061279796064e-05,
+                6.744543497916311e-05,
+                2.735034649958834e-05,
+                3.717231811606325e-05,
+                4.645126682589762e-05,
+                4.561824243864976e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "落ち着いてるけど疾走感あるよの✨️ありがとうございまする〜〜"
+                },
+                {
+                    "author": "did:plc:cuoy7qs26eo3abfqykjlqag4",
+                    "type": 2,
+                    "utter": "そうそう！力強さもあるし…\n新たな扉が開かれたでござる✨"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "ラジオで流れてきたの無いからマイナーめなのかな、とおもったり\n知らない扉開いたでござるよ〜刺激は大事でござるからの(*´ω｀*)"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbeyx3k5xc2z",
+            "label": [
+                0.9991040825843811,
+                5.814082396682352e-05,
+                0.0005269100074656308,
+                8.55921462061815e-05,
+                5.005017010262236e-05,
+                4.304262256482616e-05,
+                5.737896935897879e-05,
+                7.482393993996084e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "ラジオで流れてきたの無いからマイナーめなのかな、とおもったり\n知らない扉開いたでござるよ〜刺激は大事でござるからの(*´ω｀*)"
+                },
+                {
+                    "author": "did:plc:cuoy7qs26eo3abfqykjlqag4",
+                    "type": 2,
+                    "utter": "ラジオだと推し曲が多いから、どうしても偏るよね…\nよし！！知らない扉開かせた！！でも歌って好みもあるし、たまに知らないのを求めて、フォロワーさんと新規の刺激交換に良いかもしれない✨"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "昭和かハッピー曲が高い気がする....\n好みがあるからそこの分野ばっかりになるし、よその分野知るにはこういう刺激は必要〜たまにいい掘り出し曲出るしね..✨️"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbeziza42k2z",
+            "label": [
+                0.2283797711133957,
+                0.0010293551022186875,
+                0.7681277990341187,
+                0.0005725639057345688,
+                0.00036434968933463097,
+                0.00041234682430513203,
+                0.00042370270239189267,
+                0.0006901309243403375
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "昭和かハッピー曲が高い気がする....\n好みがあるからそこの分野ばっかりになるし、よその分野知るにはこういう刺激は必要〜たまにいい掘り出し曲出るしね..✨️"
+                },
+                {
+                    "author": "did:plc:cuoy7qs26eo3abfqykjlqag4",
+                    "type": 2,
+                    "utter": "わかる…あとリスナーお構い無しに流すから、本当に聴いてて昭和とか知らない洋楽とかに偏るんだよw　たまに刺激増やすために本気で知らないジャンル飛び込まないと…自分も気がつくと…延々と昭和歌謡聴いてたりする…（震）"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "昭和に傾きまくってほぼ昭和の曲になってはいるｗ洋楽は番組の傾向なのかあんまり来ないけどKPOP増えたな〜って印象 ...\n昭和民謡は心が落ち着くのよきっと(；´∀｀)"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbezt6ms4c2z",
+            "label": [
+                0.998715877532959,
+                0.00012455917021725327,
+                0.000527887255884707,
+                0.00028027527150698006,
+                2.6942538170260377e-05,
+                0.00010042609937954694,
+                8.072049968177453e-05,
+                0.00014341020141728222
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "昭和に傾きまくってほぼ昭和の曲になってはいるｗ洋楽は番組の傾向なのかあんまり来ないけどKPOP増えたな〜って印象 ...\n昭和民謡は心が落ち着くのよきっと(；´∀｀)"
+                },
+                {
+                    "author": "did:plc:cuoy7qs26eo3abfqykjlqag4",
+                    "type": 2,
+                    "utter": "あー！確かに…KPOPは耳に馴染まなくて好きじゃないから…他に聴くのがない時に昭和歌謡に戻るな😂耳に馴染む落ち着いた、安心できる曲調なんだよね。あと知ってるのが大事✨"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "知ってるだけでもだいぶ違う( ˘ω˘)✨️新曲聞いた後の馴染みの曲は実家の安心感。"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbf33jwb7s2z",
+            "label": [
+                0.9981404542922974,
+                0.00011094991350546479,
+                0.0012815967202186584,
+                0.00010326088522560894,
+                6.129352550487965e-05,
+                5.383572352002375e-05,
+                8.013097249204293e-05,
+                0.00016856868751347065
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "どうもネップリで簡単にできるっぽいからぬっこステッカー登録しとこうかな...."
+                },
+                {
+                    "author": "did:plc:cuoy7qs26eo3abfqykjlqag4",
+                    "type": 2,
+                    "utter": "わーい！！ぬっこ！！！"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "開運ぬっこステッカー🐈️🌸"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbce5iget22w",
+            "label": [
+                0.9970998764038086,
+                0.00011646142229437828,
+                0.0023553376086056232,
+                0.00013578400830738246,
+                5.620959200314246e-05,
+                5.2454444812610745e-05,
+                9.138460154645145e-05,
+                9.253847383661196e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "開運ぬっこステッカー🐈️🌸"
+                },
+                {
+                    "author": "did:plc:cuoy7qs26eo3abfqykjlqag4",
+                    "type": 2,
+                    "utter": "開運ぬっこで…プチ開運✨✨✨\n少しだけ春が来るかもしれない"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "なんかテキトーにやったらできたわｗ"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbck6kyzxk22",
+            "label": [
+                0.999482274055481,
+                5.079229231341742e-05,
+                8.966138557298109e-05,
+                0.0002026262372964993,
+                2.4414681320195086e-05,
+                5.346104080672376e-05,
+                5.546830652747303e-05,
+                4.125105988350697e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "なんかテキトーにやったらできたわｗ"
+                },
+                {
+                    "author": "did:plc:cuoy7qs26eo3abfqykjlqag4",
+                    "type": 2,
+                    "utter": "マジっすかw　でも意外と簡単"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "指定サイズ守れば結構簡単なのね知らなかったなー ...."
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbckehuark22",
+            "label": [
+                0.0017899625236168504,
+                0.001674683066084981,
+                0.0007515597972087562,
+                0.9950868487358093,
+                0.00014427510905079544,
+                0.00020763333304785192,
+                0.00022539633209817111,
+                0.00011965891462750733
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "指定サイズ守れば結構簡単なのね知らなかったなー ...."
+                },
+                {
+                    "author": "did:plc:cuoy7qs26eo3abfqykjlqag4",
+                    "type": 2,
+                    "utter": "ハガキも簡単だし、セブンより使いやすい気がしてる"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "年賀はがきできれば完璧なんだけどの...."
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbckjwhdv222",
+            "label": [
+                0.007133863866329193,
+                0.8226206302642822,
+                0.16547834873199463,
+                0.0004011103883385658,
+                0.0002762323128990829,
+                0.0018991971155628562,
+                0.001885147881694138,
+                0.00030539571889676154
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "年賀はがきできれば完璧なんだけどの...."
+                },
+                {
+                    "author": "did:plc:cuoy7qs26eo3abfqykjlqag4",
+                    "type": 2,
+                    "utter": "年賀スタンプ押そう✨\nハガキの印刷は綺麗だった…\nあ、今回はネップリで年賀ハガキやろうかな？"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "年賀スタンプが必要〜\nそれだとハガキネップリで大分やりやすくなるし良いね( ˘ω˘)✨️\n\n印刷業に頼んでも高いし)"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbcktymbms22",
+            "label": [
+                0.004136442206799984,
+                0.0004148896550759673,
+                0.9949237704277039,
+                0.00014382040535565466,
+                7.047486724331975e-05,
+                0.00012180403427919373,
+                9.801884152693674e-05,
+                9.091268293559551e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "おちごとがんばるにゃ🐈️🐾\n\nとのぬっこからの伝言でござる〜"
+                },
+                {
+                    "author": "did:plc:cuoy7qs26eo3abfqykjlqag4",
+                    "type": 2,
+                    "utter": "ぬっこのおかげで…\n後十時間のおちごと頑張れるでござる✨✨"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "ちっちゃなラッキーパワーもついてるから、おちごと中も何かしら良いことが起こるぞよ(｀･ω･´)✨️"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lba553bqes2u",
+            "label": [
+                0.0009790710173547268,
+                0.0002146330225514248,
+                0.998374342918396,
+                0.00012720345694106072,
+                7.284047023858875e-05,
+                0.00010102680244017392,
+                6.0306298109935597e-05,
+                7.058399205561727e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "ちっちゃなラッキーパワーもついてるから、おちごと中も何かしら良いことが起こるぞよ(｀･ω･´)✨️"
+                },
+                {
+                    "author": "did:plc:cuoy7qs26eo3abfqykjlqag4",
+                    "type": 2,
+                    "utter": "早起きは三文の徳って言うし！！（寝ないけど）\n良いことありますように！\n✨ｳｪｲｳｪｰｲ( 'ω' و(و\"♪"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "いいことあるかな(*´ω｀*)いいことあるかな🐈️🌸"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbayynp3tk2u",
+            "label": [
+                0.0005903777200728655,
+                0.00022905613877810538,
+                0.9988388419151306,
+                8.862547838361934e-05,
+                5.2493036491796374e-05,
+                8.790468564257026e-05,
+                5.763934677815996e-05,
+                5.506781963049434e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 1,
+                    "utter": "いいことあるかな(*´ω｀*)いいことあるかな🐈️🌸"
+                },
+                {
+                    "author": "did:plc:cuoy7qs26eo3abfqykjlqag4",
+                    "type": 2,
+                    "utter": "良いことね…あったんだよ！！！\n小さい、自分には嬉しいけど他の人にとったら何でもない程度の良いことが😂"
+                },
+                {
+                    "author": "did:plc:p4ejcj3zfjadqpbf7katjhzh",
+                    "type": 3,
+                    "utter": "すごくちっちゃいハッピーお届けされてた!!🐈️"
+                }
+            ],
+            "uri": "at://did:plc:p4ejcj3zfjadqpbf7katjhzh/app.bsky.feed.post/3lbcck7ry4s2u",
+            "label": [
+                0.9996148347854614,
+                4.614584759110585e-05,
+                0.00012654428428504616,
+                7.212228956632316e-05,
+                2.5202038159477524e-05,
+                3.407432814128697e-05,
+                3.981296322308481e-05,
+                4.127648571738973e-05
+            ]
+        }
+    ]
+}

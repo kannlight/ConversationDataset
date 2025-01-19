@@ -1,0 +1,934 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "お疲れ様です🙌\nほぼポイント同じです🙆‍♀️"
+                },
+                {
+                    "author": "did:plc:lguovfbczl2niwxuwpicqte6",
+                    "type": 2,
+                    "utter": "おつありです🫴\nスコアーボードあれば連番でしたね！ww"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "スコアボードで草なんですよねw\nソシャゲの連番の響き久々に聞いた気がしますw"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lbu7br6kdz22",
+            "label": [
+                0.9989317059516907,
+                4.494107997743413e-05,
+                0.00015479783178307116,
+                0.000603825377766043,
+                4.496945985010825e-05,
+                7.9927864135243e-05,
+                7.096942135831341e-05,
+                6.880526780150831e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "スコアボードで草なんですよねw\nソシャゲの連番の響き久々に聞いた気がしますw"
+                },
+                {
+                    "author": "did:plc:lguovfbczl2niwxuwpicqte6",
+                    "type": 2,
+                    "utter": "いい言葉が思いつかんかったっすww\n久しぶりにゲームで連番って言葉使いましたww"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "いや的確だと思いますwww\n連番もスコア積み重ねるゲームじゃないと使わないっすからね🧐"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lbubr6iel322",
+            "label": [
+                0.9340425133705139,
+                0.0005752866272814572,
+                0.020345645025372505,
+                0.03690078482031822,
+                0.0009460896253585815,
+                0.000769203994423151,
+                0.0010126777924597263,
+                0.005407795775681734
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "いや的確だと思いますwww\n連番もスコア積み重ねるゲームじゃないと使わないっすからね🧐"
+                },
+                {
+                    "author": "did:plc:lguovfbczl2niwxuwpicqte6",
+                    "type": 2,
+                    "utter": "確かに🤔\n流行ってるソシャゲで連番文化ありそうなゲームなさそうですしね〜"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "流行ってるゲームありますよ！！！\nガルパって言うんですけど！"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lbudnwncfl22",
+            "label": [
+                0.8161717057228088,
+                0.0009612931171432137,
+                0.17356380820274353,
+                0.005990281701087952,
+                0.0007083293749019504,
+                0.0005532313953153789,
+                0.0006458146381191909,
+                0.0014055999927222729
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "流行ってるゲームありますよ！！！\nガルパって言うんですけど！"
+                },
+                {
+                    "author": "did:plc:lguovfbczl2niwxuwpicqte6",
+                    "type": 2,
+                    "utter": "そのゲームはもう…😇"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "大人気アプリのはずでは？！？！"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lbv6m2zk7s2v",
+            "label": [
+                0.0030562717001885176,
+                0.0007187504670582712,
+                0.00805642455816269,
+                0.9870909452438354,
+                0.00023899460211396217,
+                0.0003574818838387728,
+                0.00015843362780287862,
+                0.00032267949427478015
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "やはりエアメサイアに好かれてるのでは"
+                },
+                {
+                    "author": "did:plc:oohe5ga6ixphxhssw7j3k4dr",
+                    "type": 2,
+                    "utter": "まじでそれなんよね"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "担当バに加えるしかないのでは？？？"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lbcopj5ucn27",
+            "label": [
+                0.0018224231898784637,
+                0.0006425510509870946,
+                0.9963169097900391,
+                0.000347394059645012,
+                5.91108801017981e-05,
+                0.000626387249212712,
+                8.133096707751974e-05,
+                0.00010376776481280103
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "担当バに加えるしかないのでは？？？"
+                },
+                {
+                    "author": "did:plc:oohe5ga6ixphxhssw7j3k4dr",
+                    "type": 2,
+                    "utter": "担当バへの道はそんなに簡単ではありません😱"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "そ、そんな………"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lbepi7kwep2k",
+            "label": [
+                0.0016503460938110948,
+                0.9667683243751526,
+                0.0003455666301306337,
+                0.024980954825878143,
+                0.0003515042772050947,
+                0.004052791278809309,
+                0.001744834124110639,
+                0.00010575689520919695
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "そ、そんな………"
+                },
+                {
+                    "author": "did:plc:oohe5ga6ixphxhssw7j3k4dr",
+                    "type": 2,
+                    "utter": "一途(?)だから仕方ない"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "一途とは一体…"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lbesuk75ur2y",
+            "label": [
+                0.15269553661346436,
+                0.05620300769805908,
+                0.022982263937592506,
+                0.5652031302452087,
+                0.002755573019385338,
+                0.18003098666667938,
+                0.011615550145506859,
+                0.0085139200091362
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "一途とは一体…"
+                },
+                {
+                    "author": "did:plc:oohe5ga6ixphxhssw7j3k4dr",
+                    "type": 2,
+                    "utter": "ん？\n一途だが何か？"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "ほう\n誰に？"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lbeubu5c632p",
+            "label": [
+                0.05251634120941162,
+                0.004966678097844124,
+                0.011357427574694157,
+                0.9243131875991821,
+                0.0009253683965653181,
+                0.0023436974734067917,
+                0.002385243773460388,
+                0.0011921561090275645
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "とりあえずなんでも買えそうな位置にはつけた"
+                },
+                {
+                    "author": "did:plc:lguovfbczl2niwxuwpicqte6",
+                    "type": 2,
+                    "utter": "結構列長いですか👀"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "まぁまぁですかね？\nなんか代行します？"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lazkhbkxll2w",
+            "label": [
+                0.00556098110973835,
+                0.0004116007185075432,
+                0.9934133887290955,
+                0.0001439650368411094,
+                7.439186447300017e-05,
+                0.0001438093022443354,
+                0.00015004255692474544,
+                0.0001019190822262317
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "まぁまぁですかね？\nなんか代行します？"
+                },
+                {
+                    "author": "did:plc:lguovfbczl2niwxuwpicqte6",
+                    "type": 2,
+                    "utter": "うーんちょっと怖いですね\nコロッタお願いしてもいいですか？"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "何個買います?"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lazkp3hxxv2r",
+            "label": [
+                0.09168674051761627,
+                0.0011422565439715981,
+                0.9027388691902161,
+                0.0011748040560632944,
+                0.0006019641878083348,
+                0.001015341840684414,
+                0.000742934993468225,
+                0.0008970462367869914
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "何個買います?"
+                },
+                {
+                    "author": "did:plc:lguovfbczl2niwxuwpicqte6",
+                    "type": 2,
+                    "utter": "2個お願いします🙇‍♀️"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "承知🫡"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lazkzgvuwo2c",
+            "label": [
+                0.9991359114646912,
+                6.823501462349668e-05,
+                0.00030995692941360176,
+                0.00010357591963838786,
+                6.004412716720253e-05,
+                7.421123882522807e-05,
+                0.00012359405809547752,
+                0.0001245706807821989
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "承知🫡"
+                },
+                {
+                    "author": "did:plc:lguovfbczl2niwxuwpicqte6",
+                    "type": 2,
+                    "utter": "着きましたけど死ぬほど並んでで草です"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "幕張もこんな感じでしたね😟"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lazmjgico426",
+            "label": [
+                0.9956607222557068,
+                0.0005541395512409508,
+                0.0009821768617257476,
+                0.0020387833938002586,
+                4.7263958549592644e-05,
+                0.0002632900723256171,
+                0.00020460065570659935,
+                0.00024902733275666833
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "幕張もこんな感じでしたね😟"
+                },
+                {
+                    "author": "did:plc:lguovfbczl2niwxuwpicqte6",
+                    "type": 2,
+                    "utter": "わーお\n売り切れにならなければいいですが…"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "とりあえずコロッタは2つ買えましたよ！"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lazoxobrzv2j",
+            "label": [
+                0.9996098875999451,
+                4.94056184834335e-05,
+                0.00012079346925020218,
+                6.0322450735839084e-05,
+                2.843220136128366e-05,
+                4.287533010938205e-05,
+                4.8615631385473534e-05,
+                3.95516435673926e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "同じく起きれたら行きます！"
+                },
+                {
+                    "author": "did:plc:lguovfbczl2niwxuwpicqte6",
+                    "type": 2,
+                    "utter": "寒いけど気合で起きましょう！\n夜行バス確認したら会場着くの9時とかでした🤣🤣\n幕張並にならんだらやばいかもです…"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "布団が離してくれるか心配ですね😩\nそれが怖いので8時手前くらい目指して行きたいところ🧐"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lauv7gtwca25",
+            "label": [
+                0.0011115508386865258,
+                0.000380425073672086,
+                0.995780348777771,
+                0.0001987125724554062,
+                7.255995296873152e-05,
+                0.002276141196489334,
+                8.042853005463257e-05,
+                9.980468166759238e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "布団が離してくれるか心配ですね😩\nそれが怖いので8時手前くらい目指して行きたいところ🧐"
+                },
+                {
+                    "author": "did:plc:lguovfbczl2niwxuwpicqte6",
+                    "type": 2,
+                    "utter": "暖房ガンガンで布団の吸引力を落としましょう！w\n6時着の夜行にしとけば良かったです🥲"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "その予定は間違いないっすねwww\nみんとさん今回のお目当てキャラは誰なんですか?"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lawzk6hsfp26",
+            "label": [
+                0.7095533609390259,
+                0.0009253852185793221,
+                0.2850092947483063,
+                0.0016875473083928227,
+                0.0005016649956814945,
+                0.0007751691737212241,
+                0.0004898958140984178,
+                0.0010576624190434813
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "その予定は間違いないっすねwww\nみんとさん今回のお目当てキャラは誰なんですか?"
+                },
+                {
+                    "author": "did:plc:lguovfbczl2niwxuwpicqte6",
+                    "type": 2,
+                    "utter": "トプロ、アヤベです！\nあとは、ごまゆさん用にスティル当てられればラッキーって感じです🤛"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "間違いないっすね🙆‍♀️\nとりあえず買えたら買いますかねぇ"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3laxfr5dfwy2q",
+            "label": [
+                0.003290527267381549,
+                0.00022837996948510408,
+                0.9959045052528381,
+                0.00012545185745693743,
+                0.0001087695563910529,
+                0.00014069491589907557,
+                8.828509453451261e-05,
+                0.00011331642599543557
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "間違いないっすね🙆‍♀️\nとりあえず買えたら買いますかねぇ"
+                },
+                {
+                    "author": "did:plc:lguovfbczl2niwxuwpicqte6",
+                    "type": 2,
+                    "utter": "ありがとうごさいます！\nトレーディング系買いますか？？"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "コロッタは一応買おうかなと思ってます！"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3laxzbc2hec2p",
+            "label": [
+                0.0033076193649321795,
+                0.00023404114472214133,
+                0.9959098100662231,
+                0.00014462208491750062,
+                8.46461407491006e-05,
+                0.0001528197171865031,
+                7.712964725214988e-05,
+                8.929328760132194e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "チケットタオル棒Tシャツオペラグラス充電器\n他なんか必要あるものあったっけ"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 2,
+                    "utter": "双眼鏡"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "持った！"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lawzval3yd26",
+            "label": [
+                0.9993613362312317,
+                5.04479103256017e-05,
+                0.00022740008716937155,
+                0.00015570125833619386,
+                3.853115777019411e-05,
+                4.33165805588942e-05,
+                5.7948403991758823e-05,
+                6.536362343467772e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "持った！"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 2,
+                    "utter": "金!"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "お金忘れたのでてふ氏のお金で物販買います！！！"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3laxfjqrgcv2s",
+            "label": [
+                0.0013781312154605985,
+                0.0005850523011758924,
+                0.9975940585136414,
+                0.00012735181371681392,
+                7.03499317751266e-05,
+                0.00010831021063495427,
+                6.874551763758063e-05,
+                6.803745782235637e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "お金忘れたのでてふ氏のお金で物販買います！！！"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 2,
+                    "utter": "なんだァ…テメェ…"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "3さいょぅι゛ょです"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3laxgytn66r2n",
+            "label": [
+                0.998349666595459,
+                0.0004367316432762891,
+                0.0005944806034676731,
+                0.00015110510867089033,
+                6.0092734202044085e-05,
+                9.011838847072795e-05,
+                0.00020066226716153324,
+                0.00011714208085322753
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "3さいょぅι゛ょです"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 2,
+                    "utter": "1桁足りねえよなぁ！？"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "03さいです\nまかせろ"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3laxzar5bu62s",
+            "label": [
+                0.018858367577195168,
+                0.005923457909375429,
+                0.9724593162536621,
+                0.00031502777710556984,
+                0.00016389346274081618,
+                0.001482511404901743,
+                0.0004817082663066685,
+                0.00031578249763697386
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "03さいです\nまかせろ"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 2,
+                    "utter": "せめて13といえ"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "ちょっと言ってる意味がわからないっすね………"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lay3duhoyg2e",
+            "label": [
+                0.0067574381828308105,
+                0.20621344447135925,
+                0.0005827909335494041,
+                0.022620994597673416,
+                0.041193097829818726,
+                0.07670696079730988,
+                0.6443182229995728,
+                0.0016069887205958366
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "🦍怖いです😨"
+                },
+                {
+                    "author": "did:plc:lguovfbczl2niwxuwpicqte6",
+                    "type": 2,
+                    "utter": "ガ杯出場者に言われても😭\nもやしっ子なので13が限界です😇"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "第1回はほとんど運ゲーですよ()\nウニはレベル高すぎて全然できなかったですね〜😨"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lajfcwnuac2n",
+            "label": [
+                0.0009877007687464356,
+                0.9980983138084412,
+                0.0001673209626460448,
+                0.0002831362362485379,
+                3.711548924911767e-05,
+                0.00021792527695652097,
+                0.0001770747039699927,
+                3.128957177978009e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "第1回はほとんど運ゲーですよ()\nウニはレベル高すぎて全然できなかったですね〜😨"
+                },
+                {
+                    "author": "did:plc:lguovfbczl2niwxuwpicqte6",
+                    "type": 2,
+                    "utter": "1発でAP通すのも実力ですよ💪\n低難易度なら楽しいゲームですよ♪\n自分はオンゲキが難しいと感じちゃいましたね〜"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "いやーここだけの話会場予選で一回もAP出してないんですよねwww\n\n上にあげるやつとタップとスライドの複合が？？？ってなってましたねw\nオゲンキも難しいですね😓\nレート上げられません…"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lajfsaiigt2g",
+            "label": [
+                0.00039066627505235374,
+                0.9987698197364807,
+                0.00013514795864466578,
+                0.00017985556041821837,
+                4.811286635231227e-05,
+                0.00028487161034718156,
+                0.0001657453685766086,
+                2.5784096578718163e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "いやーここだけの話会場予選で一回もAP出してないんですよねwww\n\n上にあげるやつとタップとスライドの複合が？？？ってなってましたねw\nオゲンキも難しいですね😓\nレート上げられません…"
+                },
+                {
+                    "author": "did:plc:lguovfbczl2niwxuwpicqte6",
+                    "type": 2,
+                    "utter": "あー仙台とかめっちゃ緩かったとか聞いた覚えが…\n\n確かに最初は意味わからずにミスってました笑\n\n階段できないマンにとってはオンゲキは無理ゲーですw"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "第2回はその仙台で敗れた話しますか？www\n普通に仙台旅行気分で楽しかったですね！\n\n片手3ボタン階段は普通に無理でしたね😇"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lajghg2aw62n",
+            "label": [
+                0.9993405938148499,
+                5.4721542255720124e-05,
+                0.00036643323255702853,
+                5.9688769397325814e-05,
+                3.0828021408524364e-05,
+                4.9053807742893696e-05,
+                4.8324534873245284e-05,
+                5.0207127060275525e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "第2回はその仙台で敗れた話しますか？www\n普通に仙台旅行気分で楽しかったですね！\n\n片手3ボタン階段は普通に無理でしたね😇"
+                },
+                {
+                    "author": "did:plc:lguovfbczl2niwxuwpicqte6",
+                    "type": 2,
+                    "utter": "😬\nボーダー4グレとかでしたっけ？\n負けても旅行できるのは遠征の旨みですよね！\n\nサイドもあって頭こんがらがります笑"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "もっと緩かった気がしますwww\n30くらいだったかな()\nほんそれです！みんなでわちゃわちゃしてました！\n\nわんちゃん突き指しますよねあれw"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lajhk5ofll2n",
+            "label": [
+                0.9995713829994202,
+                4.067366899107583e-05,
+                0.0001599117967998609,
+                6.24261301709339e-05,
+                2.4419046894763596e-05,
+                5.227067231317051e-05,
+                4.455216185306199e-05,
+                4.439349504536949e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "はちゃうま買ってから一度も開けてないから流石に()"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 2,
+                    "utter": "草"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "アプリで忙しい😇😇"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lalnwurmim2l",
+            "label": [
+                0.5661032795906067,
+                0.07694284617900848,
+                0.004514339379966259,
+                0.29405301809310913,
+                0.0014525497099384665,
+                0.0444466769695282,
+                0.010525176301598549,
+                0.001962121808901429
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "アプリで忙しい😇😇"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 2,
+                    "utter": "ゆーてこちらも何ヶ月かぶりではある🤪🤪"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "草ぁ\nソフト探すところからスタートなんよなw"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lalo5ftc2b2p",
+            "label": [
+                0.3644593060016632,
+                0.0011196439154446125,
+                0.6313973665237427,
+                0.0008808639249764383,
+                0.00029323718626983464,
+                0.0007260764250531793,
+                0.0005654443521052599,
+                0.0005580823053605855
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "草ぁ\nソフト探すところからスタートなんよなw"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 2,
+                    "utter": "埃被っとるやないかい"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "いやダンボールに入ってるwww"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3laloazv3hh2g",
+            "label": [
+                0.20943477749824524,
+                0.0011594153475016356,
+                0.002242002170532942,
+                0.7844956517219543,
+                0.00040213100146502256,
+                0.0009186366805806756,
+                0.0008428445435129106,
+                0.0005045753787271678
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "いやダンボールに入ってるwww"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 2,
+                    "utter": "わろ"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "一人でやってみるかw\nあ、Switch探さなきゃ()"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3laloqtacec2p",
+            "label": [
+                0.0013602925464510918,
+                0.00023321216576732695,
+                0.9979914426803589,
+                0.00012394666555337608,
+                5.61471824767068e-05,
+                0.00011194467515451834,
+                6.39212885289453e-05,
+                5.915621295571327e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 1,
+                    "utter": "一人でやってみるかw\nあ、Switch探さなきゃ()"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 2,
+                    "utter": "もうめちゃくちゃや"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 3,
+                    "utter": "これが本当のはちゃめちゃってね"
+                }
+            ],
+            "uri": "at://did:plc:ebehylw4qjfagfgmuinajtzu/app.bsky.feed.post/3lalpesnwjt2j",
+            "label": [
+                0.11815139651298523,
+                0.001784968888387084,
+                0.0011132529471069574,
+                0.8748104572296143,
+                0.00046115077566355467,
+                0.0018923748284578323,
+                0.0011457371292635798,
+                0.0006407073815353215
+            ]
+        }
+    ]
+}

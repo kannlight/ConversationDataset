@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 1,
+                    "utter": "懐かしい…w"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "じつはMacで DTMわからん！ってころはWindows XPのフリーのDAWでミックスしてたw"
+                },
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 3,
+                    "utter": "あぁさすがですね。自分、ソフトの画面を見ただけでパニックですもん…！"
+                }
+            ],
+            "uri": "at://did:plc:5waycrz7jx4dkbgni77q3ses/app.bsky.feed.post/3lbzanwsyy222",
+            "label": [
+                0.0011885057901963592,
+                0.0030869815964251757,
+                0.0004729384963866323,
+                0.010072932578623295,
+                0.0005696018342860043,
+                0.9838477969169617,
+                0.000519198423717171,
+                0.0002420086384518072
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 1,
+                    "utter": "あぁさすがですね。自分、ソフトの画面を見ただけでパニックですもん…！"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "わたしはGUIがないだけでパニックだよw"
+                },
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 3,
+                    "utter": "まぁ分かる…w 社内ツール、GUIとか必要ないよね！って感じでリリースしてて、はぁ？？？って1人でなってましたしw"
+                }
+            ],
+            "uri": "at://did:plc:5waycrz7jx4dkbgni77q3ses/app.bsky.feed.post/3lbzb4bm3vk2g",
+            "label": [
+                0.05555996298789978,
+                0.00853617861866951,
+                0.0010282633593305945,
+                0.34766802191734314,
+                0.0064718336798250675,
+                0.008764101192355156,
+                0.5686771869659424,
+                0.0032944444101303816
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 1,
+                    "utter": "まぁ分かる…w 社内ツール、GUIとか必要ないよね！って感じでリリースしてて、はぁ？？？って1人でなってましたしw"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "DAWのプラグイン、同じ機材のエミュレートが100個くらい存在したりするけどGUIがぜんぶ同じだったらはたして人は音の違いで使い分けるのだろうか..."
+                },
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 3,
+                    "utter": "絶対に無理な気がしますし、そもそも100個もあるんですね…！"
+                }
+            ],
+            "uri": "at://did:plc:5waycrz7jx4dkbgni77q3ses/app.bsky.feed.post/3lbzbhbbtzc2g",
+            "label": [
+                0.0004663279978558421,
+                0.00041082437383010983,
+                0.0005516207893379033,
+                0.9973746538162231,
+                0.00016864606004673988,
+                0.0007189337047748268,
+                0.0002093860093737021,
+                9.957863949239254e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 1,
+                    "utter": "絶対に無理な気がしますし、そもそも100個もあるんですね…！"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "コンプレッサーという機材に関しては鉄板のやつに関しては100じゃ済まないほどエミュレートされてるかも\n\nそういうのが重複してわたしは計400個くらいプラグインはいってるんだけど、まあ8割は使わないよね..."
+                },
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 3,
+                    "utter": "やっぱすごい世界ですね…！\nしかもこれを覚えることが目的じゃないからなぁ…"
+                }
+            ],
+            "uri": "at://did:plc:5waycrz7jx4dkbgni77q3ses/app.bsky.feed.post/3lbzcdieb222a",
+            "label": [
+                0.0013107910053804517,
+                0.001894080196507275,
+                0.0007107466226443648,
+                0.9940203428268433,
+                0.00011871996684931219,
+                0.0016249861801043153,
+                0.00019883674394804984,
+                0.00012150810653110966
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 1,
+                    "utter": "やっぱすごい世界ですね…！\nしかもこれを覚えることが目的じゃないからなぁ…"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "でもプログラミングでもそういうのあるでしょ？"
+                },
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 3,
+                    "utter": "あるある。何度も何度も挫折してますw"
+                }
+            ],
+            "uri": "at://did:plc:5waycrz7jx4dkbgni77q3ses/app.bsky.feed.post/3lbzebtkvss2y",
+            "label": [
+                0.00151925440877676,
+                0.9934007525444031,
+                0.0002353123272769153,
+                0.00032070180168375373,
+                0.000122452387586236,
+                0.0034290237817913294,
+                0.0009027040214277804,
+                6.968880188651383e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 1,
+                    "utter": "そいや、しごおわー！\nジム行く準備✨"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "ユホリンのトレーニングノートみたいw"
+                },
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 3,
+                    "utter": "ジムに置いてきてるんですよねｗ"
+                }
+            ],
+            "uri": "at://did:plc:5waycrz7jx4dkbgni77q3ses/app.bsky.feed.post/3lbw7btgigk25",
+            "label": [
+                0.07634206861257553,
+                0.882165253162384,
+                0.003583429381251335,
+                0.0068788062781095505,
+                0.0003344120050314814,
+                0.027650630101561546,
+                0.0023302456829696894,
+                0.0007151458994485438
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 1,
+                    "utter": "ジムに置いてきてるんですよねｗ"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "草\n\nわたしもこないだ買った自前のパワーベルトがいちばんいいけど持ち歩くのもなあ..."
+                },
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 3,
+                    "utter": "大きいリュックで持ち歩きましょ。僕はもう慣れました....w"
+                }
+            ],
+            "uri": "at://did:plc:5waycrz7jx4dkbgni77q3ses/app.bsky.feed.post/3lbwaed56oc25",
+            "label": [
+                0.9525236487388611,
+                0.001957532251253724,
+                0.04206718131899834,
+                0.0003820771526079625,
+                0.00018136603466700763,
+                0.0007850286201573908,
+                0.0011161629809066653,
+                0.0009869663044810295
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 1,
+                    "utter": "大きいリュックで持ち歩きましょ。僕はもう慣れました....w"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "AerのTravel Pack 2なんよ、街歩きはもう限界...\n\nベルトならまあはいるけど、ユホリンのトレーニングバックやばそうだなw"
+                },
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 3,
+                    "utter": "あぁそれは重そう……\n\nリュックは常にパンパンですねw \nもうほんと諦めましたw"
+                }
+            ],
+            "uri": "at://did:plc:5waycrz7jx4dkbgni77q3ses/app.bsky.feed.post/3lbwan56iak2i",
+            "label": [
+                0.001581606105901301,
+                0.9913498163223267,
+                0.00034169075661338866,
+                0.0007334652473218739,
+                7.179330714279786e-05,
+                0.0043297093361616135,
+                0.00153268501162529,
+                5.9257421526126564e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 1,
+                    "utter": "あぁそれは重そう……\n\nリュックは常にパンパンですねw \nもうほんと諦めましたw"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "あれだよね、さすがにそんだけはいってたらジム用バッグだよね？笑\n\nわたしは前述のリュックで行って更衣室使わずにTシャツと作務衣の下だけでトレできるまで最適化したw"
+                },
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 3,
+                    "utter": "いや、たまたま持ってたバックにギリ入ったのでそれを使ってます\n\nあぁそれは良いですね！サクッとトレできますし"
+                }
+            ],
+            "uri": "at://did:plc:5waycrz7jx4dkbgni77q3ses/app.bsky.feed.post/3lbwd6qvoik2j",
+            "label": [
+                0.9995061159133911,
+                3.821843711193651e-05,
+                0.00019192573381587863,
+                6.552770355483517e-05,
+                4.202364289085381e-05,
+                3.882780220010318e-05,
+                5.356510155252181e-05,
+                6.379061960615218e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 1,
+                    "utter": "いや、たまたま持ってたバックにギリ入ったのでそれを使ってます\n\nあぁそれは良いですね！サクッとトレできますし"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "三万のダンベルと悩んで気づいたらFITPLACE再入会していたわたし、いまなら4万のパワーベルト買ったユホリンの気持ちわかるかも...w\n\nそう、ジム駅前だから電車のったかえりとかにもトレできたほうが習慣つくかなとおもって"
+                },
+                {
+                    "author": "did:plc:5waycrz7jx4dkbgni77q3ses",
+                    "type": 3,
+                    "utter": "分かってくれましたか…w\n\n結局行きやすいのが正義だし、習慣化させちゃうのが1番ストレスフリーで継続させやすい気がします"
+                }
+            ],
+            "uri": "at://did:plc:5waycrz7jx4dkbgni77q3ses/app.bsky.feed.post/3lbwdzqyzbc2j",
+            "label": [
+                0.3211434781551361,
+                0.0012757284566760063,
+                0.6743245124816895,
+                0.00044110961607657373,
+                0.00039128700154833496,
+                0.0006949470262043178,
+                0.0006818578112870455,
+                0.0010470835259184241
+            ]
+        }
+    ]
+}

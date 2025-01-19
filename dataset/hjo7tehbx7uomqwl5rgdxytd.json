@@ -1,0 +1,574 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "いっそ午後休取ってどこか寄ってから行くとか……"
+                },
+                {
+                    "author": "did:plc:5axenimxlf3xz66tzgmx5nsb",
+                    "type": 2,
+                    "utter": "今月人間ドックだなんだのって結構休んたので、来月はそんなに休めないのよね………"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "なるー。\nそんなに興味ないならいっそ落選したと思って母上とかにあげるとかw"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lc3fsm4g322n",
+            "label": [
+                0.0024870492052286863,
+                0.0002848990261554718,
+                0.9963665008544922,
+                0.0002092835056828335,
+                0.0001124153277487494,
+                0.00014053309860173613,
+                0.0002705157094169408,
+                0.00012882926966995
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "なるー。\nそんなに興味ないならいっそ落選したと思って母上とかにあげるとかw"
+                },
+                {
+                    "author": "did:plc:5axenimxlf3xz66tzgmx5nsb",
+                    "type": 2,
+                    "utter": "FCで当選した舞台挨拶なんだよなーーー（顔写真確認ありなの😂）"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "／(^o^)＼\nうちみたいにフレックス制なら、早引きした分別日に残業〜とかできるのに……"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lc3g4qnajk2n",
+            "label": [
+                0.0007424885989166796,
+                0.9976904392242432,
+                0.000457734422525391,
+                0.00010099977225763723,
+                9.006300388136879e-05,
+                0.00016370727098546922,
+                0.0007152687758207321,
+                3.93055597669445e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "／(^o^)＼\nうちみたいにフレックス制なら、早引きした分別日に残業〜とかできるのに……"
+                },
+                {
+                    "author": "did:plc:5axenimxlf3xz66tzgmx5nsb",
+                    "type": 2,
+                    "utter": "まぁ、一応フレックス無いこともないんで、別日に残業すればいっか…………"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "そいやタイツアプリの勝手にログアウト現象修正したってよ"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lc3hdhtj2c2z",
+            "label": [
+                0.9985879063606262,
+                6.509936793008819e-05,
+                0.00030470735509879887,
+                0.0007146529387682676,
+                5.22831323905848e-05,
+                4.0866048948373646e-05,
+                0.00010236792877549306,
+                0.00013200972171034664
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "そいやタイツアプリの勝手にログアウト現象修正したってよ"
+                },
+                {
+                    "author": "did:plc:5axenimxlf3xz66tzgmx5nsb",
+                    "type": 2,
+                    "utter": "お？まじか😀"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "やっぱドロイドだけ起きてたみたいw"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lc3j5wx5kk2q",
+            "label": [
+                0.8716556429862976,
+                0.0017590310890227556,
+                0.004018194042146206,
+                0.11985049396753311,
+                0.0002626412024255842,
+                0.0009293080656789243,
+                0.0006833734805695713,
+                0.0008412838215008378
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "それめちゃくちゃ私に需要があります！！！！！！！！！！！！！！"
+                },
+                {
+                    "author": "did:plc:t4f5mpj2r6bz3l3r3iwkpmwk",
+                    "type": 2,
+                    "utter": "あっっっ！！需要があった…！けども考えてるのが結構特殊なんですけど大丈夫ですか…(京ゆかとロクテリでゆかりちゃんとロックが面識あって仲良しとかそんな…ロックが育ってるからMOWテリですし…"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "え～全然いいと思いますよ？？？KOFGの世界線にロックもいるんだ……ってむしろ妄想が広がります🥰"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3laqdawfz6s2o",
+            "label": [
+                0.9922502636909485,
+                0.0001642804272705689,
+                0.003733660327270627,
+                0.00324175413697958,
+                0.00012218499614391476,
+                0.0001014387744362466,
+                0.00016533017333131284,
+                0.00022096441534813493
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "うおおおおん読みましたありがとうございます！！！！！！！！！一度は自分が執心した相手にまで嫉妬しちゃうテリーかわいい～～！そして年下なのにしっかりしてるロックよ……。やっぱロクテリのこういうアンバランスさが好きだな～と再認識しました。食事の後いちゃいちゃしてしまえ！！そして京ゆかも幸せそうで何より🥰"
+                },
+                {
+                    "author": "did:plc:t4f5mpj2r6bz3l3r3iwkpmwk",
+                    "type": 2,
+                    "utter": "喜んでもらえて良かったぁぁぁ…！たまにはテリーにも嫉妬でもしてもろて…と思ったらこんな話になりましたw そーですね！！！！きっとこの後ご褒美にいちゃいちゃすることでしょう…京ゆかもビリーに邪魔されながらなんだかんだ仲良くやってます←"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "ビリーｗｗｗビリーはなんとなくゆかりんに妹を重ねてそうな感じもするんですよねー。過保護兄貴のガードは硬いぞ頑張れ京！"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lc2kntrtyc2h",
+            "label": [
+                0.006082131527364254,
+                0.00026018585776910186,
+                0.9928964972496033,
+                0.0002902192936744541,
+                9.348066669190302e-05,
+                0.0001699342974461615,
+                7.798090518917888e-05,
+                0.0001296618429478258
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "ビリーｗｗｗビリーはなんとなくゆかりんに妹を重ねてそうな感じもするんですよねー。過保護兄貴のガードは硬いぞ頑張れ京！"
+                },
+                {
+                    "author": "did:plc:t4f5mpj2r6bz3l3r3iwkpmwk",
+                    "type": 2,
+                    "utter": "重ねてそう〜〜〜！ビリーって意外と面倒見いいけど超絶過保護なので、お嬢の相手は俺が認めたやつじゃないと許さないってずっと言ってますね…(妄想"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "そんで京とビリーがぎゃいぎゃいしてるのを見てゆかりんがｱﾜｱﾜしてて、他のファイターたちがあいつらまたやってるよ……と生暖かい目で見守っているんですよ……（妄想"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lc2vllitd225",
+            "label": [
+                0.5273906588554382,
+                0.0049966308288276196,
+                0.45895665884017944,
+                0.0008976317476481199,
+                0.00028727692551910877,
+                0.005934529006481171,
+                0.0007487459224648774,
+                0.0007878473843447864
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "今一番見てるマイフィードなのに……"
+                },
+                {
+                    "author": "did:plc:5axenimxlf3xz66tzgmx5nsb",
+                    "type": 2,
+                    "utter": "ちなみにどのリストなの……JP+Newとかいうフィードは見てるんだけど、どれがいいのかなぁって迷子中でしてな"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "元ツイ（ツイじゃねえ）に貼ってるNEWSってやつだよー"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lbw5buk4pk2j",
+            "label": [
+                0.9941773414611816,
+                0.0005950041813775897,
+                0.002950561698526144,
+                0.00032442808151245117,
+                0.0002454399364069104,
+                0.00030182546470314264,
+                0.0008261278853751719,
+                0.0005792620358988643
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "元ツイ（ツイじゃねえ）に貼ってるNEWSってやつだよー"
+                },
+                {
+                    "author": "did:plc:5axenimxlf3xz66tzgmx5nsb",
+                    "type": 2,
+                    "utter": "…………その元post探して表示させて、リンククリックしたら「カラムを追加」って出てきたで。んで、ポチっとしたら追加されたで"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "ほんとだ！！！！！！！！！！\nメニューの＋アイコン（カラムの追加と管理）からしか出来ないと思ってた……おのれ……"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lbw6txkttc22",
+            "label": [
+                0.012987731024622917,
+                0.0025327743496745825,
+                0.0013018334284424782,
+                0.9819471836090088,
+                0.00034048286033794284,
+                0.00022803839237894863,
+                0.0003437087871134281,
+                0.0003182607179041952
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "ほんとだ！！！！！！！！！！\nメニューの＋アイコン（カラムの追加と管理）からしか出来ないと思ってた……おのれ……"
+                },
+                {
+                    "author": "did:plc:5axenimxlf3xz66tzgmx5nsb",
+                    "type": 2,
+                    "utter": "まさかの方法だった……！ｗ\nというか、そもそも本家サイトでもフィードに比べてリスト周りまだまだって感じじゃない？\nだからこっちもまだまだ～ってことなのかも🤔"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "なるほどなー。というか青空くん出来てからまあまあ経ってるはずなんだけど鈍足だね……まだ赤ちゃんなんだね……ｗ"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lbw77j7w4222",
+            "label": [
+                0.0009017812553793192,
+                0.000588982948102057,
+                0.0005417330539785326,
+                0.997272789478302,
+                0.00011236230056965724,
+                0.00029283756157383323,
+                0.0001903405209304765,
+                9.926601342158392e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "なるほどなー。というか青空くん出来てからまあまあ経ってるはずなんだけど鈍足だね……まだ赤ちゃんなんだね……ｗ"
+                },
+                {
+                    "author": "did:plc:5axenimxlf3xz66tzgmx5nsb",
+                    "type": 2,
+                    "utter": "たくさんの機能を一気に弄ってバグだらけになるよりはマシと思おうぜばぶー👶"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "そだねー。どこぞの二の舞いは勘弁😒"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lbw7ydxtfc22",
+            "label": [
+                0.0010922866640612483,
+                0.026475362479686737,
+                0.0010004629148170352,
+                0.0007210277835838497,
+                0.0012378260726109147,
+                0.966093122959137,
+                0.003077147761359811,
+                0.0003027547791134566
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "それな(σ・∀・)σ\n自分で作ったフィード、投稿自体が少ないから検索したほうが早いな……と思って削除したｗ"
+                },
+                {
+                    "author": "did:plc:5axenimxlf3xz66tzgmx5nsb",
+                    "type": 2,
+                    "utter": "だよねー？？？\nで、検索ってオア検索出来ないんか？？？？"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "英語だとできるっぽいけど日本語ェ……"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lbb3h4njpc2c",
+            "label": [
+                0.00042707857210189104,
+                0.997273862361908,
+                0.00012547901133075356,
+                0.00034988258266821504,
+                0.00010319799184799194,
+                0.0008405423141084611,
+                0.0008489641477353871,
+                3.1006024073576555e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "英語だとできるっぽいけど日本語ェ……"
+                },
+                {
+                    "author": "did:plc:5axenimxlf3xz66tzgmx5nsb",
+                    "type": 2,
+                    "utter": "あー………そういう？😩"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "or検索これだった！！\n\nキーワード1 | キーワード2"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lbvnb54jlk27",
+            "label": [
+                0.9138312339782715,
+                0.0015821157721802592,
+                0.07786096632480621,
+                0.004021607339382172,
+                0.0005184271140024066,
+                0.0003570209664758295,
+                0.0006008133059367537,
+                0.0012277766363695264
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "or検索これだった！！\n\nキーワード1 | キーワード2"
+                },
+                {
+                    "author": "did:plc:5axenimxlf3xz66tzgmx5nsb",
+                    "type": 2,
+                    "utter": "文字（or）じゃなかったのか！！！！！！😮"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "想定GUY"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lbvnh77x7k2n",
+            "label": [
+                0.6820854544639587,
+                0.003665404161438346,
+                0.30575281381607056,
+                0.0005478925304487348,
+                0.0007454696460627019,
+                0.0031448123045265675,
+                0.00199646083638072,
+                0.002061644336208701
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "想定GUY"
+                },
+                {
+                    "author": "did:plc:5axenimxlf3xz66tzgmx5nsb",
+                    "type": 2,
+                    "utter": "プログラム書いてる人なら記号でも言われれば「あーそっちかぁ」てなるさぁ……普通気づかなくない？ｗ"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "普通の人はわからんてｗｗｗいや盲点だった……"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lbvnqtutr22n",
+            "label": [
+                0.0020966792944818735,
+                0.0006322951521724463,
+                0.0007486906833946705,
+                0.9958581328392029,
+                0.00012315089406911284,
+                0.00024274761381093413,
+                0.0001751526287989691,
+                0.0001231166097568348
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "SNSを与えちゃいけないタイプの人だね……"
+                },
+                {
+                    "author": "did:plc:5axenimxlf3xz66tzgmx5nsb",
+                    "type": 2,
+                    "utter": "予約してたソレが届いたので即ゴミ箱ダンクした！ってドヤ顔してて怖い"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "鍵もかけずにそれやってたらマジでジャンルそのものの敵すぎる"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lb7oal46ik2j",
+            "label": [
+                0.0030808625742793083,
+                0.010359978303313255,
+                0.0027226374950259924,
+                0.0031774353701621294,
+                0.12937361001968384,
+                0.0482792928814888,
+                0.8005078434944153,
+                0.0024983396288007498
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "鍵もかけずにそれやってたらマジでジャンルそのものの敵すぎる"
+                },
+                {
+                    "author": "did:plc:5axenimxlf3xz66tzgmx5nsb",
+                    "type": 2,
+                    "utter": "鍵かけられないここ🦋で言ってたから、CPフィードに引っ掛かってたんよ………\n怖くない？帰宅してAB創作見ようと思ったら、AB同人作家が多数参加したゴミ届いてたから捨てたった！ドヤァて🥶"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "ここでかww公式いないからって油断してるのかな……バカめ……"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lb7ov6bnpc2j",
+            "label": [
+                0.015383393503725529,
+                0.4904994070529938,
+                0.0015407297760248184,
+                0.03675965964794159,
+                0.07751703262329102,
+                0.04223650321364403,
+                0.3341667354106903,
+                0.0018965755589306355
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "ここでかww公式いないからって油断してるのかな……バカめ……"
+                },
+                {
+                    "author": "did:plc:5axenimxlf3xz66tzgmx5nsb",
+                    "type": 2,
+                    "utter": "関係者が居ることはしっかり把握しているようだぞ……ゴミに協力してるの意味わかんないからやめて欲しい、だそうだ\n\n怖くて即ミュートしたけどブロのが良かったかな🫠"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "自カプがそう言われたらどう思われるかとか想像しないんだろうなー。\n青空くん誰にブロられてるか調べられるからミュートでよかったかも？確かミュートの項目は無かったはず"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lb7pogo4ps2j",
+            "label": [
+                0.0022090335842221975,
+                0.06533754616975784,
+                0.0027956711128354073,
+                0.0018566710641607642,
+                0.025159914046525955,
+                0.0311948973685503,
+                0.8702362775802612,
+                0.0012099796440452337
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 1,
+                    "utter": "自カプがそう言われたらどう思われるかとか想像しないんだろうなー。\n青空くん誰にブロられてるか調べられるからミュートでよかったかも？確かミュートの項目は無かったはず"
+                },
+                {
+                    "author": "did:plc:5axenimxlf3xz66tzgmx5nsb",
+                    "type": 2,
+                    "utter": "ああそっか、全部分かっちゃうんだよねブロ……じゃあいいか🫠\n思うのは勝手だけど、自分もそのカプ者（なんとビックリ他カプ者ではない）なのに、こんなところで言っちゃうんだなぁと思ったわ"
+                },
+                {
+                    "author": "did:plc:hjo7tehbx7uomqwl5rgdxytd",
+                    "type": 3,
+                    "utter": "自カプ界隈に喧嘩売ってて草wwwwwwwwwwwwwwww"
+                }
+            ],
+            "uri": "at://did:plc:hjo7tehbx7uomqwl5rgdxytd/app.bsky.feed.post/3lb7rg3qd6c2j",
+            "label": [
+                0.6979157328605652,
+                0.0007163052214309573,
+                0.0013868206879124045,
+                0.28994661569595337,
+                0.0021750605665147305,
+                0.0019127139821648598,
+                0.0044320146553218365,
+                0.0015147696249186993
+            ]
+        }
+    ]
+}

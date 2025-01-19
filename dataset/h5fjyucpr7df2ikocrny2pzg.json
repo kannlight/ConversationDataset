@@ -1,0 +1,494 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 1,
+                    "utter": "最高級松阪牛はひときれでお終いです"
+                },
+                {
+                    "author": "did:plc:6lf6bjmo5c43rxju2lomztp2",
+                    "type": 2,
+                    "utter": "カツ丼はどうでしょうか"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 3,
+                    "utter": "かつ丼は脂を薄める他の具材が多いので食べられます"
+                }
+            ],
+            "uri": "at://did:plc:h5fjyucpr7df2ikocrny2pzg/app.bsky.feed.post/3lc5aa23hdk22",
+            "label": [
+                0.9991753697395325,
+                5.783438973594457e-05,
+                0.0004147315921727568,
+                6.174536247272044e-05,
+                4.356174395070411e-05,
+                5.228246300248429e-05,
+                7.389692473225296e-05,
+                0.00012056677951477468
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 1,
+                    "utter": "グーグルでしょうか"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "グーグルです"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 3,
+                    "utter": "おれは、グーグルの大争議を指導するのでしょうか"
+                }
+            ],
+            "uri": "at://did:plc:h5fjyucpr7df2ikocrny2pzg/app.bsky.feed.post/3lc2oi2b7222u",
+            "label": [
+                0.02946232259273529,
+                0.006916706915944815,
+                0.33053579926490784,
+                0.004722976125776768,
+                0.0008954030345194042,
+                0.624791145324707,
+                0.00113320117816329,
+                0.0015424430603161454
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 1,
+                    "utter": "おれは、グーグルの大争議を指導するのでしょうか"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "グーグル・アマゾンの大争議を指導してください"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 3,
+                    "utter": "全世界にゼネストを呼びかけます"
+                }
+            ],
+            "uri": "at://did:plc:h5fjyucpr7df2ikocrny2pzg/app.bsky.feed.post/3lc2pjjp4hc2s",
+            "label": [
+                0.00021692848531529307,
+                0.0003322269185446203,
+                0.9984217882156372,
+                0.00019593743490986526,
+                0.0003534513816703111,
+                0.00018729585281107575,
+                0.00016933828010223806,
+                0.00012308350414969027
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 1,
+                    "utter": "全世界にゼネストを呼びかけます"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "全世界の人民を包摂する協同組合を設立してください"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 3,
+                    "utter": "全世界友愛会をつくりましょう"
+                }
+            ],
+            "uri": "at://did:plc:h5fjyucpr7df2ikocrny2pzg/app.bsky.feed.post/3lc2pypetg22h",
+            "label": [
+                0.00040334841469302773,
+                0.0001505247928434983,
+                0.9989870190620422,
+                0.0001306033373111859,
+                9.082401084015146e-05,
+                8.62679080455564e-05,
+                8.428960427409038e-05,
+                6.709414446959272e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 1,
+                    "utter": "全世界友愛会をつくりましょう"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "『起床を越えて』三部作を執筆してください"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 3,
+                    "utter": "クリスマスの日にXに新しいアカウントを作ります"
+                }
+            ],
+            "uri": "at://did:plc:h5fjyucpr7df2ikocrny2pzg/app.bsky.feed.post/3lc2qrfjjrc2h",
+            "label": [
+                0.03935020789504051,
+                0.0007471325225196779,
+                0.9586192965507507,
+                0.00039291990105994046,
+                0.00013677659444510937,
+                0.00034298220998607576,
+                0.00019490237173158675,
+                0.00021566606301348656
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 1,
+                    "utter": "卒論ゼミは個人相談会に移行しました"
+                },
+                {
+                    "author": "did:plc:5dx4ekcevjojd5g72hgszr3r",
+                    "type": 2,
+                    "utter": "相談させてください"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 3,
+                    "utter": "まず、ご入学ください"
+                }
+            ],
+            "uri": "at://did:plc:h5fjyucpr7df2ikocrny2pzg/app.bsky.feed.post/3lbynqvexp22q",
+            "label": [
+                0.0006663887179456651,
+                0.0001720116415526718,
+                0.9986518025398254,
+                0.00016637884255032986,
+                7.882074714871123e-05,
+                0.0001062311275745742,
+                7.573013135697693e-05,
+                8.261886978289112e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 1,
+                    "utter": "まず、ご入学ください"
+                },
+                {
+                    "author": "did:plc:6lf6bjmo5c43rxju2lomztp2",
+                    "type": 2,
+                    "utter": "相談させてください"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 3,
+                    "utter": "まず、ご入学ください"
+                }
+            ],
+            "uri": "at://did:plc:h5fjyucpr7df2ikocrny2pzg/app.bsky.feed.post/3lbynu2ohac2q",
+            "label": [
+                0.0006663887179456651,
+                0.0001720116415526718,
+                0.9986518025398254,
+                0.00016637884255032986,
+                7.882074714871123e-05,
+                0.0001062311275745742,
+                7.573013135697693e-05,
+                8.261886978289112e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 1,
+                    "utter": "なんだったか・・・なんにでも食いついてくるからダボハゼのようなやつだ。ではなかったでしょうか"
+                },
+                {
+                    "author": "did:plc:6lf6bjmo5c43rxju2lomztp2",
+                    "type": 2,
+                    "utter": "そうですそうです"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 3,
+                    "utter": "ちがやは元気にしているようでしょうか。よけいなお世話だけれどもちょっと心配しています"
+                }
+            ],
+            "uri": "at://did:plc:h5fjyucpr7df2ikocrny2pzg/app.bsky.feed.post/3lby7advlqk2q",
+            "label": [
+                0.004708907101303339,
+                0.006204753648489714,
+                0.34126874804496765,
+                0.0014629391953349113,
+                0.0005829290603287518,
+                0.6441022753715515,
+                0.0008354354649782181,
+                0.0008340151980519295
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 1,
+                    "utter": "ちがやは元気にしているようでしょうか。よけいなお世話だけれどもちょっと心配しています"
+                },
+                {
+                    "author": "did:plc:6lf6bjmo5c43rxju2lomztp2",
+                    "type": 2,
+                    "utter": "全くわからないです、Twitterでは私はライター方面でしかフォローもフォロワーもいませんしねえ"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 3,
+                    "utter": "ツイッターで大物軍師みたいになっているのだけれど"
+                }
+            ],
+            "uri": "at://did:plc:h5fjyucpr7df2ikocrny2pzg/app.bsky.feed.post/3lby7mmloy22q",
+            "label": [
+                0.0012549491366371512,
+                0.0002424387785140425,
+                0.0007790811941958964,
+                0.9957850575447083,
+                0.00013377037248574197,
+                0.0013396756257861853,
+                0.00032943286350928247,
+                0.00013559656508732587
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 1,
+                    "utter": "西向日"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "東向日"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 3,
+                    "utter": "洛西口"
+                }
+            ],
+            "uri": "at://did:plc:h5fjyucpr7df2ikocrny2pzg/app.bsky.feed.post/3lbva62b7ps24",
+            "label": [
+                0.9953729510307312,
+                0.00029339257162064314,
+                0.003290480701252818,
+                0.0002291527489433065,
+                0.00010344664042349905,
+                0.00011960557458223775,
+                0.00027142270118929446,
+                0.0003195302851963788
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 1,
+                    "utter": "洛西口"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "桂"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 3,
+                    "utter": "西京極"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 3,
+                    "utter": "西院"
+                }
+            ],
+            "uri": "at://did:plc:h5fjyucpr7df2ikocrny2pzg/app.bsky.feed.post/3lbvabb4yn224",
+            "label": [
+                0.9946532249450684,
+                0.0005193331162445247,
+                0.0038551115430891514,
+                0.00022618442017119378,
+                7.954410102684051e-05,
+                9.756883810041472e-05,
+                0.00026180013082921505,
+                0.0003071212559007108
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 1,
+                    "utter": "西京極"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 1,
+                    "utter": "西院"
+                },
+                {
+                    "author": "did:plc:u5czuc2d2lqw3ebxyshrfaqa",
+                    "type": 2,
+                    "utter": "大宮"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 3,
+                    "utter": "西中島南方"
+                }
+            ],
+            "uri": "at://did:plc:h5fjyucpr7df2ikocrny2pzg/app.bsky.feed.post/3lbvbfxidp224",
+            "label": [
+                0.9903706908226013,
+                0.0008524457807652652,
+                0.006752903573215008,
+                0.0002875878708437085,
+                0.00015386570885311812,
+                0.00026254987460561097,
+                0.0008398207137361169,
+                0.0004801501054316759
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 1,
+                    "utter": "いまものすごくシンナー臭いです"
+                },
+                {
+                    "author": "did:plc:6lf6bjmo5c43rxju2lomztp2",
+                    "type": 2,
+                    "utter": "陰謀です！今すぐ逃げてください！"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 3,
+                    "utter": "どのへんが陰謀なのでしょうか"
+                }
+            ],
+            "uri": "at://did:plc:h5fjyucpr7df2ikocrny2pzg/app.bsky.feed.post/3lbvhqyrbks2y",
+            "label": [
+                0.004557230044156313,
+                0.0018940846202895045,
+                0.0009501103195361793,
+                0.002554780337959528,
+                0.0006325853173620999,
+                0.987163245677948,
+                0.001823774422518909,
+                0.0004242552095092833
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 1,
+                    "utter": "どのへんが陰謀なのでしょうか"
+                },
+                {
+                    "author": "did:plc:6lf6bjmo5c43rxju2lomztp2",
+                    "type": 2,
+                    "utter": "シンナーで電波を妨害しています"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 3,
+                    "utter": "なんの電波でしょうか"
+                }
+            ],
+            "uri": "at://did:plc:h5fjyucpr7df2ikocrny2pzg/app.bsky.feed.post/3lbvhtjszks2y",
+            "label": [
+                0.0032280164305120707,
+                0.0006020732689648867,
+                0.0009541916660964489,
+                0.9727113246917725,
+                0.0007610867614857852,
+                0.018887650221586227,
+                0.0025615813210606575,
+                0.00029404304223135114
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 1,
+                    "utter": "なんの電波でしょうか"
+                },
+                {
+                    "author": "did:plc:6lf6bjmo5c43rxju2lomztp2",
+                    "type": 2,
+                    "utter": "まだ気づいていないのですか？"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 3,
+                    "utter": "wifiでしょうか"
+                }
+            ],
+            "uri": "at://did:plc:h5fjyucpr7df2ikocrny2pzg/app.bsky.feed.post/3lbvii2o3w22y",
+            "label": [
+                0.039364710450172424,
+                0.0006642690859735012,
+                0.9574894309043884,
+                0.0005330780986696482,
+                0.0001332118990831077,
+                0.001190475537441671,
+                0.00021425164595711976,
+                0.00041059046634472907
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 1,
+                    "utter": "wifiでしょうか"
+                },
+                {
+                    "author": "did:plc:6lf6bjmo5c43rxju2lomztp2",
+                    "type": 2,
+                    "utter": "それは答えられません"
+                },
+                {
+                    "author": "did:plc:h5fjyucpr7df2ikocrny2pzg",
+                    "type": 3,
+                    "utter": "電波を送っているのはあなたなのでしょうか"
+                }
+            ],
+            "uri": "at://did:plc:h5fjyucpr7df2ikocrny2pzg/app.bsky.feed.post/3lbvjlfnkuk2y",
+            "label": [
+                0.43472787737846375,
+                0.009648502804338932,
+                0.06128711253404617,
+                0.10998118668794632,
+                0.004500724840909243,
+                0.3474057912826538,
+                0.015023024752736092,
+                0.01742582395672798
+            ]
+        }
+    ]
+}

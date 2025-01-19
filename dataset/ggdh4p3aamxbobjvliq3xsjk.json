@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 1,
+                    "utter": "😘😘😘😘😘😘😘😘"
+                },
+                {
+                    "author": "did:plc:4i4joxogsogp3l7dbky4z4kj",
+                    "type": 2,
+                    "utter": "やる？やる？？"
+                },
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 3,
+                    "utter": "やるに決まってて草 何テーマがいいとか思いついた？"
+                }
+            ],
+            "uri": "at://did:plc:ggdh4p3aamxbobjvliq3xsjk/app.bsky.feed.post/3laj3ovtqgd2z",
+            "label": [
+                0.01791517436504364,
+                0.0006890300428494811,
+                0.9798935651779175,
+                0.00028001805185340345,
+                0.00017672496323939413,
+                0.0004268141055945307,
+                0.0003689300792757422,
+                0.00024979939917102456
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 1,
+                    "utter": "うちはこんぺい島だし妹はちょこれー島だよ\nだから気づけた可能性あるｗｗｗｗｗｗｗ"
+                },
+                {
+                    "author": "did:plc:4i4joxogsogp3l7dbky4z4kj",
+                    "type": 2,
+                    "utter": "かわいww\nどっちの島名も今後出る可能性ある🤣"
+                },
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 3,
+                    "utter": "使っていいよｗｗｗｗｗｗｗ(？)"
+                }
+            ],
+            "uri": "at://did:plc:ggdh4p3aamxbobjvliq3xsjk/app.bsky.feed.post/3lazykj5q422j",
+            "label": [
+                0.9956777691841125,
+                0.00011112683569081128,
+                0.0034147929400205612,
+                0.0001142219771281816,
+                0.00012118661106796935,
+                0.0001420066982973367,
+                0.00022856000578030944,
+                0.0001904432283481583
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 1,
+                    "utter": "使っていいよｗｗｗｗｗｗｗ(？)"
+                },
+                {
+                    "author": "did:plc:4i4joxogsogp3l7dbky4z4kj",
+                    "type": 2,
+                    "utter": "許可貰った🤣次覚えてたらどっちかにしよ（笑）"
+                },
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 3,
+                    "utter": "このコーデだといもうめ氏はメンアバ出してくるかんじ？"
+                }
+            ],
+            "uri": "at://did:plc:ggdh4p3aamxbobjvliq3xsjk/app.bsky.feed.post/3lazzchqx4s2k",
+            "label": [
+                0.009253092110157013,
+                0.00037866432103328407,
+                0.9895059466362,
+                0.0002955507952719927,
+                7.01840763213113e-05,
+                0.00030919950222596526,
+                8.322880603373051e-05,
+                0.00010408156231278554
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 1,
+                    "utter": "このコーデだといもうめ氏はメンアバ出してくるかんじ？"
+                },
+                {
+                    "author": "did:plc:4i4joxogsogp3l7dbky4z4kj",
+                    "type": 2,
+                    "utter": "メンアバ苦手民もいるかもだから、招集ポストに一言書いて大丈夫そうな人にメンアバ使わせて貰おうかなと思っとる(👍🏻ᴖ ·̫ ᴖ )👍🏻"
+                },
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 3,
+                    "utter": "なるほど、ではうちもロリではなく青を召喚しようかしら、、"
+                }
+            ],
+            "uri": "at://did:plc:ggdh4p3aamxbobjvliq3xsjk/app.bsky.feed.post/3lazzx75ljs2k",
+            "label": [
+                0.0009143679635599256,
+                0.00020966278680134565,
+                0.9984816908836365,
+                0.00012908638746012002,
+                4.719984644907527e-05,
+                0.00010913592268479988,
+                5.361286457628012e-05,
+                5.538731056731194e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 1,
+                    "utter": "なるほど、ではうちもロリではなく青を召喚しようかしら、、"
+                },
+                {
+                    "author": "did:plc:4i4joxogsogp3l7dbky4z4kj",
+                    "type": 2,
+                    "utter": "是非ぃ！！ロリも大好物…大好きだけど！！\n偶には大人ちゃんも使ってくれたらいもうめが喜ぶ( ˘ω˘ )✨"
+                },
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 3,
+                    "utter": "食べ物だ、、笑\n次は大人召喚するわ"
+                }
+            ],
+            "uri": "at://did:plc:ggdh4p3aamxbobjvliq3xsjk/app.bsky.feed.post/3lb36kkmwk22s",
+            "label": [
+                0.004457409027963877,
+                0.0008045794675126672,
+                0.9939485788345337,
+                0.0002591454249341041,
+                6.997209857217968e-05,
+                0.0002218588924733922,
+                0.0001403254282195121,
+                9.814238001126796e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 1,
+                    "utter": "マ？死"
+                },
+                {
+                    "author": "did:plc:4i4joxogsogp3l7dbky4z4kj",
+                    "type": 2,
+                    "utter": "まーーーー！！！😱\nやっと今出てるやつ作り終えたと思ったらもう次きて草"
+                },
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 3,
+                    "utter": "死😇"
+                }
+            ],
+            "uri": "at://did:plc:ggdh4p3aamxbobjvliq3xsjk/app.bsky.feed.post/3lanrir5sic2m",
+            "label": [
+                0.0032593989744782448,
+                0.9809276461601257,
+                0.001458106329664588,
+                0.00029307467048056424,
+                0.00019470472761895508,
+                0.004713495261967182,
+                0.009001420810818672,
+                0.0001521752419648692
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 1,
+                    "utter": "死😇"
+                },
+                {
+                    "author": "did:plc:4i4joxogsogp3l7dbky4z4kj",
+                    "type": 2,
+                    "utter": "めちゃめちゃ死ぬやんｗｗ"
+                },
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 3,
+                    "utter": "一期一会、モーションとか全然ゲット出来ぬままいくから悲しい、ファッションセットも然り。"
+                }
+            ],
+            "uri": "at://did:plc:ggdh4p3aamxbobjvliq3xsjk/app.bsky.feed.post/3lanromhgf22r",
+            "label": [
+                0.00024072871019598097,
+                0.9991331696510315,
+                0.00016645096184220165,
+                0.00011016614007530734,
+                5.953784420853481e-05,
+                9.978379966923967e-05,
+                0.00015548426017630845,
+                3.462100721662864e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 1,
+                    "utter": "一期一会、モーションとか全然ゲット出来ぬままいくから悲しい、ファッションセットも然り。"
+                },
+                {
+                    "author": "did:plc:4i4joxogsogp3l7dbky4z4kj",
+                    "type": 2,
+                    "utter": "同じく…よほど欲しいモーションがあるやつはフォト作成までコツコツ進めるけど、新しいの来たら一応そっち作り始めるから中途半端になるよな( ˘ω˘ )"
+                },
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 3,
+                    "utter": "ガチ中途半端嫌"
+                }
+            ],
+            "uri": "at://did:plc:ggdh4p3aamxbobjvliq3xsjk/app.bsky.feed.post/3lanrspzg4c2l",
+            "label": [
+                0.004406552761793137,
+                0.0026161784771829844,
+                0.0024626413360238075,
+                0.0014683535555377603,
+                0.0021895498502999544,
+                0.002582468092441559,
+                0.9834993481636047,
+                0.0007749045034870505
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 1,
+                    "utter": "ガチ中途半端嫌"
+                },
+                {
+                    "author": "did:plc:4i4joxogsogp3l7dbky4z4kj",
+                    "type": 2,
+                    "utter": "めっちゃわかるｗｗ\nでもメイクもモーションもコンプまで果てしなくね"
+                },
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 3,
+                    "utter": "はてしない \nだから服の染色終わったら諦めて次の服の染色開けてる"
+                }
+            ],
+            "uri": "at://did:plc:ggdh4p3aamxbobjvliq3xsjk/app.bsky.feed.post/3lanruxk3g22l",
+            "label": [
+                0.0013206262374296784,
+                0.0004068685811944306,
+                0.9978678226470947,
+                7.443234062520787e-05,
+                4.7227367758750916e-05,
+                0.00015974967391230166,
+                6.211959407664835e-05,
+                6.109495006967336e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 1,
+                    "utter": "自分宛に連絡来れば通知つくからすぐみれるよ！笑\nけも耳めちゃいいよ～～可愛すぎてついったにも投稿しちゃった😚😚\nめいつかあ、聞いたことはあるが、、、、😖😖😖😖"
+                },
+                {
+                    "author": "did:plc:4i4joxogsogp3l7dbky4z4kj",
+                    "type": 2,
+                    "utter": "すぐリプくれるのが嬉しいじゃん///\n仕事が早いｗｗ向こうでも自慢してくれてありがとや✊\n\nメイツ相当クオリティ高い加工出来るっぽいからいつか私も使いこなしたいと思っている( ˘ω˘ )"
+                },
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 3,
+                    "utter": "好きだからね😘\n\n加工の練習頑張るかあ、、割とセンスなところもあるから始めるのハードル高いなと思うとこあるよね"
+                }
+            ],
+            "uri": "at://did:plc:ggdh4p3aamxbobjvliq3xsjk/app.bsky.feed.post/3lalb3ef6tk2a",
+            "label": [
+                0.008580277673900127,
+                0.0004560283268801868,
+                0.990278422832489,
+                0.00011231077223783359,
+                8.186459308490157e-05,
+                0.00023925380082800984,
+                0.00011955829540966079,
+                0.00013216151273809373
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 1,
+                    "utter": "好きだからね😘\n\n加工の練習頑張るかあ、、割とセンスなところもあるから始めるのハードル高いなと思うとこあるよね"
+                },
+                {
+                    "author": "did:plc:4i4joxogsogp3l7dbky4z4kj",
+                    "type": 2,
+                    "utter": "ひゃだ///ありがと😘\n\nなんかフレーム？だかフィルターだか、既にセンスいいのが結構あるっぽいとは聞いた。それ使うだけでいいなら楽かもしんない！もしなんかほら、使い方とか分かったら私にもレクチャーしてくれ👀✨"
+                },
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 3,
+                    "utter": "君のようなつよつよ加工マンに教えることないだろ‼️‼️なめてるのか‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️"
+                }
+            ],
+            "uri": "at://did:plc:ggdh4p3aamxbobjvliq3xsjk/app.bsky.feed.post/3lalb7wkjnc2a",
+            "label": [
+                0.004131164401769638,
+                0.007820322178304195,
+                0.002885932568460703,
+                0.00941767543554306,
+                0.9514268636703491,
+                0.0029338488820940256,
+                0.019783947616815567,
+                0.0016002405900508165
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 1,
+                    "utter": "君のようなつよつよ加工マンに教えることないだろ‼️‼️なめてるのか‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️"
+                },
+                {
+                    "author": "did:plc:4i4joxogsogp3l7dbky4z4kj",
+                    "type": 2,
+                    "utter": "めっちゃ怒られたｗｗ\nこちとらアプリでの加工苦手で早々に投げ出してんだよ！！！！\nクリスタしか使えねぇよ！！！！"
+                },
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 3,
+                    "utter": "逆ギレしてきてて死ぬｗｗｗ\n使えるんだからいいだろうが‼️‼️"
+                }
+            ],
+            "uri": "at://did:plc:ggdh4p3aamxbobjvliq3xsjk/app.bsky.feed.post/3lalbdbajos2a",
+            "label": [
+                0.01971548981964588,
+                0.003740608924999833,
+                0.0007791954558342695,
+                0.9363316297531128,
+                0.01733577437698841,
+                0.00863253977149725,
+                0.012386787682771683,
+                0.0010780692100524902
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 1,
+                    "utter": "逆ギレしてきてて死ぬｗｗｗ\n使えるんだからいいだろうが‼️‼️"
+                },
+                {
+                    "author": "did:plc:4i4joxogsogp3l7dbky4z4kj",
+                    "type": 2,
+                    "utter": "つゆちゃんとか絶対すぐ使いこなしちまうんだ！！\nいもうめ分かってんだから！！！！！😤😤（理不尽な逆ギレ笑）"
+                },
+                {
+                    "author": "did:plc:ggdh4p3aamxbobjvliq3xsjk",
+                    "type": 3,
+                    "utter": "仲良くやろうよお😫😫😫😫😫😫(元凶)"
+                }
+            ],
+            "uri": "at://did:plc:ggdh4p3aamxbobjvliq3xsjk/app.bsky.feed.post/3lalcgz5d7c2d",
+            "label": [
+                0.0024269316345453262,
+                0.02845633774995804,
+                0.9156695604324341,
+                0.0009818871039897203,
+                0.018422499299049377,
+                0.0014617627020925283,
+                0.031606100499629974,
+                0.0009749290766194463
+            ]
+        }
+    ]
+}

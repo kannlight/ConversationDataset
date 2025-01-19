@@ -1,0 +1,484 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 1,
+                    "utter": "マットレス、慣れるまで身体痛むことはあるあるです！←某有名寝具メーカー勤務歴ありwww"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 2,
+                    "utter": "そうなの！？\nなるほど、慣れるまではﾌﾑ((¯ω¯*))ﾌﾑ"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 3,
+                    "utter": "姿勢悪くなってるの矯正しようとするからね🤔"
+                }
+            ],
+            "uri": "at://did:plc:c3mbmfvgijokobt3t2unwcbw/app.bsky.feed.post/3lby735jdrc2m",
+            "label": [
+                0.3468036651611328,
+                0.23930127918720245,
+                0.02913755178451538,
+                0.032833635807037354,
+                0.009895429015159607,
+                0.29090404510498047,
+                0.0398838073015213,
+                0.011240650899708271
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 1,
+                    "utter": "姿勢悪くなってるの矯正しようとするからね🤔"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 2,
+                    "utter": "あ〜なるほど、、\nほんと沈みきったマットで寝てたから変な寝そうだったと思うwwww"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 3,
+                    "utter": "しばらくしたら大丈夫になるはず✨✨✨"
+                }
+            ],
+            "uri": "at://did:plc:c3mbmfvgijokobt3t2unwcbw/app.bsky.feed.post/3lbyq5ech5s2t",
+            "label": [
+                0.0037833547685295343,
+                0.0005132915684953332,
+                0.9950839877128601,
+                9.48133019846864e-05,
+                7.229543552966788e-05,
+                0.00023991278430912644,
+                0.00010569847654551268,
+                0.00010664050932973623
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 1,
+                    "utter": "しばらくしたら大丈夫になるはず✨✨✨"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 2,
+                    "utter": "な〜る～\nだからこの前おばあちゃん家のベッドでも体バキバキになったのかw歳かと思ったわwwww"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 3,
+                    "utter": "そうかも🤣🤣🤣\n単純に合わない←硬すぎるとかね？\nもあるとは思うが、マットレスも寝てると自分の形になってくしね！！\nまぁ、子供が痛くならないのはそもそも姿勢がおかしくなってないから...てことを考えたら歳とも言えるかも🤣"
+                }
+            ],
+            "uri": "at://did:plc:c3mbmfvgijokobt3t2unwcbw/app.bsky.feed.post/3lbystzonk22o",
+            "label": [
+                0.6410835981369019,
+                0.008381560444831848,
+                0.2916211485862732,
+                0.032003726810216904,
+                0.0016043237410485744,
+                0.005915320944041014,
+                0.004364468157291412,
+                0.015025785192847252
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 1,
+                    "utter": "そうかも🤣🤣🤣\n単純に合わない←硬すぎるとかね？\nもあるとは思うが、マットレスも寝てると自分の形になってくしね！！\nまぁ、子供が痛くならないのはそもそも姿勢がおかしくなってないから...てことを考えたら歳とも言えるかも🤣"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 2,
+                    "utter": "あ、でも家に来た子はちょうどいい硬さだよ\nばあちゃん家のは硬かった(笑)\n\n歳なのにずっと変な体勢で寝てた反動もあるかな😂😂😂"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 3,
+                    "utter": "ホテルとかも痛くなるとこあるからね😂😂😂アスリートがマット持ち歩くの分かるわwww"
+                }
+            ],
+            "uri": "at://did:plc:c3mbmfvgijokobt3t2unwcbw/app.bsky.feed.post/3lc23vznon22y",
+            "label": [
+                0.9909597635269165,
+                0.00018229369015898556,
+                0.0026200059801340103,
+                0.005158753599971533,
+                0.00010882877541007474,
+                0.0002511170750949532,
+                0.00021384139836300164,
+                0.0005053780623711646
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 1,
+                    "utter": "えいたろと私、原因同じ人な気がwww"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 2,
+                    "utter": "( ˙᷄ỏ˙᷅ )oh......まじか、、\nあ、でもトレンドに入ってるニュースとか見てるとなんか出てくるのはニュースとかと関係ないタグつけて流してる不埒な輩もいるんだと思う。それもモザイク無しだからね…これ子供がみたらどうすんだって毎回心配になる"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 3,
+                    "utter": "Xなんて、やってる子は小学生でもやってるしね💦\nSNS禁止したい気持ちが分かる。\n昔みたいに落ちてたエロ本回し読みとかある意味健全（ではないwww）だったなと…( ´-`)"
+                }
+            ],
+            "uri": "at://did:plc:c3mbmfvgijokobt3t2unwcbw/app.bsky.feed.post/3lbspx64tps2c",
+            "label": [
+                0.011070683598518372,
+                0.8207125663757324,
+                0.0007864095969125628,
+                0.024093998596072197,
+                0.001079100533388555,
+                0.06054643169045448,
+                0.08114859461784363,
+                0.0005621985183097422
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 1,
+                    "utter": "Xなんて、やってる子は小学生でもやってるしね💦\nSNS禁止したい気持ちが分かる。\n昔みたいに落ちてたエロ本回し読みとかある意味健全（ではないwww）だったなと…( ´-`)"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 2,
+                    "utter": "いや、でもそっちの方が健全だったかもね😂もう今簡単に見れすぎてきまづい🤦‍♀️"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 3,
+                    "utter": "開いただけでそういうの現れるのはマジでどうなのか...\nそりゃ報告しても違反無しって言うよね...なんなら広告で流してくるんだもん"
+                }
+            ],
+            "uri": "at://did:plc:c3mbmfvgijokobt3t2unwcbw/app.bsky.feed.post/3lbtvglh5e22u",
+            "label": [
+                0.0025593240279704332,
+                0.004373256117105484,
+                0.0007683055009692907,
+                0.007951461710035801,
+                0.005301925353705883,
+                0.012926495634019375,
+                0.9654404520988464,
+                0.0006786625599488616
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 1,
+                    "utter": "開いただけでそういうの現れるのはマジでどうなのか...\nそりゃ報告しても違反無しって言うよね...なんなら広告で流してくるんだもん"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 2,
+                    "utter": "広告で流すとかホント論外\nXもう歌舞伎町みたいwwww荒れ度がやばいな🤦‍♀️"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 3,
+                    "utter": "見る専にするしかないのかな😇😇😇それすら間引かれるがwww\nほんと公式達動いてくれwww"
+                }
+            ],
+            "uri": "at://did:plc:c3mbmfvgijokobt3t2unwcbw/app.bsky.feed.post/3lbv434lhcc2s",
+            "label": [
+                0.0017998956609517336,
+                0.10318474471569061,
+                0.8862882852554321,
+                0.0009688720456324518,
+                0.0010100663639605045,
+                0.003563766134902835,
+                0.0028900483157485723,
+                0.0002943407744169235
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 1,
+                    "utter": "見る専にするしかないのかな😇😇😇それすら間引かれるがwww\nほんと公式達動いてくれwww"
+                },
+                {
+                    "author": "did:plc:o3bxqbcrygo6ezewdw6vk5ot",
+                    "type": 2,
+                    "utter": "私は、見る専なら他の垢あるから、もう見限ろうかなーって見限り装置( ｡･ω･｡)ﾉ 凸ﾎﾟﾁｯっとなってして🦋だけで活動しようかなと思ってる"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 3,
+                    "utter": "そうね💦\nここまで酷いとホントにwww"
+                }
+            ],
+            "uri": "at://did:plc:c3mbmfvgijokobt3t2unwcbw/app.bsky.feed.post/3lbvr7piljk24",
+            "label": [
+                0.021694118157029152,
+                0.041994158178567886,
+                0.002121981931850314,
+                0.7087886333465576,
+                0.0010892937425523996,
+                0.2186182290315628,
+                0.004548252560198307,
+                0.0011452798498794436
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 1,
+                    "utter": "太郎さんと雲生さんの間でエスコートされたい...\n大丈夫！私170あるし！ヒール履いたらもっと高いし！！！\n雲生さんも190近いんじゃ説がありますが、大丈夫です！！！←何が？"
+                },
+                {
+                    "author": "did:plc:ecyq3pws5smprxnkvdfw6whx",
+                    "type": 2,
+                    "utter": "太郎太刀196cm…………"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 3,
+                    "utter": "ギリ私なら行けるだろ！！！ヒール履けば身長差20cm以下に出来る！！✨✨✨"
+                }
+            ],
+            "uri": "at://did:plc:c3mbmfvgijokobt3t2unwcbw/app.bsky.feed.post/3lbtv6y4rc22u",
+            "label": [
+                0.0019076054450124502,
+                0.00026886866544373333,
+                0.9973257780075073,
+                0.00013869702524971217,
+                7.560860103694722e-05,
+                0.00014012106112204492,
+                7.142071990529075e-05,
+                7.18789451639168e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 1,
+                    "utter": "ギリ私なら行けるだろ！！！ヒール履けば身長差20cm以下に出来る！！✨✨✨"
+                },
+                {
+                    "author": "did:plc:ecyq3pws5smprxnkvdfw6whx",
+                    "type": 2,
+                    "utter": "釣り合う！！！"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 3,
+                    "utter": "\\( *°ω°* )/ﾔｯﾀ-!!"
+                }
+            ],
+            "uri": "at://did:plc:c3mbmfvgijokobt3t2unwcbw/app.bsky.feed.post/3lbtx55oups2m",
+            "label": [
+                0.9995953440666199,
+                4.6405013563344255e-05,
+                0.00013459415640681982,
+                5.9052097640233114e-05,
+                3.2676078262738883e-05,
+                4.307935159886256e-05,
+                4.766644269693643e-05,
+                4.1124760173261166e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 1,
+                    "utter": "\\( *°ω°* )/ﾔｯﾀ-!!"
+                },
+                {
+                    "author": "did:plc:ecyq3pws5smprxnkvdfw6whx",
+                    "type": 2,
+                    "utter": "太郎太刀にお姫様抱っこされなさいwww"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 3,
+                    "utter": "雲生さんがシュンとするのでダメ🥺"
+                }
+            ],
+            "uri": "at://did:plc:c3mbmfvgijokobt3t2unwcbw/app.bsky.feed.post/3lbtxcvzsds2m",
+            "label": [
+                0.08023929595947266,
+                0.2807835042476654,
+                0.00213263020850718,
+                0.01099851168692112,
+                0.0017245644703507423,
+                0.42719754576683044,
+                0.1952412873506546,
+                0.0016827364452183247
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 1,
+                    "utter": "雲生さんがシュンとするのでダメ🥺"
+                },
+                {
+                    "author": "did:plc:ecyq3pws5smprxnkvdfw6whx",
+                    "type": 2,
+                    "utter": "それが見たいんや！！！"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 3,
+                    "utter": "太郎さんその辺気が付かなそうで問答無用に運ばれそうなの困ったね🥺\nでもさ、太郎さんちょっとズレてるから、姫抱っこならまだしも、俵担ぎか小脇に抱えられそうで笑う🥺🥺🥺"
+                }
+            ],
+            "uri": "at://did:plc:c3mbmfvgijokobt3t2unwcbw/app.bsky.feed.post/3lbu23zubtc2m",
+            "label": [
+                0.05209433659911156,
+                0.013009867630898952,
+                0.007855615578591824,
+                0.09805389493703842,
+                0.0006592167192138731,
+                0.8257308602333069,
+                0.0016511065186932683,
+                0.0009451501537114382
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 1,
+                    "utter": "太郎さんその辺気が付かなそうで問答無用に運ばれそうなの困ったね🥺\nでもさ、太郎さんちょっとズレてるから、姫抱っこならまだしも、俵担ぎか小脇に抱えられそうで笑う🥺🥺🥺"
+                },
+                {
+                    "author": "did:plc:ecyq3pws5smprxnkvdfw6whx",
+                    "type": 2,
+                    "utter": "それを酒飲みながら爆笑してる次郎と日本号が目に浮かぶwww\n\n光忠と長谷部は怒る\n\n乱は呆れるw"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 3,
+                    "utter": "ハンドバッグか私は！！！！\nってギャーギャー言ってる私と追いかけてくる雲生さん......\nうん、面白いとは思う🙄\n\nなんで怒るの😂😂😂\n乱くんはそうだね、ちゃんと後で『女性の運び方じゃない！』って言ってくれそう🥺"
+                }
+            ],
+            "uri": "at://did:plc:c3mbmfvgijokobt3t2unwcbw/app.bsky.feed.post/3lbu3dovprs2m",
+            "label": [
+                0.38245877623558044,
+                0.011824925430119038,
+                0.5845537185668945,
+                0.01026882417500019,
+                0.0008041170076467097,
+                0.0050059715285897255,
+                0.0028665855061262846,
+                0.0022170688025653362
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 1,
+                    "utter": "刀なのにwww"
+                },
+                {
+                    "author": "did:plc:ecyq3pws5smprxnkvdfw6whx",
+                    "type": 2,
+                    "utter": "うちの子達、刀より先に足と手が出るタイプだからwww"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 3,
+                    "utter": "私「なんか、火力強いねあの本丸www」\nんしょ「...主は、あのような暴漢のような私の方がお気に召しますか🥺💦」\n私「むっちゃ煽るやんwww」\n\nがうちの子ですwww"
+                }
+            ],
+            "uri": "at://did:plc:c3mbmfvgijokobt3t2unwcbw/app.bsky.feed.post/3lbnxt2skdc2h",
+            "label": [
+                0.953079342842102,
+                0.0035514933988451958,
+                0.003222985193133354,
+                0.03055628202855587,
+                0.0005172647652216256,
+                0.006054536439478397,
+                0.0019302109722048044,
+                0.0010878948960453272
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 1,
+                    "utter": "私「なんか、火力強いねあの本丸www」\nんしょ「...主は、あのような暴漢のような私の方がお気に召しますか🥺💦」\n私「むっちゃ煽るやんwww」\n\nがうちの子ですwww"
+                },
+                {
+                    "author": "did:plc:ecyq3pws5smprxnkvdfw6whx",
+                    "type": 2,
+                    "utter": "のうんしょ｢おん？煽られた？……ふっ。貧弱な｣\n\n俺｢ステイ。あちらは敵に回してはいけない。仲良くしろ。こちらが殺られるぞ｣\n\nのうんしょ｢フンッフンッ｣\n俺｢だからって筋トレ始めんじゃねぇ！？｣\n\n脳筋蛍丸｢雲生………主を困らせるなら、プロテインの中身全部砂糖にするよ｣\nのうんしょ｢サー、イエッサー｣\n\nですが？"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 3,
+                    "utter": "うちの子たちがこぞってドン引き胸焼けしそうで草( ᐛ )‪𐤔"
+                }
+            ],
+            "uri": "at://did:plc:c3mbmfvgijokobt3t2unwcbw/app.bsky.feed.post/3lbnydaacxk2h",
+            "label": [
+                0.022213254123926163,
+                0.23859812319278717,
+                0.0036329340655356646,
+                0.0034443738404661417,
+                0.00042104427120648324,
+                0.7289887070655823,
+                0.0021891517098993063,
+                0.0005123713053762913
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 1,
+                    "utter": "うちの子たちがこぞってドン引き胸焼けしそうで草( ᐛ )‪𐤔"
+                },
+                {
+                    "author": "did:plc:ecyq3pws5smprxnkvdfw6whx",
+                    "type": 2,
+                    "utter": "脳筋筆頭は三日月宗近"
+                },
+                {
+                    "author": "did:plc:c3mbmfvgijokobt3t2unwcbw",
+                    "type": 3,
+                    "utter": "それはでもなんとなく想像つくwww"
+                }
+            ],
+            "uri": "at://did:plc:c3mbmfvgijokobt3t2unwcbw/app.bsky.feed.post/3lbnznoujak2z",
+            "label": [
+                0.9988715052604675,
+                5.858022632310167e-05,
+                0.00050170166650787,
+                0.00022877458832226694,
+                3.884899342665449e-05,
+                9.400115959579125e-05,
+                0.0001081018490367569,
+                9.852815855992958e-05
+            ]
+        }
+    ]
+}

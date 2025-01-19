@@ -1,0 +1,329 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 1,
+                    "utter": "and another suggestion:\ndont outright block or ban accounts, they will just come back with a fresh one. shadow ban them and try to make it as difficult as possible for them to realize their fake accounts have been identified, so they waste as much time on them as possible."
+                },
+                {
+                    "author": "did:plc:24m2jzwpynrcffcnye4sfhr6",
+                    "type": 2,
+                    "utter": "That's the mute feature. They don't know they're muted, and they get pushed to the bottom and hidden.\n\nHowever, they'll be visible to others who haven't blocked/muted them in a thread. If you block, they vanish for everyone reading your thread."
+                },
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 3,
+                    "utter": "thanks! but thats for me right?\ni mean something similar, but on a platform level, which is a lot more tricky cause they probably have test accounts to check if the posts of their spam/bot accounts are still visible or not. so theyll know once theyre on global mute. but there are ways..."
+                }
+            ],
+            "uri": "at://did:plc:zurb6t6bvohcxvgbugh57xs6/app.bsky.feed.post/3lc5alx3fw22v",
+            "label": [
+                0.9103153944015503,
+                0.017310118302702904,
+                0.01984073594212532,
+                0.01947847194969654,
+                0.004406426101922989,
+                0.006552132312208414,
+                0.013378312811255455,
+                0.00871850736439228
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 1,
+                    "utter": "thanks! but thats for me right?\ni mean something similar, but on a platform level, which is a lot more tricky cause they probably have test accounts to check if the posts of their spam/bot accounts are still visible or not. so theyll know once theyre on global mute. but there are ways..."
+                },
+                {
+                    "author": "did:plc:24m2jzwpynrcffcnye4sfhr6",
+                    "type": 2,
+                    "utter": "I'm uneasy about suggesting a platform-based mute over banning truly offending accounts. That's what led to the algorithmic down-ranking or even hiding of accounts on twitter."
+                },
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 3,
+                    "utter": "i know, i feel the same...\nbut it doesnt have to be done the way elon does it.\nits a tool, its not inherintly good or evil, and just because elon uses it in a bad way doesnt mean it should be excluded from our toolbox to combat nefarious activity. thats my opinion..."
+                }
+            ],
+            "uri": "at://did:plc:zurb6t6bvohcxvgbugh57xs6/app.bsky.feed.post/3lc5bhzhkds2v",
+            "label": [
+                0.5374472737312317,
+                0.127193883061409,
+                0.15082833170890808,
+                0.045209627598524094,
+                0.017668211832642555,
+                0.03490515053272247,
+                0.062055837363004684,
+                0.024691646918654442
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 1,
+                    "utter": "i know, i feel the same...\nbut it doesnt have to be done the way elon does it.\nits a tool, its not inherintly good or evil, and just because elon uses it in a bad way doesnt mean it should be excluded from our toolbox to combat nefarious activity. thats my opinion..."
+                },
+                {
+                    "author": "did:plc:24m2jzwpynrcffcnye4sfhr6",
+                    "type": 2,
+                    "utter": "I think it's inevitable there would be scope creep with such a tool, and goes against the user-driven moderation basis Bsky was built on. I'm much more comfortable with user lists, simply because if one is bad, you can make your own, or sub to another. Can't do that with site-based moderation."
+                },
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 3,
+                    "utter": "hmmm i thought about this some more...\nis it possible, to create a mute list... based on how many days ago an account was registered? and based on how many posts or followers it has? or could I, as an individual, be able to just set this up somewhere?"
+                },
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 3,
+                    "utter": "if i could set up somewhere, that all posts from accounts that are less than 30 days old, and/or have less than X posts, and/or have less than X follows/followers... then that would be perfect. i could then tune this to mute at least some of the spambots... and i can tweak it to find the sweet spot"
+                }
+            ],
+            "uri": "at://did:plc:zurb6t6bvohcxvgbugh57xs6/app.bsky.feed.post/3lc5fvbi6ds2t",
+            "label": [
+                0.4963582456111908,
+                0.04297913983464241,
+                0.3450675904750824,
+                0.04906022921204567,
+                0.012357870116829872,
+                0.015098057687282562,
+                0.019312256947159767,
+                0.019766608253121376
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 1,
+                    "utter": "yeah, well explained.\ni can see how to some, this is censorship, and it arguably is a form of censorship... but so is a drivers license!\nand we all agree, that requiring a drivers license is a good thing, right?\n\nits the same thing, limit or restrict access for an initial time period..."
+                },
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 1,
+                    "utter": "how we deal with real people who violate the TOS with their personal accounts is one thing, and I agree there should be a robust review system to avoid wrongfully accused or repenting users a quick path back into the community.\n\nbut when defending against nefarious armies of bots..."
+                },
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 1,
+                    "utter": "you really need every tool at your disposal, and you really have to be smart about how you use your tools to hold nefarious bot armies at bay.\n\nthere are nefarious people and organizations with IMMENSE money, power and capabilities at play!"
+                },
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 1,
+                    "utter": "bluesky is now on everyones radar\nautocratic governments have realized they cannot control and manipulate bluesky in the way they managed to infiltrate and take over twitter. so what do you think theyll do about it? just sit back and watch? they will try to destroy bluesky by any means necessary"
+                },
+                {
+                    "author": "did:plc:uxy4w5qbl25yeantwcfytcfr",
+                    "type": 2,
+                    "utter": "Absolutely agreed. They'll use the same techniques they've always used for a while. They'll eventually find loopholes and exploit those until they're plugged. Bluesky can only do so much as a platform. A lot of what they (BS) will do is provide tools - users will have to learn and use those tools."
+                },
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 3,
+                    "utter": "hmmm you got a good point there... maybe instead of a global mute or block list, its better to let the community create and maintain those lists themselves, in an organic multipolar way..."
+                },
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 3,
+                    "utter": "are there mute lists? so the accounts can still DM me and see my posts and reply to my posts? i just dont see their posts? unless is go to their account and look them up manually?\nor are the lists that exist currently a hard block?\n\nis there an overview of all block/mute lists somewhere?"
+                }
+            ],
+            "uri": "at://did:plc:zurb6t6bvohcxvgbugh57xs6/app.bsky.feed.post/3lc5diebptk2v",
+            "label": [
+                0.4534749984741211,
+                0.021648157387971878,
+                0.4909173846244812,
+                0.011064413003623486,
+                0.0037102869246155024,
+                0.004190491978079081,
+                0.006454978603869677,
+                0.008539379574358463
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 1,
+                    "utter": "yeah, well explained.\ni can see how to some, this is censorship, and it arguably is a form of censorship... but so is a drivers license!\nand we all agree, that requiring a drivers license is a good thing, right?\n\nits the same thing, limit or restrict access for an initial time period..."
+                },
+                {
+                    "author": "did:plc:77nmzhi3sj4fe6jhcmyrrkgp",
+                    "type": 2,
+                    "utter": "Well, 1st, speeding down the highway at 75mph is SLIGHTLY different than being allowed to type a few words in an app.  And the TOS would still be in effect the entire time.\n\nLimiting access until you can \"prove\" you are worthy enough to post unlimited, without cause is wrong."
+                },
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 3,
+                    "utter": "why do you think its wrong?\nwhats the damage it really does?"
+                }
+            ],
+            "uri": "at://did:plc:zurb6t6bvohcxvgbugh57xs6/app.bsky.feed.post/3lc5dcqslks2v",
+            "label": [
+                0.21400292217731476,
+                0.011427737772464752,
+                0.6636835336685181,
+                0.08080778270959854,
+                0.009138742461800575,
+                0.0038935760967433453,
+                0.007787386421114206,
+                0.009258362464606762
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 1,
+                    "utter": "why do you think its wrong?\nwhats the damage it really does?"
+                },
+                {
+                    "author": "did:plc:77nmzhi3sj4fe6jhcmyrrkgp",
+                    "type": 2,
+                    "utter": "Well, if the purpose, as you said, is to give the algorithm time to \"classify\" someone (creepy word, LOL), you would be limiting the data to the algorithm.  Someone looking to game the process could post false posts during the limited time, and run rampant after that."
+                },
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 3,
+                    "utter": "sure, but then:\n1. during the initial period there would be no nefarious activity\n2. gaming the process makes it a lot harder for bot armies to get it. not impossible, but the cost goes up, possibly by a lot. hopefully...\n3. even if you can only catch half of the accounts early, thats a win?"
+                }
+            ],
+            "uri": "at://did:plc:zurb6t6bvohcxvgbugh57xs6/app.bsky.feed.post/3lc5dyawo5c2v",
+            "label": [
+                0.34969350695610046,
+                0.04944831505417824,
+                0.4906628131866455,
+                0.037727732211351395,
+                0.01600130833685398,
+                0.016803361475467682,
+                0.022580446675419807,
+                0.017082493752241135
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 1,
+                    "utter": "sure, but then:\n1. during the initial period there would be no nefarious activity\n2. gaming the process makes it a lot harder for bot armies to get it. not impossible, but the cost goes up, possibly by a lot. hopefully...\n3. even if you can only catch half of the accounts early, thats a win?"
+                },
+                {
+                    "author": "did:plc:77nmzhi3sj4fe6jhcmyrrkgp",
+                    "type": 2,
+                    "utter": "Why PRESUME someone is a poor actor?  Why not wait until they DO something to address them?\n\nI mean WORST case scenario, someone might see some words they don't like, and report them.  No harm done."
+                },
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 3,
+                    "utter": "if that was really the worst case scenario, then yeah, i totally agree. but sadly, the worst case scenario is a lot more serious. remember the imposter twitter accounts that caused some stocks to fall and companies lost billions in a day? fake accusations that permanently damage somebodies name?"
+                }
+            ],
+            "uri": "at://did:plc:zurb6t6bvohcxvgbugh57xs6/app.bsky.feed.post/3lc5ehsub5c2v",
+            "label": [
+                0.6419356465339661,
+                0.050153184682130814,
+                0.20647881925106049,
+                0.04883638396859169,
+                0.00882679969072342,
+                0.014492830261588097,
+                0.014555768109858036,
+                0.014720587059855461
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 1,
+                    "utter": "yeah, well explained.\ni can see how to some, this is censorship, and it arguably is a form of censorship... but so is a drivers license!\nand we all agree, that requiring a drivers license is a good thing, right?\n\nits the same thing, limit or restrict access for an initial time period..."
+                },
+                {
+                    "author": "did:plc:77nmzhi3sj4fe6jhcmyrrkgp",
+                    "type": 2,
+                    "utter": "Well, 1st, speeding down the highway at 75mph is SLIGHTLY different than being allowed to type a few words in an app.  And the TOS would still be in effect the entire time.\n\nLimiting access until you can \"prove\" you are worthy enough to post unlimited, without cause is wrong."
+                },
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 3,
+                    "utter": "this is the hard lesson society is learning about social media, and many still havent come to terms with... information can be a LOT more dangerous than a car speeding down the highway at 75mph...\n\na single sentence, at the right time, can cause damage in the billions if not trillions"
+                }
+            ],
+            "uri": "at://did:plc:zurb6t6bvohcxvgbugh57xs6/app.bsky.feed.post/3lc5dak3go22v",
+            "label": [
+                0.5720897316932678,
+                0.1224125474691391,
+                0.14511409401893616,
+                0.07083721458911896,
+                0.011069302447140217,
+                0.03243983909487724,
+                0.02733069658279419,
+                0.01870664767920971
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 1,
+                    "utter": "this is the hard lesson society is learning about social media, and many still havent come to terms with... information can be a LOT more dangerous than a car speeding down the highway at 75mph...\n\na single sentence, at the right time, can cause damage in the billions if not trillions"
+                },
+                {
+                    "author": "did:plc:77nmzhi3sj4fe6jhcmyrrkgp",
+                    "type": 2,
+                    "utter": "No, the REACTION of people to a single sentence can cause damage.  That is on the actors, not the poster.  WORDS have never ever harmed anyone physically."
+                },
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 3,
+                    "utter": "thats... an interesting philosophical idea...\nfor algorithms this is certainly true, but in reality, this is clearly not true for context driven emotional organic life forms like us"
+                }
+            ],
+            "uri": "at://did:plc:zurb6t6bvohcxvgbugh57xs6/app.bsky.feed.post/3lc5e7kpwjs2v",
+            "label": [
+                0.7690045237541199,
+                0.020571159198880196,
+                0.16422171890735626,
+                0.012196077033877373,
+                0.0033600395545363426,
+                0.0076349638402462006,
+                0.011616140604019165,
+                0.011395423673093319
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 1,
+                    "utter": "thats... an interesting philosophical idea...\nfor algorithms this is certainly true, but in reality, this is clearly not true for context driven emotional organic life forms like us"
+                },
+                {
+                    "author": "did:plc:77nmzhi3sj4fe6jhcmyrrkgp",
+                    "type": 2,
+                    "utter": "I do not understand what you mean, could you please clarify?"
+                },
+                {
+                    "author": "did:plc:zurb6t6bvohcxvgbugh57xs6",
+                    "type": 3,
+                    "utter": "humans inherently react on an emotional level to every bit of information we receive. this is not something we choose. yes we do exert some control over our reactions, but from a psychological point of view, saying that the consequences of any action of a person is entirely..."
+                }
+            ],
+            "uri": "at://did:plc:zurb6t6bvohcxvgbugh57xs6/app.bsky.feed.post/3lc5ezn55yc2v",
+            "label": [
+                0.5709435343742371,
+                0.02389056794345379,
+                0.3331165313720703,
+                0.018205462023615837,
+                0.009163235314190388,
+                0.008869419805705547,
+                0.01844373345375061,
+                0.01736755110323429
+            ]
+        }
+    ]
+}

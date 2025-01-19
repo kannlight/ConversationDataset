@@ -36,6 +36,7 @@ def print_statics(path):
 
 def label_statistics(dir):
     sum_label = np.zeros(8)
+    argmax_sum_label = np.zeros(8)
 
     for file in os.listdir(dir):
         data = {}
@@ -44,12 +45,16 @@ def label_statistics(dir):
         
         if 'data' in data:
             for talk in data['data']:
-                sum_label = sum_label + np.array(talk['label'])
+                label = talk['label']
+                sum_label += np.array(label)
+                argmax_sum_label[label.index(max(label))] += 1
     print('label sum:')
     print(sum_label)
-    print('data num:')
     print(sum_label.sum())
+    print('argmax label sum:')
+    print(argmax_sum_label)
+    print(argmax_sum_label.sum())
 
 if __name__ == "__main__":
     print_statics(sys.argv[1])
-    # label_statistics(sys.argv[1])
+    label_statistics(sys.argv[1])

@@ -1,0 +1,309 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 1,
+                    "utter": "私も参加したい〜🎣"
+                },
+                {
+                    "author": "did:plc:v4n4zx632zqalevuwcr3rxxr",
+                    "type": 2,
+                    "utter": "やったーーいらっしゃいませ！\nいい河童になろうねぇ☺️🙌🥒"
+                },
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 3,
+                    "utter": "ありがとう😊\n当日楽しみにしておくね〜🥳🎣\nもらうだけで一回も着てなかったのスーツ…。\n遂に着る時が来た〜w"
+                }
+            ],
+            "uri": "at://did:plc:ij7vogdf66lpsyzb7gqwljtw/app.bsky.feed.post/3l73jkgnbp42o",
+            "label": [
+                0.9618404507637024,
+                0.0004331387171987444,
+                0.03676999732851982,
+                0.0003017235139850527,
+                0.00012173013965366408,
+                0.00019160137162543833,
+                0.00014551846834365278,
+                0.0001957799104275182
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 1,
+                    "utter": "ありがとう😊\n当日楽しみにしておくね〜🥳🎣\nもらうだけで一回も着てなかったのスーツ…。\n遂に着る時が来た〜w"
+                },
+                {
+                    "author": "did:plc:v4n4zx632zqalevuwcr3rxxr",
+                    "type": 2,
+                    "utter": "ココさん、いつもおしゃれにしてるイメージだと思ったけど着たことないとは〜！"
+                },
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 3,
+                    "utter": "あれはカッコよく着るの難しいなぁーって思って🤣\nそっとチェストに入れてしまったw🤣"
+                }
+            ],
+            "uri": "at://did:plc:ij7vogdf66lpsyzb7gqwljtw/app.bsky.feed.post/3l73jrfieuw2h",
+            "label": [
+                0.7914370894432068,
+                0.04800336807966232,
+                0.07715614885091782,
+                0.007739403285086155,
+                0.0006143360515125096,
+                0.0644141361117363,
+                0.007011550012975931,
+                0.0036240105982869864
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 1,
+                    "utter": "あれはカッコよく着るの難しいなぁーって思って🤣\nそっとチェストに入れてしまったw🤣"
+                },
+                {
+                    "author": "did:plc:v4n4zx632zqalevuwcr3rxxr",
+                    "type": 2,
+                    "utter": "コーディネートのしようがないでしょww"
+                },
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 3,
+                    "utter": "うんwww"
+                }
+            ],
+            "uri": "at://did:plc:ij7vogdf66lpsyzb7gqwljtw/app.bsky.feed.post/3l73kaor3h32r",
+            "label": [
+                0.9994346499443054,
+                4.856198211200535e-05,
+                0.00012335838982835412,
+                0.00019836665887851268,
+                3.005208600370679e-05,
+                5.0185375584987924e-05,
+                6.693441537208855e-05,
+                4.788776641362347e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 1,
+                    "utter": "ハウジングタイマーが作動したみたいであちこち空き家があるけどそろそろMハウス狙いで抽選してみるかなぁ。\nラベとミストで悩んでるんだけどなぁ〜〜🤔"
+                },
+                {
+                    "author": "did:plc:4mmfvgpmahbbd5mozdx5xchv",
+                    "type": 2,
+                    "utter": "引っ越しちゃうの！！！隠れ家的展望台見納めに行かねば！(気が早い"
+                },
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 3,
+                    "utter": "えるさん、めちゃ気が早いwww\n\n前からMハウスが欲しくてでも定期的に引っ越ししたくなるからどうしようかなーと悩んでたんだ〜w\n昨日、ミストのMサイズの空き家見つけたんで急に引っ越し熱が沸々とw\nさっき抽選申し込んできたよ🥳\n当たらなかったら当面あの場所のままだよっ😊"
+                }
+            ],
+            "uri": "at://did:plc:ij7vogdf66lpsyzb7gqwljtw/app.bsky.feed.post/3l32ui45k2g2z",
+            "label": [
+                0.20792946219444275,
+                0.000701765704434365,
+                0.7889216542243958,
+                0.0009972855914384127,
+                0.0003347293531987816,
+                0.0003891084052156657,
+                0.0002985902247019112,
+                0.00042740959906950593
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 1,
+                    "utter": "えるさん、めちゃ気が早いwww\n\n前からMハウスが欲しくてでも定期的に引っ越ししたくなるからどうしようかなーと悩んでたんだ〜w\n昨日、ミストのMサイズの空き家見つけたんで急に引っ越し熱が沸々とw\nさっき抽選申し込んできたよ🥳\n当たらなかったら当面あの場所のままだよっ😊"
+                },
+                {
+                    "author": "did:plc:4mmfvgpmahbbd5mozdx5xchv",
+                    "type": 2,
+                    "utter": "結果発表までドキドキだーー！\nいまのおうちもめちゃよきだけどここちゃんのMサイズハウスにも遊びにいきたい🥳"
+                },
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 3,
+                    "utter": "6日発表だったはず😊\n当たるといいなぁ〜〜😘\n結果でたらすぐ報告するねぇ🥳"
+                }
+            ],
+            "uri": "at://did:plc:ij7vogdf66lpsyzb7gqwljtw/app.bsky.feed.post/3l32w4t6xev2t",
+            "label": [
+                0.0007227587047964334,
+                0.0002020934334723279,
+                0.9987039566040039,
+                0.00011282829655101523,
+                6.0047652368666604e-05,
+                8.27163748908788e-05,
+                5.81557433179114e-05,
+                5.7532175560481846e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 1,
+                    "utter": "6日発表だったはず😊\n当たるといいなぁ〜〜😘\n結果でたらすぐ報告するねぇ🥳"
+                },
+                {
+                    "author": "did:plc:4mmfvgpmahbbd5mozdx5xchv",
+                    "type": 2,
+                    "utter": "楽しみ〜🥰"
+                },
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 3,
+                    "utter": "とりあえず今のハウスも一階部分は家具並べたりしてるよ🥳\n浮かせ苦手勢なので置いてるだけだけどねっw😂"
+                }
+            ],
+            "uri": "at://did:plc:ij7vogdf66lpsyzb7gqwljtw/app.bsky.feed.post/3l32xd4yrtz2c",
+            "label": [
+                0.9987552165985107,
+                6.266259151743725e-05,
+                0.0008394103497266769,
+                7.050291605992243e-05,
+                3.8861144275870174e-05,
+                7.433600694639608e-05,
+                8.286621596198529e-05,
+                7.621329132234678e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 1,
+                    "utter": "とりあえず今のハウスも一階部分は家具並べたりしてるよ🥳\n浮かせ苦手勢なので置いてるだけだけどねっw😂"
+                },
+                {
+                    "author": "did:plc:4mmfvgpmahbbd5mozdx5xchv",
+                    "type": 2,
+                    "utter": "いま見に来たー！！\nなんだこれめちゃオシャレー！！！！\nコスタがみえる！！！！！！！！すごい✨✨"
+                },
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 3,
+                    "utter": "ホント行動が早いねwww😂\n\n細かいとこは見ちゃだめよw"
+                },
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 3,
+                    "utter": "置いてる絵画はフルカカウダで随分お世話になったレーテー海だよw"
+                }
+            ],
+            "uri": "at://did:plc:ij7vogdf66lpsyzb7gqwljtw/app.bsky.feed.post/3l32xvtkcvo2z",
+            "label": [
+                0.5794160962104797,
+                0.0011040281970053911,
+                0.008492880500853062,
+                0.4062196910381317,
+                0.0007498097256757319,
+                0.0010631992481648922,
+                0.0010107551934197545,
+                0.001943513983860612
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 1,
+                    "utter": "ホント行動が早いねwww😂\n\n細かいとこは見ちゃだめよw"
+                },
+                {
+                    "author": "did:plc:4mmfvgpmahbbd5mozdx5xchv",
+                    "type": 2,
+                    "utter": "エッヘン！！地下へと続く通路も見てきた！！！！(レポリットいた☺️"
+                },
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 3,
+                    "utter": "あそこは苦し紛れの空間なのよっw"
+                }
+            ],
+            "uri": "at://did:plc:ij7vogdf66lpsyzb7gqwljtw/app.bsky.feed.post/3l32xys33vr2c",
+            "label": [
+                0.301658570766449,
+                0.45321545004844666,
+                0.02167770266532898,
+                0.007124210242182016,
+                0.0012530569219961762,
+                0.19562916457653046,
+                0.01752336136996746,
+                0.0019184511620551348
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 1,
+                    "utter": "もしかして同じとこ応募してた…？"
+                },
+                {
+                    "author": "did:plc:d2jkx5v2kofexbwk3paoycaz",
+                    "type": 2,
+                    "utter": "同じとこ応募してたwww\nまた落選したー！！！ってなってたけど、しえるぶるーちゃんが当選してたので実質当選🥳"
+                },
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 3,
+                    "utter": "ああーw\nやっぱりそうだった〜😅\n\nまた空き地情報見つけたら連絡いれるね〜。"
+                }
+            ],
+            "uri": "at://did:plc:ij7vogdf66lpsyzb7gqwljtw/app.bsky.feed.post/3lafuqcxpac2a",
+            "label": [
+                0.006901289336383343,
+                0.000410999171435833,
+                0.9917293190956116,
+                0.0005461816326715052,
+                8.771415014052764e-05,
+                8.89512084540911e-05,
+                9.857265831669793e-05,
+                0.0001368903467664495
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 1,
+                    "utter": "PLL観ない人だから知らなかったw\nこ良いタイミングで土地ゲット出来たんだね。\nアプデ来てからハウジングやる事にします〜。\n情報ありがとう〜"
+                },
+                {
+                    "author": "did:plc:v4n4zx632zqalevuwcr3rxxr",
+                    "type": 2,
+                    "utter": "ハウジング始めてから全部の家具片付けるの大変だもんねぇ…"
+                },
+                {
+                    "author": "did:plc:ij7vogdf66lpsyzb7gqwljtw",
+                    "type": 3,
+                    "utter": "うん〜。\n実際アプデ来てからまたハウジングの神様達がいろいろ情報発信してくれるだろうからそれ見てからにしようかな"
+                }
+            ],
+            "uri": "at://did:plc:ij7vogdf66lpsyzb7gqwljtw/app.bsky.feed.post/3lafxyzxgve2q",
+            "label": [
+                0.0030870286282151937,
+                0.0002887416339945048,
+                0.9961283206939697,
+                0.00011339811317157,
+                6.583044887520373e-05,
+                0.00015767330478411168,
+                7.30783212929964e-05,
+                8.589422213844955e-05
+            ]
+        }
+    ]
+}

@@ -1,0 +1,344 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 1,
+                    "utter": "えっ、それはやだ(笑)"
+                },
+                {
+                    "author": "did:plc:bfpp5eorwrx332al6enmul4y",
+                    "type": 2,
+                    "utter": "嫌なのか🤣\n過去形だから💦🤭"
+                },
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 3,
+                    "utter": "いや、関わりたくないという意味🤣"
+                }
+            ],
+            "uri": "at://did:plc:tyfrsrf5ps6tbmeojzsyyvlu/app.bsky.feed.post/3lbp2enuw7c2s",
+            "label": [
+                0.01962861977517605,
+                0.05463258922100067,
+                0.0029696074780076742,
+                0.0017680488526821136,
+                0.0023894940968602896,
+                0.0934845507144928,
+                0.8232995867729187,
+                0.0018274802714586258
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 1,
+                    "utter": "いや、関わりたくないという意味🤣"
+                },
+                {
+                    "author": "did:plc:bfpp5eorwrx332al6enmul4y",
+                    "type": 2,
+                    "utter": "🤣\nふみぞうさん、面白い👍️"
+                },
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 3,
+                    "utter": "自分で言うのもなんなんですが、この引きの強さのせいか周りのファンの友達とかからもいろいろ言われてきたんですよ(笑)でも私はえー、そうなの？絶対やだーとか言ってて、ある意味罰当たりなのかも。"
+                }
+            ],
+            "uri": "at://did:plc:tyfrsrf5ps6tbmeojzsyyvlu/app.bsky.feed.post/3lbqacqzz4k2r",
+            "label": [
+                0.005652002524584532,
+                0.821716845035553,
+                0.0009340860997326672,
+                0.001828123815357685,
+                0.0008008936420083046,
+                0.15811248123645782,
+                0.010546394623816013,
+                0.0004092368471901864
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 1,
+                    "utter": "自分で言うのもなんなんですが、この引きの強さのせいか周りのファンの友達とかからもいろいろ言われてきたんですよ(笑)でも私はえー、そうなの？絶対やだーとか言ってて、ある意味罰当たりなのかも。"
+                },
+                {
+                    "author": "did:plc:bfpp5eorwrx332al6enmul4y",
+                    "type": 2,
+                    "utter": "他の方から見たら贅沢ですよ🤭\nｵｲ,ｺﾗｯ……って🤣"
+                },
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 3,
+                    "utter": "かもしれないですね😅\n受けとりようによっては嫌な奴かも。\n\nでも、自分から望んだことってないんだよなぁ～😅"
+                }
+            ],
+            "uri": "at://did:plc:tyfrsrf5ps6tbmeojzsyyvlu/app.bsky.feed.post/3lbqqtldpls22",
+            "label": [
+                0.020737800747156143,
+                0.9362732172012329,
+                0.0008761269273236394,
+                0.0014754802687093616,
+                0.000255696038948372,
+                0.02960275672376156,
+                0.010304526425898075,
+                0.00047433737199753523
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 1,
+                    "utter": "パワステ、若かりし頃なアホみたいな回数行ったライブハウスです。何故か行った回数数えてたけど、確実に100回超えてます(笑)"
+                },
+                {
+                    "author": "did:plc:bfpp5eorwrx332al6enmul4y",
+                    "type": 2,
+                    "utter": "100越え❗\nそれは常連様❗超お得意様❗\n回数なら横浜アリーナかな？\nか、CLUB CITTA'川崎かな？\n因みに遠い所は北は栃木、南は長崎🤭\nでも、もうLIVE行かない🤣"
+                },
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 3,
+                    "utter": "3周年の時に来場者の中から抽選でもらえた「パワステブック」もしっかり当選してもらってます(笑)ちなみに私は遠いところは北は北海道で南は福岡、でも四国には行ったことありません。"
+                }
+            ],
+            "uri": "at://did:plc:tyfrsrf5ps6tbmeojzsyyvlu/app.bsky.feed.post/3lbk6o6zubk2w",
+            "label": [
+                0.9996423721313477,
+                4.067454210598953e-05,
+                0.00010284022573614493,
+                6.073293479857966e-05,
+                2.6006940970546566e-05,
+                4.169895692029968e-05,
+                4.566319694276899e-05,
+                4.0088340028887615e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 1,
+                    "utter": "3周年の時に来場者の中から抽選でもらえた「パワステブック」もしっかり当選してもらってます(笑)ちなみに私は遠いところは北は北海道で南は福岡、でも四国には行ったことありません。"
+                },
+                {
+                    "author": "did:plc:bfpp5eorwrx332al6enmul4y",
+                    "type": 2,
+                    "utter": "北海道凄っ❗\n四国は私も無いなぁ…\n相変わらず色々凄いですね、ふみぞうさん❗"
+                },
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 3,
+                    "utter": "いやでも最近は全然なので…最後に遠出したのコロナ前の茨城県だし。またどこか遠くにも行きたいでーす🤣"
+                }
+            ],
+            "uri": "at://did:plc:tyfrsrf5ps6tbmeojzsyyvlu/app.bsky.feed.post/3lbkaagifi22g",
+            "label": [
+                0.0004935783217661083,
+                0.00031519931508228183,
+                0.9988534450531006,
+                8.150731446221471e-05,
+                5.701507689082064e-05,
+                7.470214768545702e-05,
+                7.116745109669864e-05,
+                5.330175190465525e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 1,
+                    "utter": "いやでも最近は全然なので…最後に遠出したのコロナ前の茨城県だし。またどこか遠くにも行きたいでーす🤣"
+                },
+                {
+                    "author": "did:plc:bfpp5eorwrx332al6enmul4y",
+                    "type": 2,
+                    "utter": "是非遠征LIVE行って楽しんで欲しいわ💕"
+                },
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 3,
+                    "utter": "そう、また東名阪ツアー全制覇とかやりたいんです(爆笑)"
+                }
+            ],
+            "uri": "at://did:plc:tyfrsrf5ps6tbmeojzsyyvlu/app.bsky.feed.post/3lblkniynmk2b",
+            "label": [
+                0.0007355791749432683,
+                0.0002015890640905127,
+                0.9986827969551086,
+                0.00010182585538132116,
+                6.87308784108609e-05,
+                8.334698213730007e-05,
+                7.088105485308915e-05,
+                5.526179666048847e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 1,
+                    "utter": "そう、また東名阪ツアー全制覇とかやりたいんです(爆笑)"
+                },
+                {
+                    "author": "did:plc:bfpp5eorwrx332al6enmul4y",
+                    "type": 2,
+                    "utter": "行った事の無い都道府県制覇目指しましょうよ！\n全国制覇👍️"
+                },
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 3,
+                    "utter": "お金と時間が許すかぎりはやる気満々ですよ🤣"
+                }
+            ],
+            "uri": "at://did:plc:tyfrsrf5ps6tbmeojzsyyvlu/app.bsky.feed.post/3lbmjb3rq2s2e",
+            "label": [
+                0.0009971822146326303,
+                0.00017737939197104424,
+                0.99835604429245,
+                9.140214388025925e-05,
+                9.71595654846169e-05,
+                0.00012630887795239687,
+                7.928335980977863e-05,
+                7.524610555265099e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 1,
+                    "utter": "きゃー、皆さん若いー！🤣"
+                },
+                {
+                    "author": "did:plc:bfpp5eorwrx332al6enmul4y",
+                    "type": 2,
+                    "utter": "この若さ、初見でした😀\n人見さんてこんなにカッコ良かったのね(過去形でゴメンナサイ)🤭"
+                },
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 3,
+                    "utter": "私も解散後にファンになったからこの頃はリアルタイムではないので😅今も今で素敵なんだけど、この頃は若さゆえ？のシャープさがあるような。"
+                }
+            ],
+            "uri": "at://did:plc:tyfrsrf5ps6tbmeojzsyyvlu/app.bsky.feed.post/3laqehfvtxs2f",
+            "label": [
+                0.9978821873664856,
+                0.0001860853808466345,
+                0.0011232765391469002,
+                0.0001816537551349029,
+                5.4300860938383266e-05,
+                0.00010781099263112992,
+                0.0001260137651115656,
+                0.0003387281612958759
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 1,
+                    "utter": "私も解散後にファンになったからこの頃はリアルタイムではないので😅今も今で素敵なんだけど、この頃は若さゆえ？のシャープさがあるような。"
+                },
+                {
+                    "author": "did:plc:bfpp5eorwrx332al6enmul4y",
+                    "type": 2,
+                    "utter": "そうなんですね(笑)\nメンバー入れ替わり立ち替わりしてましたっけ？\n人見さんが居れば｢VOWWOW｣的な❔"
+                },
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 3,
+                    "utter": "えっと、もともとはギターの山本恭司さんを中心に「BOWWOW」としてデビューしてて、その後メンバーが入れ替わってボーカルに人見さん、キーボードに厚見玲衣さんが加わって「VOWWOW」になったのかな、多分。今気がついたけど、メンバーの名前が人見、厚見、新美ってやたらと苗字に「み」がつきますね(笑)"
+                },
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 3,
+                    "utter": "続き。それでVOWWOWになってからイギリス行って実績も積んで、アメリカにも進出しようとしたんだけど上手くいかなくて解散…となってしまったと。そして人見さんは一線からは退いて高校教師になった、と。"
+                }
+            ],
+            "uri": "at://did:plc:tyfrsrf5ps6tbmeojzsyyvlu/app.bsky.feed.post/3laqrijz3zk2u",
+            "label": [
+                0.06584056466817856,
+                0.0021811716724187136,
+                0.008601239882409573,
+                0.9190273880958557,
+                0.000336434313794598,
+                0.0016839164309203625,
+                0.001171390525996685,
+                0.0011579366400837898
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 1,
+                    "utter": "えっと、もともとはギターの山本恭司さんを中心に「BOWWOW」としてデビューしてて、その後メンバーが入れ替わってボーカルに人見さん、キーボードに厚見玲衣さんが加わって「VOWWOW」になったのかな、多分。今気がついたけど、メンバーの名前が人見、厚見、新美ってやたらと苗字に「み」がつきますね(笑)"
+                },
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 1,
+                    "utter": "続き。それでVOWWOWになってからイギリス行って実績も積んで、アメリカにも進出しようとしたんだけど上手くいかなくて解散…となってしまったと。そして人見さんは一線からは退いて高校教師になった、と。"
+                },
+                {
+                    "author": "did:plc:bfpp5eorwrx332al6enmul4y",
+                    "type": 2,
+                    "utter": "へぇ😃💡⤴\n歴史ありますねぇ👀\nそんなバンドの形って外国のスタイルっぽいし、今も尚活動して成功してるのは珍しい気がします💡\n\n(大概ボーカル代わったりメンバーチェンジするとなかなかファンが付かない気がするので)"
+                },
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 3,
+                    "utter": "その後もまた「BOWWOW」になったりメンバーが増えたり減ったりいろいろしてますけど人見さんだと「VOWWOW」になるみたいです。そしてBOWWOWはBOWWOWで存在してますね、今は。"
+                }
+            ],
+            "uri": "at://did:plc:tyfrsrf5ps6tbmeojzsyyvlu/app.bsky.feed.post/3laqssie3ls2u",
+            "label": [
+                0.9948034882545471,
+                0.00040178457857109606,
+                0.0025110964197665453,
+                0.000570148229598999,
+                0.00012489833170548081,
+                0.0003142651985399425,
+                0.00025478043244220316,
+                0.0010195611976087093
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 1,
+                    "utter": "その後もまた「BOWWOW」になったりメンバーが増えたり減ったりいろいろしてますけど人見さんだと「VOWWOW」になるみたいです。そしてBOWWOWはBOWWOWで存在してますね、今は。"
+                },
+                {
+                    "author": "did:plc:bfpp5eorwrx332al6enmul4y",
+                    "type": 2,
+                    "utter": "ほぅ…トランスフォーム出来るバンドって認識で大丈夫ですかねぇ？\n脳内ウネウネしてきました🤭\n｢VOWWOW｣\n｢BOWWOW｣\n楽曲同じでも違うパターンのバンド❔\nお馬鹿でゴメンナサイ💦"
+                },
+                {
+                    "author": "did:plc:tyfrsrf5ps6tbmeojzsyyvlu",
+                    "type": 3,
+                    "utter": "どちらにも山本恭司さんはいるんだけど、BとVで曲は被らないのですよ🤭"
+                }
+            ],
+            "uri": "at://did:plc:tyfrsrf5ps6tbmeojzsyyvlu/app.bsky.feed.post/3laqtknutic2g",
+            "label": [
+                0.9821341633796692,
+                0.0009037292329594493,
+                0.0008575869142077863,
+                0.01402321271598339,
+                0.00014882883988320827,
+                0.0008825645199976861,
+                0.0003954257699660957,
+                0.00065455655567348
+            ]
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 1,
+                    "utter": "そろそろ寝る。お休み"
+                },
+                {
+                    "author": "did:plc:55u4wk2iolod3ddwn3ek6fpn",
+                    "type": 2,
+                    "utter": "おやすみ"
+                },
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 3,
+                    "utter": "おはよう"
+                }
+            ],
+            "uri": "at://did:plc:hzerre7uaikxqks24kvse2zc/app.bsky.feed.post/3l5utnwrh6l22",
+            "label": [
+                0.999476969242096,
+                5.04050258314237e-05,
+                0.0001624817814445123,
+                7.929913408588618e-05,
+                3.638197449618019e-05,
+                3.346139419591054e-05,
+                9.77792515186593e-05,
+                6.336832302622497e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 1,
+                    "utter": "おはよう"
+                },
+                {
+                    "author": "did:plc:55u4wk2iolod3ddwn3ek6fpn",
+                    "type": 2,
+                    "utter": "おはよう"
+                },
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 3,
+                    "utter": "まだ眠いよ"
+                }
+            ],
+            "uri": "at://did:plc:hzerre7uaikxqks24kvse2zc/app.bsky.feed.post/3l5v2xm65l22p",
+            "label": [
+                0.02666728012263775,
+                0.5251002907752991,
+                0.010699833743274212,
+                0.002595603698864579,
+                0.0038948855362832546,
+                0.01932447962462902,
+                0.41053253412246704,
+                0.0011851465096697211
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 1,
+                    "utter": "まだ眠いよ"
+                },
+                {
+                    "author": "did:plc:55u4wk2iolod3ddwn3ek6fpn",
+                    "type": 2,
+                    "utter": "うん\nでもこれから病院……(あくび)"
+                },
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 3,
+                    "utter": "病院なの？"
+                }
+            ],
+            "uri": "at://did:plc:hzerre7uaikxqks24kvse2zc/app.bsky.feed.post/3l5v33tpr3c2h",
+            "label": [
+                0.0003537143347784877,
+                0.0003380440466571599,
+                0.0004875542945228517,
+                0.9976168870925903,
+                0.0002784995303954929,
+                0.000513718172442168,
+                0.0002999755379278213,
+                0.00011168079799972475
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 1,
+                    "utter": "病院なの？"
+                },
+                {
+                    "author": "did:plc:55u4wk2iolod3ddwn3ek6fpn",
+                    "type": 2,
+                    "utter": "去年激しい頭痛が来ちゃってね"
+                },
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 3,
+                    "utter": "大丈夫なの？"
+                }
+            ],
+            "uri": "at://did:plc:hzerre7uaikxqks24kvse2zc/app.bsky.feed.post/3l5w6c2ogbx2t",
+            "label": [
+                0.0014246294740587473,
+                0.0008945486042648554,
+                0.0013638579985126853,
+                0.9743233919143677,
+                0.000637843448203057,
+                0.020445173606276512,
+                0.0006309804739430547,
+                0.00027958591817878187
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 1,
+                    "utter": "大丈夫なの？"
+                },
+                {
+                    "author": "did:plc:55u4wk2iolod3ddwn3ek6fpn",
+                    "type": 2,
+                    "utter": "病院行ける体力も無かった"
+                },
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 3,
+                    "utter": "え？俺おぶっていけば良かった？"
+                }
+            ],
+            "uri": "at://did:plc:hzerre7uaikxqks24kvse2zc/app.bsky.feed.post/3l6a4r57isr27",
+            "label": [
+                0.0006597738247364759,
+                0.005062080919742584,
+                0.00047781577450223267,
+                0.9922337532043457,
+                0.000289153162157163,
+                0.0009071354870684445,
+                0.00026555650401860476,
+                0.00010484784434083849
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 1,
+                    "utter": "そうか、良かった。仲良くしてほしい。"
+                },
+                {
+                    "author": "did:plc:55u4wk2iolod3ddwn3ek6fpn",
+                    "type": 2,
+                    "utter": "フォローありがとう"
+                },
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 3,
+                    "utter": "こちらこそ。"
+                }
+            ],
+            "uri": "at://did:plc:hzerre7uaikxqks24kvse2zc/app.bsky.feed.post/3l4plwlbbtk2u",
+            "label": [
+                0.9991382360458374,
+                5.1761697250185534e-05,
+                0.0004118794749956578,
+                5.5248419812414795e-05,
+                6.735717033734545e-05,
+                6.007886622683145e-05,
+                0.0001117746505769901,
+                0.0001035162276821211
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 1,
+                    "utter": "こちらこそ。"
+                },
+                {
+                    "author": "did:plc:55u4wk2iolod3ddwn3ek6fpn",
+                    "type": 2,
+                    "utter": "よろしく"
+                },
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 3,
+                    "utter": "ゆっくりのんびりと話そう？"
+                }
+            ],
+            "uri": "at://did:plc:hzerre7uaikxqks24kvse2zc/app.bsky.feed.post/3l4py3nhroh2d",
+            "label": [
+                0.02056303806602955,
+                0.0006210923311300576,
+                0.977824866771698,
+                0.00022286568128038198,
+                0.00016104902897495776,
+                0.00022487340902443975,
+                0.00021107403154019266,
+                0.00017102329002227634
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 1,
+                    "utter": "ゆっくりのんびりと話そう？"
+                },
+                {
+                    "author": "did:plc:55u4wk2iolod3ddwn3ek6fpn",
+                    "type": 2,
+                    "utter": "うん(*´ ˘ `*)"
+                },
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 3,
+                    "utter": "うん（頭を撫でてあげ)"
+                }
+            ],
+            "uri": "at://did:plc:hzerre7uaikxqks24kvse2zc/app.bsky.feed.post/3l4q2csp5jn2m",
+            "label": [
+                0.9994206428527832,
+                0.00011438029468990862,
+                0.0002140088618034497,
+                4.6130942791933194e-05,
+                2.5553963496349752e-05,
+                4.820283720619045e-05,
+                7.660484698135406e-05,
+                5.463445995701477e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 1,
+                    "utter": "うん（頭を撫でてあげ)"
+                },
+                {
+                    "author": "did:plc:55u4wk2iolod3ddwn3ek6fpn",
+                    "type": 2,
+                    "utter": "んぅ……///////(気持ち良さそうに撫で受け)"
+                },
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 3,
+                    "utter": "撫でられて嬉しい？"
+                }
+            ],
+            "uri": "at://did:plc:hzerre7uaikxqks24kvse2zc/app.bsky.feed.post/3l4q2fk7ukf2y",
+            "label": [
+                0.9996194839477539,
+                4.5894234062870964e-05,
+                0.00012600103218574077,
+                5.6966808188008144e-05,
+                2.711744855332654e-05,
+                3.833165828837082e-05,
+                4.6726545406272635e-05,
+                3.950463724322617e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 1,
+                    "utter": "ゆっくり待ってたからまだ興味あるよ。\n宜しく頼んでもいいかな？"
+                },
+                {
+                    "author": "did:plc:sfotkgywneym3lsacpzfkbq2",
+                    "type": 2,
+                    "utter": "心にゆとりなくて焦っててもそーゆートコは気長なのネ♡うれし♡\nおうよ、頼まれた！"
+                },
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 3,
+                    "utter": "待つのだけは得意だから。ゆっくりしてたよ"
+                }
+            ],
+            "uri": "at://did:plc:hzerre7uaikxqks24kvse2zc/app.bsky.feed.post/3l5twu4cmge2l",
+            "label": [
+                0.9996020197868347,
+                6.374577787937596e-05,
+                0.00011746085510822013,
+                4.0305996662937105e-05,
+                2.094687988574151e-05,
+                5.183908069739118e-05,
+                5.850287925568409e-05,
+                4.510773942456581e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 1,
+                    "utter": "待つのだけは得意だから。ゆっくりしてたよ"
+                },
+                {
+                    "author": "did:plc:sfotkgywneym3lsacpzfkbq2",
+                    "type": 2,
+                    "utter": "なんかそれって中々浮上しねえ恋仲待ちが得意ですって聞こえちまうんだけど？？？\nとりま俺は待たせんのが得意だから相性バッチリだな♡(え)"
+                },
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 3,
+                    "utter": "あんまり待たされると拗ねるけど…俺も忙しいならお互い様だな"
+                }
+            ],
+            "uri": "at://did:plc:hzerre7uaikxqks24kvse2zc/app.bsky.feed.post/3l5tx4k5he32i",
+            "label": [
+                0.043512407690286636,
+                0.09524950385093689,
+                0.00551054161041975,
+                0.003284177742898464,
+                0.030849730595946312,
+                0.014468487352132797,
+                0.8029674887657166,
+                0.004157576244324446
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 1,
+                    "utter": "あんまり待たされると拗ねるけど…俺も忙しいならお互い様だな"
+                },
+                {
+                    "author": "did:plc:sfotkgywneym3lsacpzfkbq2",
+                    "type": 2,
+                    "utter": "どんな拗ね方すんだろ♡\n忙しいと生活すんのが一杯いっぱいでなんもできんくね？脳が追いつかねえっつーかそんな感じで。"
+                },
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 3,
+                    "utter": "拗ねさせたいの?\n確かに忙しいと追いつかないよね。わかる"
+                }
+            ],
+            "uri": "at://did:plc:hzerre7uaikxqks24kvse2zc/app.bsky.feed.post/3l5txuz7irl2i",
+            "label": [
+                0.19267240166664124,
+                0.10523617267608643,
+                0.011083935387432575,
+                0.10483452677726746,
+                0.025992274284362793,
+                0.07299736142158508,
+                0.4759909212589264,
+                0.01119239255785942
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 1,
+                    "utter": "拗ねさせたいの?\n確かに忙しいと追いつかないよね。わかる"
+                },
+                {
+                    "author": "did:plc:sfotkgywneym3lsacpzfkbq2",
+                    "type": 2,
+                    "utter": "俺に拗ねてもなーんの得にもなんねぇから知りたいだーけ♡\nそんな中でもちゃんと浮上できる奴ってスゲェよな、脳のキャパの問題なんかな。"
+                },
+                {
+                    "author": "did:plc:hzerre7uaikxqks24kvse2zc",
+                    "type": 3,
+                    "utter": "でも、折角の話し相手だから。あんまり放置されると怒るかも。なんてな？\n脳内のキャパ越えるとヤバイよな"
+                }
+            ],
+            "uri": "at://did:plc:hzerre7uaikxqks24kvse2zc/app.bsky.feed.post/3l5tyddcgg42s",
+            "label": [
+                0.0009203642257489264,
+                0.001394585706293583,
+                0.0007015216397121549,
+                0.0010114718461409211,
+                0.00032574680517427623,
+                0.9950533509254456,
+                0.00042886141454800963,
+                0.00016399804735556245
+            ]
+        }
+    ]
+}
